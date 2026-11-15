@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.violin-object-front" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="300mm" viewBox="0 0 220 300" width="220mm"><rect width="220" height="300" fill="#ffffff" data-part="background" id="background" />
+    <path d="M94 110 C63 100 41 122 61 146 C65 162 65 184 52 199 C28 220 40 275 110 275 C180 275 192 220 158 199 C155 184 155 162 159 146 C179 122 157 100 126 110 L126 55 C143 45 133 23 116 23 C96 23 88 40 94 55 L94 110 Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="body-neck-scroll-outline" />
+    <path d="M83 216 L101 216 L107 216 L113 216 L119 216 L137 216" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="bridge" />
+    <path d="M97 240 L101 240 L107 240 L113 240 L119 240 L123 240 L118 263 L102 263 L97 240" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="tailpiece" />
+    <path d="M101 61 L101 216 L101 240" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="string-1" />
+    <path d="M107 61 L107 216 L107 240" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="string-2" />
+    <path d="M113 61 L113 216 L113 240" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="string-3" />
+    <path d="M119 61 L119 216 L119 240" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="string-4" />
+    <path d="M78 68 L94 68" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-tuning-peg-1" />
+    <path d="M126 68 L142 68" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-tuning-peg-1" />
+    <path d="M78 86 L94 86" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-tuning-peg-2" />
+    <path d="M126 86 L142 86" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-tuning-peg-2" />
+    <path d="M82 159 C70 155 68 170 77 179 C88 190 85 204 72 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-sound-opening" />
+    <path d="M138 159 C150 155 152 170 143 179 C132 190 135 204 148 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-sound-opening" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

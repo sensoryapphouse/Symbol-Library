@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.galilean-moon-comparison-model" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="260mm" viewBox="0 0 260 260" width="260mm"><rect width="260" height="260" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <circle cx="65" cy="65" r="34.61329431438127" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" data-height-role="principal-line" id="moon-io" />
+    <circle cx="195" cy="65" r="29.65947096381879" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" data-height-role="principal-line" id="moon-europa" />
+    <circle cx="65" cy="195" r="50.0" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" data-height-role="principal-line" id="moon-ganymede" />
+    <circle cx="195" cy="195" r="45.80229553055641" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" data-height-role="principal-line" id="moon-callisto" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

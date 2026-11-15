@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.triangular-pyramid-orthographic-views" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="131.4mm" viewBox="49.3 19.3 141.4 131.4" width="141.4mm"><rect width="240" height="180" data-part="background" fill="#ffffff" data-height-role="background" id="background" />
+    <path d="M55 65 L115 65 L85 25 L55 65" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="top-view-base-boundary" />
+    <path d="M55 65 L85 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="top-visible-apex-edge-1" />
+    <path d="M115 65 L85 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="top-visible-apex-edge-2" />
+    <path d="M85 25 L85 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="top-visible-apex-edge-3" />
+    <path d="M55 145 L85 95 L115 145 L55 145" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="front-view-visible-outline" />
+    <path d="M145 145 L165 95 L185 145 L145 145" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="right-view-visible-outline" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

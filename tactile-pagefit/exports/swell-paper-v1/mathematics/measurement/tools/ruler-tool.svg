@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="aac.ruler-tool" data-production-method="microcapsule-swell-paper" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <path d="M12 38H88V62H12Z" data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="ruler-tool-body-footprint" />
+    <path d="M20 38V50" data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="ruler-tool-graduation-01-footprint" />
+    <path d="M30 38V45" data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="ruler-tool-graduation-02-footprint" />
+    <path d="M40 38V50" data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="ruler-tool-graduation-03-footprint" />
+    <path d="M50 38V45" data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="ruler-tool-graduation-04-footprint" />
+    <path d="M60 38V50" data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="ruler-tool-graduation-05-footprint" />
+    <path d="M70 38V45" data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="ruler-tool-graduation-06-footprint" />
+    <path d="M80 38V50" data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="ruler-tool-graduation-07-footprint" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

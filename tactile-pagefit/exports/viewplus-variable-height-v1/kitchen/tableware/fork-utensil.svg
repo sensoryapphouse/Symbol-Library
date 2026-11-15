@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="aac.fork-utensil" data-production-method="viewplus-height-role-source" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" data-height-role="background" fill="#ffffff" id="background" />
+    <path d="M36 16H40V36Q40 38 42 38Q44 38 44 36V16H48V36Q48 38 50 38Q52 38 52 36V16H56V36Q56 38 58 38Q60 38 60 36V16H64V39Q64 47 55 50Q53 51 53 55L54 81Q54 85 50 85Q46 85 46 81L47 55Q47 51 45 50Q36 47 36 39Z" data-part="area-texture" data-height-role="principal-area" fill="#000000" stroke="none" id="fork-utensil-silhouette-relief" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

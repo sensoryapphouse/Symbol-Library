@@ -1,0 +1,54 @@
+{
+  "profile_id": "swell-paper-v1",
+  "status": "draft-needs-device-calibration",
+  "production_ready": false,
+  "physical_evaluation": "pending",
+  "artwork_text": false,
+  "braille_characters": false,
+  "content_tile_mm": [
+    100,
+    100
+  ],
+  "page_template": "Place the tile at 1:1 scale on a sheet supported by the actual machine, then trim if needed. Do not assume a 100 mm card can be fed directly.",
+  "model": null,
+  "firmware": null,
+  "driver_and_version": null,
+  "media": null,
+  "measured_output": null,
+  "review": "A source change or process change requires fresh proof hashes, individual visual inspection, device-output inspection and touch review.",
+  "source_concepts": "Keep stable edu./aac. concept IDs and meaning-specific category paths. Collage geometry is reference material, not proof of process compatibility.",
+  "method": "Microcapsule / swell paper",
+  "sources": [
+    "bana",
+    "swell"
+  ],
+  "semantic_encoding": "Black raised footprint on a white unraised field. No gray-to-height assumption.",
+  "line_width_mm": null,
+  "relief_mm": null,
+  "fill_strategy": "Test the filled-shape footprint on the selected paper. If large solid areas swell unevenly, evaluate a uniform textured interior preserving the full shape extent; do not silently substitute an outline for a filled-shape lesson.",
+  "controls": [
+    "Paper brand/batch, compatible carbon-based ink or toner and printer path",
+    "Fuser model, temperature setting, warm-up and number of passes",
+    "Developed line width, gap retention, raised area evenness, paper curl"
+  ],
+  "calibration_candidates": {
+    "line_width_mm": [
+      0.5,
+      0.75,
+      1,
+      1.5,
+      2
+    ],
+    "clear_gap_mm": [
+      3,
+      5,
+      8,
+      10
+    ],
+    "area_tests": [
+      "solid shapes",
+      "uniform texture-filled shapes"
+    ]
+  },
+  "limitations": "Trial dimensions are project experiments, not BANA-certified values. Keep very fine lines and large solid black areas on separate initial test sheets."
+}

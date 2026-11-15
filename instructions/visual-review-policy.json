@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "applies_to": "Every generated or edited symbol, in every collection",
+  "review_sizes": [
+    1024
+  ],
+  "required_views": "Visual: individually inspect every profile at1024. Inspect64 only when fine detail, crowded layouts, contrast doubt or a relevant repair warrants it; record the per-symbol/profile decision and reason. Use128 only to resolve a doubt, with a reason. Tactile: individually inspect each full-detail profile, normally1024, plus exact nominal physical-scale design checks; tiny previews optional.",
+  "passes": [
+    "Meaning and intended action",
+    "Anatomy, required visible body parts and pose",
+    "Hands, joints, object contact, armpits and occlusion",
+    "Overlapping strokes, dark wedges, gaps and stray marks",
+    "Small-size clarity, contrast and consistent style",
+    "No visible text, decorative shading, shadows or unnecessary ground lines",
+    "Verify editable semantic regions already tagged during SVG creation"
+  ],
+  "decisions": [
+    "passed",
+    "needs-repair"
+  ],
+  "repair": "Immutable versioned candidate; repeat1024 for every affected visual profile. Reassess64 and require it for repairs relevant to small-size clarity. Tactile repeats full-detail and physical-scale checks.",
+  "evidence": "One review record per concept and candidate version, with source and rendered-proof hashes and specific written observations.",
+  "gate": "Every symbol in a batch must pass its applicable recorded review plan before adoption or the next generation batch.",
+  "source_changes": "Any change to the SVG invalidates the hash-bound visual review; review the new version.",
+  "meaning_limit": "Assistant visual review is a design check, not evidence that intended users recognise the concept.",
+  "other_evaluations": "Individual CVI assessment and physical tactile-reader testing remain separate required evidence for those suitability claims.",
+  "tagging_stage": "Authorship: attach stable IDs, data-part and applicable data-person while drawing each region. The later semantic-region check verifies existing tags and never postpones tagging.",
+  "effective_at": "2026-10-25T13:14:16.496436+00:00",
+  "human_authority": "25 October2026: human agreed to1024 per visual profile with64 only for fine details,crowded layouts,contrast doubts or relevant repairs. Human asked whether512 would help;512 has not been authorised as a replacement.",
+  "tactile_review": {
+    "full_detail_size_px": 1024,
+    "physical_scale_checks_required": true,
+    "required_checks": [
+      "physical_dimensions",
+      "line_dot_sizes_and_spacing",
+      "contacts_and_clearances",
+      "medium_and_height_roles"
+    ],
+    "not_physical_testing": "NominalSVG dimensions and geometry only. Hardware calibration,actual printed tactile proofreading andlearner evaluation remainpending."
+  },
+  "optional_visual_size_px": 128,
+  "optional_size_reason_required": true,
+  "historical_evidence": "Preserve version1 three-size and version2 two-size evidence unchanged. Review records bind their own immutable policy snapshot.",
+  "conditional_visual_size_px": 64,
+  "small_size_review_decision": {
+    "required_fields": [
+      "required",
+      "reason"
+    ],
+    "format": "Per symbol/profile: required boolean and a specific reason. If required, actually open64 and bind its proof. If omitted, explicitly state no64 inspection or small-size validation claimed.",
+    "triggers": [
+      "fine-detail",
+      "crowded-layout",
+      "contrast-doubt",
+      "relevant-repair"
+    ]
+  },
+  "base_size_512_status": "Timing comparison only; not adopted as a review size."
+}

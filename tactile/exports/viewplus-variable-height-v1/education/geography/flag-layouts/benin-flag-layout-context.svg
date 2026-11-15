@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.benin-flag-layout-context" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="140mm" viewBox="0 0 190 140" width="190mm"><rect width="190" height="140" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <path d="M20 20H170V120H20Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="flag-frame" />
+    <path d="M80 20V120" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="hoist-fly-boundary" />
+    <path d="M80 70H170" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="fly-boundary-1" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

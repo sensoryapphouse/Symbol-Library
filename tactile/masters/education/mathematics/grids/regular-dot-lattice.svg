@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-master-schema="tactile-shared-v1" data-concept-id="edu.regular-dot-lattice" data-collection="tactile-master">
+  <metadata>{"concept_id": "edu.regular-dot-lattice", "profiles": ["swell-paper-v1", "index-embossed-v1", "viewplus-variable-height-v1"], "teaching": "Begin with aligned real pegs or counters,then transfer to separate tactile points in rows and columns. Compare across rows and down columns;no connecting lines or enclosure. Nine points/three rows is this introductory example,not a universal size or Braille cell. Nominal25mm intervals are independently chosen and not the source one-inch full-page worksheet. Swell/ViewPlus3mm point footprints contrast with native1.2mm Index dots at the same nine logical centres;actual point recognition requires physical evaluation.", "geometry_exception": "Index native graphic dots retain logical centreline/point locations;5.5mm joint guards only in quadrilateral sampling. Point lattice footprint is3mm Swell/VP and1.2mm Index. Not exact sourceworksheet.", "physical_evaluation": "pending"}</metadata>
+  <defs>
+    <rect id="page-geometry" width="100" height="100" data-part="background" />
+    <circle id="logical-point-0-geometry" cx="25.0" cy="25.0" r="1.5" data-part="point-symbol" />
+    <circle id="logical-point-1-geometry" cx="50.0" cy="25.0" r="1.5" data-part="point-symbol" />
+    <circle id="logical-point-2-geometry" cx="75.0" cy="25.0" r="1.5" data-part="point-symbol" />
+    <circle id="logical-point-3-geometry" cx="25.0" cy="50.0" r="1.5" data-part="point-symbol" />
+    <circle id="logical-point-4-geometry" cx="50.0" cy="50.0" r="1.5" data-part="point-symbol" />
+    <circle id="logical-point-5-geometry" cx="75.0" cy="50.0" r="1.5" data-part="point-symbol" />
+    <circle id="logical-point-6-geometry" cx="25.0" cy="75.0" r="1.5" data-part="point-symbol" />
+    <circle id="logical-point-7-geometry" cx="50.0" cy="75.0" r="1.5" data-part="point-symbol" />
+    <circle id="logical-point-8-geometry" cx="75.0" cy="75.0" r="1.5" data-part="point-symbol" />
+  </defs>
+  <g id="regular-dot-lattice-swell" display="inline" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.regular-dot-lattice&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}">
+    <use id="swell-background" href="#page-geometry" data-export-id="background" data-part="background" data-shared-geometry="page-geometry" fill="#ffffff" />
+    <use id="swell-lattice-point-0" href="#logical-point-0-geometry" data-export-id="lattice-point-0" data-part="point-symbol" data-shared-geometry="logical-point-0-geometry" fill="#000000" />
+    <use id="swell-lattice-point-1" href="#logical-point-1-geometry" data-export-id="lattice-point-1" data-part="point-symbol" data-shared-geometry="logical-point-1-geometry" fill="#000000" />
+    <use id="swell-lattice-point-2" href="#logical-point-2-geometry" data-export-id="lattice-point-2" data-part="point-symbol" data-shared-geometry="logical-point-2-geometry" fill="#000000" />
+    <use id="swell-lattice-point-3" href="#logical-point-3-geometry" data-export-id="lattice-point-3" data-part="point-symbol" data-shared-geometry="logical-point-3-geometry" fill="#000000" />
+    <use id="swell-lattice-point-4" href="#logical-point-4-geometry" data-export-id="lattice-point-4" data-part="point-symbol" data-shared-geometry="logical-point-4-geometry" fill="#000000" />
+    <use id="swell-lattice-point-5" href="#logical-point-5-geometry" data-export-id="lattice-point-5" data-part="point-symbol" data-shared-geometry="logical-point-5-geometry" fill="#000000" />
+    <use id="swell-lattice-point-6" href="#logical-point-6-geometry" data-export-id="lattice-point-6" data-part="point-symbol" data-shared-geometry="logical-point-6-geometry" fill="#000000" />
+    <use id="swell-lattice-point-7" href="#logical-point-7-geometry" data-export-id="lattice-point-7" data-part="point-symbol" data-shared-geometry="logical-point-7-geometry" fill="#000000" />
+    <use id="swell-lattice-point-8" href="#logical-point-8-geometry" data-export-id="lattice-point-8" data-part="point-symbol" data-shared-geometry="logical-point-8-geometry" fill="#000000" />
+  </g>
+  <g id="regular-dot-lattice-index" display="none" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.regular-dot-lattice&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" data-geometry-exception="native-dot-sampling" data-exception-reason="Explicit1.2mm graphic dots at common logicalpoints or guarded centreline samples;notBraille. Endpoint interval5.5mm inboth-diagonal comparison avoidsclose branchdots;physical continuitypending.">
+    <use id="index-background" href="#page-geometry" data-export-id="background" data-part="background" data-shared-geometry="page-geometry" fill="#ffffff" />
+    <circle id="index-regular-dot-lattice-dot-000" cx="25.0" cy="25.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-000" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+    <circle id="index-regular-dot-lattice-dot-001" cx="50.0" cy="25.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-001" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+    <circle id="index-regular-dot-lattice-dot-002" cx="75.0" cy="25.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-002" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+    <circle id="index-regular-dot-lattice-dot-003" cx="25.0" cy="50.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-003" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+    <circle id="index-regular-dot-lattice-dot-004" cx="50.0" cy="50.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-004" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+    <circle id="index-regular-dot-lattice-dot-005" cx="75.0" cy="50.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-005" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+    <circle id="index-regular-dot-lattice-dot-006" cx="25.0" cy="75.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-006" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+    <circle id="index-regular-dot-lattice-dot-007" cx="50.0" cy="75.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-007" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+    <circle id="index-regular-dot-lattice-dot-008" cx="75.0" cy="75.0" r="0.6" fill="#000000" data-export-id="regular-dot-lattice-dot-008" data-part="point-symbol" data-output-role="graphic-dot" data-subject-parts="logical-lattice-point" />
+  </g>
+  <g id="regular-dot-lattice-viewplus" display="none" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.regular-dot-lattice&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}">
+    <use id="viewplus-background" href="#page-geometry" data-export-id="background" data-part="background" data-shared-geometry="page-geometry" fill="#ffffff" data-height-role="background" />
+    <use id="viewplus-lattice-point-0" href="#logical-point-0-geometry" data-export-id="lattice-point-0" data-part="point-symbol" data-shared-geometry="logical-point-0-geometry" fill="#000000" data-height-role="point" />
+    <use id="viewplus-lattice-point-1" href="#logical-point-1-geometry" data-export-id="lattice-point-1" data-part="point-symbol" data-shared-geometry="logical-point-1-geometry" fill="#000000" data-height-role="point" />
+    <use id="viewplus-lattice-point-2" href="#logical-point-2-geometry" data-export-id="lattice-point-2" data-part="point-symbol" data-shared-geometry="logical-point-2-geometry" fill="#000000" data-height-role="point" />
+    <use id="viewplus-lattice-point-3" href="#logical-point-3-geometry" data-export-id="lattice-point-3" data-part="point-symbol" data-shared-geometry="logical-point-3-geometry" fill="#000000" data-height-role="point" />
+    <use id="viewplus-lattice-point-4" href="#logical-point-4-geometry" data-export-id="lattice-point-4" data-part="point-symbol" data-shared-geometry="logical-point-4-geometry" fill="#000000" data-height-role="point" />
+    <use id="viewplus-lattice-point-5" href="#logical-point-5-geometry" data-export-id="lattice-point-5" data-part="point-symbol" data-shared-geometry="logical-point-5-geometry" fill="#000000" data-height-role="point" />
+    <use id="viewplus-lattice-point-6" href="#logical-point-6-geometry" data-export-id="lattice-point-6" data-part="point-symbol" data-shared-geometry="logical-point-6-geometry" fill="#000000" data-height-role="point" />
+    <use id="viewplus-lattice-point-7" href="#logical-point-7-geometry" data-export-id="lattice-point-7" data-part="point-symbol" data-shared-geometry="logical-point-7-geometry" fill="#000000" data-height-role="point" />
+    <use id="viewplus-lattice-point-8" href="#logical-point-8-geometry" data-export-id="lattice-point-8" data-part="point-symbol" data-shared-geometry="logical-point-8-geometry" fill="#000000" data-height-role="point" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

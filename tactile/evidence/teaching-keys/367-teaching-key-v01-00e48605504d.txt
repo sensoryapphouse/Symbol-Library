@@ -1,0 +1,17 @@
+PP-I REACTION NETWORK: INTRODUCED PARTICLE AND PROCESS KEY
+
+Read each of the two matching horizontal branches from LEFT to RIGHT, upper branch then lower. An OPEN CIRCLE denotes one proton; an OPEN SQUARE denotes one neutron. A RECTANGULAR GROUPING FRAME marks one nucleus containing the shown constituents, NOT an electron shell, neutral atom or additional particle. Shapes are taught diagram conventions, not intrinsic particle appearance.
+
+An OPEN DIAMOND is one positron (charge+1, no nucleon); an OPEN TRIANGLE is one neutrino (neutral, no nucleon). A four-segment ZIGZAG without an arrowhead is a gamma-energy emission cue (neutral, no nucleon). Process arrows have open angled heads. None of these cues is Braille, a written equation, literal Greek letter or musical/text glyph. Ordinary Index dots only sample outlines; their count does not count particles.
+
+FIRST STEP on EACH branch: two free proton circles at the left feed the first rightward arrow. The deuteron frame contains ONE proton circle and ONE neutron square. The diamond and triangle ABOVE that first reaction are its emitted positron and neutrino. Nucleon count2->2; charge2->deuteron1+positron1+neutrino0=2. This is the weak-conversion step, not a direct four-proton collision.
+
+SECOND STEP on EACH branch: the separately shown proton circle ABOVE the second arrow is added downward to the deuteron. The helium3 frame contains TWO proton circles and ONE neutron square. The zigzag BELOW that arrow is the emitted gamma. Nucleon count2+1->3; charge1+1->2+0.
+
+FINAL STEP: the TWO helium3 frames converge at the RIGHT. The common reaction route branches to the helium4 frame (TWO proton circles and TWO neutron squares) and separately downward/right to TWO returned free proton circles. The returned-proton path branches from the fusion route, NOT from helium4; it is not helium4 decay. Nucleon count3+3->4+1+1; charge2+2->2+1+1.
+
+INPUT/NET ACCOUNTING: two initial proton pairs and two added protons are SIX external proton inputs; TWO protons are returned, giving NET FOUR consumed. Net products shown are one helium4 nucleus, two positrons and two neutrinos, with two explicit deuteron-to-helium3 gamma cues and released energy. This is not an exhaustive photon/kinetic-energy ledger; later positron annihilation is not drawn. Intermediate states recur along the arrows; do not sum every repeated constituent glyph as a simultaneous inventory. This is pp-I, not D-T fusion.
+
+MEDIA: black1.4mm continuous outlines for Swell, grey principal-line outlines for ViewPlus, and1.2mm ordinary outline-sampling dots for Index. Shared process vertices merge once; every native corner/vertex and circle cardinal point is retained. Grouping frames and glyph interiors are background. No colour, relief height or dot count inherently identifies a particle. Actual hardware levels/calibration remain unverified.
+
+Native1193 is a tiny contextual network; not all tiny source labels were recovered. This is an independently declared nontext model, not source transcription or natural spatial scale. Nominal680x360mm guide, whole1360x720 proof per profile. No automatic shrinking, physical fit, touch, proofreading or recognition approval.

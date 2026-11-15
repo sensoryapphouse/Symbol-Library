@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="aac.shoe" data-production-method="microcapsule-swell-paper" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <path data-object="shoe" data-tactile-role="raised-line" d="M14 51Q25 61 37 49L45 40Q49 37 52 42L62 54L80 59Q89 62 89 72H12Z" data-part="footwear" data-output-role="swell-footprint" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="shoe-upper-footprint" />
+    <path data-object="shoe" data-tactile-role="raised-line" d="M12 72H89V81H12Z" data-part="raised-line" data-output-role="swell-footprint" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="shoe-sole-footprint" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

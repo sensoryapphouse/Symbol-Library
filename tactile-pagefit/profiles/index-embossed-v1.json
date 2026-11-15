@@ -1,0 +1,46 @@
+{
+  "profile_id": "index-embossed-v1",
+  "status": "draft-needs-device-calibration",
+  "production_ready": false,
+  "physical_evaluation": "pending",
+  "artwork_text": false,
+  "braille_characters": false,
+  "content_tile_mm": [
+    100,
+    100
+  ],
+  "page_template": "Place the tile at 1:1 scale on a sheet supported by the actual machine, then trim if needed. Do not assume a 100 mm card can be fed directly.",
+  "model": null,
+  "firmware": null,
+  "driver_and_version": null,
+  "media": null,
+  "measured_output": null,
+  "review": "A source change or process change requires fresh proof hashes, individual visual inspection, device-output inspection and touch review.",
+  "source_concepts": "Keep stable edu./aac. concept IDs and meaning-specific category paths. Collage geometry is reference material, not proof of process compatibility.",
+  "method": "Index graphics-mode embossing; single-height baseline",
+  "sources": [
+    "bana",
+    "index",
+    "indexsvg"
+  ],
+  "semantic_encoding": "Explicit dot-rendered lines and filled areas; no meaning encoded only by grayscale or assumed height differences.",
+  "line_width_mm": null,
+  "physical_dot_spacing_mm": null,
+  "physical_dot_diameter_mm": null,
+  "dot_height_mm": null,
+  "reference_specs": "Current Basic-D V5 page describes 500 DPI / 0.05 mm positional placement. This is not a minimum physical dot spacing; older 50 DPI descriptions are not the current capability contract.",
+  "import_route": "Index Braille Tactile Graphics advertises SVG import and direct embossing. Verify exact importer, scale, graphics mode and driver on the selected device.",
+  "controls": [
+    "Exact Index model/generation, firmware and graphics engine",
+    "Paper stock and supported sheet size, simplex test layout",
+    "Minimum practical dot spacing, curve continuity, independent filled areas and gap preservation"
+  ],
+  "calibration_candidates": {
+    "geometry_tests": [
+      "horizontal/vertical/diagonal lines and curve",
+      "filled circle and square",
+      "clear gaps of 3, 5, 8 and 10 mm"
+    ]
+  },
+  "limitations": "Single-height is our conservative portability baseline, not a claim about every Index device. Do not produce generic BRF full-cell pictures or an unverified PRN file."
+}

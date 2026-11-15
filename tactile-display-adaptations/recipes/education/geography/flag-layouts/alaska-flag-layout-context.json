@@ -1,0 +1,288 @@
+{
+  "parent_concept_id": "edu.alaska-flag-layout-context",
+  "label": "Alaska flag layout context",
+  "adaptation_note": "Spatial overview with one-pin location marks plus an enlarged five-point form. All eight identities remain; original star-size ratio and flag cloth proportions are explained externally, not claimed by these two frames.",
+  "acceptance_requirement": "Keep all eight star identities and their spatial relationships; explain any scale change rather than silently spreading stars.",
+  "profiles": [
+    "monarch-display-v1",
+    "dotpad-display-v1"
+  ],
+  "frames": [
+    {
+      "title": "Eight-star position overview",
+      "teaching_key": "Eight single-pin star-location cues retain the source relative arrangement after common-scale quantization. No connecting lines. Seven belong to the Big Dipper, the isolated upper-right position is Polaris. These pins are locations, not five-point star glyphs; use the following detail. Conventional horizontal orientation. External colour key: gold stars on a blue field.",
+      "parts": {
+        "star-position-1": [
+          [
+            8,
+            15
+          ]
+        ],
+        "star-position-2": [
+          [
+            16,
+            17
+          ]
+        ],
+        "star-position-3": [
+          [
+            20,
+            22
+          ]
+        ],
+        "star-position-4": [
+          [
+            24,
+            26
+          ]
+        ],
+        "star-position-5": [
+          [
+            23,
+            32
+          ]
+        ],
+        "star-position-6": [
+          [
+            32,
+            34
+          ]
+        ],
+        "star-position-7": [
+          [
+            35,
+            30
+          ]
+        ],
+        "star-position-8": [
+          [
+            51,
+            4
+          ]
+        ]
+      },
+      "checks": {
+        "star_positions": 8,
+        "position_encoding": "one pin per centre; glyph form supplied separately",
+        "source_svg_sha256": "c86b31e29e8cfbf162ea59b42f5a974d30b50840c275f2d649283a73b35e4aad"
+      },
+      "intended_contacts": []
+    },
+    {
+      "title": "Five-point star form",
+      "teaching_key": "This enlarged five-point outline supplies the form for all eight positions in the overview. The source depicts Polaris larger than the seven Dipper stars. This isolated detail is not at the overview scale and does not encode the size ratio.",
+      "parts": {
+        "five-point-star-1": [
+          [
+            29,
+            12
+          ],
+          [
+            29,
+            13
+          ],
+          [
+            28,
+            14
+          ],
+          [
+            30,
+            14
+          ],
+          [
+            28,
+            15
+          ],
+          [
+            30,
+            15
+          ],
+          [
+            27,
+            16
+          ],
+          [
+            31,
+            16
+          ],
+          [
+            24,
+            17
+          ],
+          [
+            25,
+            17
+          ],
+          [
+            26,
+            17
+          ],
+          [
+            27,
+            17
+          ],
+          [
+            31,
+            17
+          ],
+          [
+            32,
+            17
+          ],
+          [
+            33,
+            17
+          ],
+          [
+            21,
+            18
+          ],
+          [
+            22,
+            18
+          ],
+          [
+            23,
+            18
+          ],
+          [
+            34,
+            18
+          ],
+          [
+            35,
+            18
+          ],
+          [
+            36,
+            18
+          ],
+          [
+            37,
+            18
+          ],
+          [
+            22,
+            19
+          ],
+          [
+            23,
+            19
+          ],
+          [
+            35,
+            19
+          ],
+          [
+            36,
+            19
+          ],
+          [
+            24,
+            20
+          ],
+          [
+            25,
+            20
+          ],
+          [
+            33,
+            20
+          ],
+          [
+            34,
+            20
+          ],
+          [
+            26,
+            21
+          ],
+          [
+            32,
+            21
+          ],
+          [
+            26,
+            22
+          ],
+          [
+            32,
+            22
+          ],
+          [
+            25,
+            23
+          ],
+          [
+            29,
+            23
+          ],
+          [
+            33,
+            23
+          ],
+          [
+            25,
+            24
+          ],
+          [
+            27,
+            24
+          ],
+          [
+            28,
+            24
+          ],
+          [
+            30,
+            24
+          ],
+          [
+            31,
+            24
+          ],
+          [
+            33,
+            24
+          ],
+          [
+            24,
+            25
+          ],
+          [
+            25,
+            25
+          ],
+          [
+            26,
+            25
+          ],
+          [
+            32,
+            25
+          ],
+          [
+            33,
+            25
+          ],
+          [
+            34,
+            25
+          ],
+          [
+            24,
+            26
+          ],
+          [
+            34,
+            26
+          ]
+        ]
+      },
+      "checks": {
+        "five_point_stars": 1
+      },
+      "intended_contacts": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.pouch-inner-outer-face-reversal" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M22 45 L22 72 L22 82 L22 116 L66 116 L66 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="before-material-face-B-exterior" />
+    <path d="M30 45 L30 72 L30 82 L30 108 L58 108 L58 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="before-material-face-A-interior" />
+    <path d="M22 45 L30 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="before-left-mouth-rim" />
+    <path d="M58 45 L66 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="before-right-mouth-rim" />
+    <path d="M102 45 L102 72 L102 82 L102 116 L146 116 L146 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="after-material-face-A-exterior" />
+    <path d="M110 45 L110 72 L110 82 L110 108 L138 108 L138 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="after-material-face-B-interior" />
+    <path d="M102 45 L110 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="after-left-mouth-rim" />
+    <path d="M138 45 L146 45" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="after-right-mouth-rim" />
+    <path d="M30 72 L40 72 L40 82 L30 82 L30 72" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="before-face-A-attached-interior-tab" />
+    <path d="M102 72 L92 72 L92 82 L102 82 L102 72" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="after-face-A-attached-exterior-tab" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

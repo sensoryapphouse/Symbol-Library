@@ -1,0 +1,11 @@
+MUSICAL EVENT DURATION CONTEXTS: INTRODUCED BAR CODE
+
+Read each diagram upright. The TOP outlined bar is one common reference whole-note duration. The BOTTOM outlined bar is EXACTLY ONE musical event. Both begin at the same left centreline x position. Compare horizontal centreline endpoint separation, not total ink/dot footprint width, rectangle height, area, corners or dot count.
+
+Whole-event model: bottom span240mm equals reference240mm:1/1. Half-event model: bottom span120mm is1/2 of the same240mm reference. Quarter-event model: bottom span60mm is1/4. All three assume the SAME declared tempo. No tempo number or absolute seconds is supplied; these are not pitch, staff, time-signature, beamed-pair or two-event lessons.
+
+These rectangles are an introduced nontext duration representation approved for this context. They are NOT printed music-note glyphs or exact transcriptions of the contextual APH note collections. Each outline is a closed carrier, not a filled area, sound waveform or individual notehead. Top reference is a reference, not a second event.
+
+Swell: black continuous1.4mm outlines. Index:1.2mm ordinary line dots retain all four corner/endpoint centres per bar; horizontal stations6mm and vertical stations5mm. Dots are not Braille or extra events. ViewPlus: grey continuous outlines with principal-line roles; same positions/shapes carry meaning without height calibration. Painted bounds differ by carrier radius, so the semantic ratio uses centreline endpoints.
+
+Introduced nominal400x240mm guides; not natural time dimensions, device-fit or physical recognition approval. Do not shrink automatically. Device/paper calibration, actual output, touch and learner recognition remain pending.

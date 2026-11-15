@@ -1,0 +1,16 @@
+ESSENTIAL EXTERNAL TEACHING KEY — ROUGH AND SMOOTH ENDOPLASMIC RETICULUM
+
+This UTF-8 key is required. This introduced structural comparison is one teaching meaning, not literal whole-cell images, chemical formulae, natural particle counts or physical tactile approval. No visible text, Braille or colour labels occur in the tactile drawing.
+
+ROUGH AND SMOOTH ENDOPLASMIC RETICULUM
+The left folded, flattened channel is a rough-ER regional section. The right curved, S-like tubular channel is a smooth-ER regional section. The white interior enclosed by each complete membrane contour denotes its lumen. The two views are comparative crops of regions within one continuous ER system; the continuation between the crops and the connection to the nuclear envelope are outside this comparison. They are not two new whole animal cells, two unrelated whole ER organelles or separate Golgi stacks.
+
+Four unfilled circular particle symbols are attached on the cytosolic side of the rough region. Their bodies are outside the lumen. The short neck from each particle to the outer membrane is a symbolic attachment indicator; it is not a literal translocon, nascent polypeptide, membrane stalk or measured molecular separation. Each complete circular particle symbol stands for one introduced ribosome marker, not a membrane vesicle. Ribosomal subunits are not resolved. The selected smooth region has zero attached markers; free cytosolic ribosomes and wider cellular context are omitted, not declared absent. The counts four and zero are display choices, not an abundance measurement or universal formula.
+
+SOURCE AND MATERIAL LIMITS
+Native387 is a tiny contextual comparison of rougher and smoother membrane-like clusters; exact lumen connections, attached particle counts and tiny details cannot be certified from it. Retained original OpenStax Biology 2e section4.4 publisher text/alt/caption evidence supports the selected ER relationships; no new primary visual is consumed. The selected regional geometry, four/zero markers and symbolic neck attachments are introduced model conventions.
+https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins
+
+Swell black and ViewPlus grey principal outlines share the selected native structure. Grey device height levels and calibration remain pending; raised height does not certify particle mass or chemical identity. Ordinary Index dots sample the same outlines and literal attachments. They are not individual ribosomes, atoms, chemical charges, Braille or semantic filled-point glyphs. Counts refer to the keyed complete particle symbols, never the number of sampling dots.
+
+The ER comparison uses a chosen provisional1000x700mm canvas, with one native unit equal to one millimetre. Whole proof files are3000x2100 pixels at3pixels per nominal millimetre. These are drawing/render dimensions, not natural organelle size, magnification, a proved minimum or device/page fit. Provider encoding/resampling dimensions may be independently unreported. Physical calibration, tactile proofreading, discrimination and learner recognition remain pending. Every current whole source/profile inspection and independent review is required afresh; retained observations or an old independent PASS do not transfer approval to this new identity.

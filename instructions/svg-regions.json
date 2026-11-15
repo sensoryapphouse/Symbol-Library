@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "method": "Use stable id values and data-part attributes on meaningful groups or shapes; use data-person to distinguish people. Preserve painter order and keep detail geometry editable.",
+  "required_when_present": [
+    "skin",
+    "hair",
+    "clothing-top",
+    "clothing-bottom",
+    "footwear"
+  ],
+  "other_roles": [
+    "outline",
+    "background",
+    "eyes",
+    "mouth",
+    "object",
+    "object-part",
+    "mobility-aid",
+    "meaning-marker"
+  ],
+  "tactile_roles": [
+    "raised-line",
+    "area-texture",
+    "point-symbol",
+    "orientation-feature"
+  ],
+  "examples": [
+    {
+      "id": "person-01-skin-face",
+      "data-part": "skin",
+      "data-person": "person-01"
+    },
+    {
+      "id": "person-01-shirt",
+      "data-part": "clothing-top",
+      "data-person": "person-01"
+    }
+  ],
+  "rules": [
+    "Split skin regions where recolouring requires it.",
+    "Do not merge semantic regions into an uneditable flattened path.",
+    "Clothing-top and clothing-bottom apply only where these exist.",
+    "Do not infer gender or identity from region tags.",
+    "Review recoloured output for contrast and meaning.",
+    "Never convert a semantic role directly into a tactile texture without a design decision."
+  ],
+  "creation_requirement": "Assign applicable semantic region tags when the SVG geometry is created; verification is a later check, not a tagging phase."
+}

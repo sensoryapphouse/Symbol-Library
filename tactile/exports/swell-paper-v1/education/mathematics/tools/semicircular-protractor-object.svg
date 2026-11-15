@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.semicircular-protractor-object" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M25 105A55 55 0 0 1 135 105L25 105Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="protractor-semicircle-and-baseline" />
+    <path d="M80 105 L80 98" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="centre-origin-marker" />
+    <path d="M118.97114317029974 82.5 L127.63139720814414 77.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="major-angle-tick-30" />
+    <path d="M102.5 66.02885682970026 L107.5 57.36860279185588" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="major-angle-tick-60" />
+    <path d="M80.0 60.0 L80.0 50.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="major-angle-tick-90" />
+    <path d="M57.50000000000001 66.02885682970026 L52.500000000000014 57.36860279185587" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="major-angle-tick-120" />
+    <path d="M41.02885682970026 82.5 L32.36860279185587 77.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="major-angle-tick-150" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.triangle-interior-exterior-angle-pair" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="240mm" viewBox="0 0 300 240" width="300mm"><rect width="300" height="240" fill="#ffffff" data-part="background" id="background" />
+    <path d="M40 200L180 200L100 80Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="scalene-triangle-perimeter" />
+    <path d="M180 200L200 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-one-side-continuation-1" />
+    <path d="M210 200L230 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-one-side-continuation-2" />
+    <path d="M240 200L260 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-one-side-continuation-3" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

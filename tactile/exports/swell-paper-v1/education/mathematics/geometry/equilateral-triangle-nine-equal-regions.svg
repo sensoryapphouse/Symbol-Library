@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.equilateral-triangle-nine-equal-regions" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="288mm" viewBox="0 0 320 288" width="320mm"><rect width="320" height="288" fill="#ffffff" data-part="background" id="background" />
+    <path d="M160 40L40 247.846096908L280 247.846096908Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="outer-equilateral-boundary" />
+    <path d="M120 109.282032303L200 109.282032303" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="base-parallel-third-1" />
+    <path d="M240 178.564064606L200 247.846096908" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-parallel-third-1" />
+    <path d="M80 178.564064606L120 247.846096908" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-parallel-third-1" />
+    <path d="M80 178.564064606L240 178.564064606" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="base-parallel-third-2" />
+    <path d="M200 109.282032303L120 247.846096908" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-parallel-third-2" />
+    <path d="M120 109.282032303L200 247.846096908" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-parallel-third-2" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

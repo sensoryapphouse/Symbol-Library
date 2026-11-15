@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.parallel-glass-slab-ray-displacement" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" data-height-role="background" id="background" />
+    <path d="M60 20 L100 20 L100 90 L100 140 L60 140 L60 70 L60 20" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="glass-slab-boundary" />
+    <path d="M20 30 L40 50 L60 70" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="incident-ray" />
+    <path d="M60 70 L100 90" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="inside-ray" />
+    <path d="M100 90 L120 110 L140 130" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="emergent-ray" />
+    <path d="M30 46 L40 50 L36 40" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="incoming-direction" />
+    <path d="M110 106 L120 110 L116 100" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="outgoing-direction" />
+    <path d="M45 70H75" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" data-height-role="principal-line" stroke-dasharray="6 4" id="entry-normal" />
+    <path d="M85 90H115" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" data-height-role="principal-line" stroke-dasharray="6 4" id="exit-normal" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

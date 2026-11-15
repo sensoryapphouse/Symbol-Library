@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.human-tibia-fibula-position-comparison" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M80 26 C85 21 105 21 111 26 L108 43 C104 50 101 59 101 72 L104 123 L111 140 L111 146 L101 146 L98 140 L78 140 L80 124 L85 73 C86 58 80 48 78 40 L80 26 Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="right-tibia-medial" />
+    <path d="M57 35 C48 35 47 45 53 50 L54 125 L49 144 L53 151 L62 147 L65 139 L61 123 L61 53 C67 48 66 36 57 35 Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="right-fibula-lateral" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

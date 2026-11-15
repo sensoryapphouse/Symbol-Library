@@ -1,0 +1,1064 @@
+{
+  "batch": 351,
+  "version": "v01-selected-exact-fixed-authority",
+  "models": [
+    {
+      "concept_id": "edu.barred-spiral-galaxy-structure",
+      "category": "education/astronomy/galaxies",
+      "slug": "barred-spiral-galaxy-structure",
+      "fixed_selected_record": {
+        "concept_id": "edu.barred-spiral-galaxy-structure",
+        "label": "Barred spiral galaxy structure",
+        "selected_definition": "A schematic face-on barred spiral with central bar and arms emerging from the bar ends.",
+        "scope_origin": "previous-parent-defined-meaning",
+        "source_family_positions": [
+          319
+        ],
+        "initial_production_status": "pending-authoring-and-review",
+        "list_number": 107
+      },
+      "fixed_manifest_authority": {
+        "owner": {
+          "path": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/SVGs/planning/tactile-full-set/manifest-v1.json",
+          "sha256": "a932c301f93030f3719c810a83b32a20e8518af102e57d9c26267d31a39ce314"
+        },
+        "JSON_pointer": "/records/106",
+        "definition_JSON_pointer": "/records/106/selected_definition",
+        "exact_definition": "A schematic face-on barred spiral with central bar and arms emerging from the bar ends."
+      },
+      "selected_original_model": {
+        "concept_id": "edu.barred-spiral-galaxy-structure",
+        "name": "Barred spiral galaxy structure",
+        "definition": "A schematic face-on barred spiral with central bar and arms emerging from the bar ends.",
+        "minimum_geometry": "Elongated central stellar bar containing nucleus; two sparse curved arms grow from opposite ends, not directly from a circular core. Regions represent stellar distributions, not solid surfaces or exact star counts. No decorative starfield or actual named-galaxy measurements. Source500 matches structure; chirality/orientation are view choices, not new galaxy meanings.",
+        "source_family_positions": [
+          319
+        ],
+        "status": "defined-independent-draft",
+        "union_relation": "Conditional selected educational scope, with reference/view alternatives kept separate from named meaning and final master counts.",
+        "limits": "Native source thumbnail individually opened. Independent model, not exact worksheet reproduction, artwork approval, physical operation/readability or learner recognition.",
+        "artwork_approved": false,
+        "new_master_count_adopted": 0,
+        "selected_definition": "A schematic face-on barred spiral with central bar and arms emerging from the bar ends."
+      },
+      "selected_original_model_owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/defined-topics.json",
+        "sha256": "01f066acee6b3de8c857951a88adfec498986acc2d7f346aa76550da81eb8375"
+      },
+      "selected_original_model_JSON_pointer": "/8",
+      "definition_scope": "Exact fixed selected_definition. Only selected0318/10 and059/model govern current geometry; old031/13 thirteen-mark collection is predecessor context, not nine verified extra meanings.",
+      "predecessor_031_record": {
+        "owner": {
+          "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/defined-topics.json",
+          "sha256": "01f066acee6b3de8c857951a88adfec498986acc2d7f346aa76550da81eb8375"
+        },
+        "JSON_pointer": "/8",
+        "original_definition": "A schematic face-on barred spiral with central bar and arms emerging from the bar ends.",
+        "role": "Exact predecessor source-context prose; circuit059/fixed232 govern current selected nine-slot programme."
+      }
+    },
+    {
+      "concept_id": "edu.horizontal-venturi-contraction-flow",
+      "category": "education/physics/fluids",
+      "slug": "horizontal-venturi-contraction-flow",
+      "fixed_selected_record": {
+        "concept_id": "edu.horizontal-venturi-contraction-flow",
+        "label": "Horizontal venturi contraction flow",
+        "selected_definition": "A selected ideal flow diagram comparing wide and narrow parts of a horizontal tube.",
+        "scope_origin": "previous-parent-defined-meaning",
+        "source_family_positions": [
+          336
+        ],
+        "initial_production_status": "pending-authoring-and-review",
+        "list_number": 503
+      },
+      "fixed_manifest_authority": {
+        "owner": {
+          "path": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/SVGs/planning/tactile-full-set/manifest-v1.json",
+          "sha256": "a932c301f93030f3719c810a83b32a20e8518af102e57d9c26267d31a39ce314"
+        },
+        "JSON_pointer": "/records/502",
+        "definition_JSON_pointer": "/records/502/selected_definition",
+        "exact_definition": "A selected ideal flow diagram comparing wide and narrow parts of a horizontal tube."
+      },
+      "selected_original_model": {
+        "concept_id": "edu.horizontal-venturi-contraction-flow",
+        "name": "Horizontal Venturi contraction-flow model",
+        "definition": "A selected ideal flow diagram comparing wide and narrow parts of a horizontal tube.",
+        "minimum_geometry": "Continuous wide-to-narrow tube with coherent flow arrow direction. Assume steady incompressible inviscid flow at same height, areas Awide=2Anarrow: narrow speed twice wide and static pressure lower. Independent arbitrary example rho=1,vwide=1,vnarrow=2 gives Pwide-Pnarrow=1.5; no numerals or formulas in art. Do not claim pressure law for every turbulent/compressible flow or count arrows as speed. Source1222 exact quantities unread.",
+        "source_family_positions": [
+          336
+        ],
+        "status": "defined-independent-draft",
+        "union_relation": "Conditional selected educational scope, with reference/view alternatives kept separate from named meaning and final master counts.",
+        "limits": "Native source thumbnail individually opened. Independent model, not exact worksheet reproduction, artwork approval, physical operation/readability or learner recognition.",
+        "artwork_approved": false,
+        "new_master_count_adopted": 0,
+        "selected_definition": "A selected ideal flow diagram comparing wide and narrow parts of a horizontal tube."
+      },
+      "selected_original_model_owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/defined-topics.json",
+        "sha256": "01f066acee6b3de8c857951a88adfec498986acc2d7f346aa76550da81eb8375"
+      },
+      "selected_original_model_JSON_pointer": "/10",
+      "definition_scope": "Exact fixed selected_definition. Only selected0318/10 and059/model govern current geometry; old031/13 thirteen-mark collection is predecessor context, not nine verified extra meanings.",
+      "predecessor_031_record": {
+        "owner": {
+          "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/defined-topics.json",
+          "sha256": "01f066acee6b3de8c857951a88adfec498986acc2d7f346aa76550da81eb8375"
+        },
+        "JSON_pointer": "/10",
+        "original_definition": "A selected ideal flow diagram comparing wide and narrow parts of a horizontal tube.",
+        "role": "Exact predecessor source-context prose; circuit059/fixed232 govern current selected nine-slot programme."
+      }
+    },
+    {
+      "concept_id": "edu.circuit-component-symbol-key-model",
+      "category": "education/physics/circuit-conventions",
+      "slug": "circuit-component-symbol-key-model",
+      "fixed_selected_record": {
+        "concept_id": "edu.circuit-component-symbol-key-model",
+        "label": "Circuit component symbol key model",
+        "selected_definition": "One introduced reference key for nine selected unlettered circuit-convention marks, distinguishing symbolic state/terminal/modifier roles before use in circuit diagrams.",
+        "scope_origin": "previous-parent-defined-meaning",
+        "source_family_positions": [
+          427,
+          428
+        ],
+        "initial_production_status": "pending-authoring-and-review",
+        "list_number": 233
+      },
+      "fixed_manifest_authority": {
+        "owner": {
+          "path": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/SVGs/planning/tactile-full-set/manifest-v1.json",
+          "sha256": "a932c301f93030f3719c810a83b32a20e8518af102e57d9c26267d31a39ce314"
+        },
+        "JSON_pointer": "/records/232",
+        "definition_JSON_pointer": "/records/232/selected_definition",
+        "exact_definition": "One introduced reference key for nine selected unlettered circuit-convention marks, distinguishing symbolic state/terminal/modifier roles before use in circuit diagrams."
+      },
+      "selected_original_model": {
+        "selected_definition": "One introduced reference key for nine selected unlettered circuit-convention marks, distinguishing symbolic state/terminal/modifier roles before use in circuit diagrams.",
+        "frame_mm": [
+          0,
+          0,
+          300,
+          240
+        ],
+        "layout": "Three columns by three rows of isolated100\u00d780mm slots. No slot numbers, names, table lines or labels are visible. External spoken/teacher key binds each location. A300\u00d7240mm nominal key does not fit A4 unchanged; use appropriate media or a justified panelled generated variant inside the shared master, never silently shrink fine gaps.",
+        "marks": [
+          {
+            "role": "wire",
+            "polylines_mm": [
+              [
+                [
+                  10,
+                  40
+                ],
+                [
+                  90,
+                  40
+                ]
+              ]
+            ],
+            "convention": "One straight continuous line; isolated key mark, not a complete powered circuit.",
+            "local_panel_origin_mm": [
+              0,
+              0
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 1
+          },
+          {
+            "role": "open-SPST-switch",
+            "polylines_mm": [
+              [
+                [
+                  10,
+                  40
+                ],
+                [
+                  30,
+                  40
+                ]
+              ],
+              [
+                [
+                  70,
+                  40
+                ],
+                [
+                  90,
+                  40
+                ]
+              ],
+              [
+                [
+                  30,
+                  40
+                ],
+                [
+                  65,
+                  18
+                ]
+              ]
+            ],
+            "contact_discs_mm": [
+              [
+                30,
+                40,
+                2.5
+              ],
+              [
+                70,
+                40,
+                2.5
+              ]
+            ],
+            "convention": "Blade joined to left hinge only; positive gap to right contact. Filled contact discs are symbol terminals, not wire-crossing junctions.",
+            "local_panel_origin_mm": [
+              100,
+              0
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 2
+          },
+          {
+            "role": "closed-SPST-switch",
+            "polylines_mm": [
+              [
+                [
+                  10,
+                  40
+                ],
+                [
+                  30,
+                  40
+                ]
+              ],
+              [
+                [
+                  70,
+                  40
+                ],
+                [
+                  90,
+                  40
+                ]
+              ],
+              [
+                [
+                  30,
+                  40
+                ],
+                [
+                  70,
+                  40
+                ]
+              ]
+            ],
+            "contact_discs_mm": [
+              [
+                30,
+                40,
+                2.5
+              ],
+              [
+                70,
+                40,
+                2.5
+              ]
+            ],
+            "convention": "Same two contacts and blade closed to both. It is a state comparison within the switch convention, not another hardware species.",
+            "local_panel_origin_mm": [
+              200,
+              0
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 3
+          },
+          {
+            "role": "single-cell-source",
+            "polylines_mm": [
+              [
+                [
+                  10,
+                  40
+                ],
+                [
+                  42,
+                  40
+                ]
+              ],
+              [
+                [
+                  42,
+                  20
+                ],
+                [
+                  42,
+                  60
+                ]
+              ],
+              [
+                [
+                  58,
+                  30
+                ],
+                [
+                  58,
+                  50
+                ]
+              ],
+              [
+                [
+                  58,
+                  40
+                ],
+                [
+                  90,
+                  40
+                ]
+              ]
+            ],
+            "long_plate_x_mm": [
+              42
+            ],
+            "short_plate_x_mm": [
+              58
+            ],
+            "convention": "Unequal plates: longer plate selected positive terminal, shorter negative. No literal plus/minus lettering or physical cell cutaway. No wire bridges the16mm interplate gap.",
+            "local_panel_origin_mm": [
+              0,
+              80
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 4
+          },
+          {
+            "role": "multicell-battery-source",
+            "polylines_mm": [
+              [
+                [
+                  10,
+                  40
+                ],
+                [
+                  30,
+                  40
+                ]
+              ],
+              [
+                [
+                  30,
+                  20
+                ],
+                [
+                  30,
+                  60
+                ]
+              ],
+              [
+                [
+                  42,
+                  30
+                ],
+                [
+                  42,
+                  50
+                ]
+              ],
+              [
+                [
+                  42,
+                  40
+                ],
+                [
+                  58,
+                  40
+                ]
+              ],
+              [
+                [
+                  58,
+                  20
+                ],
+                [
+                  58,
+                  60
+                ]
+              ],
+              [
+                [
+                  70,
+                  30
+                ],
+                [
+                  70,
+                  50
+                ]
+              ],
+              [
+                [
+                  70,
+                  40
+                ],
+                [
+                  90,
+                  40
+                ]
+              ]
+            ],
+            "long_plate_x_mm": [
+              30,
+              58
+            ],
+            "short_plate_x_mm": [
+              42,
+              70
+            ],
+            "convention": "Two selected long/short pairs with explicit inner series connector. This is a simplified battery/source mark, not proof that every battery has exactly two cells.",
+            "local_panel_origin_mm": [
+              100,
+              80
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 5
+          },
+          {
+            "role": "earth-reference-ground-convention",
+            "polylines_mm": [
+              [
+                [
+                  50,
+                  10
+                ],
+                [
+                  50,
+                  35
+                ]
+              ],
+              [
+                [
+                  25,
+                  35
+                ],
+                [
+                  75,
+                  35
+                ]
+              ],
+              [
+                [
+                  32,
+                  47
+                ],
+                [
+                  68,
+                  47
+                ]
+              ],
+              [
+                [
+                  40,
+                  59
+                ],
+                [
+                  60,
+                  59
+                ]
+              ]
+            ],
+            "convention": "Stem ends at longest of three successively shorter horizontal bars. Lower bars are part of the taught symbol pattern, not disconnected devices. Earth/reference-ground example only; do not interchange every chassis/signal/protective-ground standard or present installation guidance.",
+            "local_panel_origin_mm": [
+              200,
+              80
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 6
+          },
+          {
+            "role": "fixed-resistor-zigzag",
+            "polylines_mm": [
+              [
+                [
+                  10,
+                  40
+                ],
+                [
+                  25,
+                  40
+                ],
+                [
+                  30,
+                  25
+                ],
+                [
+                  40,
+                  55
+                ],
+                [
+                  50,
+                  25
+                ],
+                [
+                  60,
+                  55
+                ],
+                [
+                  70,
+                  25
+                ],
+                [
+                  75,
+                  40
+                ],
+                [
+                  90,
+                  40
+                ]
+              ]
+            ],
+            "convention": "Selected zigzag convention, not an IECrectangle certification, resistor colour code or literal number of turns.",
+            "local_panel_origin_mm": [
+              0,
+              160
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 7
+          },
+          {
+            "role": "inductor-three-arch-convention",
+            "polylines_mm": [
+              [
+                [
+                  10,
+                  40
+                ],
+                [
+                  25,
+                  40
+                ]
+              ],
+              [
+                [
+                  70,
+                  40
+                ],
+                [
+                  90,
+                  40
+                ]
+              ]
+            ],
+            "upper_semicircle_arcs": [
+              {
+                "centre_mm": [
+                  32.5,
+                  40
+                ],
+                "radius_mm": 7.5,
+                "start_angle_degrees": 180,
+                "end_angle_degrees": 360,
+                "svg_y_down_top_arc": true
+              },
+              {
+                "centre_mm": [
+                  47.5,
+                  40
+                ],
+                "radius_mm": 7.5,
+                "start_angle_degrees": 180,
+                "end_angle_degrees": 360,
+                "svg_y_down_top_arc": true
+              },
+              {
+                "centre_mm": [
+                  62.5,
+                  40
+                ],
+                "radius_mm": 7.5,
+                "start_angle_degrees": 180,
+                "end_angle_degrees": 360,
+                "svg_y_down_top_arc": true
+              }
+            ],
+            "convention": "Continuous three-arch coil convention from25,40to70,40. Three drawn arches do not certify a three-turn physical winding or core type.",
+            "local_panel_origin_mm": [
+              100,
+              160
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 8
+          },
+          {
+            "role": "two-terminal-variable-resistor",
+            "polylines_mm": [
+              [
+                [
+                  10,
+                  40
+                ],
+                [
+                  25,
+                  40
+                ],
+                [
+                  30,
+                  25
+                ],
+                [
+                  40,
+                  55
+                ],
+                [
+                  50,
+                  25
+                ],
+                [
+                  60,
+                  55
+                ],
+                [
+                  70,
+                  25
+                ],
+                [
+                  75,
+                  40
+                ],
+                [
+                  90,
+                  40
+                ]
+              ]
+            ],
+            "nonconductive_adjustment_arrow": {
+              "shaft_mm": [
+                [
+                  25,
+                  65
+                ],
+                [
+                  75,
+                  15
+                ]
+              ],
+              "open_arrowhead_mm": [
+                [
+                  62,
+                  18
+                ],
+                [
+                  75,
+                  15
+                ],
+                [
+                  72,
+                  28
+                ]
+              ]
+            },
+            "convention": "Diagonal adjustment arrow crosses resistor convention without junction dot. It is a symbolic modifier, not a third electrical terminal or wire; this is not a three-terminal potentiometer.",
+            "local_panel_origin_mm": [
+              200,
+              160
+            ],
+            "local_panel_size_mm": [
+              100,
+              80
+            ],
+            "array_slot_one_based": 9
+          }
+        ],
+        "count_unit": "One existing reference-key programme target, not nine automatically new component masters. Open/closed switch, one/multi-cell notation and coil-view differences are key alternatives. Reuse compatible conventions from existing circuit masters where possible; no new IDs for plates/arches/states.",
+        "standard_status": "Selected introductory convention family with declared zigzag resistor, repeated-arch inductor and diagonal two-terminal variable-resistance modifier. Not a certification against an unread completeIEC/ANSIstandard, exact APHlegend or universal schematic variant.",
+        "terminal_contract": "Within a slot the depicted electrical leads meet actual terminal discs/plates/body endpoints. The variable adjustment arrow is explicitly nonconductive; no connection dot at its crossings. Different slots have no connecting wires. A closed key symbol does not itself constitute a powered complete circuit.",
+        "minimum_geometry": "300\u00d7240mm nine-slot reference key, exact local polylines/arcs/contacts in model-data. Slot offsets100c,80r. All mark ink lies in x10..90,y10..65 of each slot; interslot rawmarkgap at least20mmhorizontally and25mmvertically. Cell plates separated16mm; battery adjacent opposite plates12mmminimum. Groundbars12mmapart. Three coil upperarchesR7.5connected end-to-end; do not add shorts. Openbladeleft30,40\u219265,18 stays separate from right terminal70,40,R2.5. No labels/Braille, sourcecircleidentities or sourceplate parameters invented.",
+        "sourcefit_limits": "APH1368has four circular source marks whose interiors/captions remain unverified. They are retained as a noncounted original-legend dependency of this selected key, not erased, guessed or padded into four additional concepts. The nine named selections are an independent bounded lesson, not a claim all13marks are identified or reproduced.",
+        "shared_master_contract": "One shared tagged master for this existing reference-key programme with meaningful mark/slot/terminal/annotation IDs. Medium alternatives remain inside it; generated per-medium outputs require actual full-detail and nominal physical-scale review. No artwork/hardware/physical/learner approval."
+      },
+      "selected_original_model_owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/model-data.json",
+        "sha256": "b68518bb56345b19f9142d336a05f20213182a328c158be989bdd587c50024f3"
+      },
+      "selected_original_model_JSON_pointer": "/model",
+      "definition_scope": "Exact fixed selected_definition. Only selected0318/10 and059/model govern current geometry; old031/13 thirteen-mark collection is predecessor context, not nine verified extra meanings.",
+      "predecessor_031_record": {
+        "owner": {
+          "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/defined-topics.json",
+          "sha256": "01f066acee6b3de8c857951a88adfec498986acc2d7f346aa76550da81eb8375"
+        },
+        "JSON_pointer": "/13",
+        "original_definition": "A finite source collection of conventional circuit marks requiring an exact nonletter component key.",
+        "role": "Exact predecessor source-context prose; circuit059/fixed232 govern current selected nine-slot programme."
+      }
+    }
+  ],
+  "source_images": [
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/351-author/source-proofs/t_500-whole-decoded-RGB-v01.png",
+      "sha256": "77a4d0b3265a6cbd7159986eb1c53687cdc78c3b137a3e5d97697207033342e7",
+      "concept_id": "edu.barred-spiral-galaxy-structure",
+      "original_source": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/full-set-inventory-delegated/tactile-recovery-031/previews/t_500.jpg",
+        "sha256": "8ded2ab6093e10da3a50b5f68bed650025f72b420d2a90ad10c2d4c7c3770a4a"
+      },
+      "source_owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/native-source-inspections.json",
+        "sha256": "beee6a3e26469a4d82a568dc168c85c35220fcf3619814dee9872bc6353fab7e"
+      },
+      "original_path_pointer": "/13/local_path",
+      "original_sha_pointer": "/13/sha256",
+      "dimensions_px": [
+        150,
+        143
+      ],
+      "decoded_RGB_sha256": "c36faf67282ae68c48f97b9b02233c04ff1164d2ee42c47b254bcab5bafd8fbd",
+      "decoded_RGBA_sha256": "337efccdc1c785c0d59301d398851c8d77e1124e612f66a141d040f8590978f5",
+      "source_asset_id": 500,
+      "owner_scope": "Exact whole original JPEG and owned decoded PNG. No crop, resize, trace or observation transfer.",
+      "preparation_snapshot_view_status": "Not yet viewed; later exact guarded whole receipt alone establishes current observation."
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/351-author/source-proofs/t_1222-whole-decoded-RGB-v01.png",
+      "sha256": "31067467c4bace5b8613234cc626cd3d6336528090eb68cc621743c69510e613",
+      "concept_id": "edu.horizontal-venturi-contraction-flow",
+      "original_source": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/full-set-inventory-delegated/tactile-recovery-031/previews/t_1222.jpg",
+        "sha256": "40708d013c8a2dbd5a436b65b6c22b9caa2a3b26fff9ef95e15cb8c18c85e710"
+      },
+      "source_owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/native-source-inspections.json",
+        "sha256": "beee6a3e26469a4d82a568dc168c85c35220fcf3619814dee9872bc6353fab7e"
+      },
+      "original_path_pointer": "/15/local_path",
+      "original_sha_pointer": "/15/sha256",
+      "dimensions_px": [
+        150,
+        143
+      ],
+      "decoded_RGB_sha256": "45eb8d72a2e07abbe8fc205f35fcb5ce0c4d9f1b8c749dded53312cfed668b88",
+      "decoded_RGBA_sha256": "c379b34ce6cfd16d0edbf3d7f2fc8366adc8a9d3933c39b69a35ef1a6741ea0a",
+      "source_asset_id": 1222,
+      "owner_scope": "Exact whole original JPEG and owned decoded PNG. No crop, resize, trace or observation transfer.",
+      "preparation_snapshot_view_status": "Not yet viewed; later exact guarded whole receipt alone establishes current observation."
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/351-author/source-proofs/t_1367-whole-decoded-RGB-v01.png",
+      "sha256": "1abc2e5f7c2618e2c16e07357ef8ad126a186157df8f0c0d5b7a13fded13bd5b",
+      "concept_id": "edu.circuit-component-symbol-key-model",
+      "original_source": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/full-set-inventory-delegated/tactile-recovery-031/previews/t_1367.jpg",
+        "sha256": "09275a27b80ea3b6c37ac7603a6541b9abdc0b089f2d160948fd6812517a4a8f"
+      },
+      "source_owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/native-source-inspections.json",
+        "sha256": "beee6a3e26469a4d82a568dc168c85c35220fcf3619814dee9872bc6353fab7e"
+      },
+      "original_path_pointer": "/18/local_path",
+      "original_sha_pointer": "/18/sha256",
+      "dimensions_px": [
+        150,
+        143
+      ],
+      "decoded_RGB_sha256": "b776e254065139a98d53a0f013975e47b81e488186df419cb6b7d222a36ecd49",
+      "decoded_RGBA_sha256": "44b53e8a6078f7ba9ea1fa15e251d52d83e5fd636b0517f82cfbd51feaeda404",
+      "source_asset_id": 1367,
+      "owner_scope": "Exact whole original JPEG and owned decoded PNG. No crop, resize, trace or observation transfer.",
+      "preparation_snapshot_view_status": "Not yet viewed; later exact guarded whole receipt alone establishes current observation."
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/351-author/source-proofs/t_1368-whole-decoded-RGB-v01.png",
+      "sha256": "ac27ed2c4a6b96b1ec75493545826c32d17694768e9538145d553e5732873a9a",
+      "concept_id": "edu.circuit-component-symbol-key-model",
+      "original_source": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/full-set-inventory-delegated/tactile-recovery-031/previews/t_1368.jpg",
+        "sha256": "1648cc28a3814fc42f61b275cf0f4d2b11ff82194b4f0ffa55ed9d637961ae44"
+      },
+      "source_owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/native-source-inspections.json",
+        "sha256": "beee6a3e26469a4d82a568dc168c85c35220fcf3619814dee9872bc6353fab7e"
+      },
+      "original_path_pointer": "/19/local_path",
+      "original_sha_pointer": "/19/sha256",
+      "dimensions_px": [
+        150,
+        143
+      ],
+      "decoded_RGB_sha256": "3571e4eae95aaac9ee7298db87dee1ea08a757bc9cfd9782017b2575c66a49f2",
+      "decoded_RGBA_sha256": "2e96b2580ce6758decb562836503d73bde81259c91e2cad5454eae2485d2af1d",
+      "source_asset_id": 1368,
+      "owner_scope": "Exact whole original JPEG and owned decoded PNG. No crop, resize, trace or observation transfer.",
+      "preparation_snapshot_view_status": "Not yet viewed; later exact guarded whole receipt alone establishes current observation."
+    }
+  ],
+  "selected_mathematical_context": [
+    {
+      "owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/mathematical-model-checks.json",
+        "sha256": "34a55eb1b10c22187d93c8709bae006956750e698862e1dcd593f86eca55aed2"
+      },
+      "JSON_pointer": "/venturi_area_wide_over_narrow",
+      "selected_value": 2,
+      "selected_scope": "Selected ideal steady incompressible sameheight area/speed/pressure relation only. Actual introduced native geometry checked separately."
+    },
+    {
+      "owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/mathematical-model-checks.json",
+        "sha256": "34a55eb1b10c22187d93c8709bae006956750e698862e1dcd593f86eca55aed2"
+      },
+      "JSON_pointer": "/venturi_speed_narrow_over_wide",
+      "selected_value": 2,
+      "selected_scope": "Selected ideal steady incompressible sameheight area/speed/pressure relation only. Actual introduced native geometry checked separately."
+    },
+    {
+      "owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/mathematical-model-checks.json",
+        "sha256": "34a55eb1b10c22187d93c8709bae006956750e698862e1dcd593f86eca55aed2"
+      },
+      "JSON_pointer": "/venturi_pressure_wide_minus_narrow_rho1_vwide1",
+      "selected_value": 1.5,
+      "selected_scope": "Selected ideal steady incompressible sameheight area/speed/pressure relation only. Actual introduced native geometry checked separately."
+    }
+  ],
+  "selected_primary_notes": [
+    {
+      "owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/primary-source-notes.json",
+        "sha256": "f617d9025fe52fa49837bdfb09f08d5ad54935c4c0ca1492490bc4d8171d4665"
+      },
+      "JSON_pointer": "/primary_sources/8",
+      "selected_note": {
+        "url": "https://science.nasa.gov/image-detail/ngc-1300/",
+        "author": "NASA/ESA Hubble science",
+        "use": "Primary text says barred spiral arms connect to ends of central stellar bar. Publication image not inspected; source500 schematic independently opened. Generic structure, not measured NGC1300art."
+      },
+      "scope": "Existing cached primary TEXT only; no new page/image/figure/PDF/network observation."
+    },
+    {
+      "owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/primary-source-notes.json",
+        "sha256": "f617d9025fe52fa49837bdfb09f08d5ad54935c4c0ca1492490bc4d8171d4665"
+      },
+      "JSON_pointer": "/primary_sources/11",
+      "selected_note": {
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/14-6-bernoullis-equation",
+        "author": "OpenStax original textbook publisher",
+        "use": "Opened primary model conditions for continuity/Bernoulli. Selected horizontal ideal contraction: half area doubles speed, lowers static pressure; not universal claim for arbitrary flow."
+      },
+      "scope": "Existing cached primary TEXT only; no new page/image/figure/PDF/network observation."
+    },
+    {
+      "owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/primary-source-evidence.json",
+        "sha256": "fe9518156b7df4465ae8c436f78a5e843f2cab3882b534feb8c10526b50d9c6d"
+      },
+      "JSON_pointer": "/sources/0",
+      "selected_note": {
+        "owner": "OpenStax/RiceUniversity",
+        "url": "https://openstax.org/books/university-physics-volume-2/pages/9-1-electrical-current",
+        "access": "Primary chapterbodyread, especially CurrentinaCircuit/figure9.5caption; no primary figures opened this packet.",
+        "facts_used": "Solidwirepaths; long/shortsourceplates; open/closedterminal/bar switch conventions; a complete currentpath differs from an isolated symbol."
+      },
+      "scope": "Retained059 primary-text access scope exactly preserved; no new figure or complete-standard claim."
+    },
+    {
+      "owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/primary-source-evidence.json",
+        "sha256": "fe9518156b7df4465ae8c436f78a5e843f2cab3882b534feb8c10526b50d9c6d"
+      },
+      "JSON_pointer": "/sources/1",
+      "selected_note": {
+        "owner": "OpenStax/RiceUniversity",
+        "url": "https://openstax.org/books/physics/pages/19-2-series-circuits",
+        "access": "Primarychapterbodyread19.2fourbasicsymbolparagraphs; nofigure copied or opened.",
+        "facts_used": "Zigzagresistance, unequal sourceplatesandgroundreference roles; these are symbolic conventions, not physicalcomponent cutaways."
+      },
+      "scope": "Retained059 primary-text access scope exactly preserved; no new figure or complete-standard claim."
+    },
+    {
+      "owner": {
+        "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/primary-source-evidence.json",
+        "sha256": "fe9518156b7df4465ae8c436f78a5e843f2cab3882b534feb8c10526b50d9c6d"
+      },
+      "JSON_pointer": "/sources/2",
+      "selected_note": {
+        "owner": "SparkFunElectronics authorededucationalguide",
+        "url": "https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all?print=1",
+        "access": "Primaryindexedguideparagraphsread; directreader403. No claim of fullbody/figureinspection.",
+        "facts_used": "Variable resistance uses arrowmodifier; SPSThas two contacts/bar; sourcepair andgroundvariant distinctions. Inductor is an introduced selected coilconvention, not an inferred physicalturncount.",
+        "not_a_full_standard_certification": true
+      },
+      "scope": "Retained059 primary-text access scope exactly preserved; no new figure or complete-standard claim."
+    }
+  ],
+  "selected_context_file_pins": [
+    {
+      "path": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/SVGs/planning/tactile-full-set/manifest-v1.json",
+      "sha256": "a932c301f93030f3719c810a83b32a20e8518af102e57d9c26267d31a39ce314"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/defined-topics.json",
+      "sha256": "01f066acee6b3de8c857951a88adfec498986acc2d7f346aa76550da81eb8375"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/selected-families.json",
+      "sha256": "5b38a42ef262ae682bce1fcd5b879d2492a382601145809f4eb24fad8302bf60"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/native-source-inspections.json",
+      "sha256": "beee6a3e26469a4d82a568dc168c85c35220fcf3619814dee9872bc6353fab7e"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/source-view-composition-addenda.json",
+      "sha256": "23a74751f44eb23f9943abe1223474b312ee9717be2f43babcad657af75c35d3"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/primary-source-notes.json",
+      "sha256": "f617d9025fe52fa49837bdfb09f08d5ad54935c4c0ca1492490bc4d8171d4665"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/exact-mark-exclusions.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-recovery-031/mathematical-model-checks.json",
+      "sha256": "34a55eb1b10c22187d93c8709bae006956750e698862e1dcd593f86eca55aed2"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/model-data.json",
+      "sha256": "b68518bb56345b19f9142d336a05f20213182a328c158be989bdd587c50024f3"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/primary-source-evidence.json",
+      "sha256": "fe9518156b7df4465ae8c436f78a5e843f2cab3882b534feb8c10526b50d9c6d"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/native-source-reinspection.json",
+      "sha256": "5a9aaa9dfce1d0da833d32fc671a816dbb4e37c4fab3a64e7f6c7d4d9dc097b0"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/source-fit-open-items.json",
+      "sha256": "ab5db927393303bdfd2c2271697d35dbbbe6e3be7e7b0c52c4376df32208166a"
+    },
+    {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/parent-adoption-preconditions.json",
+      "sha256": "6629d389b16e74994a5a129099552fe4d94ab1d3dd078279ae2337838d983ccd"
+    }
+  ],
+  "selected_circuit_sourcefit": {
+    "owner": {
+      "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/outputs/inventory-reconciliation/tactile-model-definition-059/source-fit-open-items.json",
+      "sha256": "ab5db927393303bdfd2c2271697d35dbbbe6e3be7e7b0c52c4376df32208166a"
+    },
+    "JSON_pointer": "/0",
+    "selected_record": {
+      "existing_concept_id": "edu.circuit-component-symbol-key-model",
+      "source_assets": [
+        1367,
+        1368
+      ],
+      "unresolved_scope": "Four lower circular mark captions/interiors on1368and exact original component/key variants.",
+      "count_unit": "Noncounted exact-source-fit dependency of existing selected key; not four invented masters or an extra finite master-IDnode.",
+      "next_action": "Only for exact source matching, recover original legible caption/legend through a genuinely new accessible path and bind each mark; do not infer from tiny circle silhouettes.",
+      "added_meaning_IDs": 0
+    },
+    "scope": "Four1368 circular marks unresolved, noncounted and not drawn/guessed; no unrelated botanical record consumed."
+  },
+  "introduced_model_specification": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/350-parent/351-allocation-spec-v01.json",
+    "sha256": "b1566b65f5bd20af1708feab22a28e21a2382d6abc1f7f66856c90ac2fe64ee4"
+  },
+  "exact_fixed_definition_gate": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/350-parent/350-completed-next351-definition-gate-v01.json",
+    "sha256": "95a8c653fd84d0507f2533e708f5cd4894d68b0a523cdc4610724df29c266705"
+  },
+  "central_batch_context": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/351-author/351-batch-context-v01.json",
+    "sha256": "9bf15fc244ea26f2a6bef0c9a5bfdcb52affe8a2d67d0f5502e7102eda7c28e8"
+  },
+  "source_scope": "Three fixed barred-galaxy/ideal-Venturi/nine-slot-circuit lessons. Bar-end arm origins, explicit crosssection assumptions, exact059 selected polylines/arcs and terminal/state/modifier roles; source tiny quantities/unknown circles are not inferred.",
+  "primary_access_scope": "Only selected retained031 and059 text evidence, no new network/figure/PDF or standards certification. FOUR whole originals plus NINE individual current profiles require THIRTEEN fresh whole views each observer.",
+  "model_scope": "THREE fixed meanings ONLY, exact fixed selected definitions sole authority. {\"edu.barred-spiral-galaxy-structure\": \"A schematic face-on barred spiral with central bar and arms emerging from the bar ends.\", \"edu.horizontal-venturi-contraction-flow\": \"A selected ideal flow diagram comparing wide and narrow parts of a horizontal tube.\", \"edu.circuit-component-symbol-key-model\": \"One introduced reference key for nine selected unlettered circuit-convention marks, distinguishing symbolic state/terminal/modifier roles before use in circuit diagrams.\"} Barred galaxy: sparse face-on central elongated bar containing nucleus and two arms emerging from opposite BAR ENDS; stellar distributions not solid hardware or exact star counts, no decorative starfield/named-galaxy measurements. Venturi: continuous horizontal wide-to-narrow tube, coherent flow direction and declared steady incompressible inviscid same-height assumptions. Cached031 selected Awide=2Anarrow, narrow speed twice wide and lower static pressure; arbitrary rho=1,vwide=1,vnarrow=2 gives pressure difference1.5 in declared model units. No source1222 unread quantities inferred, no numerals/formulas in art, arrow count is not speed. Explicitly state whether dimensions encode cross-sectional area: do not confuse area ratio with circular diameter ratio or claim all real flows follow the ideal model. Essential accessible external key teaches conditions and relationships. Circuit: cached059 exact nine-slot selected reference-key model: wire, open and closed SPST, single cell, multicell source, earth/reference ground, zigzag fixed resistor, three-arch inductor, two-terminal variable-resistor modifier. This is ONE programme, not nine new IDs or a complete powered circuit. Read actual059 polylines/arcs, terminal/state/arrow contacts, interslot separation and limitations. Four unknown circular marks on1368 remain explicitly unresolved noncounted source-fit dependency; no guessing or standard certification. Adjustment arrow crosses as nonconductive modifier with no electrical junction dot; actual geometric contacts must still be enumerated, not waived. Terminal discs at059 proposed radius2.5mm have diameter5mm: do NOT silently certify the current6mm point-symbol minimum; use explicitly versioned uniform scale or justified shared-master medium alternative and re-evaluate actual glyph envelopes, unrelated clearances, stem/arc lengths and every profile. Original300x240 nominal key was never artwork/physical approval. All construction versus actual serialized native geometry/paint/Index must be separately defined; no tolerance waiver, source-coordinate sample checks alone or arbitrary merged short paths. Whole originals500,1222,1367,1368 plus9profiles = minimum13 actual whole views EACH observer; source owners FOUR, derive actual identities. Any additional consumed source figure requires own actual view. Three shared masters/nine outputs/21current art/20core+2companions, categories astronomy/galaxies, physics/fluids, physics/circuit-conventions. Required external UTF8 key, no visible text/Braille/logos/raster/shadows. All independent scientific/native/nominal/structural/style/reexport/continuity/guard/source/retention/bindings checks unchanged. No historical-view transfer. Exact dimensions in proofs and portalv4, reported tool resizes qualified. Actual hardware, touch, pagefit, learner recognition pending. Prepared only; no351 reservation/art until350 fully reviewed/adopted/exported/packaged/README/aggregate/current+old retention/boundary. Same author B, reviewer, parent ROOT-only; finalconfig actualPASS+freshcurrent/queue/topic/map. Existing caches only unless actual authoring gap; no forward inventory research.",
+  "reservation_snapshot": {
+    "batch": "351",
+    "concept_ids": [
+      "edu.barred-spiral-galaxy-structure",
+      "edu.horizontal-venturi-contraction-flow",
+      "edu.circuit-component-symbol-key-model"
+    ],
+    "design_destinations": [
+      {
+        "concept_id": "edu.barred-spiral-galaxy-structure",
+        "category": "education/astronomy/galaxies",
+        "slug": "barred-spiral-galaxy-structure"
+      },
+      {
+        "concept_id": "edu.horizontal-venturi-contraction-flow",
+        "category": "education/physics/fluids",
+        "slug": "horizontal-venturi-contraction-flow"
+      },
+      {
+        "concept_id": "edu.circuit-component-symbol-key-model",
+        "category": "education/physics/circuit-conventions",
+        "slug": "circuit-component-symbol-key-model"
+      }
+    ],
+    "reserved_new_ROOT_paths": [
+      "planning/tactile-media/briefs/barred-galaxy-venturi-and-circuit-key-351.json",
+      "planning/tactile-media/designs/351-coordinates.json",
+      "planning/vocabulary-priority/reference-review-099-351.json",
+      "planning/tactile-media/designs/swell-351.json",
+      "planning/tactile-media/designs/index-351.json",
+      "planning/tactile-media/designs/viewplus-351.json",
+      "tactile/masters/education/astronomy/galaxies/barred-spiral-galaxy-structure.svg",
+      "tactile/masters/education/physics/fluids/horizontal-venturi-contraction-flow.svg",
+      "tactile/masters/education/physics/circuit-conventions/circuit-component-symbol-key-model.svg",
+      "tactile/exports/swell-paper-v1/education/astronomy/galaxies/barred-spiral-galaxy-structure.svg",
+      "tactile/exports/swell-paper-v1/education/physics/fluids/horizontal-venturi-contraction-flow.svg",
+      "tactile/exports/swell-paper-v1/education/physics/circuit-conventions/circuit-component-symbol-key-model.svg",
+      "tactile/exports/index-embossed-v1/education/astronomy/galaxies/barred-spiral-galaxy-structure.svg",
+      "tactile/exports/index-embossed-v1/education/physics/fluids/horizontal-venturi-contraction-flow.svg",
+      "tactile/exports/index-embossed-v1/education/physics/circuit-conventions/circuit-component-symbol-key-model.svg",
+      "tactile/exports/viewplus-variable-height-v1/education/astronomy/galaxies/barred-spiral-galaxy-structure.svg",
+      "tactile/exports/viewplus-variable-height-v1/education/physics/fluids/horizontal-venturi-contraction-flow.svg",
+      "tactile/exports/viewplus-variable-height-v1/education/physics/circuit-conventions/circuit-component-symbol-key-model.svg",
+      "planning/vocabulary-priority/tactile-topic-delta-351.json",
+      "planning/vocabulary-priority/tactile-teaching-target-delta-351.json"
+    ],
+    "reserved_companion_ROOT_paths": [
+      "planning/tactile-masters/companions/shared-351-teaching-key-v01.txt",
+      "planning/tactile-masters/shared-351-source-supports.json"
+    ]
+  },
+  "preparation_tool": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/351-author/prepare_sources_v01.py",
+    "sha256": "72b9e0a8d0b2723da37a2129fe7b1fba1a79b91c7b3945da25faf43fd86c9a6f"
+  },
+  "ROOT_writes": 0
+}

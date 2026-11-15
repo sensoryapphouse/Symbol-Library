@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.biconcave-lens-profile-example" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M40 25 L120 25 C80 55 80 105 120 135 L40 135 C80 105 80 55 40 25 Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="biconcave-section" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="aac.banana" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="banana-provenance">{"editable_source": "This shared master only. Per-medium files are derived exports.", "revision": 4, "profiles": ["swell-paper-v1", "index-embossed-v1", "viewplus-variable-height-v1"], "brief_path": "planning/tactile-media/briefs/fruit-026.json", "recipe_path": "planning/tactile-media/designs/swell-026.json", "physical_evaluation": "pending", "exception_policy": "Share compatible geometry across future profile layers; justify medium-specific dot layouts within this same master. No unmade profiles implied.", "supersedes_master": {"path": "tactile/masters/food/fruit/banana-v03.svg", "sha256": "71c38e4593b27cad71e77ace583aa812c5514f8da8dd1fe7b884b59df33ea4eb"}, "repair": "Add short angled stalk and blunt far tip to avoid plain crescent shape; old version rejected after1024 inspection.", "profile_addition": "viewplus", "profile_addition_recipe": "planning/tactile-media/designs/viewplus-026.json"}</metadata>
+  <defs>
+    <rect id="banana-background-geometry" data-part="background" width="100" height="100" />
+    <path id="banana-body-geometry" data-part="object" data-object="banana" data-tactile-role="raised-line" d="M18 20L26 18L30 34C36 57 55 72 78 65L83 70C66 91 35 88 20 66C10 51 10 33 18 20Z" />
+  </defs>
+  <g id="banana-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.banana&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use id="swell-background" data-export-id="background" data-part="background" href="#banana-background-geometry" data-shared-geometry="banana-background-geometry" fill="#ffffff" />
+    <use id="swell-banana-body" data-export-id="banana-body-footprint" data-part="object" data-object="banana" data-tactile-role="raised-line" data-output-role="swell-footprint" href="#banana-body-geometry" data-shared-geometry="banana-body-geometry" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="banana-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.banana&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-geometry-exception="index-explicit-dot-layout" data-exception-reason="Explicit Index alternatives sample the continuous contours near2mm pitch with1.2mm design circles. Centres closer than1.5mm are omitted at junctions. Banana contour remains a single dot row. Apple contour is sampled before stem to omit duplicate junction dots. Orange outer and core contours precede the six radial separators; duplicate contact dots omitted. All dot alternatives remain within the same shared master. These are design positions, not measured hardware properties.">
+    <use id="index-background" data-export-id="background" data-part="background" fill="#ffffff" href="#banana-background-geometry" data-shared-geometry="banana-background-geometry" />
+    <g id="index-banana-body" data-export-id="banana-body-layout" data-part="object" data-tactile-role="raised-line" data-output-role="graphic-dot-row">
+      <circle id="index-banana-body-dot-0000" data-export-id="banana-body-dot-0000" data-part="object" data-output-role="graphic-dot" cx="18.0" cy="20.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0001" data-export-id="banana-body-dot-0001" data-part="object" data-output-role="graphic-dot" cx="20.0" cy="19.5" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0002" data-export-id="banana-body-dot-0002" data-part="object" data-output-role="graphic-dot" cx="22.0" cy="19.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0003" data-export-id="banana-body-dot-0003" data-part="object" data-output-role="graphic-dot" cx="24.0" cy="18.5" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0004" data-export-id="banana-body-dot-0004" data-part="object" data-output-role="graphic-dot" cx="26.0" cy="18.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0005" data-export-id="banana-body-dot-0005" data-part="object" data-output-role="graphic-dot" cx="26.5" cy="20.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0006" data-export-id="banana-body-dot-0006" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="22.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0007" data-export-id="banana-body-dot-0007" data-part="object" data-output-role="graphic-dot" cx="27.5" cy="24.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0008" data-export-id="banana-body-dot-0008" data-part="object" data-output-role="graphic-dot" cx="28.0" cy="26.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0009" data-export-id="banana-body-dot-0009" data-part="object" data-output-role="graphic-dot" cx="28.5" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0010" data-export-id="banana-body-dot-0010" data-part="object" data-output-role="graphic-dot" cx="29.0" cy="30.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0011" data-export-id="banana-body-dot-0011" data-part="object" data-output-role="graphic-dot" cx="29.5" cy="32.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0012" data-export-id="banana-body-dot-0012" data-part="object" data-output-role="graphic-dot" cx="30.0" cy="34.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0013" data-export-id="banana-body-dot-0013" data-part="object" data-output-role="graphic-dot" cx="30.54278" cy="35.94079" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0014" data-export-id="banana-body-dot-0014" data-part="object" data-output-role="graphic-dot" cx="31.15402" cy="37.86112" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0015" data-export-id="banana-body-dot-0015" data-part="object" data-output-role="graphic-dot" cx="31.83472" cy="39.75793" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0016" data-export-id="banana-body-dot-0016" data-part="object" data-output-role="graphic-dot" cx="32.58558" cy="41.62807" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0017" data-export-id="banana-body-dot-0017" data-part="object" data-output-role="graphic-dot" cx="33.40744" cy="43.46811" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0018" data-export-id="banana-body-dot-0018" data-part="object" data-output-role="graphic-dot" cx="34.30105" cy="45.27438" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0019" data-export-id="banana-body-dot-0019" data-part="object" data-output-role="graphic-dot" cx="35.26707" cy="47.04298" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0020" data-export-id="banana-body-dot-0020" data-part="object" data-output-role="graphic-dot" cx="36.30601" cy="48.76974" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0021" data-export-id="banana-body-dot-0021" data-part="object" data-output-role="graphic-dot" cx="37.41823" cy="50.45022" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0022" data-export-id="banana-body-dot-0022" data-part="object" data-output-role="graphic-dot" cx="38.60404" cy="52.07959" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0023" data-export-id="banana-body-dot-0023" data-part="object" data-output-role="graphic-dot" cx="39.86332" cy="53.65287" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0024" data-export-id="banana-body-dot-0024" data-part="object" data-output-role="graphic-dot" cx="41.19589" cy="55.16454" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0025" data-export-id="banana-body-dot-0025" data-part="object" data-output-role="graphic-dot" cx="42.60096" cy="56.60906" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0026" data-export-id="banana-body-dot-0026" data-part="object" data-output-role="graphic-dot" cx="44.0774" cy="57.98053" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0027" data-export-id="banana-body-dot-0027" data-part="object" data-output-role="graphic-dot" cx="45.62355" cy="59.27287" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0028" data-export-id="banana-body-dot-0028" data-part="object" data-output-role="graphic-dot" cx="47.23715" cy="60.47993" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0029" data-export-id="banana-body-dot-0029" data-part="object" data-output-role="graphic-dot" cx="48.91528" cy="61.59551" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0030" data-export-id="banana-body-dot-0030" data-part="object" data-output-role="graphic-dot" cx="50.65424" cy="62.61363" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0031" data-export-id="banana-body-dot-0031" data-part="object" data-output-role="graphic-dot" cx="52.44956" cy="63.52871" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0032" data-export-id="banana-body-dot-0032" data-part="object" data-output-role="graphic-dot" cx="54.29602" cy="64.33559" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0033" data-export-id="banana-body-dot-0033" data-part="object" data-output-role="graphic-dot" cx="56.18775" cy="65.02971" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0034" data-export-id="banana-body-dot-0034" data-part="object" data-output-role="graphic-dot" cx="58.11815" cy="65.60765" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0035" data-export-id="banana-body-dot-0035" data-part="object" data-output-role="graphic-dot" cx="60.08017" cy="66.06688" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0036" data-export-id="banana-body-dot-0036" data-part="object" data-output-role="graphic-dot" cx="62.06649" cy="66.40599" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0037" data-export-id="banana-body-dot-0037" data-part="object" data-output-role="graphic-dot" cx="64.06963" cy="66.62483" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0038" data-export-id="banana-body-dot-0038" data-part="object" data-output-role="graphic-dot" cx="66.08224" cy="66.72444" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0039" data-export-id="banana-body-dot-0039" data-part="object" data-output-role="graphic-dot" cx="68.09726" cy="66.70705" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0040" data-export-id="banana-body-dot-0040" data-part="object" data-output-role="graphic-dot" cx="70.10808" cy="66.57566" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0041" data-export-id="banana-body-dot-0041" data-part="object" data-output-role="graphic-dot" cx="72.1087" cy="66.33438" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0042" data-export-id="banana-body-dot-0042" data-part="object" data-output-role="graphic-dot" cx="74.09383" cy="65.9879" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0043" data-export-id="banana-body-dot-0043" data-part="object" data-output-role="graphic-dot" cx="76.05886" cy="65.54123" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0044" data-export-id="banana-body-dot-0044" data-part="object" data-output-role="graphic-dot" cx="78.0" cy="65.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0045" data-export-id="banana-body-dot-0045" data-part="object" data-output-role="graphic-dot" cx="79.25" cy="66.25" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0046" data-export-id="banana-body-dot-0046" data-part="object" data-output-role="graphic-dot" cx="80.5" cy="67.5" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0047" data-export-id="banana-body-dot-0047" data-part="object" data-output-role="graphic-dot" cx="81.75" cy="68.75" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0048" data-export-id="banana-body-dot-0048" data-part="object" data-output-role="graphic-dot" cx="83.0" cy="70.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0049" data-export-id="banana-body-dot-0049" data-part="object" data-output-role="graphic-dot" cx="81.71252" cy="71.51511" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0050" data-export-id="banana-body-dot-0050" data-part="object" data-output-role="graphic-dot" cx="80.35319" cy="72.9661" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0051" data-export-id="banana-body-dot-0051" data-part="object" data-output-role="graphic-dot" cx="78.92344" cy="74.34773" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0052" data-export-id="banana-body-dot-0052" data-part="object" data-output-role="graphic-dot" cx="77.42548" cy="75.65508" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0053" data-export-id="banana-body-dot-0053" data-part="object" data-output-role="graphic-dot" cx="75.86207" cy="76.88342" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0054" data-export-id="banana-body-dot-0054" data-part="object" data-output-role="graphic-dot" cx="74.23637" cy="78.028" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0055" data-export-id="banana-body-dot-0055" data-part="object" data-output-role="graphic-dot" cx="72.55226" cy="79.08477" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0056" data-export-id="banana-body-dot-0056" data-part="object" data-output-role="graphic-dot" cx="70.81404" cy="80.04994" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0057" data-export-id="banana-body-dot-0057" data-part="object" data-output-role="graphic-dot" cx="69.0264" cy="80.92018" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0058" data-export-id="banana-body-dot-0058" data-part="object" data-output-role="graphic-dot" cx="67.1944" cy="81.69267" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0059" data-export-id="banana-body-dot-0059" data-part="object" data-output-role="graphic-dot" cx="65.32336" cy="82.36509" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0060" data-export-id="banana-body-dot-0060" data-part="object" data-output-role="graphic-dot" cx="63.4188" cy="82.93569" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0061" data-export-id="banana-body-dot-0061" data-part="object" data-output-role="graphic-dot" cx="61.48633" cy="83.40318" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0062" data-export-id="banana-body-dot-0062" data-part="object" data-output-role="graphic-dot" cx="59.53163" cy="83.76667" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0063" data-export-id="banana-body-dot-0063" data-part="object" data-output-role="graphic-dot" cx="57.56036" cy="84.02575" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0064" data-export-id="banana-body-dot-0064" data-part="object" data-output-role="graphic-dot" cx="55.57818" cy="84.18056" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0065" data-export-id="banana-body-dot-0065" data-part="object" data-output-role="graphic-dot" cx="53.59061" cy="84.23146" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0066" data-export-id="banana-body-dot-0066" data-part="object" data-output-role="graphic-dot" cx="51.60308" cy="84.179" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0067" data-export-id="banana-body-dot-0067" data-part="object" data-output-role="graphic-dot" cx="49.62088" cy="84.0242" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0068" data-export-id="banana-body-dot-0068" data-part="object" data-output-role="graphic-dot" cx="47.64918" cy="83.76834" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0069" data-export-id="banana-body-dot-0069" data-part="object" data-output-role="graphic-dot" cx="45.69299" cy="83.41283" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0070" data-export-id="banana-body-dot-0070" data-part="object" data-output-role="graphic-dot" cx="43.75718" cy="82.95926" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0071" data-export-id="banana-body-dot-0071" data-part="object" data-output-role="graphic-dot" cx="41.8465" cy="82.40932" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0072" data-export-id="banana-body-dot-0072" data-part="object" data-output-role="graphic-dot" cx="39.96552" cy="81.7651" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0073" data-export-id="banana-body-dot-0073" data-part="object" data-output-role="graphic-dot" cx="38.11867" cy="81.02872" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0074" data-export-id="banana-body-dot-0074" data-part="object" data-output-role="graphic-dot" cx="36.31024" cy="80.20245" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0075" data-export-id="banana-body-dot-0075" data-part="object" data-output-role="graphic-dot" cx="34.54438" cy="79.28875" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0076" data-export-id="banana-body-dot-0076" data-part="object" data-output-role="graphic-dot" cx="32.82503" cy="78.29024" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0077" data-export-id="banana-body-dot-0077" data-part="object" data-output-role="graphic-dot" cx="31.15606" cy="77.20964" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0078" data-export-id="banana-body-dot-0078" data-part="object" data-output-role="graphic-dot" cx="29.54106" cy="76.04993" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0079" data-export-id="banana-body-dot-0079" data-part="object" data-output-role="graphic-dot" cx="27.98337" cy="74.81431" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0080" data-export-id="banana-body-dot-0080" data-part="object" data-output-role="graphic-dot" cx="26.48621" cy="73.50599" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0081" data-export-id="banana-body-dot-0081" data-part="object" data-output-role="graphic-dot" cx="25.05248" cy="72.12845" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0082" data-export-id="banana-body-dot-0082" data-part="object" data-output-role="graphic-dot" cx="23.68485" cy="70.68527" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0083" data-export-id="banana-body-dot-0083" data-part="object" data-output-role="graphic-dot" cx="22.38556" cy="69.18025" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0084" data-export-id="banana-body-dot-0084" data-part="object" data-output-role="graphic-dot" cx="21.15671" cy="67.61719" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0085" data-export-id="banana-body-dot-0085" data-part="object" data-output-role="graphic-dot" cx="20.0" cy="66.0" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0086" data-export-id="banana-body-dot-0086" data-part="object" data-output-role="graphic-dot" cx="18.9118" cy="64.29155" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0087" data-export-id="banana-body-dot-0087" data-part="object" data-output-role="graphic-dot" cx="17.89646" cy="62.53881" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0088" data-export-id="banana-body-dot-0088" data-part="object" data-output-role="graphic-dot" cx="16.95677" cy="60.74439" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0089" data-export-id="banana-body-dot-0089" data-part="object" data-output-role="graphic-dot" cx="16.09544" cy="58.91108" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0090" data-export-id="banana-body-dot-0090" data-part="object" data-output-role="graphic-dot" cx="15.31494" cy="57.04192" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0091" data-export-id="banana-body-dot-0091" data-part="object" data-output-role="graphic-dot" cx="14.61767" cy="55.14015" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0092" data-export-id="banana-body-dot-0092" data-part="object" data-output-role="graphic-dot" cx="14.00584" cy="53.20919" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0093" data-export-id="banana-body-dot-0093" data-part="object" data-output-role="graphic-dot" cx="13.48146" cy="51.25269" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0094" data-export-id="banana-body-dot-0094" data-part="object" data-output-role="graphic-dot" cx="13.04634" cy="49.27442" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0095" data-export-id="banana-body-dot-0095" data-part="object" data-output-role="graphic-dot" cx="12.70223" cy="47.27831" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0096" data-export-id="banana-body-dot-0096" data-part="object" data-output-role="graphic-dot" cx="12.4506" cy="45.26845" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0097" data-export-id="banana-body-dot-0097" data-part="object" data-output-role="graphic-dot" cx="12.2929" cy="43.24905" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0098" data-export-id="banana-body-dot-0098" data-part="object" data-output-role="graphic-dot" cx="12.23029" cy="41.22447" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0099" data-export-id="banana-body-dot-0099" data-part="object" data-output-role="graphic-dot" cx="12.26383" cy="39.19921" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0100" data-export-id="banana-body-dot-0100" data-part="object" data-output-role="graphic-dot" cx="12.39445" cy="37.17789" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0101" data-export-id="banana-body-dot-0101" data-part="object" data-output-role="graphic-dot" cx="12.62289" cy="35.16528" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0102" data-export-id="banana-body-dot-0102" data-part="object" data-output-role="graphic-dot" cx="12.94977" cy="33.16631" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0103" data-export-id="banana-body-dot-0103" data-part="object" data-output-role="graphic-dot" cx="13.37553" cy="31.18603" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0104" data-export-id="banana-body-dot-0104" data-part="object" data-output-role="graphic-dot" cx="13.90029" cy="29.22968" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0105" data-export-id="banana-body-dot-0105" data-part="object" data-output-role="graphic-dot" cx="14.52416" cy="27.30264" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0106" data-export-id="banana-body-dot-0106" data-part="object" data-output-role="graphic-dot" cx="15.24676" cy="25.41041" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0107" data-export-id="banana-body-dot-0107" data-part="object" data-output-role="graphic-dot" cx="16.06765" cy="23.55872" r=".6" fill="#000000" />
+      <circle id="index-banana-body-dot-0108" data-export-id="banana-body-dot-0108" data-part="object" data-output-role="graphic-dot" cx="16.98583" cy="21.75329" r=".6" fill="#000000" />
+    </g>
+  </g>
+  <g id="banana-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.banana&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-shared-geometry-policy="exact-continuous-geometry-reuse" data-design-reason="Reuse exact continuous geometry. Banana and apple bodies and orange segment surfaces are lower grey; contours, apple stem and orange separators higher black. Orange core stays white unraised. No measured-height or material claim.">
+    <use id="viewplus-background" data-export-id="background" data-part="background" data-height-role="background" fill="#ffffff" href="#banana-background-geometry" data-shared-geometry="banana-background-geometry" />
+    <use id="viewplus-banana-body-area" data-export-id="banana-body-area" data-part="area-texture" data-height-role="lower-area" href="#banana-body-geometry" data-shared-geometry="banana-body-geometry" fill="#808080" stroke="none" />
+    <use id="viewplus-banana-body" data-export-id="banana-body-relief" data-part="object" data-height-role="principal-line" href="#banana-body-geometry" data-shared-geometry="banana-body-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

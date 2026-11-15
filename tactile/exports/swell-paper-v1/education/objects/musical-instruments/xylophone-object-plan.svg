@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.xylophone-object-plan" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="220mm" viewBox="0 0 200 220" width="200mm"><rect width="200" height="220" fill="#ffffff" data-part="background" id="background" />
+    <path d="M26.0 22 L68 22 L132 22 L174.0 22 L174.0 30 L132 30 L68 30 L26.0 30 L26.0 22" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="wooden-bar-selected-1" />
+    <path d="M30.0 44 L68 44 L132 44 L170.0 44 L170.0 52 L132 52 L68 52 L30.0 52 L30.0 44" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="wooden-bar-selected-2" />
+    <path d="M34.0 66 L68 66 L132 66 L166.0 66 L166.0 74 L132 74 L68 74 L34.0 74 L34.0 66" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="wooden-bar-selected-3" />
+    <path d="M38.0 88 L68 88 L132 88 L162.0 88 L162.0 96 L132 96 L68 96 L38.0 96 L38.0 88" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="wooden-bar-selected-4" />
+    <path d="M42.0 110 L68 110 L132 110 L158.0 110 L158.0 118 L132 118 L68 118 L42.0 118 L42.0 110" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="wooden-bar-selected-5" />
+    <path d="M46.0 132 L68 132 L132 132 L154.0 132 L154.0 140 L132 140 L68 140 L46.0 140 L46.0 132" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="wooden-bar-selected-6" />
+    <path d="M50.0 154 L68 154 L132 154 L150.0 154 L150.0 162 L132 162 L68 162 L50.0 162 L50.0 154" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="wooden-bar-selected-7" />
+    <path d="M54.0 176 L68 176 L132 176 L146.0 176 L146.0 184 L132 184 L68 184 L54.0 184 L54.0 176" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="wooden-bar-selected-8" />
+    <path d="M68 8 L68 22" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-end-upper" />
+    <path d="M68 184 L68 198" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-end-lower" />
+    <path d="M68 30 L68 44" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-between-bars-1" />
+    <path d="M68 52 L68 66" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-between-bars-2" />
+    <path d="M68 74 L68 88" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-between-bars-3" />
+    <path d="M68 96 L68 110" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-between-bars-4" />
+    <path d="M68 118 L68 132" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-between-bars-5" />
+    <path d="M68 140 L68 154" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-between-bars-6" />
+    <path d="M68 162 L68 176" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-frame-between-bars-7" />
+    <path d="M132 8 L132 22" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-end-upper" />
+    <path d="M132 184 L132 198" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-end-lower" />
+    <path d="M132 30 L132 44" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-between-bars-1" />
+    <path d="M132 52 L132 66" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-between-bars-2" />
+    <path d="M132 74 L132 88" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-between-bars-3" />
+    <path d="M132 96 L132 110" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-between-bars-4" />
+    <path d="M132 118 L132 132" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-between-bars-5" />
+    <path d="M132 140 L132 154" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-between-bars-6" />
+    <path d="M132 162 L132 176" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-frame-between-bars-7" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

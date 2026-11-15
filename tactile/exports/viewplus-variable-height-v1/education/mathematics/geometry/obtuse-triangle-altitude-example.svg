@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.obtuse-triangle-altitude-example" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="200mm" viewBox="0 0 280 200" width="280mm"><rect width="280" height="200" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <path d="M40 160L240 160L100 90Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="outer-geometric-shape" />
+    <path d="M100 90L100 160" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="altitude-line" />
+    <path d="M100 145L115 145L115 160" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="right-angle-relation-marker" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

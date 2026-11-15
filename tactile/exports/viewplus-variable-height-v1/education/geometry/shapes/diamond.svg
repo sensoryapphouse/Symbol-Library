@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.diamond" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <path d="M50.000000 15.000000L75.000000 50.000000L50.000000 85.000000L25.000000 50.000000Z" data-part="area-texture" data-tactile-role="area-texture" data-height-role="principal-area" fill="#000000" id="diamond-raised-area" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

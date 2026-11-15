@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.american-sycamore-leaf-example" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="340mm" viewBox="0 0 320 340" width="320mm"><rect width="320" height="340" fill="#ffffff" data-part="background" id="background" />
+    <path d="M160 25L181 61L197 51L196 83L215 112L247 105L263 90L267 111L295 96L283 135L299 146L276 160L246 181L277 211L262 224L259 237L225 245L195 249L181 260L160 265L139 260L125 249L95 245L61 237L58 224L43 211L74 181L44 160L21 146L37 135L25 96L53 111L57 90L73 105L105 112L124 83L123 51L139 61L160 25Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="blade-margin" />
+    <path d="M160 315L160 254" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="petiole-to-vein-junction" />
+    <path d="M160 254L160 25" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="major-vein-to-lobe-1" />
+    <path d="M160 254L295 96" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="major-vein-to-lobe-2" />
+    <path d="M160 254L277 211" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="major-vein-to-lobe-3" />
+    <path d="M160 254L25 96" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="major-vein-to-lobe-4" />
+    <path d="M160 254L43 211" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="major-vein-to-lobe-5" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

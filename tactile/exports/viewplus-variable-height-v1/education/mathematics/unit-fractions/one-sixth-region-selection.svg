@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.one-sixth-region-selection" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" data-height-role="background" id="background" />
+    <path d="M82 50A32 32 0 1 1 18 50A32 32 0 1 1 82 50Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="whole-circle" />
+    <path d="M50 50L50.000000000 18.000000000" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="radial-1" />
+    <path d="M50 50L77.712812921 34.000000000" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="radial-2" />
+    <path d="M50 50L77.712812921 66.000000000" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="radial-3" />
+    <path d="M50 50L50.000000000 82.000000000" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="radial-4" />
+    <path d="M50 50L22.287187079 66.000000000" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="radial-5" />
+    <path d="M50 50L22.287187079 34.000000000" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-height-role="principal-line" id="radial-6" />
+    <circle cx="58" cy="34" r="0.6" data-part="area-texture" fill="#000000" data-height-role="point" id="selected-region-point-0" />
+    <circle cx="62" cy="34" r="0.6" data-part="area-texture" fill="#000000" data-height-role="point" id="selected-region-point-1" />
+    <circle cx="58" cy="30" r="0.6" data-part="area-texture" fill="#000000" data-height-role="point" id="selected-region-point-2" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

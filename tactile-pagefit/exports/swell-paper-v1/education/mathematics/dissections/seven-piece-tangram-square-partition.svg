@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.seven-piece-tangram-square-partition" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M20 20 L20 140" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-00" />
+    <path d="M20 20 L80.0 80.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-01" />
+    <path d="M20 20 L140 20" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-02" />
+    <path d="M20 140 L50.0 110.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-03" />
+    <path d="M20 140 L80.0 140" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-04" />
+    <path d="M50.0 110.0 L80.0 80.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-05" />
+    <path d="M50.0 110.0 L110.0 110.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-06" />
+    <path d="M80.0 80.0 L110.0 50.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-07" />
+    <path d="M80.0 80.0 L110.0 110.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-08" />
+    <path d="M80.0 140 L110.0 110.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-09" />
+    <path d="M80.0 140 L140 140" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-10" />
+    <path d="M110.0 50.0 L140 20" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-11" />
+    <path d="M110.0 50.0 L140 80.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-12" />
+    <path d="M110.0 110.0 L140 80.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-13" />
+    <path d="M140 20 L140 80.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-14" />
+    <path d="M140 80.0 L140 140" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="partition-edge-15" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

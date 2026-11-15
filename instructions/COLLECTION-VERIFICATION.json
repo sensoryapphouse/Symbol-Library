@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-06",
+  "visual_named_meanings": 1000,
+  "visual_artifact_concepts": 1001,
+  "visual_master_files": 1003,
+  "visual_exports": 3003,
+  "tactile_meanings": 898,
+  "tactile_masters": 898,
+  "tactile_exports": 2694,
+  "every_retained_artwork_file_matches_original_sha256": false,
+  "all_exports_reproduced_byte_identically_with_retained_tools": true,
+  "physical_or_new_visual_validation_claimed": false,
+  "cleanup": {
+    "date": "2026-11-06",
+    "authority": "Keep finished symbols, editable masters and instructions/tools to make more; remove production debris.",
+    "old_project_files_removed": 44276,
+    "old_workspace_files_removed": 100230,
+    "old_project_logical_bytes_removed": 1858582381,
+    "old_workspace_logical_bytes_removed": 7433402949,
+    "artwork_copied_byte_identically_to_clean_collection": true,
+    "deleted_content": "Old working folders, research/source dumps, production/review histories, proofs, superseded and rejected versions, caches and old packages.",
+    "final_visual_master_files": 1003,
+    "final_tactile_master_files": 898,
+    "final_svg_exports": 5697
+  },
+  "latest_viewplus_shading_revision": {
+    "date": "2026-11-06",
+    "changed_meanings": [
+      {
+        "concept_id": "aac.cat-animal",
+        "master": "tactile/masters/animals/domestic/cat-animal-viewplus-shaded-v02.svg",
+        "old_master_sha256": "e87cb99a808f92be3aac51c2572643c1cb0a969a854873b40dd9ca7e8f9e17fa",
+        "new_master_sha256": "5177d2a6f4e0a469913379a7d399c9b1b4d368d41ce56680694ae479063c111d",
+        "whole_image_observation": "Whole1400pxrender: grey silhouette covers torso, head, fourlegsandcurvedtail. White gaps betweenlegs andinside tailcurve remain open; blackeye,muzzle andoutercontour stay visible.",
+        "geometry_coordinates_changed": false,
+        "other_profiles_byte_identical": true,
+        "physical_testing": "pending"
+      },
+      {
+        "concept_id": "aac.cow-animal",
+        "master": "tactile/masters/animals/domestic/cow-animal-viewplus-shaded-v02.svg",
+        "old_master_sha256": "2d4b099c05adf0af4fb936185b6aa67c73ad74c94ef512fcb8b892188c98569e",
+        "new_master_sha256": "936075b29dd86f9e5a67d5e09bdf1a8724d13bc41fc96e0609a7d91d1165d9ac",
+        "whole_image_observation": "Whole1400pxrender: grey body,head,legsandtail staywithintheexistingclosedshape. White legseparations andtail/bodygap remain clear; blackeye,nostril,muzzleboundaryandhoofclefts remain visible.",
+        "geometry_coordinates_changed": false,
+        "other_profiles_byte_identical": true,
+        "physical_testing": "pending"
+      },
+      {
+        "concept_id": "aac.dog-animal",
+        "master": "tactile/masters/animals/domestic/dog-animal-viewplus-shaded-v02.svg",
+        "old_master_sha256": "030526b2306191a96fd37de38a68bb027a2bce10afef2d5418a2772cae53bcd9",
+        "new_master_sha256": "6f635c50ef21c3680bf24b35fd38dfe8ca0f89c3df8275f289aa033c8ceeecc9",
+        "whole_image_observation": "Whole1400pxrender: grey body,head,tailandlegs remainwithintheoutline. Blackearboundary,eye,noseandmouth remain visible. White gaps betweenlegs remain open; earinterior sharesbodyfillwithitsownraisedoutline.",
+        "geometry_coordinates_changed": false,
+        "other_profiles_byte_identical": true,
+        "physical_testing": "pending"
+      }
+    ],
+    "note": "These were the three initial pilots; the completed broader assessment is recorded in VIEWPLUS-SHADING-ASSESSMENT.json."
+  },
+  "current_artwork_hashes_verified_against_catalogue": true,
+  "viewplus_assessment": "VIEWPLUS-SHADING-ASSESSMENT.json",
+  "index_and_swell_exports_unchanged_by_viewplus_assessment": 1796,
+  "completed_viewplus_shading_assessment": {
+    "date": "2026-11-06",
+    "assessed_meanings": 898,
+    "revised_viewplus": 163,
+    "retained_viewplus": 735,
+    "index_exports_byte_identical": 898,
+    "swell_exports_byte_identical": 898,
+    "visual_folder_byte_identical": true,
+    "reproduced_tactile_exports_byte_identically": 2694,
+    "whole_image_inspection_scope": "163 changed variants; not a new visual review of all 898",
+    "human_revision_review": "pending",
+    "physical_validation": "pending"
+  },
+  "copyright_metadata_update": {
+    "date": "2026-11-06",
+    "notice": "Copyright Sensory App House Ltd, CC BY-NC 4.0.",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "svg_files": 7598,
+    "masters": 1901,
+    "exports": 5697,
+    "all_rendered_element_attributes_and_text_unchanged": true,
+    "change_scope": "Non-visible metadata in all SVGs; visual export master-hash provenance updated. Earlier byte-identity claims concern the earlier shading operation.",
+    "reproduced_exports_byte_identically": 5697
+  }
+}

@@ -1,0 +1,289 @@
+UNREVIEWED GEOGRAPHIC/COORDINATE DRAFTS — awaiting human end review; physical, tactile, recognition and device-fit evaluation pending.
+
+GENERAL
+All three profiles are BLACK on white, with no visible letters/numbers/Braille. The external key and source-coordinate model are essential. Natural Earth supplies source geometry, not current legal recognition, navigation/survey accuracy or exhaustive tiny-island coverage. Retained source versions are explicit and different: world partition uses50m admin0 map units5.1.1; both polar views use the SAME110m physical land4.1.0. No promise is made that the two source generalisations coincide point for point. No country/coast outline was invented. All selected raw source records/parts/holes remain in the model. Source links: https://www.naturalearthdata.com/downloads/50m-cultural-vectors/ and https://www.naturalearthdata.com/downloads/110m-physical-vectors/ ; source political-boundary policy https://www.naturalearthdata.com/about/disputed-boundaries-policy/ .
+
+WORLD COUNTRY/TERRITORY PARTITION
+One north-up Greenwich-centred equirectangular world view, longitude-180to+180degrees, latitude-90to+90degrees, standard parallel0degrees. Horizontal coordinate is longitude, vertical coordinate is minus latitude, followed by the declared uniformmm fit. It is neither equal-area nor conformal: high-latitude sizes, distances and shapes are distorted. It is not a globe or a polar view.
+Exactly265 records of the retained Natural Earth5.1.1 admin0 map-unit dataset are included with every original stored ring. This is265 dataset cartographic records, NOT265 sovereign states, UN members, countries universally recognised or separate symbol meanings. Dependent territories and other map units may be separately represented; ADMIN/SOVEREIGNT/GEOUNIT and source convention remain in the model. Default de facto editorial boundaries are not adjudication of legal claims. This drawing has no alternate claim-line overlay or latest-border certification. Source member names and parentADMIN labels follow below as a dataset lookup only.
+Continuous lines are the source map-unit administrative network and land/water edges, with coincident source edges merged once. They are not rivers or routes. The outer DASHED rectangle is the cartographic cut/frame, not a national/coastal boundary or a rectangular Earth. Stored dateline/pole closure edges are retained raw but omitted from the geographical network: they are GIS cuts/caps, not real coasts or state borders. Genuine source contours ending at the dateline remain at the corresponding frame edges. Antarctica is not a rectangular country; the bottom frame is the distorted pole limit of this projection.
+Tiny countries/territories and islands are retained geometrically but may collapse into crowded strokes or individual carrier dots at this global scale. The draft does not promise every record is independently tactile-readable, and no enlarged regional or microstate insets are supplied. Data records are not counted from dot marks. No source tiny labels/capitals were copied.
+0: Zimbabwe — source ADMIN Zimbabwe; source TYPE Sovereign country.
+1: Zambia — source ADMIN Zambia; source TYPE Sovereign country.
+2: Yemen — source ADMIN Yemen; source TYPE Sovereign country.
+3: Vietnam — source ADMIN Vietnam; source TYPE Sovereign country.
+4: Venezuela — source ADMIN Venezuela; source TYPE Sovereign country.
+5: Vatican — source ADMIN Vatican; source TYPE Sovereign country.
+6: Vanuatu — source ADMIN Vanuatu; source TYPE Sovereign country.
+7: Uzbekistan — source ADMIN Uzbekistan; source TYPE Sovereign country.
+8: Uruguay — source ADMIN Uruguay; source TYPE Sovereign country.
+9: Federated States of Micronesia — source ADMIN Federated States of Micronesia; source TYPE Sovereign country.
+10: Marshall Islands — source ADMIN Marshall Islands; source TYPE Sovereign country.
+11: Northern Mariana Islands — source ADMIN Northern Mariana Islands; source TYPE Dependency.
+12: United States Virgin Islands — source ADMIN United States Virgin Islands; source TYPE Dependency.
+13: Guam — source ADMIN Guam; source TYPE Dependency.
+14: American Samoa — source ADMIN American Samoa; source TYPE Dependency.
+15: Puerto Rico — source ADMIN Puerto Rico; source TYPE Dependency.
+16: United States of America — source ADMIN United States of America; source TYPE Country.
+17: South Georgia and the Islands — source ADMIN South Georgia and the Islands; source TYPE Dependency.
+18: British Indian Ocean Territory — source ADMIN British Indian Ocean Territory; source TYPE Disputed.
+19: Saint Helena — source ADMIN Saint Helena; source TYPE Dependency.
+20: Pitcairn Islands — source ADMIN Pitcairn Islands; source TYPE Dependency.
+21: Anguilla — source ADMIN Anguilla; source TYPE Dependency.
+22: Falkland Islands — source ADMIN Falkland Islands; source TYPE Disputed.
+23: Cayman Islands — source ADMIN Cayman Islands; source TYPE Dependency.
+24: Bermuda — source ADMIN Bermuda; source TYPE Dependency.
+25: British Virgin Islands — source ADMIN British Virgin Islands; source TYPE Dependency.
+26: Turks and Caicos Islands — source ADMIN Turks and Caicos Islands; source TYPE Dependency.
+27: Montserrat — source ADMIN Montserrat; source TYPE Dependency.
+28: Jersey — source ADMIN Jersey; source TYPE Country.
+29: Guernsey — source ADMIN Guernsey; source TYPE Country.
+30: Isle of Man — source ADMIN Isle of Man; source TYPE Country.
+31: Wales — source ADMIN United Kingdom; source TYPE Geo unit.
+32: Scotland — source ADMIN United Kingdom; source TYPE Geo unit.
+33: Northern Ireland — source ADMIN United Kingdom; source TYPE Geo unit.
+34: England — source ADMIN United Kingdom; source TYPE Geo unit.
+35: United Arab Emirates — source ADMIN United Arab Emirates; source TYPE Sovereign country.
+36: Ukraine — source ADMIN Ukraine; source TYPE Sovereign country.
+37: Uganda — source ADMIN Uganda; source TYPE Sovereign country.
+38: Turkmenistan — source ADMIN Turkmenistan; source TYPE Sovereign country.
+39: Turkey — source ADMIN Turkey; source TYPE Sovereign country.
+40: Tunisia — source ADMIN Tunisia; source TYPE Sovereign country.
+41: Trinidad and Tobago — source ADMIN Trinidad and Tobago; source TYPE Sovereign country.
+42: Tonga — source ADMIN Tonga; source TYPE Sovereign country.
+43: Togo — source ADMIN Togo; source TYPE Sovereign country.
+44: East Timor — source ADMIN East Timor; source TYPE Sovereign country.
+45: Thailand — source ADMIN Thailand; source TYPE Sovereign country.
+46: Zanzibar — source ADMIN United Republic of Tanzania; source TYPE Geo unit.
+47: Tanzania — source ADMIN United Republic of Tanzania; source TYPE Sovereign country.
+48: Tajikistan — source ADMIN Tajikistan; source TYPE Sovereign country.
+49: Taiwan — source ADMIN Taiwan; source TYPE Sovereign country.
+50: Syria — source ADMIN Syria; source TYPE Sovereign country.
+51: Switzerland — source ADMIN Switzerland; source TYPE Sovereign country.
+52: Sweden — source ADMIN Sweden; source TYPE Sovereign country.
+53: eSwatini — source ADMIN eSwatini; source TYPE Sovereign country.
+54: Suriname — source ADMIN Suriname; source TYPE Sovereign country.
+55: South Sudan — source ADMIN South Sudan; source TYPE Sovereign country.
+56: Sudan — source ADMIN Sudan; source TYPE Sovereign country.
+57: Sri Lanka — source ADMIN Sri Lanka; source TYPE Sovereign country.
+58: Spain — source ADMIN Spain; source TYPE Sovereign country.
+59: South Korea — source ADMIN South Korea; source TYPE Sovereign country.
+60: South Africa — source ADMIN South Africa; source TYPE Sovereign country.
+61: Somalia — source ADMIN Somalia; source TYPE Sovereign country.
+62: Somaliland — source ADMIN Somaliland; source TYPE Sovereign country.
+63: Solomon Islands — source ADMIN Solomon Islands; source TYPE Sovereign country.
+64: Slovakia — source ADMIN Slovakia; source TYPE Sovereign country.
+65: Slovenia — source ADMIN Slovenia; source TYPE Sovereign country.
+66: Singapore — source ADMIN Singapore; source TYPE Sovereign country.
+67: Sierra Leone — source ADMIN Sierra Leone; source TYPE Sovereign country.
+68: Seychelles — source ADMIN Seychelles; source TYPE Sovereign country.
+69: Serbia — source ADMIN Republic of Serbia; source TYPE Geo unit.
+70: Vojvodina — source ADMIN Republic of Serbia; source TYPE Geo unit.
+71: Senegal — source ADMIN Senegal; source TYPE Sovereign country.
+72: Saudi Arabia — source ADMIN Saudi Arabia; source TYPE Sovereign country.
+73: São Tomé and Principe — source ADMIN São Tomé and Principe; source TYPE Sovereign country.
+74: San Marino — source ADMIN San Marino; source TYPE Sovereign country.
+75: Samoa — source ADMIN Samoa; source TYPE Sovereign country.
+76: Saint Vincent and the Grenadines — source ADMIN Saint Vincent and the Grenadines; source TYPE Sovereign country.
+77: Saint Lucia — source ADMIN Saint Lucia; source TYPE Sovereign country.
+78: Saint Kitts and Nevis — source ADMIN Saint Kitts and Nevis; source TYPE Sovereign country.
+79: Rwanda — source ADMIN Rwanda; source TYPE Sovereign country.
+80: Russia — source ADMIN Russia; source TYPE Sovereign country.
+81: Romania — source ADMIN Romania; source TYPE Sovereign country.
+82: Qatar — source ADMIN Qatar; source TYPE Sovereign country.
+83: Madeira — source ADMIN Portugal; source TYPE Geo unit.
+84: Portugal — source ADMIN Portugal; source TYPE Geo unit.
+85: Azores — source ADMIN Portugal; source TYPE Geo unit.
+86: Poland — source ADMIN Poland; source TYPE Sovereign country.
+87: Philippines — source ADMIN Philippines; source TYPE Sovereign country.
+88: Peru — source ADMIN Peru; source TYPE Sovereign country.
+89: Paraguay — source ADMIN Paraguay; source TYPE Sovereign country.
+90: Papua New Guinea — source ADMIN Papua New Guinea; source TYPE Geo unit.
+91: Bougainville — source ADMIN Papua New Guinea; source TYPE Geo unit.
+92: Panama — source ADMIN Panama; source TYPE Sovereign country.
+93: Palau — source ADMIN Palau; source TYPE Sovereign country.
+94: Pakistan — source ADMIN Pakistan; source TYPE Sovereign country.
+95: Oman — source ADMIN Oman; source TYPE Sovereign country.
+96: Norway — source ADMIN Norway; source TYPE Sovereign country.
+97: Jan Mayen — source ADMIN Norway; source TYPE Dependency.
+98: Svalbard — source ADMIN Norway; source TYPE Dependency.
+99: North Korea — source ADMIN North Korea; source TYPE Sovereign country.
+100: Nigeria — source ADMIN Nigeria; source TYPE Sovereign country.
+101: Niger — source ADMIN Niger; source TYPE Sovereign country.
+102: Nicaragua — source ADMIN Nicaragua; source TYPE Sovereign country.
+103: New Zealand — source ADMIN New Zealand; source TYPE Country.
+104: Niue — source ADMIN Niue; source TYPE Dependency.
+105: Tokelau — source ADMIN New Zealand; source TYPE Geo unit.
+106: Cook Islands — source ADMIN Cook Islands; source TYPE Dependency.
+107: Netherlands — source ADMIN Netherlands; source TYPE Country.
+108: Aruba — source ADMIN Aruba; source TYPE Country.
+109: Caribbean Netherlands — source ADMIN Netherlands; source TYPE Geo unit.
+110: Curaçao — source ADMIN Curaçao; source TYPE Country.
+111: Nepal — source ADMIN Nepal; source TYPE Sovereign country.
+112: Nauru — source ADMIN Nauru; source TYPE Sovereign country.
+113: Namibia — source ADMIN Namibia; source TYPE Sovereign country.
+114: Mozambique — source ADMIN Mozambique; source TYPE Sovereign country.
+115: Morocco — source ADMIN Morocco; source TYPE Sovereign country.
+116: Western Sahara — source ADMIN Western Sahara; source TYPE Indeterminate.
+117: Montenegro — source ADMIN Montenegro; source TYPE Sovereign country.
+118: Mongolia — source ADMIN Mongolia; source TYPE Sovereign country.
+119: Moldova — source ADMIN Moldova; source TYPE Sovereign country.
+120: Monaco — source ADMIN Monaco; source TYPE Sovereign country.
+121: Mexico — source ADMIN Mexico; source TYPE Sovereign country.
+122: Mauritius — source ADMIN Mauritius; source TYPE Sovereign country.
+123: Mauritania — source ADMIN Mauritania; source TYPE Sovereign country.
+124: Malta — source ADMIN Malta; source TYPE Sovereign country.
+125: Mali — source ADMIN Mali; source TYPE Sovereign country.
+126: Maldives — source ADMIN Maldives; source TYPE Sovereign country.
+127: Malaysia — source ADMIN Malaysia; source TYPE Sovereign country.
+128: Malawi — source ADMIN Malawi; source TYPE Sovereign country.
+129: Madagascar — source ADMIN Madagascar; source TYPE Sovereign country.
+130: North Macedonia — source ADMIN North Macedonia; source TYPE Sovereign country.
+131: Luxembourg — source ADMIN Luxembourg; source TYPE Sovereign country.
+132: Lithuania — source ADMIN Lithuania; source TYPE Sovereign country.
+133: Liechtenstein — source ADMIN Liechtenstein; source TYPE Sovereign country.
+134: Libya — source ADMIN Libya; source TYPE Sovereign country.
+135: Liberia — source ADMIN Liberia; source TYPE Sovereign country.
+136: Lesotho — source ADMIN Lesotho; source TYPE Sovereign country.
+137: Lebanon — source ADMIN Lebanon; source TYPE Sovereign country.
+138: Latvia — source ADMIN Latvia; source TYPE Sovereign country.
+139: Laos — source ADMIN Laos; source TYPE Sovereign country.
+140: Kyrgyzstan — source ADMIN Kyrgyzstan; source TYPE Sovereign country.
+141: Kuwait — source ADMIN Kuwait; source TYPE Sovereign country.
+142: Kosovo — source ADMIN Kosovo; source TYPE Disputed.
+143: Kiribati — source ADMIN Kiribati; source TYPE Sovereign country.
+144: Kenya — source ADMIN Kenya; source TYPE Sovereign country.
+145: Kazakhstan — source ADMIN Kazakhstan; source TYPE Sovereignty.
+146: Jordan — source ADMIN Jordan; source TYPE Sovereign country.
+147: Japan — source ADMIN Japan; source TYPE Sovereign country.
+148: Jamaica — source ADMIN Jamaica; source TYPE Sovereign country.
+149: Italy — source ADMIN Italy; source TYPE Sovereign country.
+150: Israel — source ADMIN Israel; source TYPE Disputed.
+151: Gaza — source ADMIN Palestine; source TYPE Geo unit.
+152: West Bank — source ADMIN Palestine; source TYPE Geo unit.
+153: Ireland — source ADMIN Ireland; source TYPE Sovereign country.
+154: Iraq — source ADMIN Iraq; source TYPE Sovereign country.
+155: Iran — source ADMIN Iran; source TYPE Sovereign country.
+156: Indonesia — source ADMIN Indonesia; source TYPE Sovereign country.
+157: India — source ADMIN India; source TYPE Sovereign country.
+158: Iceland — source ADMIN Iceland; source TYPE Sovereign country.
+159: Hungary — source ADMIN Hungary; source TYPE Sovereign country.
+160: Honduras — source ADMIN Honduras; source TYPE Sovereign country.
+161: Haiti — source ADMIN Haiti; source TYPE Sovereign country.
+162: Guyana — source ADMIN Guyana; source TYPE Sovereign country.
+163: Guinea-Bissau — source ADMIN Guinea-Bissau; source TYPE Sovereign country.
+164: Guinea — source ADMIN Guinea; source TYPE Sovereign country.
+165: Guatemala — source ADMIN Guatemala; source TYPE Sovereign country.
+166: Grenada — source ADMIN Grenada; source TYPE Sovereign country.
+167: Greece — source ADMIN Greece; source TYPE Sovereign country.
+168: Ghana — source ADMIN Ghana; source TYPE Sovereign country.
+169: Germany — source ADMIN Germany; source TYPE Sovereign country.
+170: Georgia — source ADMIN Georgia; source TYPE Geo unit.
+171: Gambia — source ADMIN Gambia; source TYPE Sovereign country.
+172: Gabon — source ADMIN Gabon; source TYPE Sovereign country.
+173: France — source ADMIN France; source TYPE Geo unit.
+174: Mayotte — source ADMIN France; source TYPE Disputed.
+175: Reunion — source ADMIN France; source TYPE Geo unit.
+176: Martinique — source ADMIN France; source TYPE Geo unit.
+177: Guadeloupe — source ADMIN France; source TYPE Geo unit.
+178: French Guiana — source ADMIN France; source TYPE Geo unit.
+179: Saint Pierre and Miquelon — source ADMIN Saint Pierre and Miquelon; source TYPE Dependency.
+180: Wallis and Futuna — source ADMIN Wallis and Futuna; source TYPE Dependency.
+181: Saint Martin — source ADMIN Saint Martin; source TYPE Dependency.
+182: Saint Barthelemy — source ADMIN Saint Barthelemy; source TYPE Dependency.
+183: French Polynesia — source ADMIN French Polynesia; source TYPE Dependency.
+184: New Caledonia — source ADMIN New Caledonia; source TYPE Dependency.
+185: French Southern and Antarctic Lands — source ADMIN French Southern and Antarctic Lands; source TYPE Dependency.
+186: Aland — source ADMIN Aland; source TYPE Country.
+187: Finland — source ADMIN Finland; source TYPE Country.
+188: Fiji — source ADMIN Fiji; source TYPE Sovereign country.
+189: Ethiopia — source ADMIN Ethiopia; source TYPE Sovereign country.
+190: Estonia — source ADMIN Estonia; source TYPE Sovereign country.
+191: Eritrea — source ADMIN Eritrea; source TYPE Sovereign country.
+192: Equatorial Guinea — source ADMIN Equatorial Guinea; source TYPE Sovereign country.
+193: El Salvador — source ADMIN El Salvador; source TYPE Sovereign country.
+194: Egypt — source ADMIN Egypt; source TYPE Sovereign country.
+195: Ecuador — source ADMIN Ecuador; source TYPE Sovereign country.
+196: Dominican Republic — source ADMIN Dominican Republic; source TYPE Sovereign country.
+197: Dominica — source ADMIN Dominica; source TYPE Sovereign country.
+198: Djibouti — source ADMIN Djibouti; source TYPE Sovereign country.
+199: Greenland — source ADMIN Greenland; source TYPE Country.
+200: Faroe Islands — source ADMIN Faroe Islands; source TYPE Dependency.
+201: Denmark — source ADMIN Denmark; source TYPE Country.
+202: Czechia — source ADMIN Czechia; source TYPE Sovereign country.
+203: Northern Cyprus — source ADMIN Northern Cyprus; source TYPE Sovereign country.
+204: Cyprus — source ADMIN Cyprus; source TYPE Sovereign country.
+205: Cuba — source ADMIN Cuba; source TYPE Sovereignty.
+206: Croatia — source ADMIN Croatia; source TYPE Sovereign country.
+207: Ivory Coast — source ADMIN Ivory Coast; source TYPE Sovereign country.
+208: Costa Rica — source ADMIN Costa Rica; source TYPE Sovereign country.
+209: Democratic Republic of the Congo — source ADMIN Democratic Republic of the Congo; source TYPE Sovereign country.
+210: Republic of the Congo — source ADMIN Republic of the Congo; source TYPE Sovereign country.
+211: Comoros — source ADMIN Comoros; source TYPE Sovereign country.
+212: Colombia — source ADMIN Colombia; source TYPE Sovereign country.
+213: China — source ADMIN China; source TYPE Country.
+214: Macao S.A.R — source ADMIN Macao S.A.R; source TYPE Country.
+215: Hong Kong S.A.R. — source ADMIN Hong Kong S.A.R.; source TYPE Country.
+216: Chile — source ADMIN Chile; source TYPE Sovereign country.
+217: Chad — source ADMIN Chad; source TYPE Sovereign country.
+218: Central African Republic — source ADMIN Central African Republic; source TYPE Sovereign country.
+219: Cabo Verde — source ADMIN Cabo Verde; source TYPE Sovereign country.
+220: Canada — source ADMIN Canada; source TYPE Sovereign country.
+221: Cameroon — source ADMIN Cameroon; source TYPE Sovereign country.
+222: Cambodia — source ADMIN Cambodia; source TYPE Sovereign country.
+223: Myanmar — source ADMIN Myanmar; source TYPE Sovereign country.
+224: Burundi — source ADMIN Burundi; source TYPE Sovereign country.
+225: Burkina Faso — source ADMIN Burkina Faso; source TYPE Sovereign country.
+226: Bulgaria — source ADMIN Bulgaria; source TYPE Sovereign country.
+227: Brunei — source ADMIN Brunei; source TYPE Sovereign country.
+228: Brazil — source ADMIN Brazil; source TYPE Sovereign country.
+229: Botswana — source ADMIN Botswana; source TYPE Sovereign country.
+230: Republic Srpska — source ADMIN Bosnia and Herzegovina; source TYPE Geo unit.
+231: Bosnia and Herzegovina — source ADMIN Bosnia and Herzegovina; source TYPE Geo unit.
+232: Bolivia — source ADMIN Bolivia; source TYPE Sovereign country.
+233: Bhutan — source ADMIN Bhutan; source TYPE Sovereign country.
+234: Benin — source ADMIN Benin; source TYPE Sovereign country.
+235: Belize — source ADMIN Belize; source TYPE Sovereign country.
+236: Flemish Region — source ADMIN Belgium; source TYPE Geo unit.
+237: Walloon Region — source ADMIN Belgium; source TYPE Geo unit.
+238: Brussels Capital Region — source ADMIN Belgium; source TYPE Geo unit.
+239: Belarus — source ADMIN Belarus; source TYPE Sovereign country.
+240: Barbados — source ADMIN Barbados; source TYPE Sovereign country.
+241: Bangladesh — source ADMIN Bangladesh; source TYPE Sovereign country.
+242: Bahrain — source ADMIN Bahrain; source TYPE Sovereign country.
+243: The Bahamas — source ADMIN The Bahamas; source TYPE Sovereign country.
+244: Azerbaijan — source ADMIN Azerbaijan; source TYPE Sovereign country.
+245: Austria — source ADMIN Austria; source TYPE Sovereign country.
+246: Australia — source ADMIN Australia; source TYPE Country.
+247: Christmas Island — source ADMIN Indian Ocean Territories; source TYPE Geo unit.
+248: Cocos (Keeling) Islands — source ADMIN Indian Ocean Territories; source TYPE Geo unit.
+249: Heard Island and McDonald Islands — source ADMIN Heard Island and McDonald Islands; source TYPE Dependency.
+250: Norfolk Island — source ADMIN Norfolk Island; source TYPE Dependency.
+251: Ashmore and Cartier Islands — source ADMIN Ashmore and Cartier Islands; source TYPE Dependency.
+252: Armenia — source ADMIN Armenia; source TYPE Sovereign country.
+253: Argentina — source ADMIN Argentina; source TYPE Sovereign country.
+254: Antigua — source ADMIN Antigua and Barbuda; source TYPE Geo unit.
+255: Barbuda — source ADMIN Antigua and Barbuda; source TYPE Geo unit.
+256: Angola — source ADMIN Angola; source TYPE Sovereign country.
+257: Andorra — source ADMIN Andorra; source TYPE Sovereign country.
+258: Algeria — source ADMIN Algeria; source TYPE Sovereign country.
+259: Albania — source ADMIN Albania; source TYPE Sovereign country.
+260: Afghanistan — source ADMIN Afghanistan; source TYPE Sovereign country.
+261: Siachen Glacier — source ADMIN Siachen Glacier; source TYPE Indeterminate.
+262: Antarctica — source ADMIN Antarctica; source TYPE Indeterminate.
+263: Sint Maarten — source ADMIN Sint Maarten; source TYPE Country.
+264: Tuvalu — source ADMIN Tuvalu; source TYPE Sovereign country.
+
+PAIRED POLAR HEMISPHERES
+LEFT is the NORTH-polar orthographic view (visible latitudes0to90degreesN); RIGHT is the SOUTH-polar orthographic view (latitudes0to90degreesS). They show the SAME Earth dataset through opposite pole-centred orthographic views, not two different planet identities or a time change. Both disks have radius150mm and use identical scale. Outer circles are hemisphere viewing limbs, NOT coasts, latitude areas or national borders. Coastline fragments stop at the equatorial limb without an invented horizon-closing coast. No administrative boundaries are printed. Only the selected coarse physical land/water-edge source is represented; it is not a current ice-shelf/physical-coast survey date or complete island catalogue.
+Greenwich0degrees is UP in BOTH disks. To preserve actual handedness when viewed from opposite poles,90degreesE is LEFT in the north view but RIGHT in the south view.90degreesW is opposite and180degrees is downward. This is an explicitly declared view rotation/orientation, not an accidental mirror or reversal of geographic east. The dashed upward radial reference is Greenwich, not a country boundary or route. The larger central solid marker is the respective pole location: it does not mean that the North Pole is land or mark a city/lake. Land around the South Pole and the Arctic ocean context must be taught with this key; no water/land texture code is asserted.
+Projection uses longitude relative to Greenwich: x=-sign*R*cos(latitude)*sin(longitude), screen y=-R*cos(latitude)*cos(longitude), sign=+1north and-1south. The respective pole is the origin. Geographic coast segments are clipped at the equator and densified by linear lon/lat interpolation to at most0.25degree increments before projection. This declares a piecewise-line approximation, not an independent maximum-error/cadence proof. Orthographic projection foreshortens toward the limb; this is not equal-area and apparent distance at the rim is not globe arc distance. Synthetic source dateline/pole closures are omitted transparently, with their raw source edges preserved.
+
+LONGITUDE/MERIDIAN GLOBE PLAN
+One equator-centred orthographic sphere, Greenwich central longitude, north upward. The three selected visible meridians have relative longitudes45degreesW,0degrees and45degreesE. Central Greenwich meridian is a vertical diameter. The west/east visible meridian arcs are exact SVG half-ellipses with horizontal semiaxisR*sin45degrees and vertical semiaxisR. Formula at latitudephi: x=R*sin(lambda)*cos(phi), y=-R*sin(phi). The selected values are independently introduced teaching values, not recovered unreadable source labels. No visible angle numbers or prime-meridian letters are printed.
+Each printed arc is the FRONT VISIBLE SEMICIRCLE from North Pole to South Pole. A complete3D great circle consists of that meridian together with its opposite longitude180degrees away. The hidden half is not printed as a second solid arc; no dashed hidden-meridian convention is asserted. All meridians meet both poles intentionally, including the central line: that convergence is the taught relation, not a defect to erase or a separate physical joint. Pole markers are larger introduced location cues. The outer sphere limb is a viewing reference, not another selected longitude, a particle orbit or a coastline.
+The dashed horizontal diameter is an equator reference; it is not a meridian or a latitude-comparison lesson. Apparent angles/gaps on the flattened view do not directly equal longitude angles on Earth. The two marked poles are not2countries, atom particles or raised-dot counts. The drawing has no country geography, north arrow, time-zone allocation or navigation bearing.
+
+MEDIUM/NOMINAL LIMITS
+Swell and ViewPlus use nominal1.4mm black contours. Index uses ordinary1.2mm black carrier dots targeted near5mm along the authored curves, not Braille/cities/populations/particles or semantic country/island counts. Near tiny geometry or intentional pole convergence, marks can crowd; no exhaustive clearance/cadence/topology, visual/tactile or learner-recognition review has been performed. Larger solid2.5mm-radius pole markers are location cues, not ordinary carrier dots. Dashed references appear as separated groups of carrier dots. No grey tint or height level establishes land/water, sovereignty or physical relief.
+Nominal world1000x550mm, paired polar680x360mm, longitude plan360x360mm;1SVGunit=1mm. These are selected purposeful layouts, not proved minimums, paper/device fit or optimised sizes. Downscaling changes line/dot/gap dimensions. No raster proofs, review packets or formal image approvals are provided. Human end review and independent advisory comments remain separate from unreviewed draft delivery.

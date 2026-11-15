@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="aac.sock" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="sock-provenance">{"editable_source": "This shared master only. Per-medium files are derived exports.", "revision": 3, "profiles": ["swell-paper-v1", "index-embossed-v1", "viewplus-variable-height-v1"], "brief_path": "planning/tactile-media/briefs/garments-018.json", "recipe_path": "planning/tactile-media/designs/swell-018.json", "physical_evaluation": "pending", "exception_policy": "Share compatible geometry across future profile layers; justify medium-specific dot layouts within this same master. No unmade profiles implied.", "supersedes_master": {"path": "tactile/masters/clothing/footwear/sock-v02.svg", "sha256": "760bd61bb5d1d45ef4096e515431a5bded4b469fbc180a94b4bcf085ae4e8909"}, "profile_addition": "viewplus", "profile_addition_recipe": "planning/tactile-media/designs/viewplus-018.json"}</metadata>
+  <defs>
+    <rect id="sock-background-geometry" data-part="background" width="100" height="100" />
+    <path id="sock-body-geometry" data-part="footwear" data-object="sock" data-tactile-role="raised-line" d="M28 28H54V55L80 66Q90 71 85 81Q80 90 70 86L29 70Q24 68 24 61L28 55Z" />
+    <path id="sock-cuff-geometry" data-part="footwear" data-object="sock" data-tactile-role="raised-line" d="M28 16H54V28H28Z" />
+  </defs>
+  <g id="sock-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.sock&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use id="swell-background" data-export-id="background" data-part="background" href="#sock-background-geometry" data-shared-geometry="sock-background-geometry" fill="#ffffff" />
+    <use id="swell-sock-body" data-export-id="sock-body-footprint" data-part="footwear" data-object="sock" data-tactile-role="raised-line" data-output-role="swell-footprint" href="#sock-body-geometry" data-shared-geometry="sock-body-geometry" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <use id="swell-sock-cuff" data-export-id="sock-cuff-footprint" data-part="footwear" data-object="sock" data-tactile-role="raised-line" data-output-role="swell-footprint" href="#sock-cuff-geometry" data-shared-geometry="sock-cuff-geometry" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="sock-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.sock&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-geometry-exception="index-explicit-dot-layout" data-exception-reason="Explicit Index alternatives sample the continuous contours near2mm pitch with1.2mm design circles. Centres closer than1.5mm are omitted at junctions. Sock and glove cuff boundaries are sampled once; shared junctions reuse dots. Shirt has one continuous silhouette. All dot alternatives remain within the same shared master. These are design positions, not measured hardware properties.">
+    <use id="index-background" data-export-id="background" data-part="background" fill="#ffffff" href="#sock-background-geometry" data-shared-geometry="sock-background-geometry" />
+    <g id="index-sock-cuff" data-export-id="sock-cuff-layout" data-part="footwear" data-tactile-role="raised-line" data-output-role="graphic-dot-row">
+      <circle id="index-sock-cuff-dot-0000" data-export-id="sock-cuff-dot-0000" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0001" data-export-id="sock-cuff-dot-0001" data-part="footwear" data-output-role="graphic-dot" cx="30.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0002" data-export-id="sock-cuff-dot-0002" data-part="footwear" data-output-role="graphic-dot" cx="32.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0003" data-export-id="sock-cuff-dot-0003" data-part="footwear" data-output-role="graphic-dot" cx="34.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0004" data-export-id="sock-cuff-dot-0004" data-part="footwear" data-output-role="graphic-dot" cx="36.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0005" data-export-id="sock-cuff-dot-0005" data-part="footwear" data-output-role="graphic-dot" cx="38.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0006" data-export-id="sock-cuff-dot-0006" data-part="footwear" data-output-role="graphic-dot" cx="40.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0007" data-export-id="sock-cuff-dot-0007" data-part="footwear" data-output-role="graphic-dot" cx="42.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0008" data-export-id="sock-cuff-dot-0008" data-part="footwear" data-output-role="graphic-dot" cx="44.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0009" data-export-id="sock-cuff-dot-0009" data-part="footwear" data-output-role="graphic-dot" cx="46.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0010" data-export-id="sock-cuff-dot-0010" data-part="footwear" data-output-role="graphic-dot" cx="48.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0011" data-export-id="sock-cuff-dot-0011" data-part="footwear" data-output-role="graphic-dot" cx="50.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0012" data-export-id="sock-cuff-dot-0012" data-part="footwear" data-output-role="graphic-dot" cx="52.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0013" data-export-id="sock-cuff-dot-0013" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0014" data-export-id="sock-cuff-dot-0014" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="18.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0015" data-export-id="sock-cuff-dot-0015" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="20.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0016" data-export-id="sock-cuff-dot-0016" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="22.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0017" data-export-id="sock-cuff-dot-0017" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="24.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0018" data-export-id="sock-cuff-dot-0018" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="26.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0019" data-export-id="sock-cuff-dot-0019" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0020" data-export-id="sock-cuff-dot-0020" data-part="footwear" data-output-role="graphic-dot" cx="52.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0021" data-export-id="sock-cuff-dot-0021" data-part="footwear" data-output-role="graphic-dot" cx="50.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0022" data-export-id="sock-cuff-dot-0022" data-part="footwear" data-output-role="graphic-dot" cx="48.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0023" data-export-id="sock-cuff-dot-0023" data-part="footwear" data-output-role="graphic-dot" cx="46.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0024" data-export-id="sock-cuff-dot-0024" data-part="footwear" data-output-role="graphic-dot" cx="44.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0025" data-export-id="sock-cuff-dot-0025" data-part="footwear" data-output-role="graphic-dot" cx="42.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0026" data-export-id="sock-cuff-dot-0026" data-part="footwear" data-output-role="graphic-dot" cx="40.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0027" data-export-id="sock-cuff-dot-0027" data-part="footwear" data-output-role="graphic-dot" cx="38.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0028" data-export-id="sock-cuff-dot-0028" data-part="footwear" data-output-role="graphic-dot" cx="36.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0029" data-export-id="sock-cuff-dot-0029" data-part="footwear" data-output-role="graphic-dot" cx="34.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0030" data-export-id="sock-cuff-dot-0030" data-part="footwear" data-output-role="graphic-dot" cx="32.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0031" data-export-id="sock-cuff-dot-0031" data-part="footwear" data-output-role="graphic-dot" cx="30.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0032" data-export-id="sock-cuff-dot-0032" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0033" data-export-id="sock-cuff-dot-0033" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="26.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0034" data-export-id="sock-cuff-dot-0034" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="24.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0035" data-export-id="sock-cuff-dot-0035" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="22.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0036" data-export-id="sock-cuff-dot-0036" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="20.0" r=".6" fill="#000000" />
+      <circle id="index-sock-cuff-dot-0037" data-export-id="sock-cuff-dot-0037" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="18.0" r=".6" fill="#000000" />
+    </g>
+    <g id="index-sock-body" data-export-id="sock-body-layout" data-part="footwear" data-tactile-role="raised-line" data-output-role="graphic-dot-row">
+      <circle id="index-sock-body-dot-0000" data-export-id="sock-body-dot-0000" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="29.92857" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0001" data-export-id="sock-body-dot-0001" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="31.85714" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0002" data-export-id="sock-body-dot-0002" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="33.78571" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0003" data-export-id="sock-body-dot-0003" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="35.71429" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0004" data-export-id="sock-body-dot-0004" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="37.64286" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0005" data-export-id="sock-body-dot-0005" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="39.57143" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0006" data-export-id="sock-body-dot-0006" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="41.5" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0007" data-export-id="sock-body-dot-0007" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="43.42857" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0008" data-export-id="sock-body-dot-0008" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="45.35714" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0009" data-export-id="sock-body-dot-0009" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="47.28571" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0010" data-export-id="sock-body-dot-0010" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="49.21429" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0011" data-export-id="sock-body-dot-0011" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="51.14286" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0012" data-export-id="sock-body-dot-0012" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="53.07143" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0013" data-export-id="sock-body-dot-0013" data-part="footwear" data-output-role="graphic-dot" cx="54.0" cy="55.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0014" data-export-id="sock-body-dot-0014" data-part="footwear" data-output-role="graphic-dot" cx="55.85714" cy="55.78571" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0015" data-export-id="sock-body-dot-0015" data-part="footwear" data-output-role="graphic-dot" cx="57.71429" cy="56.57143" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0016" data-export-id="sock-body-dot-0016" data-part="footwear" data-output-role="graphic-dot" cx="59.57143" cy="57.35714" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0017" data-export-id="sock-body-dot-0017" data-part="footwear" data-output-role="graphic-dot" cx="61.42857" cy="58.14286" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0018" data-export-id="sock-body-dot-0018" data-part="footwear" data-output-role="graphic-dot" cx="63.28571" cy="58.92857" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0019" data-export-id="sock-body-dot-0019" data-part="footwear" data-output-role="graphic-dot" cx="65.14286" cy="59.71429" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0020" data-export-id="sock-body-dot-0020" data-part="footwear" data-output-role="graphic-dot" cx="67.0" cy="60.5" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0021" data-export-id="sock-body-dot-0021" data-part="footwear" data-output-role="graphic-dot" cx="68.85714" cy="61.28571" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0022" data-export-id="sock-body-dot-0022" data-part="footwear" data-output-role="graphic-dot" cx="70.71429" cy="62.07143" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0023" data-export-id="sock-body-dot-0023" data-part="footwear" data-output-role="graphic-dot" cx="72.57143" cy="62.85714" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0024" data-export-id="sock-body-dot-0024" data-part="footwear" data-output-role="graphic-dot" cx="74.42857" cy="63.64286" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0025" data-export-id="sock-body-dot-0025" data-part="footwear" data-output-role="graphic-dot" cx="76.28571" cy="64.42857" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0026" data-export-id="sock-body-dot-0026" data-part="footwear" data-output-role="graphic-dot" cx="78.14286" cy="65.21429" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0027" data-export-id="sock-body-dot-0027" data-part="footwear" data-output-role="graphic-dot" cx="80.0" cy="66.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0028" data-export-id="sock-body-dot-0028" data-part="footwear" data-output-role="graphic-dot" cx="81.75591" cy="66.98958" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0029" data-export-id="sock-body-dot-0029" data-part="footwear" data-output-role="graphic-dot" cx="83.3796" cy="68.18258" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0030" data-export-id="sock-body-dot-0030" data-part="footwear" data-output-role="graphic-dot" cx="84.79019" cy="69.61953" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0031" data-export-id="sock-body-dot-0031" data-part="footwear" data-output-role="graphic-dot" cx="85.87134" cy="71.3163" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0032" data-export-id="sock-body-dot-0032" data-part="footwear" data-output-role="graphic-dot" cx="86.50729" cy="73.22416" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0033" data-export-id="sock-body-dot-0033" data-part="footwear" data-output-role="graphic-dot" cx="86.66044" cy="75.23027" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0034" data-export-id="sock-body-dot-0034" data-part="footwear" data-output-role="graphic-dot" cx="86.39413" cy="77.22618" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0035" data-export-id="sock-body-dot-0035" data-part="footwear" data-output-role="graphic-dot" cx="85.81098" cy="79.15479" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0036" data-export-id="sock-body-dot-0036" data-part="footwear" data-output-role="graphic-dot" cx="85.0" cy="81.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0037" data-export-id="sock-body-dot-0037" data-part="footwear" data-output-role="graphic-dot" cx="83.95638" cy="82.66103" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0038" data-export-id="sock-body-dot-0038" data-part="footwear" data-output-role="graphic-dot" cx="82.70999" cy="84.17498" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0039" data-export-id="sock-body-dot-0039" data-part="footwear" data-output-role="graphic-dot" cx="81.23586" cy="85.46675" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0040" data-export-id="sock-body-dot-0040" data-part="footwear" data-output-role="graphic-dot" cx="79.53856" cy="86.4451" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0041" data-export-id="sock-body-dot-0041" data-part="footwear" data-output-role="graphic-dot" cx="77.67132" cy="87.03714" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0042" data-export-id="sock-body-dot-0042" data-part="footwear" data-output-role="graphic-dot" cx="75.72133" cy="87.23069" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0043" data-export-id="sock-body-dot-0043" data-part="footwear" data-output-role="graphic-dot" cx="73.76694" cy="87.0748" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0044" data-export-id="sock-body-dot-0044" data-part="footwear" data-output-role="graphic-dot" cx="71.85379" cy="86.64236" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0045" data-export-id="sock-body-dot-0045" data-part="footwear" data-output-role="graphic-dot" cx="70.0" cy="86.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0046" data-export-id="sock-body-dot-0046" data-part="footwear" data-output-role="graphic-dot" cx="68.13636" cy="85.27273" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0047" data-export-id="sock-body-dot-0047" data-part="footwear" data-output-role="graphic-dot" cx="66.27273" cy="84.54545" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0048" data-export-id="sock-body-dot-0048" data-part="footwear" data-output-role="graphic-dot" cx="64.40909" cy="83.81818" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0049" data-export-id="sock-body-dot-0049" data-part="footwear" data-output-role="graphic-dot" cx="62.54545" cy="83.09091" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0050" data-export-id="sock-body-dot-0050" data-part="footwear" data-output-role="graphic-dot" cx="60.68182" cy="82.36364" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0051" data-export-id="sock-body-dot-0051" data-part="footwear" data-output-role="graphic-dot" cx="58.81818" cy="81.63636" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0052" data-export-id="sock-body-dot-0052" data-part="footwear" data-output-role="graphic-dot" cx="56.95455" cy="80.90909" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0053" data-export-id="sock-body-dot-0053" data-part="footwear" data-output-role="graphic-dot" cx="55.09091" cy="80.18182" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0054" data-export-id="sock-body-dot-0054" data-part="footwear" data-output-role="graphic-dot" cx="53.22727" cy="79.45455" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0055" data-export-id="sock-body-dot-0055" data-part="footwear" data-output-role="graphic-dot" cx="51.36364" cy="78.72727" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0056" data-export-id="sock-body-dot-0056" data-part="footwear" data-output-role="graphic-dot" cx="49.5" cy="78.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0057" data-export-id="sock-body-dot-0057" data-part="footwear" data-output-role="graphic-dot" cx="47.63636" cy="77.27273" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0058" data-export-id="sock-body-dot-0058" data-part="footwear" data-output-role="graphic-dot" cx="45.77273" cy="76.54545" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0059" data-export-id="sock-body-dot-0059" data-part="footwear" data-output-role="graphic-dot" cx="43.90909" cy="75.81818" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0060" data-export-id="sock-body-dot-0060" data-part="footwear" data-output-role="graphic-dot" cx="42.04545" cy="75.09091" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0061" data-export-id="sock-body-dot-0061" data-part="footwear" data-output-role="graphic-dot" cx="40.18182" cy="74.36364" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0062" data-export-id="sock-body-dot-0062" data-part="footwear" data-output-role="graphic-dot" cx="38.31818" cy="73.63636" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0063" data-export-id="sock-body-dot-0063" data-part="footwear" data-output-role="graphic-dot" cx="36.45455" cy="72.90909" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0064" data-export-id="sock-body-dot-0064" data-part="footwear" data-output-role="graphic-dot" cx="34.59091" cy="72.18182" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0065" data-export-id="sock-body-dot-0065" data-part="footwear" data-output-role="graphic-dot" cx="32.72727" cy="71.45455" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0066" data-export-id="sock-body-dot-0066" data-part="footwear" data-output-role="graphic-dot" cx="30.86364" cy="70.72727" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0067" data-export-id="sock-body-dot-0067" data-part="footwear" data-output-role="graphic-dot" cx="29.0" cy="70.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0068" data-export-id="sock-body-dot-0068" data-part="footwear" data-output-role="graphic-dot" cx="27.38596" cy="69.13487" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0069" data-export-id="sock-body-dot-0069" data-part="footwear" data-output-role="graphic-dot" cx="26.03667" cy="67.89849" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0070" data-export-id="sock-body-dot-0070" data-part="footwear" data-output-role="graphic-dot" cx="25.04658" cy="66.35857" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0071" data-export-id="sock-body-dot-0071" data-part="footwear" data-output-role="graphic-dot" cx="24.41977" cy="64.6367" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0072" data-export-id="sock-body-dot-0072" data-part="footwear" data-output-role="graphic-dot" cx="24.0947" cy="62.83202" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0073" data-export-id="sock-body-dot-0073" data-part="footwear" data-output-role="graphic-dot" cx="24.0" cy="61.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0074" data-export-id="sock-body-dot-0074" data-part="footwear" data-output-role="graphic-dot" cx="25.0" cy="59.5" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0075" data-export-id="sock-body-dot-0075" data-part="footwear" data-output-role="graphic-dot" cx="26.0" cy="58.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0076" data-export-id="sock-body-dot-0076" data-part="footwear" data-output-role="graphic-dot" cx="27.0" cy="56.5" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0077" data-export-id="sock-body-dot-0077" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="55.0" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0078" data-export-id="sock-body-dot-0078" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="53.07143" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0079" data-export-id="sock-body-dot-0079" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="51.14286" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0080" data-export-id="sock-body-dot-0080" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="49.21429" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0081" data-export-id="sock-body-dot-0081" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="47.28571" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0082" data-export-id="sock-body-dot-0082" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="45.35714" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0083" data-export-id="sock-body-dot-0083" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="43.42857" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0084" data-export-id="sock-body-dot-0084" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="41.5" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0085" data-export-id="sock-body-dot-0085" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="39.57143" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0086" data-export-id="sock-body-dot-0086" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="37.64286" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0087" data-export-id="sock-body-dot-0087" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="35.71429" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0088" data-export-id="sock-body-dot-0088" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="33.78571" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0089" data-export-id="sock-body-dot-0089" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="31.85714" r=".6" fill="#000000" />
+      <circle id="index-sock-body-dot-0090" data-export-id="sock-body-dot-0090" data-part="footwear" data-output-role="graphic-dot" cx="28.0" cy="29.92857" r=".6" fill="#000000" />
+    </g>
+  </g>
+  <g id="sock-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.sock&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-shared-geometry-policy="exact-continuous-geometry-reuse" data-design-reason="Reuse exact continuous geometry. Sock, glove and T-shirt surfaces receive lower grey areas bounded by higher black lines. Exterior finger valleys and shirt neckline stay white unraised. Original painter order retains single visible cuff contacts. No measured height or material shading.">
+    <use id="viewplus-background" data-export-id="background" data-part="background" data-height-role="background" fill="#ffffff" href="#sock-background-geometry" data-shared-geometry="sock-background-geometry" />
+    <use id="viewplus-sock-body-area" data-export-id="sock-body-area" data-part="area-texture" data-height-role="lower-area" href="#sock-body-geometry" data-shared-geometry="sock-body-geometry" fill="#808080" stroke="none" />
+    <use id="viewplus-sock-body" data-export-id="sock-body-relief" data-part="footwear" data-height-role="principal-line" href="#sock-body-geometry" data-shared-geometry="sock-body-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <use id="viewplus-sock-cuff-area" data-export-id="sock-cuff-area" data-part="area-texture" data-height-role="lower-area" href="#sock-cuff-geometry" data-shared-geometry="sock-cuff-geometry" fill="#808080" stroke="none" />
+    <use id="viewplus-sock-cuff" data-export-id="sock-cuff-relief" data-part="footwear" data-height-role="principal-line" href="#sock-cuff-geometry" data-shared-geometry="sock-cuff-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

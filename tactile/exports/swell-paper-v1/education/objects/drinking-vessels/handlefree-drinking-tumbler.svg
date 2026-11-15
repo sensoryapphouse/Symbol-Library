@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.handlefree-drinking-tumbler" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="120mm" viewBox="0 0 120 120" width="120mm"><rect width="120" height="120" data-part="background" fill="#ffffff" id="background" />
+    <path d="M28.000000000 22.000000000L38.000000000 94.000000000 M38.000000000 94.000000000L82.000000000 94.000000000 M82.000000000 94.000000000L92.000000000 22.000000000" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="vessel-side-and-base" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

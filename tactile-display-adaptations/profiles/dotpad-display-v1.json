@@ -1,0 +1,31 @@
+{
+  "status": "draft",
+  "production_ready": false,
+  "physical_evaluation": "pending",
+  "artwork_text": false,
+  "braille_characters": false,
+  "height_levels": [
+    0,
+    1
+  ],
+  "line_width_pins": 1,
+  "minimum_separation_empty_pins": 1,
+  "maximum_area_patterns": 3,
+  "design_method": "Independently authored discrete pin-grid design; not an automatic conversion from a paper export.",
+  "data_pins_encoding": "40 row-major strings of 0/1 separated by a single ASCII space; first row is the top row; first column is left. 1=raised, 0=lowered.",
+  "svg_representation": "One black rect per raised pin, width=1 height=1 at integer x,y. No background drawing element; no grayscale, variable stroke weights, visible text or Braille.",
+  "review": "Digital shape/meaning/grid inspection is required for each exported design; actual device and touch evaluation remains pending.",
+  "profile_id": "dotpad-display-v1",
+  "pin_columns": 60,
+  "pin_rows": 40,
+  "viewBox": "0 0 60 40",
+  "model": "Dot Pad",
+  "pin_spacing_mm": null,
+  "pin_spacing_status": "Unconfirmed. No physical millimetre spacing assumed. Design assumes equal horizontal/vertical unit pin pitch only; verify physical pitch with Dot.",
+  "assumed_coordinate_spacing_pins": 1,
+  "separate_braille_line": "20-cell text line excluded from graphics grid.",
+  "sources": [
+    "https://www.dotincorp.com/en/product/pad"
+  ],
+  "grid_basis": "60 x 40 graphics pins required by the supplied integration instruction."
+}

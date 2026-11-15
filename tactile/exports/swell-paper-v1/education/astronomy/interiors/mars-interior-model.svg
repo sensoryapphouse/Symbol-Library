@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.mars-interior-model" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="280mm" viewBox="0 0 280 280" width="280mm"><rect width="280" height="280" fill="#ffffff" data-part="background" id="background" />
+    <path d="M206 140A66 66 0 1 0 74 140A66 66 0 1 0 206 140" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="aggregate-metal-rich-core-outer-boundary" />
+    <path d="M254 140A114 114 0 1 0 26 140A114 114 0 1 0 254 140" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="rocky-mantle-outer-boundary" />
+    <path d="M260 140A120 120 0 1 0 20 140A120 120 0 1 0 260 140" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="rocky-crust-exaggerated-for-teaching-outer-boundary" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

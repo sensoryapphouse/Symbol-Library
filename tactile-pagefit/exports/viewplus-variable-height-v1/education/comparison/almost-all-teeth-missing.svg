@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.almost-all-teeth-missing" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <rect x="5" y="30" width="40" height="6" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-spine" data-height-role="principal-area" id="intact-spine" />
+    <rect x="7" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="intact-tooth-1" />
+    <rect x="12" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="intact-tooth-2" />
+    <rect x="17" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="intact-tooth-3" />
+    <rect x="22" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="intact-tooth-4" />
+    <rect x="27" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="intact-tooth-5" />
+    <rect x="32" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="intact-tooth-6" />
+    <rect x="37" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="intact-tooth-7" />
+    <rect x="42" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="intact-tooth-8" />
+    <rect x="55" y="30" width="40" height="6" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-spine" data-height-role="principal-area" id="missing-spine" />
+    <rect x="92" y="35" width="2" height="31" data-part="area-texture" fill="#000000" stroke="none" data-feature="comb-tooth" data-height-role="principal-area" id="missing-tooth-8" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

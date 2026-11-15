@@ -1,0 +1,327 @@
+{
+  "batch": 373,
+  "canvas_mm": [
+    1000,
+    1000
+  ],
+  "subjects": {
+    "aac.monkey-animal": {
+      "kind": "adult-rhesus-quadrupedal-lateral",
+      "paths": {
+        "quadrupedal-body-tail-and-four-limb-silhouette": {
+          "kind": "path",
+          "spec": "M200 450 C250 350 400 330 560 350 C610 350 630 320 660 300 C680 240 730 230 770 270 C795 285 805 310 800 325 C835 335 850 350 850 370 C850 390 820 410 790 415 C760 430 730 440 710 470 L730 625 C740 650 750 660 770 670 C785 675 795 685 790 700 L715 700 C700 695 700 670 695 645 L670 525 L650 525 L650 640 C650 660 670 675 685 680 C700 685 700 700 680 705 L620 705 C600 690 600 660 600 640 L575 565 C530 590 490 595 450 580 L450 635 C460 660 480 670 495 675 C510 680 510 695 490 700 L425 700 C410 680 405 650 395 635 L365 590 C350 620 340 640 335 660 C350 675 365 680 370 690 C375 700 360 710 345 710 L285 710 C270 690 270 660 280 630 L300 550 C260 550 230 520 220 500 C180 490 160 460 140 440 C110 410 95 410 85 410 C70 435 55 445 55 430 C55 410 58 395 75 385 C95 405 125 395 150 395 C170 410 185 430 200 450 Z",
+          "role": "One adult rhesus lateral body, head, shorter nonprehensile tail and four staggered limb terminal silhouettes; no human open-palm template."
+        },
+        "near-ear-outline": {
+          "kind": "ellipse",
+          "spec": [
+            710,
+            300,
+            17,
+            21
+          ],
+          "role": "Visible near-side ear; far ear occluded."
+        },
+        "near-eye-outline": {
+          "kind": "ellipse",
+          "spec": [
+            767,
+            320,
+            8,
+            7
+          ],
+          "role": "One visible near-side eye; far eye occluded."
+        },
+        "near-nostril-outline": {
+          "kind": "ellipse",
+          "spec": [
+            824,
+            365,
+            6,
+            6
+          ],
+          "role": "One introduced visible nostril, not an eye."
+        },
+        "closed-mouth-line": {
+          "kind": "path",
+          "spec": "M800 390 L826 390",
+          "role": "Closed neutral mouth; no smile or emotional interpretation."
+        }
+      },
+      "semantic_counts": {
+        "animals": 1,
+        "limbs": 4,
+        "forelimbs": 2,
+        "hindlimbs": 2,
+        "tail": 1,
+        "visible_eyes": 1,
+        "visible_ears": 1
+      },
+      "source_scope": {
+        "orientation": "Right-facing lateral, four staggered limbs; no source photo traced.",
+        "limb_allocation": "Forelimb terminalgroups x620..700 and715..795; hindlimb terminalgroups x285..375 and425..510. Fore/hind pairs deliberately staggered in projection. Four terminal groups, not four human palms.",
+        "digits": "Digits coalesce within lateral hand/foot terminal groups. Opposable thumb/first toe documented from primary text but partly occluded/edge-on, not individually counted or drawn as human extended fingers. No paw nail or exact digit-count claim.",
+        "tail": "Shorter than body, free nonprehensile tail; no branch grasp or tail-supported pose.",
+        "support": "Four introduced limb groups near a common not-printed ground zone; a static stance, not a measured gait or load distribution."
+      },
+      "intended_contact_pairs": [],
+      "unique_contact_locations_mm": [],
+      "joint_and_contact_model": {
+        "orientation": "Right-facing lateral, four staggered limbs; no source photo traced.",
+        "limb_allocation": "Forelimb terminalgroups x620..700 and715..795; hindlimb terminalgroups x285..375 and425..510. Fore/hind pairs deliberately staggered in projection. Four terminal groups, not four human palms.",
+        "digits": "Digits coalesce within lateral hand/foot terminal groups. Opposable thumb/first toe documented from primary text but partly occluded/edge-on, not individually counted or drawn as human extended fingers. No paw nail or exact digit-count claim.",
+        "tail": "Shorter than body, free nonprehensile tail; no branch grasp or tail-supported pose.",
+        "support": "Four introduced limb groups near a common not-printed ground zone; a static stance, not a measured gait or load distribution."
+      }
+    },
+    "edu.pinniped-ball-contact-context": {
+      "kind": "California-sea-lion-static-side-ball-contact",
+      "paths": {
+        "body-neck-snout-near-foreflipper-near-hindflipper": {
+          "kind": "path",
+          "spec": "M540 280 C520 250 540 215 570 220 C600 223 620 220 650 200 L670 230 C680 250 665 270 640 280 C620 290 610 315 605 350 C600 390 600 430 580 480 C565 510 560 540 565 560 C580 600 610 640 645 675 C670 710 700 750 700 790 C700 810 680 820 660 810 C625 795 590 750 560 710 C550 700 540 700 530 710 C500 750 460 775 410 780 C370 785 330 780 300 770 L220 820 C200 830 175 835 160 825 C160 810 180 795 210 780 L260 750 C250 725 255 700 270 680 C290 640 330 625 370 610 C420 595 430 540 440 490 C450 430 480 380 510 340 C530 310 540 295 540 280 Z",
+          "role": "Adult female California sea lion lateral outline, upright neck, narrow upward snout, one long visible foreflipper and near hindflipper. Far foreflipper occluded by trunk."
+        },
+        "far-hindflipper-visible-boundary": {
+          "kind": "path",
+          "spec": "M270 680 C230 685 170 705 135 735 C125 745 125 760 140 765 C170 775 220 720 260 750",
+          "role": "Second hindflipper visible beyond rear body; joined at exact two contour roots."
+        },
+        "near-external-ear-flap": {
+          "kind": "ellipse",
+          "spec": [
+            560,
+            300,
+            9,
+            15
+          ],
+          "role": "Near-side visible external ear flap; far ear occluded."
+        },
+        "near-eye-outline": {
+          "kind": "ellipse",
+          "spec": [
+            600,
+            255,
+            7,
+            7
+          ],
+          "role": "Visible near-side eye, no extra eye from ball."
+        },
+        "closed-mouth-line": {
+          "kind": "path",
+          "spec": "M615 275 L640 260",
+          "role": "Sparse closed mouth line below snout contact."
+        },
+        "single-ball-outline": {
+          "kind": "ellipse",
+          "spec": [
+            650,
+            130,
+            70,
+            70
+          ],
+          "role": "One introduced ball touches underside at650,200; static contact lesson, not real performance."
+        }
+      },
+      "semantic_counts": {
+        "animals": 1,
+        "ball": 1,
+        "anatomical_flippers": 4,
+        "visible_foreflippers": 1,
+        "occluded_foreflippers": 1,
+        "visible_hindflippers": 2,
+        "visible_ears": 1,
+        "visible_eyes": 1
+      },
+      "source_scope": {
+        "orientation": "Slender adult female California sea lion right-facing lateral with upright neck; no male crest.",
+        "support": "Near foreflipper and rear body/hindflipper zone support static introduced pose. Far foreflipper wholly occluded behind trunk; two separate hindflipper allocations visible.",
+        "ball": "Circle centre650,130 radius70 touches snout at underside650,200. Introduced contour point-contact approximates rounded snout under tactile separation constraints, not a trained/wild performance or force equilibrium.",
+        "ears": "Near external ear flap delineated on projected head/neck surface; far ear hidden."
+      },
+      "intended_contact_pairs": [
+        [
+          "body-neck-snout-near-foreflipper-near-hindflipper",
+          "far-hindflipper-visible-boundary"
+        ],
+        [
+          "body-neck-snout-near-foreflipper-near-hindflipper",
+          "single-ball-outline"
+        ]
+      ],
+      "unique_contact_locations_mm": [
+        [
+          270,
+          680
+        ],
+        [
+          260,
+          750
+        ],
+        [
+          650,
+          200
+        ]
+      ],
+      "joint_and_contact_model": {
+        "orientation": "Slender adult female California sea lion right-facing lateral with upright neck; no male crest.",
+        "support": "Near foreflipper and rear body/hindflipper zone support static introduced pose. Far foreflipper wholly occluded behind trunk; two separate hindflipper allocations visible.",
+        "ball": "Circle centre650,130 radius70 touches snout at underside650,200. Introduced contour point-contact approximates rounded snout under tactile separation constraints, not a trained/wild performance or force equilibrium.",
+        "ears": "Near external ear flap delineated on projected head/neck surface; far ear hidden."
+      }
+    },
+    "aac.tiger-animal": {
+      "kind": "selected-frontal-tiger-head",
+      "paths": {
+        "head-with-two-rounded-ears-outline": {
+          "kind": "path",
+          "spec": "M250 300 C230 230 235 180 270 170 C310 155 345 180 360 220 C440 185 560 185 640 220 C655 180 690 155 730 170 C765 180 770 230 750 300 C820 350 830 450 800 550 C785 640 720 715 630 750 C550 790 450 790 370 750 C280 715 215 640 200 550 C170 450 180 350 250 300 Z",
+          "role": "Selected frontal tiger HEAD only, two rounded ear protrusions, no mane or whole-animal claim."
+        },
+        "left-ear-inner": {
+          "kind": "ellipse",
+          "spec": [
+            290,
+            220,
+            22,
+            24
+          ],
+          "role": "Inner near/frontal left ear detail."
+        },
+        "right-ear-inner": {
+          "kind": "ellipse",
+          "spec": [
+            710,
+            220,
+            22,
+            24
+          ],
+          "role": "Inner near/frontal right ear detail."
+        },
+        "left-eye": {
+          "kind": "ellipse",
+          "spec": [
+            350,
+            420,
+            24,
+            18
+          ],
+          "role": "One left eye outline, no pupil point."
+        },
+        "right-eye": {
+          "kind": "ellipse",
+          "spec": [
+            650,
+            420,
+            24,
+            18
+          ],
+          "role": "One right eye outline, no pupil point."
+        },
+        "muzzle-outline": {
+          "kind": "ellipse",
+          "spec": [
+            500,
+            600,
+            130,
+            75
+          ],
+          "role": "Single broad paired-cheek muzzle reference, not another head."
+        },
+        "nose-outline": {
+          "kind": "path",
+          "spec": "M470 560 C480 550 520 550 530 560 C530 570 510 585 500 590 C490 585 470 570 470 560 Z",
+          "role": "One nose, lower tip meets philtrum."
+        },
+        "philtrum": {
+          "kind": "path",
+          "spec": "M500 590 L500 625",
+          "role": "Actual nose-to-mouth junction line."
+        },
+        "mouth": {
+          "kind": "path",
+          "spec": "M450 625 C470 645 490 645 500 625 C510 645 530 645 550 625",
+          "role": "Sparse mouth joining philtrum; not emotion or exact dental anatomy."
+        },
+        "forehead-centre-stripe": {
+          "kind": "path",
+          "spec": "M490 250 C480 260 480 310 490 340 C495 350 505 350 510 340 C520 310 520 260 510 250 C505 240 495 240 490 250 Z",
+          "role": "Introduced broad stripe outline, not eye/tissue wall."
+        },
+        "forehead-left-stripe": {
+          "kind": "path",
+          "spec": "M365 275 C375 265 405 295 430 330 C440 345 430 355 420 345 C390 320 360 290 365 275 Z",
+          "role": "Introduced broad stripe outline separated from eye."
+        },
+        "forehead-right-stripe": {
+          "kind": "path",
+          "spec": "M635 275 C625 265 595 295 570 330 C560 345 570 355 580 345 C610 320 640 290 635 275 Z",
+          "role": "Introduced broad stripe outline separated from eye."
+        },
+        "left-upper-cheek-stripe": {
+          "kind": "path",
+          "spec": "M240 470 C260 465 280 480 300 500 C305 510 300 520 290 515 C270 500 250 495 240 490 C230 485 230 475 240 470 Z",
+          "role": "Introduced cheek stripe, no extra eye."
+        },
+        "right-upper-cheek-stripe": {
+          "kind": "path",
+          "spec": "M760 470 C740 465 720 480 700 500 C695 510 700 520 710 515 C730 500 750 495 760 490 C770 485 770 475 760 470 Z",
+          "role": "Introduced cheek stripe, no extra eye."
+        },
+        "left-lower-cheek-stripe": {
+          "kind": "path",
+          "spec": "M270 550 C285 545 310 560 330 580 C335 590 325 600 315 590 C295 575 280 575 270 570 C260 565 260 555 270 550 Z",
+          "role": "Introduced cheek stripe separate from muzzle boundary."
+        },
+        "right-lower-cheek-stripe": {
+          "kind": "path",
+          "spec": "M730 550 C715 545 690 560 670 580 C665 590 675 600 685 590 C705 575 720 575 730 570 C740 565 740 555 730 550 Z",
+          "role": "Introduced cheek stripe separate from muzzle boundary."
+        }
+      },
+      "semantic_counts": {
+        "heads": 1,
+        "ears": 2,
+        "eyes": 2,
+        "nose": 1,
+        "muzzle": 1,
+        "mouth": 1,
+        "introduced_stripe_shapes": 7
+      },
+      "source_scope": {
+        "orientation": "Frontal selected head, no body/legs or adult-male lion mane. Rounded ears, paired eyes, broad muzzle/nose/mouth.",
+        "stripes": "Seven introduced broad curved contour bands, separated from eyes/muzzle boundaries; not universal count, copied individual pattern, actual stripe width or grayscale colour claim.",
+        "recognition": "Essential key names tiger; sparse head is not universal tactile recognition proof."
+      },
+      "intended_contact_pairs": [
+        [
+          "nose-outline",
+          "philtrum"
+        ],
+        [
+          "philtrum",
+          "mouth"
+        ]
+      ],
+      "unique_contact_locations_mm": [
+        [
+          500,
+          590
+        ],
+        [
+          500,
+          625
+        ]
+      ],
+      "joint_and_contact_model": {
+        "orientation": "Frontal selected head, no body/legs or adult-male lion mane. Rounded ears, paired eyes, broad muzzle/nose/mouth.",
+        "stripes": "Seven introduced broad curved contour bands, separated from eyes/muzzle boundaries; not universal count, copied individual pattern, actual stripe width or grayscale colour claim.",
+        "recognition": "Essential key names tiger; sparse head is not universal tactile recognition proof."
+      }
+    }
+  },
+  "all_proportions_introduced": true,
+  "physical_fit_pending": true,
+  "native_version_change": "Increase introduced projected far-hindflipper root angle; preserve both exact anatomical-root contacts and unchanged all pair/cadence thresholds."
+}

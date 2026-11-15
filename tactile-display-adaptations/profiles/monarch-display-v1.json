@@ -1,0 +1,29 @@
+{
+  "status": "draft",
+  "production_ready": false,
+  "physical_evaluation": "pending",
+  "artwork_text": false,
+  "braille_characters": false,
+  "height_levels": [
+    0,
+    1
+  ],
+  "line_width_pins": 1,
+  "minimum_separation_empty_pins": 1,
+  "maximum_area_patterns": 3,
+  "design_method": "Independently authored discrete pin-grid design; not an automatic conversion from a paper export.",
+  "data_pins_encoding": "40 row-major strings of 0/1 separated by a single ASCII space; first row is the top row; first column is left. 1=raised, 0=lowered.",
+  "svg_representation": "One black rect per raised pin, width=1 height=1 at integer x,y. No background drawing element; no grayscale, variable stroke weights, visible text or Braille.",
+  "review": "Digital shape/meaning/grid inspection is required for each exported design; actual device and touch evaluation remains pending.",
+  "profile_id": "monarch-display-v1",
+  "pin_columns": 96,
+  "pin_rows": 40,
+  "viewBox": "0 0 96 40",
+  "model": "APH/HumanWare Monarch",
+  "pin_spacing_mm": 2.618556701030928,
+  "pin_spacing_status": "Approximate pitch derived from manufacturer 9.7 DPI; not a physical calibration.",
+  "sources": [
+    "https://www.humanware.com/en-usa/support/monarch/",
+    "https://www.humanware.com/wp-content/uploads/Monarch-Technical-Specification-Document.pdf"
+  ]
+}

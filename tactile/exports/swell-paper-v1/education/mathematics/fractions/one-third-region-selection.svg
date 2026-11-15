@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.one-third-region-selection" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <circle cx="24" cy="36" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-00" />
+    <circle cx="24" cy="40" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-01" />
+    <circle cx="24" cy="44" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-02" />
+    <circle cx="24" cy="48" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-03" />
+    <circle cx="24" cy="52" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-04" />
+    <circle cx="24" cy="56" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-05" />
+    <circle cx="24" cy="60" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-06" />
+    <circle cx="24" cy="64" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-07" />
+    <circle cx="28" cy="36" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-08" />
+    <circle cx="28" cy="40" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-09" />
+    <circle cx="28" cy="44" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-10" />
+    <circle cx="28" cy="48" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-11" />
+    <circle cx="28" cy="52" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-12" />
+    <circle cx="28" cy="56" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-13" />
+    <circle cx="28" cy="60" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-14" />
+    <circle cx="28" cy="64" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-15" />
+    <circle cx="32" cy="36" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-16" />
+    <circle cx="32" cy="40" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-17" />
+    <circle cx="32" cy="44" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-18" />
+    <circle cx="32" cy="48" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-19" />
+    <circle cx="32" cy="52" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-20" />
+    <circle cx="32" cy="56" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-21" />
+    <circle cx="32" cy="60" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-22" />
+    <circle cx="32" cy="64" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-23" />
+    <circle cx="36" cy="36" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-24" />
+    <circle cx="36" cy="40" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-25" />
+    <circle cx="36" cy="44" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-26" />
+    <circle cx="36" cy="48" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-27" />
+    <circle cx="36" cy="52" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-28" />
+    <circle cx="36" cy="56" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-29" />
+    <circle cx="36" cy="60" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-30" />
+    <circle cx="36" cy="64" r=".65" data-part="area-texture" fill="#000000" stroke="none" data-selects-region="left-equal-cell" id="selected-cell-texture-31" />
+  <rect x="20" y="32" width="60" height="36" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="miter" data-tactile-role="raised-line" id="whole-boundary" />
+    <path d="M40 32V68M60 32V68" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="miter" data-tactile-role="raised-line" id="equal-third-dividers" />
+    <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.eyeglasses-object-example" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="285mm" viewBox="0 0 400 285" width="400mm"><rect width="400" height="285" fill="#ffffff" data-part="background" id="background" />
+    <path d="M75 225 A50 35 0 1 0 175 225 A50 35 0 1 0 75 225 Z" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-lens-rim" />
+    <path d="M225 225 A50 35 0 1 0 325 225 A50 35 0 1 0 225 225 Z" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-lens-rim" />
+    <path d="M170.3153893518325 210.2083608390755 C188 188 212 188 229.6846106481675 210.2083608390755" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="bridge" />
+    <path d="M75 225 C55 155 25 25 105 42" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-temple" />
+    <path d="M325 225 C345 155 375 25 295 42" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-temple" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

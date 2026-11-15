@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.bird-external-side-profile" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M26 44 C25 28 44 22 55 32 C63 39 59 51 68 56 C90 52 107 64 117 73 L141 66 L132 81 L144 83 L116 88 C111 94 109 95 103 97 C88 104 69 102 59 96 C42 90 35 74 30 56 L13 49 L26 44 Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="body" />
+    <path d="M62 62 C79 56 99 66 106 79 C93 88 74 86 62 62 Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="near-folded-wing" />
+    <path d="M71.51851851851852 100.4814814814815 L72 115 L75 124" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="near-leg" />
+    <path d="M87.14814814814814 101.18518518518518 L104 111 L102 124" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="far-leg" />
+    <path d="M75 124 L56 119" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="near-foot-forward-toe-1" />
+    <path d="M75 124 L54 131" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="near-foot-forward-toe-2" />
+    <path d="M75 124 L62 143" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="near-foot-forward-toe-3" />
+    <path d="M75 124 L88 136" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="near-foot-rear-toe" />
+    <path d="M102 124 L87 109" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="far-foot-forward-toe-1" />
+    <path d="M102 124 L85 116" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="far-foot-forward-toe-2" />
+    <path d="M102 124 L85 124" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="far-foot-forward-toe-3" />
+    <path d="M102 124 L119 134" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="far-foot-rear-toe" />
+    <circle cx="37" cy="43" r="0.6" data-part="point-symbol" fill="#000000" id="eye" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

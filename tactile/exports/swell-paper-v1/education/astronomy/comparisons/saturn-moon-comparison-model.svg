@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.saturn-moon-comparison-model" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="300mm" viewBox="0 0 380 300" width="380mm"><rect width="380" height="300" fill="#ffffff" data-part="background" id="background" />
+    <circle cx="100" cy="150" r="75.0" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" id="moon-titan" />
+    <circle cx="235" cy="50" r="5.773353632959965" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" id="moon-mimas" />
+    <circle cx="315" cy="50" r="7.343402880268451" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" id="moon-enceladus" />
+    <circle cx="235" cy="125" r="15.470373937765073" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" id="moon-tethys" />
+    <circle cx="315" cy="125" r="16.35298047196632" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" id="moon-dione" />
+    <circle cx="235" cy="200" r="22.239936926160105" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" id="moon-rhea" />
+    <circle cx="315" cy="200" r="21.389372213332503" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" id="moon-iapetus" />
+    <circle cx="275" cy="265" r="3.9324053504015906" fill="none" stroke="#000000" stroke-width="1.4" data-part="raised-line" id="moon-hyperion" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

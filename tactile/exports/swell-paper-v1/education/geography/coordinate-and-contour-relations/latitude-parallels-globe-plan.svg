@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.latitude-parallels-globe-plan" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M80 30A50 50 0 1 1 80 130A50 50 0 1 1 80 30Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="globe-limb" />
+    <path d="M54.99999999999999 123.30127018922192L105.0 123.30127018922192" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="parallel-south-60" />
+    <path d="M36.69872981077806 105.0L123.30127018922194 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="parallel-south-30" />
+    <path d="M30.0 80.0L130.0 80.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 3" id="equator-reference" />
+    <path d="M36.69872981077806 55.0L123.30127018922194 55.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="parallel-north-30" />
+    <path d="M54.99999999999999 36.69872981077807L105.0 36.69872981077807" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="parallel-north-60" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

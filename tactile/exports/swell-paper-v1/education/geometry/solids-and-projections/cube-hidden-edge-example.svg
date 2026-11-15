@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.cube-hidden-edge-example" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="180mm" viewBox="0 0 240 180" width="240mm"><rect width="240" height="180" data-part="background" fill="#ffffff" id="background" />
+    <path d="M80 75 L140 75" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-AB" />
+    <path d="M140 75 L140 135" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-BC" />
+    <path d="M140 135 L80 135" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-CD" />
+    <path d="M80 135 L80 75" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-DA" />
+    <path d="M80 75 L110.0 45.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-AE" />
+    <path d="M140 75 L170.0 45.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-BF" />
+    <path d="M140 135 L170.0 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-CG" />
+    <path d="M110.0 45.0 L170.0 45.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-EF" />
+    <path d="M170.0 45.0 L170.0 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-FG" />
+    <path d="M110.0 45.0 L110.0 48.2 L110.0 51.4" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-EH-span-0-dash-0" />
+    <path d="M110.0 62.6 L110.0 65.8 L110.0 69.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-EH-span-0-dash-1" />
+    <path d="M110.0 81.0 L110.0 84.2 L110.0 87.4" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-EH-span-1-dash-0" />
+    <path d="M110.0 98.6 L110.0 101.8 L110.0 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-EH-span-1-dash-1" />
+    <path d="M110.0 105.0 L113.2 105.0 L116.4 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-HG-span-0-dash-0" />
+    <path d="M127.6 105.0 L130.8 105.0 L134.0 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-HG-span-0-dash-1" />
+    <path d="M146.0 105.0 L149.2 105.0 L152.4 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-HG-span-1-dash-0" />
+    <path d="M163.6 105.0 L166.8 105.0 L170.0 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-HG-span-1-dash-1" />
+    <path d="M80.0 135.0 L82.26274169979695 132.73725830020305 L84.52548339959391 130.4745166004061" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-DH-span-0-dash-0" />
+    <path d="M92.73725830020305 122.26274169979695 L95.0 120.0 L97.26274169979695 117.73725830020305" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-DH-span-0-dash-1" />
+    <path d="M105.47451660040609 109.52548339959391 L107.73725830020305 107.26274169979695 L110.0 105.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="hidden-edge-DH-span-0-dash-2" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

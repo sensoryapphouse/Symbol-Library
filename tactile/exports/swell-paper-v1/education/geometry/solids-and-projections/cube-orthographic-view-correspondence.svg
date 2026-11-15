@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.cube-orthographic-view-correspondence" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="180mm" viewBox="0 0 240 180" width="240mm"><rect width="240" height="180" data-part="background" fill="#ffffff" id="background" />
+    <path d="M20 70 L60 70" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-AB" />
+    <path d="M60 70 L60 110" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-BC" />
+    <path d="M60 110 L20 110" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-CD" />
+    <path d="M20 110 L20 70" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-DA" />
+    <path d="M20 70 L40.0 50.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-AE" />
+    <path d="M60 70 L80.0 50.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-BF" />
+    <path d="M60 110 L80.0 90.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-CG" />
+    <path d="M40.0 50.0 L80.0 50.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-EF" />
+    <path d="M80.0 50.0 L80.0 90.0" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="visible-edge-FG" />
+    <path d="M110 20 L150 20 L150 60 L110 60 L110 20" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="orthographic-top-view" />
+    <path d="M110 90 L150 90 L150 130 L110 130 L110 90" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="orthographic-front-view" />
+    <path d="M170 90 L210 90 L210 130 L170 130 L170 90" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="orthographic-right-view" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.hexagon-four-unequal-region-partition" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="280mm" viewBox="0 0 280 280" width="280mm"><rect width="280" height="280" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <path d="M40 140L90 53.3974596216L190 53.3974596216L240 140L190 226.602540378L90 226.602540378Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="outer-hexagon-boundary" />
+    <path d="M40 140L190 53.3974596216" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="vertex-fan-diagonal-2" />
+    <path d="M40 140L240 140" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="vertex-fan-diagonal-3" />
+    <path d="M40 140L190 226.602540378" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="vertex-fan-diagonal-4" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

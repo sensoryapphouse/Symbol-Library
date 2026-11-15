@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.quarter-whole-grid-comparison" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <polyline points="5,30 45,30 45,70 5,70 5,30" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="miter" data-tactile-role="raised-line" id="quarter-boundary" />
+    <polyline points="25,30 25,70" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="miter" data-tactile-role="raised-line" id="quarter-vertical-divider" />
+    <polyline points="5,50 45,50" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="miter" data-tactile-role="raised-line" id="quarter-horizontal-divider" />
+    <rect x="9" y="34" width="12" height="12" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" id="quarter-selected-cell-1" />
+    <polyline points="55,30 95,30 95,70 55,70 55,30" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="miter" data-tactile-role="raised-line" id="whole-boundary" />
+    <polyline points="75,30 75,70" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="miter" data-tactile-role="raised-line" id="whole-vertical-divider" />
+    <polyline points="55,50 95,50" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="miter" data-tactile-role="raised-line" id="whole-horizontal-divider" />
+    <rect x="59" y="34" width="12" height="12" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" id="whole-selected-cell-1" />
+    <rect x="79" y="34" width="12" height="12" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" id="whole-selected-cell-2" />
+    <rect x="59" y="54" width="12" height="12" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" id="whole-selected-cell-3" />
+    <rect x="79" y="54" width="12" height="12" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" id="whole-selected-cell-4" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

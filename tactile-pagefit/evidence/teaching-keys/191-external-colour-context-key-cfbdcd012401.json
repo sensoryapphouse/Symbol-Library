@@ -1,0 +1,22 @@
+{
+  "schema": "external-accessible-teaching-key-v1",
+  "not_visible_in_svg": true,
+  "colour_not_intrinsic_to_tactile_height": true,
+  "entries": {
+    "edu.alabama-flag-layout-context": {
+      "colour_key": [
+        "field:white",
+        "saltire:crimson"
+      ],
+      "selected_scope": "Selected Alabama flag layout: one rectangular field and the union of two15mm perpendicular-width diagonal ribbons, with no seam in their shared centre. 150x90mm frame on190x130mm page. Region boundaries only; unfilled white shapes do not inherently encode crimson. External accessible teacher colour/context key required. Independent5:3teaching ratio, not sole official textile dimensions, a letter glyph, pole or recognition-tested identity."
+    },
+    "edu.alaska-flag-layout-context": {
+      "colour_key": [
+        "field:blue",
+        "stars:gold"
+      ],
+      "selected_scope": "Selected Alaska flag layout: seven smaller upright five-pointed BigDipper stars plus one larger upper-right Polaris star, with no connecting lines or extra star. 240x165mm frame on280x205mm page. Seven14mm circumdiameter markers and one20mm marker are declared accessible enlargements from the pinned source bitmap; centres approximately retained, not sewing dimensions. Line boundaries do not inherently encode gold/blue; external accessible colour/context key required. Not an astronomical chart, legal-ratio or recognition claim."
+    }
+  },
+  "physical_evaluation": "pending"
+}

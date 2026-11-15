@@ -1,0 +1,23 @@
+Batch393 — essential teaching key
+
+These are three independently introduced tactile teaching schematics. This key is required to identify the conventions and source limits; the drawings contain no visible letters, numbers or Braille. White interiors and black/grey carriers do not encode intrinsic material colour.
+
+Computer keyboard
+One blank physical computer-key arrangement is introduced. Four rows each contain ten blank keycap outlines. The lower row has two smaller blank caps and a longer central spacebar:43 introduced caps in total. This count and arrangement are teaching choices, not a claim about the source keyboards, a named product, exact QWERTY order, typing functions or a musical keyboard. The original1342 source contains two layouts; this drawing is one meaning and one chosen arrangement.
+
+American football field
+The outer rectangle represents120yards by53 1/3yards:360feet by160feet. The selected geometric scale is2mm per foot, or6mm per yard, giving a720mm by320mm rectangle. The first transverse line inward from each end is a goal line,10yards from that end. The distance between the two goal lines represents100yards. The remaining transverse lines divide the field in10yard steps. The two outer intervals are end zones. This sparse introductory NFL-style layout deliberately omits numbers, hashmark detail, team graphics, goalposts and most regulation markings. Line widths are schematic carriers. Selected dimensions come from NFL Rule1 textual information; no PDF figure or every2026 rule is certified here.
+
+Baseball diamond
+This is a historical MLB2019-style introductory anchor layout. Home is the lower vertex; first base is to page-right, second above, and third to page-left. The four anchors form a90foot square at2mm per foot, so each anchor-to-anchor side is180mm. Home's reference anchor is the rear point of its enlarged pentagonal marker, where the two baseline/foul-ray directions intersect. First, second and third anchors are the centres of the three enlarged abstract circular markers. Their outlines are not physical base bags, source bag-edge footprints or to-scale marker sizes. Lines meet declared ports on the circles; this does not change the centre-based reference distances.
+
+The two sloping edges adjoining home's rear point also serve as the initial foul-ray carriers and are drawn only once. The rays continue beyond first and third to an explicitly schematic curved outfield boundary. No physical outfield distance is represented.
+
+The rectangular pitching marker is enlarged for this schematic. The midpoint of its home-facing edge is the distance anchor:60feet6inches, or60.5feet, along the home-to-second diagonal from home's rear point. At2mm per foot this distance is121mm. The marker extends away from home. Its centre is not the distance anchor, and the anchor is not the square centre, which lies90/sqrt(2)feet from home. This is not a to-scale24-by6-inch rubber or a mound contour, a current base-size rule, a complete regulation field or gameplay approval.
+
+Media and nominal sizes
+Keyboard canvas700x380mm; football840x440mm; baseball720x650mm. One native coordinate unit is1mm. Proofs are rendered at3pixels/mm:2100x1140,2520x1320 and2160x1950pixels respectively. These are distinct physical and pixel dimensions, not proved minimum sizes or page/device-fit claims. Each meaning uses one editable tagged master and the three official output profiles.
+
+Continuous Swell and ViewPlus outlines are1.4mm wide. ViewPlus grey is the selected principal-line height role; actual device levels and material calibration remain pending. Index uses ordinary1.2mm line-sampling dots, with at least3.1mm centre spacing and at most6.2mm station arc/chord spacing, retaining all declared vertices, circle cardinals/ports and actual curve extrema. Small Index dots are line carriers, not filled semantic point symbols or Braille. Base-marker circles are whole outline glyphs whose centres are taught anchors.
+
+Physical calibration, tactile proofreading, page/device fit, learner recognition and independent use remain unevaluated. Source planning observations do not transfer to current whole-profile review.

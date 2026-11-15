@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.cylinder-orthographic-view-correspondence" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="180mm" viewBox="0 0 240 180" width="240mm"><rect width="240" height="180" data-part="background" fill="#ffffff" id="background" />
+    <path d="M60 65A20 8 0 1 1 20 65A20 8 0 1 1 60 65Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="pictorial-cylinder-top" />
+    <path d="M20 65V116.3248477835054A20 8 0 0 0 60 116.3248477835054V65" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="pictorial-cylinder-visible-side-bottom" />
+    <path d="M150 40A20 20 0 1 1 110 40A20 20 0 1 1 150 40Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="orthographic-top-view" />
+    <path d="M110 90 L150 90 L150 146 L110 146 L110 90" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="orthographic-front-view" />
+    <path d="M170 90 L210 90 L210 146 L170 146 L170 90" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="orthographic-right-view" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

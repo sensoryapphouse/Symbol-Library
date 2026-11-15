@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.triangle-pair-parallelogram-area" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="330mm" viewBox="0 0 240 330" width="240mm"><rect width="240" height="330" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <path d="M40 130L160 130L80 70Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="single-triangle-perimeter" />
+    <path d="M40 290L160 290L200 230L80 230Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="paired-parallelogram-perimeter" />
+    <path d="M160 290L80 230" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="single-shared-triangle-diagonal" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

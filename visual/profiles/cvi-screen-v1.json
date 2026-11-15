@@ -1,0 +1,16 @@
+{
+  "profile_id": "cvi-screen-v1",
+  "description": "Black background, white outlines and feature marks, contrasting interiors",
+  "paint_prefix": "screen",
+  "background": "#000000",
+  "outline": "#ffffff",
+  "skin": "#22465b",
+  "clothing_top": "#50224f",
+  "neutral": "#172f42",
+  "dark_fill": "#111111",
+  "accent": "Preserve the existing paper accent and semantic colours",
+  "hair_border_width": 2,
+  "scope": "Visual design profile; individual access and recognition remain unevaluated",
+  "no_visible_text": true,
+  "version": 1
+}

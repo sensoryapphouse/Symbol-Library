@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.corner-side-position-map" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <rect x="14" y="14" width="72" height="72" data-part="raised-line" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="miter" data-tactile-role="raised-line" data-height-role="principal-line" id="reference-boundary" />
+    <circle cx="23" cy="23" r="4" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="top-left-corner-disk" />
+    <circle cx="77" cy="23" r="4" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="top-right-corner-disk" />
+    <circle cx="23" cy="77" r="4" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="bottom-left-corner-disk" />
+    <circle cx="77" cy="77" r="4" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="bottom-right-corner-disk" />
+    <polygon points="50,18 55,28 45,28" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="top-triangle" />
+    <polygon points="50,72 55,82 45,82" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="bottom-triangle" />
+    <rect x="20" y="47" width="6" height="6" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="left-side-square" />
+    <rect x="74" y="47" width="6" height="6" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="right-side-square" />
+    <polygon points="50,43 57,50 50,57 43,50" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="centre-diamond" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

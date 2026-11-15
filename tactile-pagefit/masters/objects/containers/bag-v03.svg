@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="aac.bag" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="bag-provenance">{"editable_source": "This shared master only. Per-medium files are derived exports.", "revision": 3, "profiles": ["swell-paper-v1", "index-embossed-v1", "viewplus-variable-height-v1"], "brief_path": "planning/tactile-media/briefs/containers-011.json", "recipe_path": "planning/tactile-media/designs/swell-011.json", "physical_evaluation": "pending", "exception_policy": "Share compatible geometry across future profile layers; justify medium-specific dot layouts within this same master. No unmade profiles implied.", "supersedes_master": {"path": "tactile/masters/objects/containers/bag-v02.svg", "sha256": "79941f59871b80aae1b69bf18a3be27800c1fa26633f963d744d7a16cec61ba7"}, "profile_addition": "viewplus", "profile_addition_recipe": "planning/tactile-media/designs/viewplus-011.json"}</metadata>
+  <defs>
+    <rect id="bag-background-geometry" data-part="background" width="100" height="100" />
+    <path id="bag-handle-geometry" data-part="raised-line" d="M38 40V28Q38 16 50 16Q62 16 62 28V40" />
+    <path id="bag-body-geometry" data-part="raised-line" d="M28 40H72L78 82H22Z" />
+  </defs>
+  <g id="bag-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.bag&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use id="swell-background" data-export-id="background" data-part="background" href="#bag-background-geometry" data-shared-geometry="bag-background-geometry" fill="#ffffff" />
+    <use id="swell-bag-handle" data-export-id="bag-handle-footprint" data-part="raised-line" data-output-role="swell-footprint" href="#bag-handle-geometry" data-shared-geometry="bag-handle-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <use id="swell-bag-body" data-export-id="bag-body-footprint" data-part="raised-line" data-output-role="swell-footprint" href="#bag-body-geometry" data-shared-geometry="bag-body-geometry" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="bag-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.bag&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-geometry-exception="index-explicit-dot-layout" data-exception-reason="Single-height Index dot alternatives remain inside shared masters. Sample continuous contours near2mm pitch using1.2mm circles, preserving feature junctions and avoiding pairs under1.5mm centre separation. Jar lid perimeter and clipped interior grid form a filled band; body top row is reused at lid contact. Carton fold dots are sampled once and share existing junction dots. Bag handle remains an open contour attached to the body row. Native circles are provisional graphics layout, not measured hardware output.">
+    <use id="index-background" data-export-id="background" data-part="background" fill="#ffffff" href="#bag-background-geometry" data-shared-geometry="bag-background-geometry" />
+    <g id="index-bag-body" data-export-id="bag-body-layout" data-part="raised-line" data-output-role="graphic-dot-row">
+      <circle id="index-bag-body-dot-0000" data-export-id="bag-body-dot-0000" data-part="raised-line" data-output-role="graphic-dot" cx="28.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0001" data-export-id="bag-body-dot-0001" data-part="raised-line" data-output-role="graphic-dot" cx="30.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0002" data-export-id="bag-body-dot-0002" data-part="raised-line" data-output-role="graphic-dot" cx="32.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0003" data-export-id="bag-body-dot-0003" data-part="raised-line" data-output-role="graphic-dot" cx="34.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0004" data-export-id="bag-body-dot-0004" data-part="raised-line" data-output-role="graphic-dot" cx="36.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0005" data-export-id="bag-body-dot-0005" data-part="raised-line" data-output-role="graphic-dot" cx="38.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0006" data-export-id="bag-body-dot-0006" data-part="raised-line" data-output-role="graphic-dot" cx="40.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0007" data-export-id="bag-body-dot-0007" data-part="raised-line" data-output-role="graphic-dot" cx="42.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0008" data-export-id="bag-body-dot-0008" data-part="raised-line" data-output-role="graphic-dot" cx="44.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0009" data-export-id="bag-body-dot-0009" data-part="raised-line" data-output-role="graphic-dot" cx="46.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0010" data-export-id="bag-body-dot-0010" data-part="raised-line" data-output-role="graphic-dot" cx="48.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0011" data-export-id="bag-body-dot-0011" data-part="raised-line" data-output-role="graphic-dot" cx="50.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0012" data-export-id="bag-body-dot-0012" data-part="raised-line" data-output-role="graphic-dot" cx="52.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0013" data-export-id="bag-body-dot-0013" data-part="raised-line" data-output-role="graphic-dot" cx="54.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0014" data-export-id="bag-body-dot-0014" data-part="raised-line" data-output-role="graphic-dot" cx="56.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0015" data-export-id="bag-body-dot-0015" data-part="raised-line" data-output-role="graphic-dot" cx="58.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0016" data-export-id="bag-body-dot-0016" data-part="raised-line" data-output-role="graphic-dot" cx="60.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0017" data-export-id="bag-body-dot-0017" data-part="raised-line" data-output-role="graphic-dot" cx="62.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0018" data-export-id="bag-body-dot-0018" data-part="raised-line" data-output-role="graphic-dot" cx="64.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0019" data-export-id="bag-body-dot-0019" data-part="raised-line" data-output-role="graphic-dot" cx="66.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0020" data-export-id="bag-body-dot-0020" data-part="raised-line" data-output-role="graphic-dot" cx="68.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0021" data-export-id="bag-body-dot-0021" data-part="raised-line" data-output-role="graphic-dot" cx="70.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0022" data-export-id="bag-body-dot-0022" data-part="raised-line" data-output-role="graphic-dot" cx="72.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0023" data-export-id="bag-body-dot-0023" data-part="raised-line" data-output-role="graphic-dot" cx="72.28571" cy="42.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0024" data-export-id="bag-body-dot-0024" data-part="raised-line" data-output-role="graphic-dot" cx="72.57143" cy="44.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0025" data-export-id="bag-body-dot-0025" data-part="raised-line" data-output-role="graphic-dot" cx="72.85714" cy="46.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0026" data-export-id="bag-body-dot-0026" data-part="raised-line" data-output-role="graphic-dot" cx="73.14286" cy="48.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0027" data-export-id="bag-body-dot-0027" data-part="raised-line" data-output-role="graphic-dot" cx="73.42857" cy="50.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0028" data-export-id="bag-body-dot-0028" data-part="raised-line" data-output-role="graphic-dot" cx="73.71429" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0029" data-export-id="bag-body-dot-0029" data-part="raised-line" data-output-role="graphic-dot" cx="74.0" cy="54.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0030" data-export-id="bag-body-dot-0030" data-part="raised-line" data-output-role="graphic-dot" cx="74.28571" cy="56.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0031" data-export-id="bag-body-dot-0031" data-part="raised-line" data-output-role="graphic-dot" cx="74.57143" cy="58.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0032" data-export-id="bag-body-dot-0032" data-part="raised-line" data-output-role="graphic-dot" cx="74.85714" cy="60.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0033" data-export-id="bag-body-dot-0033" data-part="raised-line" data-output-role="graphic-dot" cx="75.14286" cy="62.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0034" data-export-id="bag-body-dot-0034" data-part="raised-line" data-output-role="graphic-dot" cx="75.42857" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0035" data-export-id="bag-body-dot-0035" data-part="raised-line" data-output-role="graphic-dot" cx="75.71429" cy="66.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0036" data-export-id="bag-body-dot-0036" data-part="raised-line" data-output-role="graphic-dot" cx="76.0" cy="68.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0037" data-export-id="bag-body-dot-0037" data-part="raised-line" data-output-role="graphic-dot" cx="76.28571" cy="70.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0038" data-export-id="bag-body-dot-0038" data-part="raised-line" data-output-role="graphic-dot" cx="76.57143" cy="72.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0039" data-export-id="bag-body-dot-0039" data-part="raised-line" data-output-role="graphic-dot" cx="76.85714" cy="74.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0040" data-export-id="bag-body-dot-0040" data-part="raised-line" data-output-role="graphic-dot" cx="77.14286" cy="76.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0041" data-export-id="bag-body-dot-0041" data-part="raised-line" data-output-role="graphic-dot" cx="77.42857" cy="78.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0042" data-export-id="bag-body-dot-0042" data-part="raised-line" data-output-role="graphic-dot" cx="77.71429" cy="80.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0043" data-export-id="bag-body-dot-0043" data-part="raised-line" data-output-role="graphic-dot" cx="78.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0044" data-export-id="bag-body-dot-0044" data-part="raised-line" data-output-role="graphic-dot" cx="76.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0045" data-export-id="bag-body-dot-0045" data-part="raised-line" data-output-role="graphic-dot" cx="74.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0046" data-export-id="bag-body-dot-0046" data-part="raised-line" data-output-role="graphic-dot" cx="72.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0047" data-export-id="bag-body-dot-0047" data-part="raised-line" data-output-role="graphic-dot" cx="70.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0048" data-export-id="bag-body-dot-0048" data-part="raised-line" data-output-role="graphic-dot" cx="68.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0049" data-export-id="bag-body-dot-0049" data-part="raised-line" data-output-role="graphic-dot" cx="66.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0050" data-export-id="bag-body-dot-0050" data-part="raised-line" data-output-role="graphic-dot" cx="64.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0051" data-export-id="bag-body-dot-0051" data-part="raised-line" data-output-role="graphic-dot" cx="62.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0052" data-export-id="bag-body-dot-0052" data-part="raised-line" data-output-role="graphic-dot" cx="60.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0053" data-export-id="bag-body-dot-0053" data-part="raised-line" data-output-role="graphic-dot" cx="58.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0054" data-export-id="bag-body-dot-0054" data-part="raised-line" data-output-role="graphic-dot" cx="56.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0055" data-export-id="bag-body-dot-0055" data-part="raised-line" data-output-role="graphic-dot" cx="54.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0056" data-export-id="bag-body-dot-0056" data-part="raised-line" data-output-role="graphic-dot" cx="52.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0057" data-export-id="bag-body-dot-0057" data-part="raised-line" data-output-role="graphic-dot" cx="50.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0058" data-export-id="bag-body-dot-0058" data-part="raised-line" data-output-role="graphic-dot" cx="48.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0059" data-export-id="bag-body-dot-0059" data-part="raised-line" data-output-role="graphic-dot" cx="46.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0060" data-export-id="bag-body-dot-0060" data-part="raised-line" data-output-role="graphic-dot" cx="44.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0061" data-export-id="bag-body-dot-0061" data-part="raised-line" data-output-role="graphic-dot" cx="42.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0062" data-export-id="bag-body-dot-0062" data-part="raised-line" data-output-role="graphic-dot" cx="40.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0063" data-export-id="bag-body-dot-0063" data-part="raised-line" data-output-role="graphic-dot" cx="38.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0064" data-export-id="bag-body-dot-0064" data-part="raised-line" data-output-role="graphic-dot" cx="36.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0065" data-export-id="bag-body-dot-0065" data-part="raised-line" data-output-role="graphic-dot" cx="34.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0066" data-export-id="bag-body-dot-0066" data-part="raised-line" data-output-role="graphic-dot" cx="32.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0067" data-export-id="bag-body-dot-0067" data-part="raised-line" data-output-role="graphic-dot" cx="30.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0068" data-export-id="bag-body-dot-0068" data-part="raised-line" data-output-role="graphic-dot" cx="28.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0069" data-export-id="bag-body-dot-0069" data-part="raised-line" data-output-role="graphic-dot" cx="26.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0070" data-export-id="bag-body-dot-0070" data-part="raised-line" data-output-role="graphic-dot" cx="24.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0071" data-export-id="bag-body-dot-0071" data-part="raised-line" data-output-role="graphic-dot" cx="22.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0072" data-export-id="bag-body-dot-0072" data-part="raised-line" data-output-role="graphic-dot" cx="22.28571" cy="80.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0073" data-export-id="bag-body-dot-0073" data-part="raised-line" data-output-role="graphic-dot" cx="22.57143" cy="78.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0074" data-export-id="bag-body-dot-0074" data-part="raised-line" data-output-role="graphic-dot" cx="22.85714" cy="76.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0075" data-export-id="bag-body-dot-0075" data-part="raised-line" data-output-role="graphic-dot" cx="23.14286" cy="74.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0076" data-export-id="bag-body-dot-0076" data-part="raised-line" data-output-role="graphic-dot" cx="23.42857" cy="72.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0077" data-export-id="bag-body-dot-0077" data-part="raised-line" data-output-role="graphic-dot" cx="23.71429" cy="70.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0078" data-export-id="bag-body-dot-0078" data-part="raised-line" data-output-role="graphic-dot" cx="24.0" cy="68.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0079" data-export-id="bag-body-dot-0079" data-part="raised-line" data-output-role="graphic-dot" cx="24.28571" cy="66.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0080" data-export-id="bag-body-dot-0080" data-part="raised-line" data-output-role="graphic-dot" cx="24.57143" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0081" data-export-id="bag-body-dot-0081" data-part="raised-line" data-output-role="graphic-dot" cx="24.85714" cy="62.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0082" data-export-id="bag-body-dot-0082" data-part="raised-line" data-output-role="graphic-dot" cx="25.14286" cy="60.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0083" data-export-id="bag-body-dot-0083" data-part="raised-line" data-output-role="graphic-dot" cx="25.42857" cy="58.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0084" data-export-id="bag-body-dot-0084" data-part="raised-line" data-output-role="graphic-dot" cx="25.71429" cy="56.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0085" data-export-id="bag-body-dot-0085" data-part="raised-line" data-output-role="graphic-dot" cx="26.0" cy="54.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0086" data-export-id="bag-body-dot-0086" data-part="raised-line" data-output-role="graphic-dot" cx="26.28571" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0087" data-export-id="bag-body-dot-0087" data-part="raised-line" data-output-role="graphic-dot" cx="26.57143" cy="50.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0088" data-export-id="bag-body-dot-0088" data-part="raised-line" data-output-role="graphic-dot" cx="26.85714" cy="48.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0089" data-export-id="bag-body-dot-0089" data-part="raised-line" data-output-role="graphic-dot" cx="27.14286" cy="46.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0090" data-export-id="bag-body-dot-0090" data-part="raised-line" data-output-role="graphic-dot" cx="27.42857" cy="44.0" r=".6" fill="#000000" />
+      <circle id="index-bag-body-dot-0091" data-export-id="bag-body-dot-0091" data-part="raised-line" data-output-role="graphic-dot" cx="27.71429" cy="42.0" r=".6" fill="#000000" />
+    </g>
+    <g id="index-bag-handle" data-export-id="bag-handle-layout" data-part="raised-line" data-output-role="graphic-dot-row">
+      <circle id="index-bag-handle-dot-0000" data-export-id="bag-handle-dot-0000" data-part="raised-line" data-output-role="graphic-dot" cx="38.0" cy="38.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0001" data-export-id="bag-handle-dot-0001" data-part="raised-line" data-output-role="graphic-dot" cx="38.0" cy="36.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0002" data-export-id="bag-handle-dot-0002" data-part="raised-line" data-output-role="graphic-dot" cx="38.0" cy="34.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0003" data-export-id="bag-handle-dot-0003" data-part="raised-line" data-output-role="graphic-dot" cx="38.0" cy="32.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0004" data-export-id="bag-handle-dot-0004" data-part="raised-line" data-output-role="graphic-dot" cx="38.0" cy="30.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0005" data-export-id="bag-handle-dot-0005" data-part="raised-line" data-output-role="graphic-dot" cx="38.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0006" data-export-id="bag-handle-dot-0006" data-part="raised-line" data-output-role="graphic-dot" cx="38.08597" cy="26.05472" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0007" data-export-id="bag-handle-dot-0007" data-part="raised-line" data-output-role="graphic-dot" cx="38.37559" cy="24.12967" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0008" data-export-id="bag-handle-dot-0008" data-part="raised-line" data-output-role="graphic-dot" cx="38.92457" cy="22.2628" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0009" data-export-id="bag-handle-dot-0009" data-part="raised-line" data-output-role="graphic-dot" cx="39.78979" cy="20.52108" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0010" data-export-id="bag-handle-dot-0010" data-part="raised-line" data-output-role="graphic-dot" cx="41.0" cy="19.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0011" data-export-id="bag-handle-dot-0011" data-part="raised-line" data-output-role="graphic-dot" cx="42.52108" cy="17.78979" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0012" data-export-id="bag-handle-dot-0012" data-part="raised-line" data-output-role="graphic-dot" cx="44.2628" cy="16.92457" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0013" data-export-id="bag-handle-dot-0013" data-part="raised-line" data-output-role="graphic-dot" cx="46.12967" cy="16.37559" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0014" data-export-id="bag-handle-dot-0014" data-part="raised-line" data-output-role="graphic-dot" cx="48.05472" cy="16.08597" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0015" data-export-id="bag-handle-dot-0015" data-part="raised-line" data-output-role="graphic-dot" cx="50.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0016" data-export-id="bag-handle-dot-0016" data-part="raised-line" data-output-role="graphic-dot" cx="51.94528" cy="16.08597" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0017" data-export-id="bag-handle-dot-0017" data-part="raised-line" data-output-role="graphic-dot" cx="53.87033" cy="16.37559" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0018" data-export-id="bag-handle-dot-0018" data-part="raised-line" data-output-role="graphic-dot" cx="55.7372" cy="16.92457" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0019" data-export-id="bag-handle-dot-0019" data-part="raised-line" data-output-role="graphic-dot" cx="57.47892" cy="17.78979" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0020" data-export-id="bag-handle-dot-0020" data-part="raised-line" data-output-role="graphic-dot" cx="59.0" cy="19.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0021" data-export-id="bag-handle-dot-0021" data-part="raised-line" data-output-role="graphic-dot" cx="60.21021" cy="20.52108" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0022" data-export-id="bag-handle-dot-0022" data-part="raised-line" data-output-role="graphic-dot" cx="61.07543" cy="22.2628" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0023" data-export-id="bag-handle-dot-0023" data-part="raised-line" data-output-role="graphic-dot" cx="61.62441" cy="24.12967" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0024" data-export-id="bag-handle-dot-0024" data-part="raised-line" data-output-role="graphic-dot" cx="61.91403" cy="26.05472" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0025" data-export-id="bag-handle-dot-0025" data-part="raised-line" data-output-role="graphic-dot" cx="62.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0026" data-export-id="bag-handle-dot-0026" data-part="raised-line" data-output-role="graphic-dot" cx="62.0" cy="30.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0027" data-export-id="bag-handle-dot-0027" data-part="raised-line" data-output-role="graphic-dot" cx="62.0" cy="32.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0028" data-export-id="bag-handle-dot-0028" data-part="raised-line" data-output-role="graphic-dot" cx="62.0" cy="34.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0029" data-export-id="bag-handle-dot-0029" data-part="raised-line" data-output-role="graphic-dot" cx="62.0" cy="36.0" r=".6" fill="#000000" />
+      <circle id="index-bag-handle-dot-0030" data-export-id="bag-handle-dot-0030" data-part="raised-line" data-output-role="graphic-dot" cx="62.0" cy="38.0" r=".6" fill="#000000" />
+    </g>
+  </g>
+  <g id="bag-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.bag&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-shared-geometry-policy="exact-continuous-geometry-reuse" data-design-reason="Reuse continuous geometry from each shared master. Lower grey container surfaces lie beneath higher black outlines. Jar lid stays a higher solid band. Carton front and flaps share one lower level, separated by a higher fold line; no extra level or perspective-depth claim. Bag body is lower, while handle remains a higher line around a white unraised aperture. These roles distinguish surface, boundary and functional opening, not natural colour or measured depth.">
+    <use id="viewplus-background" data-export-id="background" data-part="background" data-height-role="background" fill="#ffffff" href="#bag-background-geometry" data-shared-geometry="bag-background-geometry" />
+    <use id="viewplus-bag-handle" data-export-id="bag-handle-relief" data-part="raised-line" data-height-role="principal-line" href="#bag-handle-geometry" data-shared-geometry="bag-handle-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <use id="viewplus-bag-body-area" data-export-id="bag-body-area" data-part="area-texture" data-height-role="lower-area" href="#bag-body-geometry" data-shared-geometry="bag-body-geometry" fill="#808080" stroke="none" />
+    <use id="viewplus-bag-body" data-export-id="bag-body-relief" data-part="raised-line" data-height-role="principal-line" href="#bag-body-geometry" data-shared-geometry="bag-body-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

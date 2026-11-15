@@ -1,0 +1,20 @@
+Batch395 — essential teaching key
+
+Two independent sparse field-reference plans are introduced. This key is required for their code, scale, omissions and symbols. The native thumbnails supply context, not measured dimensions or inherited candidate approval. No words, numerals, typographic lettering or Braille appear in the drawings.
+
+Men's field lacrosse
+Selected100x55m model, distinct from women's field, box and Sixes. The retained WorldLacrosse2025-2027 body/cover text specifies metric ranges; its stale search-title metadata is not authority.110yards/about100m is not110metres. Goal midpoints lie12m from opposite ends, centred between sidelines; each3m-radius circle is a crease. The short carrier inside each circle represents the1.83m inside-post-face goal-plane reference, with midpoint retained. Raised strokes are not pipe footprints; nets, height and apparatus construction are omitted.
+
+Restraining/goal-area lines lie22m inward from goal planes, hence34m from each end. The centreline crosses the midpoint. Wing carriers are18m to either side of the centre and extend10m each way along the field from the centreline. A small crossed geometric carrier locates the centre: its8mm radial arms are an enlarged nonletter teaching cue corresponding to the permitted cross mark, not a literal10cm square. Bench/substitution/coaching areas, pylons and decorative markings are omitted. Only these selected relationships are represented; no full-rule or gameplay approval.
+
+Soccer/association football
+Selected105x68m pitch with opposing goals centred on the short ends. Halfway joins long-side midpoints; centre circle reference radius9.15m. The centre is an explicit halfway-line vertex and the circle centre, without a separate semantic filled point.
+
+Inside-post-face goal-width reference7.32m. Goal-area sides extend5.5m inward and5.5m beyond each inside post face, total reference width18.32m. Penalty-area sides extend16.5m inward and16.5m beyond each inside post face, total reference width40.32m. Nested areas share the end-line carrier without duplicate strokes. Outward U-shaped goal-location glyphs have introduced3m depth; that depth is not an IFAB dimension, physical net/post footprint or goal height. Penalty marks/arcs, corner arcs/flags and technical-area details are deliberately omitted. Source1147 dimensions and active season are not inferred. The accessed IFAB Law1 endpoint supplies selected geometry, not every-rule certification.
+
+Reference axes, media and limits
+Both models use8mm per metre and1native coordinate unit per millimetre. Lacrosse reference rectangle800x440mm on1000x640mm canvas; soccer840x544mm on1040x744mm canvas. At3pixels/mm proof files are3000x1920 and3120x2232pixels. File pixels and physical millimetres are distinct, not proved minimums or page/device-fit claims.
+
+IFAB physical outside-line and inside-post-face conventions are retained in source evidence. Raised1.4mm native strokes and1.2mm Index discs are enlarged schematic carriers centred on declared geometric reference axes; their actual outside footprints are not silently claimed identical to official paint edges or posts. Source widths, colour and net depth cannot be inferred from tactile line thickness.
+
+Swell uses black outlines. ViewPlus grey is the selected principal-line role; actual calibrated device levels remain pending. Index dots are ordinary line carriers with at least3.1mm centre spacing and at most6.2mm native station arc/chord spacing; declared vertices, curve extrema, circle cardinals and contacts are retained. They are not Braille or filled semantic point glyphs. Essential-key introductions do not establish intrinsic recognition. Hardware/material calibration, tactile proofreading, physical fit and learner recognition remain unevaluated.

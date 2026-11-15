@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.thirty-sixty-ninety-triangle" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="250mm" viewBox="0 0 220 250" width="220mm"><rect width="220" height="250" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <path d="M40 210L178.564064606 210L178.564064606 130Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="ratio-derived-triangle-perimeter" />
+    <path d="M164.564064606 210L164.564064606 196L178.564064606 196" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="right-angle-marker" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

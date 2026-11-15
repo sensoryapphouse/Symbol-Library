@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.three-quarter-square-selection" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="260mm" viewBox="0 0 260 260" width="260mm"><rect width="260" height="260" fill="#ffffff" data-part="background" id="background" />
+    <path d="M40 40L220 40L220 220L40 220Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="whole-square-boundary" />
+    <path d="M130 40L130 220" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="equal-region-vertical-divider" />
+    <path d="M40 130L220 130" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="equal-region-horizontal-divider" />
+    <path d="M85 77L93 85L85 93L77 85Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="selected-quarter-1-diamond-key" />
+    <path d="M175 77L183 85L175 93L167 85Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="selected-quarter-2-diamond-key" />
+    <path d="M85 167L93 175L85 183L77 175Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="selected-quarter-3-diamond-key" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

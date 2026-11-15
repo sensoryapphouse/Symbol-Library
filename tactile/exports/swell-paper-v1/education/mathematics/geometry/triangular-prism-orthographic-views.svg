@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.triangular-prism-orthographic-views" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="440mm" viewBox="0 0 370 440" width="370mm"><rect width="370" height="440" fill="#ffffff" data-part="background" id="background" />
+    <path d="M40 130L160 130L40 40Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="end-projected-right-triangle-boundary" />
+    <path d="M52 130L52 118L40 118" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="end-right-angle-marker" />
+    <path d="M40 220L160 220L160 400L40 400Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="front-projected-lateral-silhouette" />
+    <path d="M240 220L330 220L330 400L240 400Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="side-projected-lateral-silhouette" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

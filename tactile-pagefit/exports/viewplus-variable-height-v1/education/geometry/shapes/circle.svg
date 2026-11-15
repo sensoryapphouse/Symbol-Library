@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.circle" data-device-mapping="unassigned" data-production-method="viewplus-height-role-source" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" data-height-role="background" fill="white" id="background" />
+    <circle cx="50" cy="50" r="30" data-part="area-texture" data-height-role="area" data-output-role="uniform-filled-region" fill="black" stroke="none" id="circle-raised-area" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

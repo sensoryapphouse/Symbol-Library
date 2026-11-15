@@ -1,0 +1,155 @@
+{
+  "batch": 351,
+  "galaxy": {
+    "canvas_mm": [
+      1000,
+      1000
+    ],
+    "centre_mm": [
+      500,
+      500
+    ],
+    "bar_radii_mm": [
+      150,
+      30
+    ],
+    "nucleus_radius_mm": 12,
+    "right_arm_cubic_controls_mm": [
+      [
+        [
+          650,
+          500
+        ],
+        [
+          800,
+          480
+        ],
+        [
+          870,
+          300
+        ],
+        [
+          730,
+          210
+        ]
+      ],
+      [
+        [
+          730,
+          210
+        ],
+        [
+          550,
+          100
+        ],
+        [
+          230,
+          180
+        ],
+        [
+          180,
+          400
+        ]
+      ]
+    ],
+    "opposite_arm_transform": "180degree rotation about500,500; introduced face-on view, not measured chirality or star counts"
+  },
+  "venturi": {
+    "canvas_mm": [
+      1000,
+      600
+    ],
+    "upper_wall_mm": [
+      [
+        100,
+        180
+      ],
+      [
+        350,
+        180
+      ],
+      [
+        650,
+        240
+      ],
+      [
+        900,
+        240
+      ]
+    ],
+    "lower_wall_mm": [
+      [
+        100,
+        420
+      ],
+      [
+        350,
+        420
+      ],
+      [
+        650,
+        360
+      ],
+      [
+        900,
+        360
+      ]
+    ],
+    "flow_arrows": [
+      [
+        [
+          150,
+          300
+        ],
+        [
+          290,
+          300
+        ]
+      ],
+      [
+        [
+          700,
+          300
+        ],
+        [
+          840,
+          300
+        ]
+      ]
+    ],
+    "crosssection": "RECTANGULAR constant out-of-plane depth; represented height240/120mm gives area2:1. Not circular diameter ratio or physical pipe dimensions.",
+    "ideal_model_units": {
+      "rho": 1,
+      "Awide": 2,
+      "Anarrow": 1,
+      "vwide": 1,
+      "vnarrow": 2,
+      "Pwide_minus_Pnarrow": 1.5
+    },
+    "assumptions": [
+      "steady",
+      "incompressible",
+      "inviscid",
+      "sameheight",
+      "no work/loss terms"
+    ],
+    "arrow_geometry_not_velocity_magnitude": true
+  },
+  "circuit": {
+    "uniform_coordinate_scale": 6,
+    "margin_mm": 40,
+    "canvas_mm": [
+      1880,
+      1520
+    ],
+    "source_model": "Exact selected059/model nine slots; coordinates/arcs uniformly scaled, stroke1.4mm separately introduced.",
+    "terminal_medium_alternative": "Outlined terminal-marker contours at same scaled centres/radii instead of059 FILLED discs, all three media. Radius15/diameter30mm, no original5mm>=6 claim. Nonprinted terminal body reference is not true-hole/physicalair.",
+    "coil_native_grouping": "One naturally continuous three-arch native part; retain explicit source arc/arc same-path cusp and complete ink/Index checks. No grouping to hide contacts."
+  },
+  "line_width_mm": 1.4,
+  "dot_diameter_mm": 1.2,
+  "minimum_centres_mm": 3.1,
+  "maximum_native_interval_mm": 6.2,
+  "nominal_geometry_and_canvas_before_views": true,
+  "physical_evaluation": "pending"
+}

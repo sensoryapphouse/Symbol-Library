@@ -1,0 +1,194 @@
+{
+  "batch": 403,
+  "created_at_UTC": "2026-11-04T02:48:10.320534+00:00",
+  "actual_recording_entrypoint": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/403-author/prepare_retained_source_native_v01.py",
+    "sha256": "49e6e920791fd71c2f86b6498fd675564554ab032c788a99bd13e5cfc6d67f39"
+  },
+  "specification": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/production-workflow/restored-flow/403-spec-v01.json",
+    "sha256": "b66b85b414f5dabfd884e980998c5ba4623d77d21388af76b2d013f12cdaddba"
+  },
+  "common_conventions": {
+    "representation": "Introduced nonclinical skeletal homology teaching model, source-related but not traced or a complete osteological atlas.",
+    "homology": "One upper-arm humerus, radius/ulna forearm roles, grouped wrist, metacarpals and digital chains. Horse additionally includes scapula and a separate distal panel. No fourth meaning or prior programme artwork/views copied.",
+    "joint_convention": "Expanded clear printed joint gaps distinguish adjacent bones. Key identifies anatomical shoulder/elbow/wrist/metacarpophalangeal/interphalangeal relationships; gap is not a fracture, dislocation or missing bone. No printed ligaments, tendons or invented bony bridge across a genuine joint.",
+    "grouping": "A closed wrist-region aggregate denotes several carpals, not one enlarged/fused carpal. Exact individual carpal counts, articular facets, small sesamoids and complete ligament attachments are outside these three fixed overviews.",
+    "scale": "Introduced teaching proportions and separately scaled species. Not specimen morphometrics, true interspecies size ratios, radiographs or a single three-dimensional mounted pose.",
+    "material": "Nonhuman anatomical bone/aggregate subject roles at creation; no skin, hair, clothing or human limb-template claims. Existing nominal outline/dot/material/height rules still apply; production calibration remains provisional.",
+    "nominal_units": "1 SVG/viewBox unit =1mm, with physical width/height in millimetres, separate from raster proof pixels.",
+    "physical_limitations": "Metre-scale planned layouts. Device/page fit, tactile proofreading, calibrated height/material output and learner recognition remain pending. No normal-paper fit, proved minimum size or impossibility of a smaller design is established. Downscaling invalidates the current nominal line/dot/spacing checks.",
+    "source_observations": "Twelve genuine planning views are separate from twenty-one mandatory future current wholes per actor: twelve source rows plus nine individual profiles. Planning coverage is not candidate approval."
+  },
+  "models": [
+    {
+      "concept_id": "edu.horse-forelimb-skeleton-model",
+      "fixed_record_pointer": "/records/504",
+      "selected_species": "Adult domestic horse",
+      "selected_laterality": "Introduced LEFT forelimb",
+      "planned_nominal_canvas_mm": [
+        1200,
+        1600
+      ],
+      "units_to_mm": 1,
+      "projection": "Main introduced LEFT lateral teaching arrangement, proximal above/distal below, cranial page-right and caudal page-left. Separate distal DORSAL exploded metacarpal panel, not a second limb.",
+      "primary_reference_indices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "native_reference_index": 0,
+      "main_sequence": [
+        "scapula",
+        "humerus",
+        "adult reduced/fused radius-ulna region",
+        "grouped carpus",
+        "MCIII",
+        "P1",
+        "P2",
+        "P3"
+      ],
+      "counts": {
+        "functional_digits": 1,
+        "functional_digit_identity": "III",
+        "main_phalanges": 3,
+        "main_carpal_aggregate_regions": 1,
+        "main_fused_radius_ulna_regions": 1,
+        "proximal_interosseous_windows": 1,
+        "main_metacarpals": 1,
+        "distal_dorsal_panel_metacarpals": 3,
+        "panel_metacarpal_identities": [
+          "II",
+          "III",
+          "IV"
+        ],
+        "extra_functional_panel_digits": 0
+      },
+      "shape_roles": "Broad triangular scapular bone blade tapering to glenoid; proximal humerus head/tubercles and simplified shaft/joint end; olecranon and single proximal interosseous opening in a fused/reduced forearm; cannon MCIII; successive P1/P2 and expanded terminal P3. Do not copy bovine full humerus/forearm panels.",
+      "fused_region": "Radius and reduced ulna remain two named anatomical bones represented by one fused-region exterior with one proximal window. They are not two freely separated complete forearm bones, nor biologically renamed as one bone.",
+      "panel": "DORSAL EXPlODED left metacarpal teaching view: dominant III with two shorter II/IV splints, medial II page-left and lateral IV page-right. Splints separated laterally for visibility although normally palmar-positioned/partly hidden from dorsal view. Do not claim this is an intact external dorsal surface or add two toes. Repeated III is the same bone in another view; use the same declared longitudinal drawing scale for main/panel MCIII.",
+      "omissions": "Scapular cartilage and hoof keratin omitted from the bone pattern; small sesamoids, individual carpals, foramina, tendons and ligaments not exhaustively shown. Source scapula photo does not establish side; left orientation is introduced using explicitly left upper/forearm sources and anatomical cranial/caudal roles.",
+      "unmeasured_details": "No claim of exact full lateral distal-humerus tracing: selected C photograph is proximal only; joint-end contour is an explicit generalized teaching symbol, not bovine substitution."
+    },
+    {
+      "concept_id": "edu.mole-forelimb-skeleton-model",
+      "fixed_record_pointer": "/records/695",
+      "selected_species": "European mole, Talpa europaea",
+      "selected_laterality": "LEFT",
+      "age_scope": "Mature ossified teaching pattern, not an embryonic/developmental sequence; no exact age/sex claim for the Figure1 specimen.",
+      "planned_nominal_canvas_mm": [
+        1400,
+        900
+      ],
+      "units_to_mm": 1,
+      "projection": "Introduced source-oriented LEFT forelimb based on Figure1: proximal-left/distal-right, dorsal-up, radial/thumb/falciform side below. No exact dorsal-camera or fully mounted stance claim.",
+      "primary_reference_indices": [
+        7
+      ],
+      "native_reference_index": 1,
+      "main_sequence": [
+        "short broad humerus",
+        "separate radius and ulna",
+        "grouped wrist",
+        "five metacarpals",
+        "five true digital chains",
+        "distinct radial/falciform sesamoid"
+      ],
+      "counts": {
+        "humeri": 1,
+        "radii": 1,
+        "ulnae": 1,
+        "wrist_aggregate_regions": 1,
+        "true_metacarpals": 5,
+        "true_digital_rays": 5,
+        "digit_identities": [
+          "I",
+          "II",
+          "III",
+          "IV",
+          "V"
+        ],
+        "phalanges_by_digit": [
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        "total_true_phalanges": 14,
+        "highlighted_falciform_sesamoids": 1,
+        "accessory_is_sixth_true_digit": false
+      },
+      "count_authority": "Direct University of Lille Talpa europaea skeletal specimen-page text BA00062b, independently from tiny native472 or inferred human counts.",
+      "shape_roles": "Very short broad asymmetric/flared hooked humerus; substantial olecranon/curved ulna dorsally above a separate radius; broad grouped wrist and stout splayed short metacarpal/phalange chains. Thumb I shorter on lower radial side. Distinct single curved falciform beside wrist/thumb base, never a metacarpal-plus-phalanges chain.",
+      "omissions": "Scapula/clavicle and trunk not in fixed humerus-to-hand overview. Small accessory sesamoids, distal accessory elements, individual carpal fusion details, claws/keratin and muscles omitted; falciform is highlighted, not asserted to be the sole sesamoid in a mole.",
+      "model_limits": "Separate anatomical bone roles and joint gaps remain; no generic human/canine limb or other Talpa species substitution and no digging-performance claim."
+    },
+    {
+      "concept_id": "edu.monkey-forelimb-skeleton-model",
+      "fixed_record_pointer": "/records/699",
+      "selected_species": "Rhesus macaque, Macaca mulatta",
+      "selected_laterality": "RIGHT",
+      "age_scope": "Mature non-developmental teaching pattern; exact specimen age/sex not identified from source photographs.",
+      "planned_nominal_canvas_mm": [
+        900,
+        1700
+      ],
+      "units_to_mm": 1,
+      "projection": "Source-related teaching composite: cranial right-humerus/radius/ulna forms, with the explicitly DORSAL right hand rotated clockwise from F14 to proximal-up/distal-down. Right thumb and radial side page-right, ulna page-left; no claim of one unmodified fully articulated source specimen pose.",
+      "primary_reference_indices": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "native_reference_index": 2,
+      "main_sequence": [
+        "humerus",
+        "unfused radius and ulna",
+        "grouped wrist",
+        "five metacarpals",
+        "five digital chains"
+      ],
+      "counts": {
+        "humeri": 1,
+        "radii": 1,
+        "ulnae": 1,
+        "wrist_aggregate_regions": 1,
+        "true_metacarpals": 5,
+        "true_digital_rays": 5,
+        "digit_identities": [
+          "I",
+          "II",
+          "III",
+          "IV",
+          "V"
+        ],
+        "phalanges_by_digit": [
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        "total_true_phalanges": 14,
+        "printed_scapulae": 0
+      },
+      "shape_roles": "Long subtly bowed humerus with expanded unequal ends; radius small proximal head/broad distal wrist end; ulna pronounced proximal olecranon/notch and narrower distal end. Shorter thumb metacarpal and two phalanges, four longer three-phalange digits; central long fingers and shorter outer fingers follow F14, not human thumb proportions.",
+      "wrist": "Grouped wrist includes the source-related centrale; no literal eight-carpal human count. Individual carpals and small thumb accessory sesamoid not separately counted or converted into a sixth ray.",
+      "omissions": "Scapula/trunk, individual carpal facets and small sesamoids, muscles, tendons and ligaments omitted. No thumb opposition angle, grasp performance, clinical alignment or exact specimen proportions claimed."
+    }
+  ],
+  "retained_declaration_owner": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/398-author/398-selected-model-declarations-v01.json",
+    "sha256": "ab530c04a4f4df922908dc0786339e9d4515cc7b5ae3df356772f751c24784cb"
+  },
+  "model_facts_scope": "Exact retained398 selected anatomy/model facts. Any planning-source observations embedded in retained model descriptions referONLY398history,not new403perception or review. Species/laterality/projection/bone-count/exploded-panel questions already resolved;no newresearch or oldjob execution.",
+  "current403_planning_images": 0,
+  "current403_candidate_views": 0,
+  "required_fresh_current_wholes_each": 21,
+  "candidate_artwork_files": 0,
+  "READY": false,
+  "ROOT_writes": 0
+}

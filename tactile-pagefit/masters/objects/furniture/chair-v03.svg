@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="aac.chair" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="chair-provenance">{"editable_source": "This shared master only. Per-medium files are derived exports.", "revision": 3, "profiles": ["swell-paper-v1", "index-embossed-v1", "viewplus-variable-height-v1"], "brief_path": "planning/tactile-media/briefs/coat-furniture-020.json", "recipe_path": "planning/tactile-media/designs/swell-020.json", "physical_evaluation": "pending", "exception_policy": "Share compatible geometry across future profile layers; justify medium-specific dot layouts within this same master. No unmade profiles implied.", "supersedes_master": {"path": "tactile/masters/objects/furniture/chair-v02.svg", "sha256": "10bc54d9c0fa88ae74ec9ceab9e190782caaf9eac4c8d9044099d539be04094e"}, "profile_addition": "viewplus", "profile_addition_recipe": "planning/tactile-media/designs/viewplus-020.json"}</metadata>
+  <defs>
+    <rect id="chair-background-geometry" data-part="background" width="100" height="100" />
+    <path id="chair-frame-geometry" data-part="object" data-object="chair" data-tactile-role="raised-line" d="M25 14H37V52H80V64H77V88H67V64H37V88H27V64H25Z" />
+  </defs>
+  <g id="chair-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.chair&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use id="swell-background" data-export-id="background" data-part="background" href="#chair-background-geometry" data-shared-geometry="chair-background-geometry" fill="#ffffff" />
+    <use id="swell-chair-frame" data-export-id="chair-frame-footprint" data-part="object" data-object="chair" data-tactile-role="raised-line" data-output-role="swell-footprint" href="#chair-frame-geometry" data-shared-geometry="chair-frame-geometry" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="chair-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.chair&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-geometry-exception="index-explicit-dot-layout" data-exception-reason="Explicit Index alternatives sample the continuous contours near2mm pitch with1.2mm design circles. Centres closer than1.5mm are omitted at junctions. Furniture contours are continuous silhouettes; coat opening joins neckline and hem with duplicate dots omitted. All dot alternatives remain within the same shared master. These are design positions, not measured hardware properties.">
+    <use id="index-background" data-export-id="background" data-part="background" fill="#ffffff" href="#chair-background-geometry" data-shared-geometry="chair-background-geometry" />
+    <g id="index-chair-frame" data-export-id="chair-frame-layout" data-part="object" data-tactile-role="raised-line" data-output-role="graphic-dot-row">
+      <circle id="index-chair-frame-dot-0000" data-export-id="chair-frame-dot-0000" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="14.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0001" data-export-id="chair-frame-dot-0001" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="14.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0002" data-export-id="chair-frame-dot-0002" data-part="object" data-output-role="graphic-dot" cx="29.0" cy="14.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0003" data-export-id="chair-frame-dot-0003" data-part="object" data-output-role="graphic-dot" cx="31.0" cy="14.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0004" data-export-id="chair-frame-dot-0004" data-part="object" data-output-role="graphic-dot" cx="33.0" cy="14.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0005" data-export-id="chair-frame-dot-0005" data-part="object" data-output-role="graphic-dot" cx="35.0" cy="14.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0006" data-export-id="chair-frame-dot-0006" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="14.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0007" data-export-id="chair-frame-dot-0007" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="16.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0008" data-export-id="chair-frame-dot-0008" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="18.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0009" data-export-id="chair-frame-dot-0009" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="20.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0010" data-export-id="chair-frame-dot-0010" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="22.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0011" data-export-id="chair-frame-dot-0011" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="24.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0012" data-export-id="chair-frame-dot-0012" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="26.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0013" data-export-id="chair-frame-dot-0013" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0014" data-export-id="chair-frame-dot-0014" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="30.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0015" data-export-id="chair-frame-dot-0015" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="32.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0016" data-export-id="chair-frame-dot-0016" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="34.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0017" data-export-id="chair-frame-dot-0017" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="36.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0018" data-export-id="chair-frame-dot-0018" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="38.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0019" data-export-id="chair-frame-dot-0019" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0020" data-export-id="chair-frame-dot-0020" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="42.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0021" data-export-id="chair-frame-dot-0021" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="44.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0022" data-export-id="chair-frame-dot-0022" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="46.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0023" data-export-id="chair-frame-dot-0023" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="48.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0024" data-export-id="chair-frame-dot-0024" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="50.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0025" data-export-id="chair-frame-dot-0025" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0026" data-export-id="chair-frame-dot-0026" data-part="object" data-output-role="graphic-dot" cx="38.95455" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0027" data-export-id="chair-frame-dot-0027" data-part="object" data-output-role="graphic-dot" cx="40.90909" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0028" data-export-id="chair-frame-dot-0028" data-part="object" data-output-role="graphic-dot" cx="42.86364" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0029" data-export-id="chair-frame-dot-0029" data-part="object" data-output-role="graphic-dot" cx="44.81818" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0030" data-export-id="chair-frame-dot-0030" data-part="object" data-output-role="graphic-dot" cx="46.77273" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0031" data-export-id="chair-frame-dot-0031" data-part="object" data-output-role="graphic-dot" cx="48.72727" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0032" data-export-id="chair-frame-dot-0032" data-part="object" data-output-role="graphic-dot" cx="50.68182" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0033" data-export-id="chair-frame-dot-0033" data-part="object" data-output-role="graphic-dot" cx="52.63636" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0034" data-export-id="chair-frame-dot-0034" data-part="object" data-output-role="graphic-dot" cx="54.59091" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0035" data-export-id="chair-frame-dot-0035" data-part="object" data-output-role="graphic-dot" cx="56.54545" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0036" data-export-id="chair-frame-dot-0036" data-part="object" data-output-role="graphic-dot" cx="58.5" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0037" data-export-id="chair-frame-dot-0037" data-part="object" data-output-role="graphic-dot" cx="60.45455" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0038" data-export-id="chair-frame-dot-0038" data-part="object" data-output-role="graphic-dot" cx="62.40909" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0039" data-export-id="chair-frame-dot-0039" data-part="object" data-output-role="graphic-dot" cx="64.36364" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0040" data-export-id="chair-frame-dot-0040" data-part="object" data-output-role="graphic-dot" cx="66.31818" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0041" data-export-id="chair-frame-dot-0041" data-part="object" data-output-role="graphic-dot" cx="68.27273" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0042" data-export-id="chair-frame-dot-0042" data-part="object" data-output-role="graphic-dot" cx="70.22727" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0043" data-export-id="chair-frame-dot-0043" data-part="object" data-output-role="graphic-dot" cx="72.18182" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0044" data-export-id="chair-frame-dot-0044" data-part="object" data-output-role="graphic-dot" cx="74.13636" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0045" data-export-id="chair-frame-dot-0045" data-part="object" data-output-role="graphic-dot" cx="76.09091" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0046" data-export-id="chair-frame-dot-0046" data-part="object" data-output-role="graphic-dot" cx="78.04545" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0047" data-export-id="chair-frame-dot-0047" data-part="object" data-output-role="graphic-dot" cx="80.0" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0048" data-export-id="chair-frame-dot-0048" data-part="object" data-output-role="graphic-dot" cx="80.0" cy="54.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0049" data-export-id="chair-frame-dot-0049" data-part="object" data-output-role="graphic-dot" cx="80.0" cy="56.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0050" data-export-id="chair-frame-dot-0050" data-part="object" data-output-role="graphic-dot" cx="80.0" cy="58.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0051" data-export-id="chair-frame-dot-0051" data-part="object" data-output-role="graphic-dot" cx="80.0" cy="60.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0052" data-export-id="chair-frame-dot-0052" data-part="object" data-output-role="graphic-dot" cx="80.0" cy="62.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0053" data-export-id="chair-frame-dot-0053" data-part="object" data-output-role="graphic-dot" cx="80.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0054" data-export-id="chair-frame-dot-0054" data-part="object" data-output-role="graphic-dot" cx="78.5" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0055" data-export-id="chair-frame-dot-0055" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0056" data-export-id="chair-frame-dot-0056" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="66.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0057" data-export-id="chair-frame-dot-0057" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="68.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0058" data-export-id="chair-frame-dot-0058" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="70.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0059" data-export-id="chair-frame-dot-0059" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="72.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0060" data-export-id="chair-frame-dot-0060" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="74.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0061" data-export-id="chair-frame-dot-0061" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="76.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0062" data-export-id="chair-frame-dot-0062" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="78.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0063" data-export-id="chair-frame-dot-0063" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="80.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0064" data-export-id="chair-frame-dot-0064" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0065" data-export-id="chair-frame-dot-0065" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="84.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0066" data-export-id="chair-frame-dot-0066" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="86.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0067" data-export-id="chair-frame-dot-0067" data-part="object" data-output-role="graphic-dot" cx="77.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0068" data-export-id="chair-frame-dot-0068" data-part="object" data-output-role="graphic-dot" cx="75.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0069" data-export-id="chair-frame-dot-0069" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0070" data-export-id="chair-frame-dot-0070" data-part="object" data-output-role="graphic-dot" cx="71.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0071" data-export-id="chair-frame-dot-0071" data-part="object" data-output-role="graphic-dot" cx="69.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0072" data-export-id="chair-frame-dot-0072" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0073" data-export-id="chair-frame-dot-0073" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="86.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0074" data-export-id="chair-frame-dot-0074" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="84.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0075" data-export-id="chair-frame-dot-0075" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0076" data-export-id="chair-frame-dot-0076" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="80.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0077" data-export-id="chair-frame-dot-0077" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="78.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0078" data-export-id="chair-frame-dot-0078" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="76.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0079" data-export-id="chair-frame-dot-0079" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="74.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0080" data-export-id="chair-frame-dot-0080" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="72.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0081" data-export-id="chair-frame-dot-0081" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="70.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0082" data-export-id="chair-frame-dot-0082" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="68.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0083" data-export-id="chair-frame-dot-0083" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="66.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0084" data-export-id="chair-frame-dot-0084" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0085" data-export-id="chair-frame-dot-0085" data-part="object" data-output-role="graphic-dot" cx="65.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0086" data-export-id="chair-frame-dot-0086" data-part="object" data-output-role="graphic-dot" cx="63.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0087" data-export-id="chair-frame-dot-0087" data-part="object" data-output-role="graphic-dot" cx="61.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0088" data-export-id="chair-frame-dot-0088" data-part="object" data-output-role="graphic-dot" cx="59.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0089" data-export-id="chair-frame-dot-0089" data-part="object" data-output-role="graphic-dot" cx="57.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0090" data-export-id="chair-frame-dot-0090" data-part="object" data-output-role="graphic-dot" cx="55.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0091" data-export-id="chair-frame-dot-0091" data-part="object" data-output-role="graphic-dot" cx="53.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0092" data-export-id="chair-frame-dot-0092" data-part="object" data-output-role="graphic-dot" cx="51.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0093" data-export-id="chair-frame-dot-0093" data-part="object" data-output-role="graphic-dot" cx="49.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0094" data-export-id="chair-frame-dot-0094" data-part="object" data-output-role="graphic-dot" cx="47.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0095" data-export-id="chair-frame-dot-0095" data-part="object" data-output-role="graphic-dot" cx="45.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0096" data-export-id="chair-frame-dot-0096" data-part="object" data-output-role="graphic-dot" cx="43.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0097" data-export-id="chair-frame-dot-0097" data-part="object" data-output-role="graphic-dot" cx="41.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0098" data-export-id="chair-frame-dot-0098" data-part="object" data-output-role="graphic-dot" cx="39.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0099" data-export-id="chair-frame-dot-0099" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0100" data-export-id="chair-frame-dot-0100" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="66.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0101" data-export-id="chair-frame-dot-0101" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="68.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0102" data-export-id="chair-frame-dot-0102" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="70.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0103" data-export-id="chair-frame-dot-0103" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="72.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0104" data-export-id="chair-frame-dot-0104" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="74.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0105" data-export-id="chair-frame-dot-0105" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="76.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0106" data-export-id="chair-frame-dot-0106" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="78.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0107" data-export-id="chair-frame-dot-0107" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="80.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0108" data-export-id="chair-frame-dot-0108" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0109" data-export-id="chair-frame-dot-0109" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="84.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0110" data-export-id="chair-frame-dot-0110" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="86.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0111" data-export-id="chair-frame-dot-0111" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0112" data-export-id="chair-frame-dot-0112" data-part="object" data-output-role="graphic-dot" cx="35.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0113" data-export-id="chair-frame-dot-0113" data-part="object" data-output-role="graphic-dot" cx="33.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0114" data-export-id="chair-frame-dot-0114" data-part="object" data-output-role="graphic-dot" cx="31.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0115" data-export-id="chair-frame-dot-0115" data-part="object" data-output-role="graphic-dot" cx="29.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0116" data-export-id="chair-frame-dot-0116" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="88.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0117" data-export-id="chair-frame-dot-0117" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="86.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0118" data-export-id="chair-frame-dot-0118" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="84.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0119" data-export-id="chair-frame-dot-0119" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="82.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0120" data-export-id="chair-frame-dot-0120" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="80.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0121" data-export-id="chair-frame-dot-0121" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="78.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0122" data-export-id="chair-frame-dot-0122" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="76.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0123" data-export-id="chair-frame-dot-0123" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="74.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0124" data-export-id="chair-frame-dot-0124" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="72.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0125" data-export-id="chair-frame-dot-0125" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="70.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0126" data-export-id="chair-frame-dot-0126" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="68.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0127" data-export-id="chair-frame-dot-0127" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="66.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0128" data-export-id="chair-frame-dot-0128" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0129" data-export-id="chair-frame-dot-0129" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="64.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0130" data-export-id="chair-frame-dot-0130" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="62.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0131" data-export-id="chair-frame-dot-0131" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="60.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0132" data-export-id="chair-frame-dot-0132" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="58.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0133" data-export-id="chair-frame-dot-0133" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="56.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0134" data-export-id="chair-frame-dot-0134" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="54.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0135" data-export-id="chair-frame-dot-0135" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="52.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0136" data-export-id="chair-frame-dot-0136" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="50.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0137" data-export-id="chair-frame-dot-0137" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="48.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0138" data-export-id="chair-frame-dot-0138" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="46.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0139" data-export-id="chair-frame-dot-0139" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="44.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0140" data-export-id="chair-frame-dot-0140" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="42.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0141" data-export-id="chair-frame-dot-0141" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="40.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0142" data-export-id="chair-frame-dot-0142" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="38.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0143" data-export-id="chair-frame-dot-0143" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="36.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0144" data-export-id="chair-frame-dot-0144" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="34.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0145" data-export-id="chair-frame-dot-0145" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="32.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0146" data-export-id="chair-frame-dot-0146" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="30.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0147" data-export-id="chair-frame-dot-0147" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0148" data-export-id="chair-frame-dot-0148" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="26.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0149" data-export-id="chair-frame-dot-0149" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="24.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0150" data-export-id="chair-frame-dot-0150" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="22.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0151" data-export-id="chair-frame-dot-0151" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="20.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0152" data-export-id="chair-frame-dot-0152" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="18.0" r=".6" fill="#000000" />
+      <circle id="index-chair-frame-dot-0153" data-export-id="chair-frame-dot-0153" data-part="object" data-output-role="graphic-dot" cx="25.0" cy="16.0" r=".6" fill="#000000" />
+    </g>
+  </g>
+  <g id="chair-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.chair&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-shared-geometry-policy="exact-continuous-geometry-reuse" data-design-reason="Reuse exact continuous geometry: coat and furniture surfaces lower grey, silhouettes and coat opening higher black; exterior and under-furniture spaces white/unraised. No measured height or material code.">
+    <use id="viewplus-background" data-export-id="background" data-part="background" data-height-role="background" fill="#ffffff" href="#chair-background-geometry" data-shared-geometry="chair-background-geometry" />
+    <use id="viewplus-chair-frame-area" data-export-id="chair-frame-area" data-part="area-texture" data-height-role="lower-area" href="#chair-frame-geometry" data-shared-geometry="chair-frame-geometry" fill="#808080" stroke="none" />
+    <use id="viewplus-chair-frame" data-export-id="chair-frame-relief" data-part="object" data-height-role="principal-line" href="#chair-frame-geometry" data-shared-geometry="chair-frame-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

@@ -1,0 +1,63 @@
+{
+  "batch": 394,
+  "specification": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/production-workflow/restored-flow/394-spec-v01.json",
+    "sha256": "1953fd611f7e8da27227afce12811c56082a80b3f366818b0ba3b9862ef70e68"
+  },
+  "fixed_selected_pointers": [
+    {
+      "concept_id": "edu.basketball-court-layout",
+      "owner": {
+        "path": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/SVGs/planning/tactile-full-set/manifest-v1.json",
+        "sha256": "a932c301f93030f3719c810a83b32a20e8518af102e57d9c26267d31a39ce314"
+      },
+      "json_pointer": "/records/112"
+    },
+    {
+      "concept_id": "edu.tenpin-bowling-lane-rack-layout",
+      "owner": {
+        "path": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/SVGs/planning/tactile-full-set/manifest-v1.json",
+        "sha256": "a932c301f93030f3719c810a83b32a20e8518af102e57d9c26267d31a39ce314"
+      },
+      "json_pointer": "/records/1093"
+    },
+    {
+      "concept_id": "edu.ice-hockey-rink-layout",
+      "owner": {
+        "path": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/SVGs/planning/tactile-full-set/manifest-v1.json",
+        "sha256": "a932c301f93030f3719c810a83b32a20e8518af102e57d9c26267d31a39ce314"
+      },
+      "json_pointer": "/records/533"
+    }
+  ],
+  "source_reference_plan": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/394-author/394-source-reference-plan-v01.json",
+    "sha256": "491ee99f374425e58794b605336a59357ff83ca76700515ae368f35ebfa5d6a6"
+  },
+  "source_planning_audit": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/394-author/394-source-planning-whole-view-audit-v01.json",
+    "sha256": "5aab50b79322152e289b90472fca9a603fc45401fc5d9d864bec2b2887885ea1"
+  },
+  "actual_primary_text_and_failures": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/394-author/394-primary-source-access-and-selected-facts-v01.json",
+    "sha256": "30238d1b07904b38bd4854136781f824d55c8e4f234cce68a83e9a9f0fd51ba8"
+  },
+  "parameters": {
+    "path": "/Users/paulblenkhorn/Documents/Codex/2026-10-22/continue-the-planning-discussion-for-a/work/parallel-tactile/394-author/394-declared-model-parameters-v01.json",
+    "sha256": "7d1fa6ee01ae195790ef0c94ca35a012fcddc1749aadb922f8f3cd1bff3a69db"
+  },
+  "source_perception": "Only3genuine planningwhole receipts;3freshcurrent source+9currentprofile wholes still required for eachactor. No previousviews/approvaltransfer,sourcepixelsnotcoordinateauthority.",
+  "NBA_free_throw_circle_omission": "Declared sparse omission,not a dimensionalassertion. Essential mirrored lane keys plus bound3pointarc/corner geometry retained. No inferred radius from unseenNBAfigure or search-onlyexcerpt.",
+  "NHL_crease_exact_scope": "Independent introduced exact closure from6ftcircle/lateral4ft; source4.5ft textualside not silentlytreatedequal sqrt20. Review model/source consistency and original actualcontacts/clearances before artworkapproval.",
+  "intended_contact_classes": [
+    "courtframe/lane and3point corner endpoints",
+    "midcourtline/centre circle",
+    "keyedge/foul-line endpoints",
+    "hockey rinkboundary/centrezonegoal-line endpoints",
+    "hockey goalline/goalU andcrease endpoints",
+    "bowling outerframe/foulline/lanemargins"
+  ],
+  "unrelated_clearances": "Allotherpartpairs/fullpaint/cap/Index dots must pass existing native checks; no zero-width construction-only claims or tolerance waiver.",
+  "material_height_roles": "Nonhuman principalcontours/linecarriers,nonprinted playingfloor/gutter/pin/goal/crease zones. No actualwall/net/pin/ice/paintheight or rulecolour encoded; provisional mediumheight only.",
+  "ROOT_writes": 0
+}

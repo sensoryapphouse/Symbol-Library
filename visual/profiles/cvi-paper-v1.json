@@ -1,0 +1,8 @@
+{
+  "profile_id": "cvi-paper-v1",
+  "description": "Preserve reviewed legacy exploratory paper presentation",
+  "paint_prefix": "paper",
+  "scope": "Visual design profile; individual access and recognition remain unevaluated",
+  "no_visible_text": true,
+  "version": 1
+}

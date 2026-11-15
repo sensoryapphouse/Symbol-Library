@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.water-molecule-bent-structure" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="170mm" viewBox="0 0 240 170" width="240mm"><rect width="240" height="170" fill="#ffffff" data-part="background" id="background" />
+    <path d="M98 60A22 22 0 1 0 142 60A22 22 0 1 0 98 60Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="point-symbol" id="oxygen-central-atom" />
+    <path d="M44.7544092547 108.989746389A12 12 0 1 0 68.7544092547 108.989746389A12 12 0 1 0 44.7544092547 108.989746389Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="point-symbol" id="hydrogen-atom-00" />
+    <path d="M171.245590745 108.989746389A12 12 0 1 0 195.245590745 108.989746389A12 12 0 1 0 171.245590745 108.989746389Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="point-symbol" id="hydrogen-atom-01" />
+    <path d="M97.8640432391 77.1464112362L70.9846671724 97.9670534516" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="oxygen-hydrogen-covalent-bond-00" />
+    <path d="M142.135956761 77.1464112362L169.015332828 97.9670534516" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="oxygen-hydrogen-covalent-bond-01" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

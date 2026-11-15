@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.regular-octagon-example" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <path d="M81.411904105 63.011236700L63.011236700 81.411904105L36.988763300 81.411904105L18.588095895 63.011236700L18.588095895 36.988763300L36.988763300 18.588095895L63.011236700 18.588095895L81.411904105 36.988763300Z" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="octagon-boundary" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

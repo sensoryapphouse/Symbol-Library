@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="aac.bread" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="bread-provenance">{"editable_source": "This shared master only. Per-medium files are derived exports.", "revision": 3, "profiles": ["swell-paper-v1", "index-embossed-v1", "viewplus-variable-height-v1"], "brief_path": "planning/tactile-media/briefs/bread-egg-028.json", "recipe_path": "planning/tactile-media/designs/swell-028.json", "physical_evaluation": "pending", "exception_policy": "Share compatible geometry across future profile layers; justify medium-specific dot layouts within this same master. No unmade profiles implied.", "supersedes_master": {"path": "tactile/masters/food/staples/bread-v02.svg", "sha256": "52dcb2b172dc1c2c86ca21de0966116d06cef4b9ce04d33616b799dda08bc827"}, "profile_addition": "viewplus", "profile_addition_recipe": "planning/tactile-media/designs/viewplus-028.json"}</metadata>
+  <defs>
+    <rect id="bread-background-geometry" data-part="background" width="100" height="100" />
+    <path id="bread-body-geometry" data-part="object" data-object="bread" data-tactile-role="raised-line" d="M27 39C15 39 15 27 24 21C35 12 65 12 76 21C85 27 85 39 73 39L73 79Q73 85 67 85L33 85Q27 85 27 79Z" />
+  </defs>
+  <g id="bread-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.bread&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use id="swell-background" data-export-id="background" data-part="background" href="#bread-background-geometry" data-shared-geometry="bread-background-geometry" fill="#ffffff" />
+    <use id="swell-bread-body" data-export-id="bread-body-footprint" data-part="object" data-object="bread" data-tactile-role="raised-line" data-output-role="swell-footprint" href="#bread-body-geometry" data-shared-geometry="bread-body-geometry" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="bread-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.bread&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-geometry-exception="index-explicit-dot-layout" data-exception-reason="Explicit Index alternatives sample the continuous contours near2mm pitch with1.2mm design circles. Centres closer than1.5mm are omitted at junctions. Each single outline follows its own continuous contour; duplicate closure dots are omitted. Bread shoulder gaps and egg asymmetry are retained. All dot alternatives remain within the same shared master. These are design positions, not measured hardware properties.">
+    <use id="index-background" data-export-id="background" data-part="background" fill="#ffffff" href="#bread-background-geometry" data-shared-geometry="bread-background-geometry" />
+    <g id="index-bread-body" data-export-id="bread-body-layout" data-part="object" data-tactile-role="raised-line" data-output-role="graphic-dot-row">
+      <circle id="index-bread-body-dot-0000" data-export-id="bread-body-dot-0000" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="39.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0001" data-export-id="bread-body-dot-0001" data-part="object" data-output-role="graphic-dot" cx="24.97861" cy="38.87552" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0002" data-export-id="bread-body-dot-0002" data-part="object" data-output-role="graphic-dot" cx="22.99857" cy="38.45499" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0003" data-export-id="bread-body-dot-0003" data-part="object" data-output-role="graphic-dot" cx="21.13876" cy="37.66033" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0004" data-export-id="bread-body-dot-0004" data-part="object" data-output-role="graphic-dot" cx="19.5348" cy="36.43219" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0005" data-export-id="bread-body-dot-0005" data-part="object" data-output-role="graphic-dot" cx="18.35591" cy="34.79343" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0006" data-export-id="bread-body-dot-0006" data-part="object" data-output-role="graphic-dot" cx="17.71392" cy="32.87863" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0007" data-export-id="bread-body-dot-0007" data-part="object" data-output-role="graphic-dot" cx="17.60351" cy="30.8602" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0008" data-export-id="bread-body-dot-0008" data-part="object" data-output-role="graphic-dot" cx="17.94814" cy="28.86673" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0009" data-export-id="bread-body-dot-0009" data-part="object" data-output-role="graphic-dot" cx="18.6621" cy="26.97278" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0010" data-export-id="bread-body-dot-0010" data-part="object" data-output-role="graphic-dot" cx="19.67435" cy="25.21935" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0011" data-export-id="bread-body-dot-0011" data-part="object" data-output-role="graphic-dot" cx="20.92961" cy="23.63034" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0012" data-export-id="bread-body-dot-0012" data-part="object" data-output-role="graphic-dot" cx="22.38378" cy="22.22072" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0013" data-export-id="bread-body-dot-0013" data-part="object" data-output-role="graphic-dot" cx="24.0" cy="21.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0014" data-export-id="bread-body-dot-0014" data-part="object" data-output-role="graphic-dot" cx="25.63773" cy="19.81341" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0015" data-export-id="bread-body-dot-0015" data-part="object" data-output-role="graphic-dot" cx="27.387" cy="18.79764" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0016" data-export-id="bread-body-dot-0016" data-part="object" data-output-role="graphic-dot" cx="29.21333" cy="17.92746" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0017" data-export-id="bread-body-dot-0017" data-part="object" data-output-role="graphic-dot" cx="31.09408" cy="17.18183" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0018" data-export-id="bread-body-dot-0018" data-part="object" data-output-role="graphic-dot" cx="33.01425" cy="16.54423" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0019" data-export-id="bread-body-dot-0019" data-part="object" data-output-role="graphic-dot" cx="34.96346" cy="16.00166" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0020" data-export-id="bread-body-dot-0020" data-part="object" data-output-role="graphic-dot" cx="36.93441" cy="15.5442" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0021" data-export-id="bread-body-dot-0021" data-part="object" data-output-role="graphic-dot" cx="38.92174" cy="15.16398" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0022" data-export-id="bread-body-dot-0022" data-part="object" data-output-role="graphic-dot" cx="40.9214" cy="14.85503" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0023" data-export-id="bread-body-dot-0023" data-part="object" data-output-role="graphic-dot" cx="42.93026" cy="14.61284" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0024" data-export-id="bread-body-dot-0024" data-part="object" data-output-role="graphic-dot" cx="44.94574" cy="14.43391" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0025" data-export-id="bread-body-dot-0025" data-part="object" data-output-role="graphic-dot" cx="46.96572" cy="14.31595" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0026" data-export-id="bread-body-dot-0026" data-part="object" data-output-role="graphic-dot" cx="48.98829" cy="14.25735" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0027" data-export-id="bread-body-dot-0027" data-part="object" data-output-role="graphic-dot" cx="51.01171" cy="14.25735" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0028" data-export-id="bread-body-dot-0028" data-part="object" data-output-role="graphic-dot" cx="53.03428" cy="14.31595" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0029" data-export-id="bread-body-dot-0029" data-part="object" data-output-role="graphic-dot" cx="55.05426" cy="14.43391" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0030" data-export-id="bread-body-dot-0030" data-part="object" data-output-role="graphic-dot" cx="57.06974" cy="14.61284" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0031" data-export-id="bread-body-dot-0031" data-part="object" data-output-role="graphic-dot" cx="59.0786" cy="14.85503" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0032" data-export-id="bread-body-dot-0032" data-part="object" data-output-role="graphic-dot" cx="61.07826" cy="15.16398" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0033" data-export-id="bread-body-dot-0033" data-part="object" data-output-role="graphic-dot" cx="63.06559" cy="15.5442" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0034" data-export-id="bread-body-dot-0034" data-part="object" data-output-role="graphic-dot" cx="65.03654" cy="16.00166" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0035" data-export-id="bread-body-dot-0035" data-part="object" data-output-role="graphic-dot" cx="66.98575" cy="16.54423" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0036" data-export-id="bread-body-dot-0036" data-part="object" data-output-role="graphic-dot" cx="68.90592" cy="17.18183" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0037" data-export-id="bread-body-dot-0037" data-part="object" data-output-role="graphic-dot" cx="70.78667" cy="17.92746" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0038" data-export-id="bread-body-dot-0038" data-part="object" data-output-role="graphic-dot" cx="72.613" cy="18.79764" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0039" data-export-id="bread-body-dot-0039" data-part="object" data-output-role="graphic-dot" cx="74.36227" cy="19.81341" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0040" data-export-id="bread-body-dot-0040" data-part="object" data-output-role="graphic-dot" cx="76.0" cy="21.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0041" data-export-id="bread-body-dot-0041" data-part="object" data-output-role="graphic-dot" cx="77.61622" cy="22.22072" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0042" data-export-id="bread-body-dot-0042" data-part="object" data-output-role="graphic-dot" cx="79.07039" cy="23.63034" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0043" data-export-id="bread-body-dot-0043" data-part="object" data-output-role="graphic-dot" cx="80.32565" cy="25.21935" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0044" data-export-id="bread-body-dot-0044" data-part="object" data-output-role="graphic-dot" cx="81.3379" cy="26.97278" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0045" data-export-id="bread-body-dot-0045" data-part="object" data-output-role="graphic-dot" cx="82.05186" cy="28.86673" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0046" data-export-id="bread-body-dot-0046" data-part="object" data-output-role="graphic-dot" cx="82.39649" cy="30.8602" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0047" data-export-id="bread-body-dot-0047" data-part="object" data-output-role="graphic-dot" cx="82.28608" cy="32.87863" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0048" data-export-id="bread-body-dot-0048" data-part="object" data-output-role="graphic-dot" cx="81.64409" cy="34.79343" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0049" data-export-id="bread-body-dot-0049" data-part="object" data-output-role="graphic-dot" cx="80.4652" cy="36.43219" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0050" data-export-id="bread-body-dot-0050" data-part="object" data-output-role="graphic-dot" cx="78.86124" cy="37.66033" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0051" data-export-id="bread-body-dot-0051" data-part="object" data-output-role="graphic-dot" cx="77.00143" cy="38.45499" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0052" data-export-id="bread-body-dot-0052" data-part="object" data-output-role="graphic-dot" cx="75.02139" cy="38.87552" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0053" data-export-id="bread-body-dot-0053" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="39.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0054" data-export-id="bread-body-dot-0054" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="41.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0055" data-export-id="bread-body-dot-0055" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="43.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0056" data-export-id="bread-body-dot-0056" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="45.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0057" data-export-id="bread-body-dot-0057" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="47.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0058" data-export-id="bread-body-dot-0058" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="49.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0059" data-export-id="bread-body-dot-0059" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="51.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0060" data-export-id="bread-body-dot-0060" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="53.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0061" data-export-id="bread-body-dot-0061" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="55.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0062" data-export-id="bread-body-dot-0062" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="57.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0063" data-export-id="bread-body-dot-0063" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="59.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0064" data-export-id="bread-body-dot-0064" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="61.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0065" data-export-id="bread-body-dot-0065" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="63.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0066" data-export-id="bread-body-dot-0066" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="65.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0067" data-export-id="bread-body-dot-0067" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="67.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0068" data-export-id="bread-body-dot-0068" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="69.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0069" data-export-id="bread-body-dot-0069" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="71.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0070" data-export-id="bread-body-dot-0070" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="73.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0071" data-export-id="bread-body-dot-0071" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="75.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0072" data-export-id="bread-body-dot-0072" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="77.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0073" data-export-id="bread-body-dot-0073" data-part="object" data-output-role="graphic-dot" cx="73.0" cy="79.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0074" data-export-id="bread-body-dot-0074" data-part="object" data-output-role="graphic-dot" cx="72.8122" cy="80.93516" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0075" data-export-id="bread-body-dot-0075" data-part="object" data-output-role="graphic-dot" cx="72.10511" cy="82.73946" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0076" data-export-id="bread-body-dot-0076" data-part="object" data-output-role="graphic-dot" cx="70.73946" cy="84.10511" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0077" data-export-id="bread-body-dot-0077" data-part="object" data-output-role="graphic-dot" cx="68.93516" cy="84.8122" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0078" data-export-id="bread-body-dot-0078" data-part="object" data-output-role="graphic-dot" cx="67.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0079" data-export-id="bread-body-dot-0079" data-part="object" data-output-role="graphic-dot" cx="65.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0080" data-export-id="bread-body-dot-0080" data-part="object" data-output-role="graphic-dot" cx="63.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0081" data-export-id="bread-body-dot-0081" data-part="object" data-output-role="graphic-dot" cx="61.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0082" data-export-id="bread-body-dot-0082" data-part="object" data-output-role="graphic-dot" cx="59.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0083" data-export-id="bread-body-dot-0083" data-part="object" data-output-role="graphic-dot" cx="57.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0084" data-export-id="bread-body-dot-0084" data-part="object" data-output-role="graphic-dot" cx="55.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0085" data-export-id="bread-body-dot-0085" data-part="object" data-output-role="graphic-dot" cx="53.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0086" data-export-id="bread-body-dot-0086" data-part="object" data-output-role="graphic-dot" cx="51.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0087" data-export-id="bread-body-dot-0087" data-part="object" data-output-role="graphic-dot" cx="49.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0088" data-export-id="bread-body-dot-0088" data-part="object" data-output-role="graphic-dot" cx="47.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0089" data-export-id="bread-body-dot-0089" data-part="object" data-output-role="graphic-dot" cx="45.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0090" data-export-id="bread-body-dot-0090" data-part="object" data-output-role="graphic-dot" cx="43.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0091" data-export-id="bread-body-dot-0091" data-part="object" data-output-role="graphic-dot" cx="41.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0092" data-export-id="bread-body-dot-0092" data-part="object" data-output-role="graphic-dot" cx="39.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0093" data-export-id="bread-body-dot-0093" data-part="object" data-output-role="graphic-dot" cx="37.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0094" data-export-id="bread-body-dot-0094" data-part="object" data-output-role="graphic-dot" cx="35.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0095" data-export-id="bread-body-dot-0095" data-part="object" data-output-role="graphic-dot" cx="33.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0096" data-export-id="bread-body-dot-0096" data-part="object" data-output-role="graphic-dot" cx="31.06484" cy="84.8122" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0097" data-export-id="bread-body-dot-0097" data-part="object" data-output-role="graphic-dot" cx="29.26054" cy="84.10511" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0098" data-export-id="bread-body-dot-0098" data-part="object" data-output-role="graphic-dot" cx="27.89489" cy="82.73946" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0099" data-export-id="bread-body-dot-0099" data-part="object" data-output-role="graphic-dot" cx="27.1878" cy="80.93516" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0100" data-export-id="bread-body-dot-0100" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="79.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0101" data-export-id="bread-body-dot-0101" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="77.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0102" data-export-id="bread-body-dot-0102" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="75.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0103" data-export-id="bread-body-dot-0103" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="73.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0104" data-export-id="bread-body-dot-0104" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="71.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0105" data-export-id="bread-body-dot-0105" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="69.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0106" data-export-id="bread-body-dot-0106" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="67.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0107" data-export-id="bread-body-dot-0107" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="65.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0108" data-export-id="bread-body-dot-0108" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="63.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0109" data-export-id="bread-body-dot-0109" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="61.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0110" data-export-id="bread-body-dot-0110" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="59.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0111" data-export-id="bread-body-dot-0111" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="57.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0112" data-export-id="bread-body-dot-0112" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="55.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0113" data-export-id="bread-body-dot-0113" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="53.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0114" data-export-id="bread-body-dot-0114" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="51.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0115" data-export-id="bread-body-dot-0115" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="49.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0116" data-export-id="bread-body-dot-0116" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="47.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0117" data-export-id="bread-body-dot-0117" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="45.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0118" data-export-id="bread-body-dot-0118" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="43.0" r=".6" fill="#000000" />
+      <circle id="index-bread-body-dot-0119" data-export-id="bread-body-dot-0119" data-part="object" data-output-role="graphic-dot" cx="27.0" cy="41.0" r=".6" fill="#000000" />
+    </g>
+  </g>
+  <g id="bread-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.bread&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-shared-geometry-policy="exact-continuous-geometry-reuse" data-design-reason="Reuse exact continuous geometry. Bread and egg surfaces lower grey; continuous outer contours higher black. Exterior white unraised. No calibrated-height or material claim.">
+    <use id="viewplus-background" data-export-id="background" data-part="background" data-height-role="background" fill="#ffffff" href="#bread-background-geometry" data-shared-geometry="bread-background-geometry" />
+    <use id="viewplus-bread-body-area" data-export-id="bread-body-area" data-part="area-texture" data-height-role="lower-area" href="#bread-body-geometry" data-shared-geometry="bread-body-geometry" fill="#808080" stroke="none" />
+    <use id="viewplus-bread-body" data-export-id="bread-body-relief" data-part="object" data-height-role="principal-line" href="#bread-body-geometry" data-shared-geometry="bread-body-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

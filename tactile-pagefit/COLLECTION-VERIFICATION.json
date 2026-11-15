@@ -1,0 +1,41 @@
+{
+  "verified_at": "2026-11-14T00:30:59.021418+00:00",
+  "result": "PASS for listed file/data checks; not physical approval",
+  "meanings": 898,
+  "paper": {
+    "unchanged": 275,
+    "regenerated": 601,
+    "within_target": 876,
+    "retained_original_size": 22,
+    "pending": 0
+  },
+  "exports": {
+    "swell-paper-v1": 898,
+    "index-embossed-v1": 898,
+    "viewplus-variable-height-v1": 898,
+    "monarch-display-v1": 861,
+    "dotpad-display-v1": 856
+  },
+  "exports_reproduced_byte_identically": 4411,
+  "editable_master_files": 1759,
+  "original_source_files_hash_verified": 3673,
+  "source_baseline_sha256": "8f68df22418ab7de40dca51528e94ed4a660dae7bb3a524885118e1b5554b019",
+  "catalogue_sha256": "f484a5464e21ca52d6b28e610636ef067b60977355e6bde2f174c6431d63dd02",
+  "native_grids_verified_against_rectangles": 1717,
+  "html_files_checked": 6,
+  "local_html_targets_checked": 12059,
+  "gallery_cards": 898,
+  "all_artwork_catalogued": true,
+  "copyright_notice_verified_all_masters_exports": true,
+  "unchanged_and_exception_paper_master_export_bytes_match_originals": true,
+  "display_adaptation_review": {
+    "unique_meanings": 42,
+    "multipart_candidates": 34,
+    "quantitative_companions": 8,
+    "new_adaptation_exports": 0
+  },
+  "browser_test": "Not performed: browser security policy blocked local file URL. Local file/fragment links and dialog code checked; no workaround attempted.",
+  "physical_tactile_device_learner_evaluation": "pending",
+  "teaching_key_hash_bindings_checked": 159,
+  "standalone_relocation_check": "PASS: renamed self-contained collection fixture reproduced a native export exactly with included standard-library tools."
+}

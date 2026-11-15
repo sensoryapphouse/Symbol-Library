@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="edu.curved-line" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="curved-line-provenance">{
+  "editable_source": "This master only; per-medium files are generated exports.",
+  "profiles": [
+    "swell-paper-v1",
+    "index-embossed-v1",
+    "viewplus-variable-height-v1"
+  ],
+  "baseline_sources": [
+    {
+      "concept_id": "edu.curved-line",
+      "profile": "swell-paper-v1",
+      "source_path": "tactile/svg/swell-paper-v1/education/geometry/lines/curved-line.svg",
+      "source_sha256": "451935598df63c6136cc4ac1c912f2ad0bf47c84f31cc9c9c479f36fa96326e2",
+      "review_path": "planning/reviews/symbols/tactile/swell-paper-v1/curved-line-current.json",
+      "review_sha256": "8be38f26e62e19ef5fb9453c2dc8aa8ebb3de528ac9a6bd9d7725b133976f887",
+      "manifest_path": "planning/tactile-media/manifests/swell-003.json",
+      "manifest_sha256": "2aff30417f9bd9d10c532d0786c9c2f9c6afc08dee5ebaa2bf27a44b3a7cd229"
+    },
+    {
+      "concept_id": "edu.curved-line",
+      "profile": "index-embossed-v1",
+      "source_path": "tactile/svg/index-embossed-v1/education/geometry/lines/curved-line.svg",
+      "source_sha256": "55fdae25b67bac40a8723db7175ee1fdab1151651bdc89c1f509ed8d64336ae1",
+      "review_path": "planning/reviews/symbols/tactile/index-embossed-v1/curved-line-current.json",
+      "review_sha256": "09ed16567c823013153c6953cbcbddd74e76440647262dcfa42921b9d13745cf",
+      "manifest_path": "planning/tactile-media/manifests/index-003.json",
+      "manifest_sha256": "b791cd4dde4044d3b7fbc7c4f150e41a8eb70ce20a71365229652d30510622f9"
+    }
+  ],
+  "physical_evaluation": "pending",
+  "exception_policy": "Reuse identical geometry. Keep reviewed Index dot placements as explicit alternate geometry. ViewPlus inset boundaries preserve reviewed outer extents. No missing profiles are invented.",
+  "revision": 2,
+  "supersedes_master": {
+    "path": "tactile/masters/education/geometry/lines/curved-line.svg",
+    "sha256": "7e228a7a381ea244a4a314e6f201320ab854353eb13d00cf55ea168c46796ae9"
+  },
+  "profile_addition": "ViewPlus principal-line style uses shared continuous geometry; no change to previous profile layers."
+}</metadata>
+  <defs>
+    <rect id="curved-line-geometry-01" data-part="background" width="100" height="100" />
+    <path id="curved-line-geometry-02" data-part="raised-line" d="M20 65Q50 5 80 65" />
+  </defs>
+  <g id="curved-line-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.curved-line&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use data-part="background" fill="#ffffff" id="swell-background" data-export-id="background" href="#curved-line-geometry-01" data-shared-geometry="curved-line-geometry-01" />
+    <use data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" id="swell-curved-line-thermal-trace" data-export-id="curved-line-thermal-trace" href="#curved-line-geometry-02" data-shared-geometry="curved-line-geometry-02" />
+  </g>
+  <g id="curved-line-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.curved-line&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none">
+    <use data-part="background" fill="white" id="index-background" data-export-id="background" href="#curved-line-geometry-01" data-shared-geometry="curved-line-geometry-01" />
+    <g id="index-curved-line-graphic-trace" data-part="raised-line" data-output-role="graphic-dot-trace" data-export-id="curved-line-graphic-trace" data-geometry-exception="reviewed-index-dot-layout" data-exception-reason="Preserve reviewed explicit dot positions, spacing and repairs. This layout is authored once inside this concept master, not maintained in a separate source.">
+      <circle id="index-curved-line-graphic-dot-0000" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="65.0" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0000" />
+      <circle id="index-curved-line-graphic-dot-0001" data-part="raised-line" data-output-role="graphic-dot" cx="20.89247" cy="63.24161" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0001" />
+      <circle id="index-curved-line-graphic-dot-0002" data-part="raised-line" data-output-role="graphic-dot" cx="21.8071" cy="61.49465" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0002" />
+      <circle id="index-curved-line-graphic-dot-0003" data-part="raised-line" data-output-role="graphic-dot" cx="22.74547" cy="59.76032" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0003" />
+      <circle id="index-curved-line-graphic-dot-0004" data-part="raised-line" data-output-role="graphic-dot" cx="23.7093" cy="58.04002" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0004" />
+      <circle id="index-curved-line-graphic-dot-0005" data-part="raised-line" data-output-role="graphic-dot" cx="24.70056" cy="56.33538" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0005" />
+      <circle id="index-curved-line-graphic-dot-0006" data-part="raised-line" data-output-role="graphic-dot" cx="25.72142" cy="54.64831" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0006" />
+      <circle id="index-curved-line-graphic-dot-0007" data-part="raised-line" data-output-role="graphic-dot" cx="26.77433" cy="52.98106" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0007" />
+      <circle id="index-curved-line-graphic-dot-0008" data-part="raised-line" data-output-role="graphic-dot" cx="27.86204" cy="51.3363" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0008" />
+      <circle id="index-curved-line-graphic-dot-0009" data-part="raised-line" data-output-role="graphic-dot" cx="28.98767" cy="49.71727" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0009" />
+      <circle id="index-curved-line-graphic-dot-0010" data-part="raised-line" data-output-role="graphic-dot" cx="30.15471" cy="48.12785" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0010" />
+      <circle id="index-curved-line-graphic-dot-0011" data-part="raised-line" data-output-role="graphic-dot" cx="31.36713" cy="46.57279" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0011" />
+      <circle id="index-curved-line-graphic-dot-0012" data-part="raised-line" data-output-role="graphic-dot" cx="32.62939" cy="45.05793" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0012" />
+      <circle id="index-curved-line-graphic-dot-0013" data-part="raised-line" data-output-role="graphic-dot" cx="33.94647" cy="43.59053" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0013" />
+      <circle id="index-curved-line-graphic-dot-0014" data-part="raised-line" data-output-role="graphic-dot" cx="35.32387" cy="42.17963" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0014" />
+      <circle id="index-curved-line-graphic-dot-0015" data-part="raised-line" data-output-role="graphic-dot" cx="36.76748" cy="40.83665" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0015" />
+      <circle id="index-curved-line-graphic-dot-0016" data-part="raised-line" data-output-role="graphic-dot" cx="38.28339" cy="39.57596" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0016" />
+      <circle id="index-curved-line-graphic-dot-0017" data-part="raised-line" data-output-role="graphic-dot" cx="39.8773" cy="38.41563" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0017" />
+      <circle id="index-curved-line-graphic-dot-0018" data-part="raised-line" data-output-role="graphic-dot" cx="41.55356" cy="37.37808" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0018" />
+      <circle id="index-curved-line-graphic-dot-0019" data-part="raised-line" data-output-role="graphic-dot" cx="43.31353" cy="36.49029" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0019" />
+      <circle id="index-curved-line-graphic-dot-0020" data-part="raised-line" data-output-role="graphic-dot" cx="45.15325" cy="35.78303" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0020" />
+      <circle id="index-curved-line-graphic-dot-0021" data-part="raised-line" data-output-role="graphic-dot" cx="47.06082" cy="35.28796" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0021" />
+      <circle id="index-curved-line-graphic-dot-0022" data-part="raised-line" data-output-role="graphic-dot" cx="49.01475" cy="35.03236" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0022" />
+      <circle id="index-curved-line-graphic-dot-0023" data-part="raised-line" data-output-role="graphic-dot" cx="50.98525" cy="35.03236" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0023" />
+      <circle id="index-curved-line-graphic-dot-0024" data-part="raised-line" data-output-role="graphic-dot" cx="52.93918" cy="35.28796" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0024" />
+      <circle id="index-curved-line-graphic-dot-0025" data-part="raised-line" data-output-role="graphic-dot" cx="54.84675" cy="35.78303" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0025" />
+      <circle id="index-curved-line-graphic-dot-0026" data-part="raised-line" data-output-role="graphic-dot" cx="56.68647" cy="36.49029" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0026" />
+      <circle id="index-curved-line-graphic-dot-0027" data-part="raised-line" data-output-role="graphic-dot" cx="58.44644" cy="37.37808" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0027" />
+      <circle id="index-curved-line-graphic-dot-0028" data-part="raised-line" data-output-role="graphic-dot" cx="60.1227" cy="38.41563" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0028" />
+      <circle id="index-curved-line-graphic-dot-0029" data-part="raised-line" data-output-role="graphic-dot" cx="61.71661" cy="39.57596" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0029" />
+      <circle id="index-curved-line-graphic-dot-0030" data-part="raised-line" data-output-role="graphic-dot" cx="63.23252" cy="40.83665" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0030" />
+      <circle id="index-curved-line-graphic-dot-0031" data-part="raised-line" data-output-role="graphic-dot" cx="64.67613" cy="42.17963" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0031" />
+      <circle id="index-curved-line-graphic-dot-0032" data-part="raised-line" data-output-role="graphic-dot" cx="66.05353" cy="43.59053" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0032" />
+      <circle id="index-curved-line-graphic-dot-0033" data-part="raised-line" data-output-role="graphic-dot" cx="67.37061" cy="45.05793" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0033" />
+      <circle id="index-curved-line-graphic-dot-0034" data-part="raised-line" data-output-role="graphic-dot" cx="68.63287" cy="46.57279" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0034" />
+      <circle id="index-curved-line-graphic-dot-0035" data-part="raised-line" data-output-role="graphic-dot" cx="69.84529" cy="48.12785" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0035" />
+      <circle id="index-curved-line-graphic-dot-0036" data-part="raised-line" data-output-role="graphic-dot" cx="71.01233" cy="49.71727" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0036" />
+      <circle id="index-curved-line-graphic-dot-0037" data-part="raised-line" data-output-role="graphic-dot" cx="72.13796" cy="51.3363" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0037" />
+      <circle id="index-curved-line-graphic-dot-0038" data-part="raised-line" data-output-role="graphic-dot" cx="73.22567" cy="52.98106" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0038" />
+      <circle id="index-curved-line-graphic-dot-0039" data-part="raised-line" data-output-role="graphic-dot" cx="74.27858" cy="54.64831" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0039" />
+      <circle id="index-curved-line-graphic-dot-0040" data-part="raised-line" data-output-role="graphic-dot" cx="75.29944" cy="56.33538" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0040" />
+      <circle id="index-curved-line-graphic-dot-0041" data-part="raised-line" data-output-role="graphic-dot" cx="76.2907" cy="58.04002" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0041" />
+      <circle id="index-curved-line-graphic-dot-0042" data-part="raised-line" data-output-role="graphic-dot" cx="77.25453" cy="59.76032" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0042" />
+      <circle id="index-curved-line-graphic-dot-0043" data-part="raised-line" data-output-role="graphic-dot" cx="78.1929" cy="61.49465" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0043" />
+      <circle id="index-curved-line-graphic-dot-0044" data-part="raised-line" data-output-role="graphic-dot" cx="79.10753" cy="63.24161" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0044" />
+      <circle id="index-curved-line-graphic-dot-0045" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="65.0" r=".6" fill="black" data-export-id="curved-line-graphic-dot-0045" />
+    </g>
+  </g>
+  <g id="curved-line-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.curved-line&quot;, &quot;data-device-mapping&quot;: &quot;provisional-relative-levels-not-calibrated&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none">
+    <use id="viewplus-background" data-export-id="background" data-part="background" data-height-role="background" fill="#ffffff" href="#curved-line-geometry-01" data-shared-geometry="curved-line-geometry-01" />
+    <use id="viewplus-curved-line-principal-trace" data-export-id="curved-line-principal-trace" data-part="raised-line" data-height-role="principal-line" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" href="#curved-line-geometry-02" data-shared-geometry="curved-line-geometry-02" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.positive-negative-slope-comparison" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="240mm" viewBox="0 0 500 240" width="500mm"><rect width="500" height="240" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <path d="M40 40L40 200L200 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="rising-example-coordinate-frame" />
+    <path d="M60 180L180 60" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="positive-slope-line" />
+    <path d="M300 40L300 200L460 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="falling-example-coordinate-frame" />
+    <path d="M320 60L440 180" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="negative-slope-line" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

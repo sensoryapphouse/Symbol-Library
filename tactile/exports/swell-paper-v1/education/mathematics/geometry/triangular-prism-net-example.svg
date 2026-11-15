@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.triangular-prism-net-example" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="288mm" viewBox="0 0 320 288" width="320mm"><rect width="320" height="288" fill="#ffffff" data-part="background" id="background" />
+    <path d="M40 100L180 100L216 52L280 100L280 200L216 248L180 200L40 200Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="continuous-net-cut-perimeter" />
+    <path d="M100 100L100 119.75" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-1-dash-1" />
+    <path d="M100 126.75L100 146.5" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-1-dash-2" />
+    <path d="M100 153.5L100 173.25" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-1-dash-3" />
+    <path d="M100 180.25L100 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-1-dash-4" />
+    <path d="M180 100L180 119.75" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-2-dash-1" />
+    <path d="M180 126.75L180 146.5" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-2-dash-2" />
+    <path d="M180 153.5L180 173.25" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-2-dash-3" />
+    <path d="M180 180.25L180 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-2-dash-4" />
+    <path d="M180 100L199.75 100" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-3-dash-1" />
+    <path d="M206.75 100L226.5 100" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-3-dash-2" />
+    <path d="M233.5 100L253.25 100" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-3-dash-3" />
+    <path d="M260.25 100L280 100" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-3-dash-4" />
+    <path d="M180 200L199.75 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-4-dash-1" />
+    <path d="M206.75 200L226.5 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-4-dash-2" />
+    <path d="M233.5 200L253.25 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-4-dash-3" />
+    <path d="M260.25 200L280 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="broken-fold-4-dash-4" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

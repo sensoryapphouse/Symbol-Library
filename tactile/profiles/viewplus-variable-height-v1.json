@@ -1,0 +1,53 @@
+{
+  "profile_id": "viewplus-variable-height-v1",
+  "status": "draft-needs-device-calibration",
+  "production_ready": false,
+  "physical_evaluation": "pending",
+  "artwork_text": false,
+  "braille_characters": false,
+  "content_tile_mm": [
+    100,
+    100
+  ],
+  "page_template": "Place the tile at 1:1 scale on a sheet supported by the actual machine, then trim if needed. Do not assume a 100 mm card can be fed directly.",
+  "model": null,
+  "firmware": null,
+  "driver_and_version": null,
+  "media": null,
+  "measured_output": null,
+  "review": "A source change or process change requires fresh proof hashes, individual visual inspection, device-output inspection and touch review.",
+  "source_concepts": "Keep stable edu./aac. concept IDs and meaning-specific category paths. Collage geometry is reference material, not proof of process compatibility.",
+  "method": "ViewPlus graphics with explicit height roles",
+  "sources": [
+    "bana",
+    "vpcurrent",
+    "vpmanual",
+    "vptss"
+  ],
+  "semantic_encoding": "Separate geometry from named height roles: background, area, principal-line and point. Assign tested device levels only after calibration.",
+  "height_role_to_device_level": null,
+  "measured_height_mm": null,
+  "model_resolution": null,
+  "physical_dot_spacing_mm": null,
+  "reference_specs": "Current Delta page lists 100 DPI positioning and minimum dot spacing 1/17 inch (about 1.49 mm). Traditional Tiger and TigerPlus modes differ. Do not rasterise a 100 DPI grid into equally close physical dots.",
+  "height_count_note": "Current marketing says eight heights; TSS 7 documents white/zero plus seven nonzero graphic levels. Confirm the selected model and driver palette; do not treat eight advertised levels as eight independently discriminable raised heights.",
+  "controls": [
+    "Exact model, Tiger/TigerPlus mode, driver/version and paper",
+    "Explicit height mapping; inversion, brightness, contrast and enhancement settings",
+    "Line/area distinction by touch, no paper damage, stable output on repeat copies"
+  ],
+  "calibration_candidates": {
+    "height_roles": [
+      "background",
+      "area",
+      "principal-line"
+    ],
+    "geometry_tests": [
+      "filled shape",
+      "curve",
+      "separated areas"
+    ]
+  },
+  "limitations": "Begin with one raised level for simple shapes. Add a second raised level only when it serves the learning task. Height levels are device codes, not guaranteed millimetres or natural colour meanings.",
+  "actual_svg_encoding": "Rendered fill and stroke grayscale drives the ViewPlus print mapping; semantic height-role attributes alone do not set embossed height. Selective area fills are documented in instructions/VIEWPLUS-SHADING.txt; actual device heights remain uncalibrated."
+}

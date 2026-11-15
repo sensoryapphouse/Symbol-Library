@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.zipper-fastener-object" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="245mm" viewBox="0 0 180 245" width="180mm"><rect width="180" height="245" fill="#ffffff" data-part="background" id="background" />
+    <path d="M27 23 L67 124 L67 222" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-tape-outer" />
+    <path d="M49 23 L76 98" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="left-tape-inner" />
+    <path d="M153 23 L113 124 L113 222" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-tape-outer" />
+    <path d="M131 23 L104 98" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="right-tape-inner" />
+    <path d="M76 98 L84 98 L90 98 L96 98 L104 98 L113 124 L67 124 L76 98" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="slider-body" />
+    <path d="M84 98 L84 78 L96 78 L96 98" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="pull-tab" />
+    <path d="M78 124 L78 222" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="joined-track-left" />
+    <path d="M102 124 L102 222" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="joined-track-right" />
+    <path d="M67 222 L78 222 L102 222 L113 222" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="bottom-stop" />
+    <path d="M54.04 37 L42.04 43" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="open-left-tooth-1" />
+    <path d="M125.96000000000001 37 L137.96 43" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="open-right-tooth-1" />
+    <path d="M61.24 57 L49.24 63" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="open-left-tooth-2" />
+    <path d="M118.75999999999999 57 L130.76 63" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="open-right-tooth-2" />
+    <path d="M68.44 77 L56.44 83" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="open-left-tooth-3" />
+    <path d="M111.56 77 L123.56 83" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="open-right-tooth-3" />
+    <path d="M78 140 L94 140" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="joined-left-tooth-1" />
+    <path d="M102 152 L86 152" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="joined-right-tooth-1" />
+    <path d="M78 164 L94 164" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="joined-left-tooth-2" />
+    <path d="M102 176 L86 176" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="joined-right-tooth-2" />
+    <path d="M78 188 L94 188" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="joined-left-tooth-3" />
+    <path d="M102 200 L86 200" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="joined-right-tooth-3" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

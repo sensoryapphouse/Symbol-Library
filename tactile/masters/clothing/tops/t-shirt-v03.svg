@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="aac.t-shirt" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="t-shirt-provenance">{"editable_source": "This shared master only. Per-medium files are derived exports.", "revision": 3, "profiles": ["swell-paper-v1", "index-embossed-v1", "viewplus-variable-height-v1"], "brief_path": "planning/tactile-media/briefs/garments-018.json", "recipe_path": "planning/tactile-media/designs/swell-018.json", "physical_evaluation": "pending", "exception_policy": "Share compatible geometry across future profile layers; justify medium-specific dot layouts within this same master. No unmade profiles implied.", "supersedes_master": {"path": "tactile/masters/clothing/tops/t-shirt-v02.svg", "sha256": "df0c70966fe149109344c2715239d6c5b6abd1cc944868155548be6496e2013d"}, "profile_addition": "viewplus", "profile_addition_recipe": "planning/tactile-media/designs/viewplus-018.json"}</metadata>
+  <defs>
+    <rect id="t-shirt-background-geometry" data-part="background" width="100" height="100" />
+    <path id="t-shirt-body-geometry" data-part="clothing-top" data-object="t-shirt" data-tactile-role="raised-line" d="M34 20Q50 42 66 20L88 33L79 51L68 45V85H32V45L21 51L12 33Z" />
+  </defs>
+  <g id="t-shirt-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.t-shirt&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use id="swell-background" data-export-id="background" data-part="background" href="#t-shirt-background-geometry" data-shared-geometry="t-shirt-background-geometry" fill="#ffffff" />
+    <use id="swell-t-shirt-body" data-export-id="t-shirt-body-footprint" data-part="clothing-top" data-object="t-shirt" data-tactile-role="raised-line" data-output-role="swell-footprint" href="#t-shirt-body-geometry" data-shared-geometry="t-shirt-body-geometry" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="t-shirt-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.t-shirt&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-geometry-exception="index-explicit-dot-layout" data-exception-reason="Explicit Index alternatives sample the continuous contours near2mm pitch with1.2mm design circles. Centres closer than1.5mm are omitted at junctions. Sock and glove cuff boundaries are sampled once; shared junctions reuse dots. Shirt has one continuous silhouette. All dot alternatives remain within the same shared master. These are design positions, not measured hardware properties.">
+    <use id="index-background" data-export-id="background" data-part="background" fill="#ffffff" href="#t-shirt-background-geometry" data-shared-geometry="t-shirt-background-geometry" />
+    <g id="index-t-shirt-body" data-export-id="t-shirt-body-layout" data-part="clothing-top" data-tactile-role="raised-line" data-output-role="graphic-dot-row">
+      <circle id="index-t-shirt-body-dot-0000" data-export-id="t-shirt-body-dot-0000" data-part="clothing-top" data-output-role="graphic-dot" cx="34.0" cy="20.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0001" data-export-id="t-shirt-body-dot-0001" data-part="clothing-top" data-output-role="graphic-dot" cx="35.21431" cy="21.60627" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0002" data-export-id="t-shirt-body-dot-0002" data-part="clothing-top" data-output-role="graphic-dot" cx="36.49347" cy="23.16133" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0003" data-export-id="t-shirt-body-dot-0003" data-part="clothing-top" data-output-role="graphic-dot" cx="37.84615" cy="24.6528" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0004" data-export-id="t-shirt-body-dot-0004" data-part="clothing-top" data-output-role="graphic-dot" cx="39.28216" cy="26.06408" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0005" data-export-id="t-shirt-body-dot-0005" data-part="clothing-top" data-output-role="graphic-dot" cx="40.81212" cy="27.37267" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0006" data-export-id="t-shirt-body-dot-0006" data-part="clothing-top" data-output-role="graphic-dot" cx="42.44626" cy="28.54818" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0007" data-export-id="t-shirt-body-dot-0007" data-part="clothing-top" data-output-role="graphic-dot" cx="44.1917" cy="29.55032" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0008" data-export-id="t-shirt-body-dot-0008" data-part="clothing-top" data-output-role="graphic-dot" cx="46.04729" cy="30.32859" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0009" data-export-id="t-shirt-body-dot-0009" data-part="clothing-top" data-output-role="graphic-dot" cx="47.99612" cy="30.82744" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0010" data-export-id="t-shirt-body-dot-0010" data-part="clothing-top" data-output-role="graphic-dot" cx="50.0" cy="31.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0011" data-export-id="t-shirt-body-dot-0011" data-part="clothing-top" data-output-role="graphic-dot" cx="52.00388" cy="30.82744" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0012" data-export-id="t-shirt-body-dot-0012" data-part="clothing-top" data-output-role="graphic-dot" cx="53.95271" cy="30.32859" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0013" data-export-id="t-shirt-body-dot-0013" data-part="clothing-top" data-output-role="graphic-dot" cx="55.8083" cy="29.55032" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0014" data-export-id="t-shirt-body-dot-0014" data-part="clothing-top" data-output-role="graphic-dot" cx="57.55374" cy="28.54818" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0015" data-export-id="t-shirt-body-dot-0015" data-part="clothing-top" data-output-role="graphic-dot" cx="59.18788" cy="27.37267" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0016" data-export-id="t-shirt-body-dot-0016" data-part="clothing-top" data-output-role="graphic-dot" cx="60.71784" cy="26.06408" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0017" data-export-id="t-shirt-body-dot-0017" data-part="clothing-top" data-output-role="graphic-dot" cx="62.15385" cy="24.6528" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0018" data-export-id="t-shirt-body-dot-0018" data-part="clothing-top" data-output-role="graphic-dot" cx="63.50653" cy="23.16133" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0019" data-export-id="t-shirt-body-dot-0019" data-part="clothing-top" data-output-role="graphic-dot" cx="64.78569" cy="21.60627" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0020" data-export-id="t-shirt-body-dot-0020" data-part="clothing-top" data-output-role="graphic-dot" cx="66.0" cy="20.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0021" data-export-id="t-shirt-body-dot-0021" data-part="clothing-top" data-output-role="graphic-dot" cx="67.69231" cy="21.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0022" data-export-id="t-shirt-body-dot-0022" data-part="clothing-top" data-output-role="graphic-dot" cx="69.38462" cy="22.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0023" data-export-id="t-shirt-body-dot-0023" data-part="clothing-top" data-output-role="graphic-dot" cx="71.07692" cy="23.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0024" data-export-id="t-shirt-body-dot-0024" data-part="clothing-top" data-output-role="graphic-dot" cx="72.76923" cy="24.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0025" data-export-id="t-shirt-body-dot-0025" data-part="clothing-top" data-output-role="graphic-dot" cx="74.46154" cy="25.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0026" data-export-id="t-shirt-body-dot-0026" data-part="clothing-top" data-output-role="graphic-dot" cx="76.15385" cy="26.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0027" data-export-id="t-shirt-body-dot-0027" data-part="clothing-top" data-output-role="graphic-dot" cx="77.84615" cy="27.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0028" data-export-id="t-shirt-body-dot-0028" data-part="clothing-top" data-output-role="graphic-dot" cx="79.53846" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0029" data-export-id="t-shirt-body-dot-0029" data-part="clothing-top" data-output-role="graphic-dot" cx="81.23077" cy="29.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0030" data-export-id="t-shirt-body-dot-0030" data-part="clothing-top" data-output-role="graphic-dot" cx="82.92308" cy="30.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0031" data-export-id="t-shirt-body-dot-0031" data-part="clothing-top" data-output-role="graphic-dot" cx="84.61538" cy="31.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0032" data-export-id="t-shirt-body-dot-0032" data-part="clothing-top" data-output-role="graphic-dot" cx="86.30769" cy="32.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0033" data-export-id="t-shirt-body-dot-0033" data-part="clothing-top" data-output-role="graphic-dot" cx="88.0" cy="33.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0034" data-export-id="t-shirt-body-dot-0034" data-part="clothing-top" data-output-role="graphic-dot" cx="87.1" cy="34.8" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0035" data-export-id="t-shirt-body-dot-0035" data-part="clothing-top" data-output-role="graphic-dot" cx="86.2" cy="36.6" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0036" data-export-id="t-shirt-body-dot-0036" data-part="clothing-top" data-output-role="graphic-dot" cx="85.3" cy="38.4" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0037" data-export-id="t-shirt-body-dot-0037" data-part="clothing-top" data-output-role="graphic-dot" cx="84.4" cy="40.2" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0038" data-export-id="t-shirt-body-dot-0038" data-part="clothing-top" data-output-role="graphic-dot" cx="83.5" cy="42.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0039" data-export-id="t-shirt-body-dot-0039" data-part="clothing-top" data-output-role="graphic-dot" cx="82.6" cy="43.8" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0040" data-export-id="t-shirt-body-dot-0040" data-part="clothing-top" data-output-role="graphic-dot" cx="81.7" cy="45.6" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0041" data-export-id="t-shirt-body-dot-0041" data-part="clothing-top" data-output-role="graphic-dot" cx="80.8" cy="47.4" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0042" data-export-id="t-shirt-body-dot-0042" data-part="clothing-top" data-output-role="graphic-dot" cx="79.9" cy="49.2" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0043" data-export-id="t-shirt-body-dot-0043" data-part="clothing-top" data-output-role="graphic-dot" cx="79.0" cy="51.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0044" data-export-id="t-shirt-body-dot-0044" data-part="clothing-top" data-output-role="graphic-dot" cx="77.16667" cy="50.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0045" data-export-id="t-shirt-body-dot-0045" data-part="clothing-top" data-output-role="graphic-dot" cx="75.33333" cy="49.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0046" data-export-id="t-shirt-body-dot-0046" data-part="clothing-top" data-output-role="graphic-dot" cx="73.5" cy="48.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0047" data-export-id="t-shirt-body-dot-0047" data-part="clothing-top" data-output-role="graphic-dot" cx="71.66667" cy="47.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0048" data-export-id="t-shirt-body-dot-0048" data-part="clothing-top" data-output-role="graphic-dot" cx="69.83333" cy="46.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0049" data-export-id="t-shirt-body-dot-0049" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="45.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0050" data-export-id="t-shirt-body-dot-0050" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="47.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0051" data-export-id="t-shirt-body-dot-0051" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="49.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0052" data-export-id="t-shirt-body-dot-0052" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="51.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0053" data-export-id="t-shirt-body-dot-0053" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="53.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0054" data-export-id="t-shirt-body-dot-0054" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="55.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0055" data-export-id="t-shirt-body-dot-0055" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="57.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0056" data-export-id="t-shirt-body-dot-0056" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="59.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0057" data-export-id="t-shirt-body-dot-0057" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="61.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0058" data-export-id="t-shirt-body-dot-0058" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="63.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0059" data-export-id="t-shirt-body-dot-0059" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="65.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0060" data-export-id="t-shirt-body-dot-0060" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="67.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0061" data-export-id="t-shirt-body-dot-0061" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="69.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0062" data-export-id="t-shirt-body-dot-0062" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="71.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0063" data-export-id="t-shirt-body-dot-0063" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="73.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0064" data-export-id="t-shirt-body-dot-0064" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="75.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0065" data-export-id="t-shirt-body-dot-0065" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="77.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0066" data-export-id="t-shirt-body-dot-0066" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="79.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0067" data-export-id="t-shirt-body-dot-0067" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="81.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0068" data-export-id="t-shirt-body-dot-0068" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="83.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0069" data-export-id="t-shirt-body-dot-0069" data-part="clothing-top" data-output-role="graphic-dot" cx="68.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0070" data-export-id="t-shirt-body-dot-0070" data-part="clothing-top" data-output-role="graphic-dot" cx="66.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0071" data-export-id="t-shirt-body-dot-0071" data-part="clothing-top" data-output-role="graphic-dot" cx="64.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0072" data-export-id="t-shirt-body-dot-0072" data-part="clothing-top" data-output-role="graphic-dot" cx="62.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0073" data-export-id="t-shirt-body-dot-0073" data-part="clothing-top" data-output-role="graphic-dot" cx="60.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0074" data-export-id="t-shirt-body-dot-0074" data-part="clothing-top" data-output-role="graphic-dot" cx="58.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0075" data-export-id="t-shirt-body-dot-0075" data-part="clothing-top" data-output-role="graphic-dot" cx="56.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0076" data-export-id="t-shirt-body-dot-0076" data-part="clothing-top" data-output-role="graphic-dot" cx="54.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0077" data-export-id="t-shirt-body-dot-0077" data-part="clothing-top" data-output-role="graphic-dot" cx="52.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0078" data-export-id="t-shirt-body-dot-0078" data-part="clothing-top" data-output-role="graphic-dot" cx="50.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0079" data-export-id="t-shirt-body-dot-0079" data-part="clothing-top" data-output-role="graphic-dot" cx="48.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0080" data-export-id="t-shirt-body-dot-0080" data-part="clothing-top" data-output-role="graphic-dot" cx="46.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0081" data-export-id="t-shirt-body-dot-0081" data-part="clothing-top" data-output-role="graphic-dot" cx="44.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0082" data-export-id="t-shirt-body-dot-0082" data-part="clothing-top" data-output-role="graphic-dot" cx="42.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0083" data-export-id="t-shirt-body-dot-0083" data-part="clothing-top" data-output-role="graphic-dot" cx="40.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0084" data-export-id="t-shirt-body-dot-0084" data-part="clothing-top" data-output-role="graphic-dot" cx="38.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0085" data-export-id="t-shirt-body-dot-0085" data-part="clothing-top" data-output-role="graphic-dot" cx="36.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0086" data-export-id="t-shirt-body-dot-0086" data-part="clothing-top" data-output-role="graphic-dot" cx="34.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0087" data-export-id="t-shirt-body-dot-0087" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="85.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0088" data-export-id="t-shirt-body-dot-0088" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="83.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0089" data-export-id="t-shirt-body-dot-0089" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="81.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0090" data-export-id="t-shirt-body-dot-0090" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="79.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0091" data-export-id="t-shirt-body-dot-0091" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="77.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0092" data-export-id="t-shirt-body-dot-0092" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="75.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0093" data-export-id="t-shirt-body-dot-0093" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="73.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0094" data-export-id="t-shirt-body-dot-0094" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="71.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0095" data-export-id="t-shirt-body-dot-0095" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="69.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0096" data-export-id="t-shirt-body-dot-0096" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="67.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0097" data-export-id="t-shirt-body-dot-0097" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="65.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0098" data-export-id="t-shirt-body-dot-0098" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="63.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0099" data-export-id="t-shirt-body-dot-0099" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="61.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0100" data-export-id="t-shirt-body-dot-0100" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="59.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0101" data-export-id="t-shirt-body-dot-0101" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="57.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0102" data-export-id="t-shirt-body-dot-0102" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="55.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0103" data-export-id="t-shirt-body-dot-0103" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="53.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0104" data-export-id="t-shirt-body-dot-0104" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="51.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0105" data-export-id="t-shirt-body-dot-0105" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="49.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0106" data-export-id="t-shirt-body-dot-0106" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="47.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0107" data-export-id="t-shirt-body-dot-0107" data-part="clothing-top" data-output-role="graphic-dot" cx="32.0" cy="45.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0108" data-export-id="t-shirt-body-dot-0108" data-part="clothing-top" data-output-role="graphic-dot" cx="30.16667" cy="46.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0109" data-export-id="t-shirt-body-dot-0109" data-part="clothing-top" data-output-role="graphic-dot" cx="28.33333" cy="47.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0110" data-export-id="t-shirt-body-dot-0110" data-part="clothing-top" data-output-role="graphic-dot" cx="26.5" cy="48.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0111" data-export-id="t-shirt-body-dot-0111" data-part="clothing-top" data-output-role="graphic-dot" cx="24.66667" cy="49.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0112" data-export-id="t-shirt-body-dot-0112" data-part="clothing-top" data-output-role="graphic-dot" cx="22.83333" cy="50.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0113" data-export-id="t-shirt-body-dot-0113" data-part="clothing-top" data-output-role="graphic-dot" cx="21.0" cy="51.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0114" data-export-id="t-shirt-body-dot-0114" data-part="clothing-top" data-output-role="graphic-dot" cx="20.1" cy="49.2" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0115" data-export-id="t-shirt-body-dot-0115" data-part="clothing-top" data-output-role="graphic-dot" cx="19.2" cy="47.4" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0116" data-export-id="t-shirt-body-dot-0116" data-part="clothing-top" data-output-role="graphic-dot" cx="18.3" cy="45.6" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0117" data-export-id="t-shirt-body-dot-0117" data-part="clothing-top" data-output-role="graphic-dot" cx="17.4" cy="43.8" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0118" data-export-id="t-shirt-body-dot-0118" data-part="clothing-top" data-output-role="graphic-dot" cx="16.5" cy="42.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0119" data-export-id="t-shirt-body-dot-0119" data-part="clothing-top" data-output-role="graphic-dot" cx="15.6" cy="40.2" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0120" data-export-id="t-shirt-body-dot-0120" data-part="clothing-top" data-output-role="graphic-dot" cx="14.7" cy="38.4" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0121" data-export-id="t-shirt-body-dot-0121" data-part="clothing-top" data-output-role="graphic-dot" cx="13.8" cy="36.6" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0122" data-export-id="t-shirt-body-dot-0122" data-part="clothing-top" data-output-role="graphic-dot" cx="12.9" cy="34.8" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0123" data-export-id="t-shirt-body-dot-0123" data-part="clothing-top" data-output-role="graphic-dot" cx="12.0" cy="33.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0124" data-export-id="t-shirt-body-dot-0124" data-part="clothing-top" data-output-role="graphic-dot" cx="13.69231" cy="32.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0125" data-export-id="t-shirt-body-dot-0125" data-part="clothing-top" data-output-role="graphic-dot" cx="15.38462" cy="31.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0126" data-export-id="t-shirt-body-dot-0126" data-part="clothing-top" data-output-role="graphic-dot" cx="17.07692" cy="30.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0127" data-export-id="t-shirt-body-dot-0127" data-part="clothing-top" data-output-role="graphic-dot" cx="18.76923" cy="29.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0128" data-export-id="t-shirt-body-dot-0128" data-part="clothing-top" data-output-role="graphic-dot" cx="20.46154" cy="28.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0129" data-export-id="t-shirt-body-dot-0129" data-part="clothing-top" data-output-role="graphic-dot" cx="22.15385" cy="27.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0130" data-export-id="t-shirt-body-dot-0130" data-part="clothing-top" data-output-role="graphic-dot" cx="23.84615" cy="26.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0131" data-export-id="t-shirt-body-dot-0131" data-part="clothing-top" data-output-role="graphic-dot" cx="25.53846" cy="25.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0132" data-export-id="t-shirt-body-dot-0132" data-part="clothing-top" data-output-role="graphic-dot" cx="27.23077" cy="24.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0133" data-export-id="t-shirt-body-dot-0133" data-part="clothing-top" data-output-role="graphic-dot" cx="28.92308" cy="23.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0134" data-export-id="t-shirt-body-dot-0134" data-part="clothing-top" data-output-role="graphic-dot" cx="30.61538" cy="22.0" r=".6" fill="#000000" />
+      <circle id="index-t-shirt-body-dot-0135" data-export-id="t-shirt-body-dot-0135" data-part="clothing-top" data-output-role="graphic-dot" cx="32.30769" cy="21.0" r=".6" fill="#000000" />
+    </g>
+  </g>
+  <g id="t-shirt-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;aac.t-shirt&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none" data-shared-geometry-policy="exact-continuous-geometry-reuse" data-design-reason="Reuse exact continuous geometry. Sock, glove and T-shirt surfaces receive lower grey areas bounded by higher black lines. Exterior finger valleys and shirt neckline stay white unraised. Original painter order retains single visible cuff contacts. No measured height or material shading.">
+    <use id="viewplus-background" data-export-id="background" data-part="background" data-height-role="background" fill="#ffffff" href="#t-shirt-background-geometry" data-shared-geometry="t-shirt-background-geometry" />
+    <use id="viewplus-t-shirt-body-area" data-export-id="t-shirt-body-area" data-part="area-texture" data-height-role="lower-area" href="#t-shirt-body-geometry" data-shared-geometry="t-shirt-body-geometry" fill="#808080" stroke="none" />
+    <use id="viewplus-t-shirt-body" data-export-id="t-shirt-body-relief" data-part="clothing-top" data-height-role="principal-line" href="#t-shirt-body-geometry" data-shared-geometry="t-shirt-body-geometry" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.netherlands-flag-layout-context" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="240mm" viewBox="0 0 340 240" width="340mm"><rect width="340" height="240" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <path d="M20 20H320V220H20Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="flag-frame" />
+    <path d="M20.000000000000 86.666666666667L320.000000000000 86.666666666667" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="equal-band-boundary-1" />
+    <path d="M20.000000000000 153.333333333333L320.000000000000 153.333333333333" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="equal-band-boundary-2" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

@@ -1,0 +1,40 @@
+Required teaching key — batch 387
+
+This key supplies the identities and interpretation of the three text-free teaching diagrams. It is required with every medium profile.
+
+1. Vasco da Gama: first India voyage, 1497–1499
+Concept: edu.vasco-da-gama-route-map
+
+One voyage is compared in two panels. The LEFT panel shows the selected outward relationship: Lisbon → Cape rounding region → Malindi → Calicut/Kozhikode. The RIGHT panel shows the return relationship: Calicut/Kozhikode → Malindi → Cape rounding region → Lisbon. Open arrowheads show each direction. Only the selected calls and their order are taught; intermediate calls, individual ships, dates within the journey and complete tracks are omitted.
+
+Both panels are north-up. They use the same introduced equirectangular coordinate layout. The retained modern Natural Earth source references are generalised; this is not an exact historical coast or navigational chart. The deliberately shared drawn corridor is reversed between panels to compare the relationship, without an identical-track claim.
+
+Each outline circle is a DISPLACED CITY CALLOUT, not a filled place point or an exact harbour location. A straight leader joins it to a selected nearby shore reference. In each panel the upper-left circle denotes Lisbon, the lower-middle/right circle Malindi, and the far-right upper circle Calicut/Kozhikode. Lisbon and Calicut callouts are 22 nominal mm west of their shore anchors; Malindi is 22 mm east. The right panel repeats these positions 500 mm farther right. Shore-anchor offsets from the retained city coordinates are approximately 5.99 mm, 5.50 mm and 1.70 mm respectively in the declared map plane. Cape rounding is a REGION on the route, not an additional invented port.
+
+Only selected shore references are printed: the Atlantic European segment, northwest/southern/eastern African segments, a western Indian segment and the Madagascar outline. Mediterranean, northern/inner-sea, Arabian/Red-Sea/Suez, eastern Indian and other unselected shore details are omitted. Blank areas have no land/water classification. No invented bridge joins an omitted shoreline. The route's chosen maritime segments were checked against the retained generalised land source; detailed navigation and every island are outside this model.
+
+Projection for each panel: x = 40 + 3.2 × (longitude + 35) mm, with 500 mm added in the right panel; y = 30 + 3.2 × (45 − latitude) mm. Source coordinates are longitude then latitude. This layout preserves neither true area nor metric distance.
+
+2. Same introduced figure: square and circle poses
+Concept: edu.vitruvian-two-pose-proportion-context
+
+The two SEPARATE views depict the SAME introduced schematic adult figure. Each has exactly two arms and two legs. LEFT and RIGHT part names mean page/viewer sides consistently in both views; anatomical laterality is not a teaching target.
+
+The left view uses a square frame; the right uses a circle frame. Four closed hand/foot terminal tips meet each frame. The square's top is not a head-contact claim. The torso, neck and head are the same in both views; closed hand/foot carrier shapes are rigidly rotated. Corresponding upper-arm and forearm segments are each 45 nominal mm, and corresponding thigh and lower-leg segments each 40 mm, in both poses.
+
+The centreline limbs and polygonal closed hand/foot carriers are sparse geometry. Resolved fingers/toes, hair, clothing and footwear are omitted. Editable person/skin/body references identify the actual head, torso, neck, arms, legs and terminal carriers; they add no printed filled body areas and do not specify limb thickness.
+
+This is an introduced comparison of pose, equal corresponding lengths and frame contacts. It is neither a tracing of Leonardo's original nor a universal ideal-body-ratio model. The contextual overlaid source is not extra anatomical limbs. Its family1375 is contextual only; the fixed meaning has empty source-family membership.
+
+3. Projected volleyball panel example
+Concept: edu.volleyball-panel-example
+
+One round projected ball outline contains three simple sector divisions meeting centrally. Each sector has TWO gently curved, nearparallel strip seams in its own orientation. Their endpoints are STAGGERED on neighboring sector boundaries: strips in adjacent sectors do not join into continuous nested rings. The displayed planar graph has NINE SHOWN REGIONS; the complete sphere's panel count is unspecified.
+
+The differently oriented strip families are a source-contextual drawing adaptation, with introduced straight sector divisions and three nominal 20 mm radial seam-end sections. It is not an exact source trace, brand pattern, manufacturing template, geodesic projection or claim about every modern volleyball. Only displayed seam joins are taught; hidden back seams are not added. The rejected earlier nested-loop drawing remains historical evidence and is not this current model.
+
+Media and nominal dimensions
+
+Swell-paper and ViewPlus follow the native outlines. The 1.2 mm Index dots sample these outlines, retaining vertices, contacts, circle cardinals and curve extrema; they are line carriers, not extra objects, filled semantic points or Braille. Black/grey appearance is not an intrinsic colour/material identity code.
+
+Declared canvases are 1000 × 400 mm for the voyage map and 720 × 540 mm for each of the figure and ball diagrams. One native coordinate unit is one nominal mm. These are layout choices, not proved minimum sizes or device/page-fit claims. Rescaling requires renewed nominal checks. Hardware height calibration, tactile proofreading, physical fit and learner recognition remain pending.

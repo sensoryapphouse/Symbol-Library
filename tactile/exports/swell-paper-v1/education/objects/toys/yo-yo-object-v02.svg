@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.yo-yo-object" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" fill="#ffffff" data-part="background" id="background" />
+    <path d="M73 100 C73 116.568542494 64.9411254964 130 55 130 C45.0588745036 130 37 116.568542494 37 100 C37 83.431457506 45.0588745036 70 55 70 C64.9411254964 70 73 83.431457506 73 100 Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="near-disc-cheek" />
+    <path d="M123 100 C123 116.568542494 114.9411254964 130 105 130 C95.0588745036 130 87 116.568542494 87 100 C87 83.431457506 95.0588745036 70 105 70 C114.9411254964 70 123 83.431457506 123 100 Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="far-disc-cheek" />
+    <path d="M73 100 L80 100 L87 100" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="visible-axle-bridge" />
+    <path d="M80 100 L80 22" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="single-string" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

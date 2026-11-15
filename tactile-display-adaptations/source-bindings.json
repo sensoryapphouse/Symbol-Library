@@ -1,0 +1,803 @@
+{
+  "review_sha256": "fc3be03d1cc065dc896b5070566a89b973c2c56351e59607cf801d6409d73b7e",
+  "meaning_sources": [
+    {
+      "parent_concept_id": "edu.arsenic-neutral-electron-shell-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
+          "sha256": "5242deca55343a98729a1afe1122cc662f91431e9c6a3a0e41ae0af8b92c833c",
+          "master_path_from_SVGs": "tactile/masters/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
+          "master_sha256": "5bed73dc2cc4158c7b019454b7129a698576310d20d96c9c12f262c2b77e41d3"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
+          "sha256": "c8aef8441462369cd09acb48c7ecdb809cf94cc5c42101c565ab3bf002665925",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
+          "master_sha256": "f975ebd0b190ffb40aaa7607bb127ab16720cc6ea9dd92b2253af8f9cecd9980"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.bromine-neutral-electron-shell-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
+          "sha256": "aaabb619f11d12a6a8a1f9c2eaac99aa64cc1c51425d3a305c873df983e6e1d3",
+          "master_path_from_SVGs": "tactile/masters/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
+          "master_sha256": "5ebce52773581d3c63e5627b3027ca0e3d71ad1b84f14ab19b6f026366fda833"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
+          "sha256": "4d2297bb89fbc67834751e0d6a791baf5a67dfaebde236da055d89c179cd061d",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
+          "master_sha256": "701d62b621b181b03f48e4fd9f396afb722987530253b2497a74585d079887cc"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.copper-neutral-electron-shell-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
+          "sha256": "4df7105e24de75b7452178458c9c6b287ead01e4f71a0d04ab308dd2cbfd1f8b",
+          "master_path_from_SVGs": "tactile/masters/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
+          "master_sha256": "072bd7c91dbe79e2736c681f7e5a7ae562f651a7d1eac878543b571353475d77"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
+          "sha256": "ce9f5376da0eba016140602fdae05554fe6c00ff4fd6346d39c813f8a869950d",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
+          "master_sha256": "b135985e4aedec2737c89dca996e9eb5d7cc3ebfe8ab311a7e35b9dd77ee1a01"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.gallium-neutral-electron-shell-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
+          "sha256": "127f49a8640d6bf8c308b696254eb7d451ccf7401d46535ecf224cc952d17cc0",
+          "master_path_from_SVGs": "tactile/masters/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
+          "master_sha256": "f002cd997e6a7628c04cac8acdcba9949d706ce5dfc56b8c107ca415e94ae73f"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
+          "sha256": "bd8d63b99606d6c3f78fd246fd0ff3ab8c763dd6807c3d04c14dacffc2b8e89e",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
+          "master_sha256": "8166826e7fa6bb99ca6b77c3cba8fe6fd75263f902f87ca5fd3edc4f8d0de36f"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.germanium-neutral-electron-shell-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
+          "sha256": "1bc06da0dc809b123fda5b03cedb3bd18f21395a7063b02786e2161b723336c1",
+          "master_path_from_SVGs": "tactile/masters/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
+          "master_sha256": "d6bad6feccf0cdd6c21b842a995b1479921074c1c14d648a125b7f4cff2a557a"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
+          "sha256": "0f62efc389daec4f0f589e70acb750c10781576005b35764627589d41f017897",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
+          "master_sha256": "bc0f4331c49a375b97d0a8731c73772d7478913611922dc1967fb646ec152318"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.half-hundredths-equivalence",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/mathematics/fraction-equivalence/half-hundredths-equivalence.svg",
+          "sha256": "b3b7d0e20d324a9a942a76c3f05fc99da8ec98eb2ec76fb5f1ea6d2e83df2da1",
+          "master_path_from_SVGs": "tactile/masters/education/mathematics/fraction-equivalence/half-hundredths-equivalence.svg",
+          "master_sha256": "8be6166934ca312a8d07c1fd3fe1b67399ec0927c2f56117fd712d88a040da87"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/mathematics/fraction-equivalence/half-hundredths-equivalence.svg",
+          "sha256": "b3b7d0e20d324a9a942a76c3f05fc99da8ec98eb2ec76fb5f1ea6d2e83df2da1",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/mathematics/fraction-equivalence/half-hundredths-equivalence.svg",
+          "master_sha256": "8be6166934ca312a8d07c1fd3fe1b67399ec0927c2f56117fd712d88a040da87"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.hundred-grid-twenty-selected",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/mathematics/fractions-and-proportion/hundred-grid-twenty-selected-v02.svg",
+          "sha256": "a13121340be5a30332c52fc0f278a77b35be58677e6685c235ac3ea6e45d72f2",
+          "master_path_from_SVGs": "tactile/masters/education/mathematics/fractions-and-proportion/hundred-grid-twenty-selected-v02.svg",
+          "master_sha256": "1954830394eca2d80e63f91570b305c346bf0667a22ccb7f96048d7fb97fbdc3"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/mathematics/fractions-and-proportion/hundred-grid-twenty-selected-v02.svg",
+          "sha256": "2184ecc9d7a94c0ae062e80f4a59bf8d1d42928d06bf6c74878a5db930699d88",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/mathematics/fractions-and-proportion/hundred-grid-twenty-selected-v02.svg",
+          "master_sha256": "2a91bb951d622d4a4a1663c43b65a7122573040e7780869a3129635e0f4f5137"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.krypton-neutral-electron-shell-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
+          "sha256": "7a9b8ea9074a44dbc58cd2cf60fb7a819707de540e1dc46e158f73eff3d9dc80",
+          "master_path_from_SVGs": "tactile/masters/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
+          "master_sha256": "8672a03d234357c82d029a1f9c8ea64714335ccfb03f78fbf9b6ff8fa79da4be"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
+          "sha256": "6face340800f558b16826a73ecaf9c8f8e7eef7e1621d14ccde5498978842140",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
+          "master_sha256": "fe848eb10c1d2d6ead20a09de75b76885d3229b48b6b38e534ce6fbdb8dfabae"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.selenium-neutral-electron-shell-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
+          "sha256": "238ab005a23419886643f93255b8ca48f10d782e62f7ec9dd6ad415ab993398a",
+          "master_path_from_SVGs": "tactile/masters/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
+          "master_sha256": "071472ccbde369940920525f043447a511103436cfd421bdc0eb704042cf0f41"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
+          "sha256": "fd00f1760c323da575e2e98e89ec44fd499d34493d1dec86d2bf0025b090c1b6",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
+          "master_sha256": "03a035337d781ae8f8954f89146e4ea93b23dee6025bd1858d0acd8ec08bb194"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.zinc-neutral-electron-shell-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
+          "sha256": "b395c38fc204bca8af6d06179d96e7e2edf0170baddfe7ed40871cd7d95e93b3",
+          "master_path_from_SVGs": "tactile/masters/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
+          "master_sha256": "74e672d3560c5b5b3f8f79c38a8ba95955e0612bcd0c60ad4c1591dbb38906b2"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
+          "sha256": "38adaded7cae6d2c71d0e6f648ff6d1df4b8cd30d7495c4c022dd2964cca9618",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
+          "master_sha256": "a513329389c1b1c874470e05fe0433a9737429a4869c0faf1ffe206527b351f1"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.alaska-flag-layout-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/flag-layouts/alaska-flag-layout-context.svg",
+          "sha256": "c86b31e29e8cfbf162ea59b42f5a974d30b50840c275f2d649283a73b35e4aad",
+          "master_path_from_SVGs": "tactile/masters/education/geography/flag-layouts/alaska-flag-layout-context.svg",
+          "master_sha256": "a284c238b35bafa5f1ae046ecd349d0cfab897348e36ccdbcac227c05ab2a073"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/flag-layouts/alaska-flag-layout-context.svg",
+          "sha256": "e8e502dd3f151c19f8244a72f4f246fe9046fea4302140964f66ed5ee6da9a3e",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/flag-layouts/alaska-flag-layout-context.svg",
+          "master_sha256": "0942f594d1890af9a5d6a2c13131f76a052d46e9ab09e6fe8c9c73fc596eece8"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.arizona-flag-layout-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/flag-layouts/arizona-flag-layout-context.svg",
+          "sha256": "e38fcd6bb7ec1024719723a8177a35d1cab403307096d2063c619bff85e256aa",
+          "master_path_from_SVGs": "tactile/masters/education/geography/flag-layouts/arizona-flag-layout-context.svg",
+          "master_sha256": "26deb4dd50d80b2faa9a1eae723b4cce3ed8ffdca28a90ddf00d50ead566cf50"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/flag-layouts/arizona-flag-layout-context.svg",
+          "sha256": "fceeb7776fa38d00a77c8c923f5df911a1e0622b176d94ce5d6174511f60f246",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/flag-layouts/arizona-flag-layout-context.svg",
+          "master_sha256": "9f75f1dfc85364d4033eebb05300ee053daf621cfe4be8c38979b089b8b8903f"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.arkansas-flag-layout-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/flag-layouts/arkansas-flag-layout-context.svg",
+          "sha256": "e474b9a93fd892f61a988aa6d07d8d6a465352edb258fc5a5e3334ac41882660",
+          "master_path_from_SVGs": "tactile/masters/education/geography/flag-layouts/arkansas-flag-layout-context.svg",
+          "master_sha256": "7bd06545e17a81e49a8cf7e6e1ea181a7d5e6e8c0c1f534e2a5482b3ce5749cf"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/flag-layouts/arkansas-flag-layout-context.svg",
+          "sha256": "e474b9a93fd892f61a988aa6d07d8d6a465352edb258fc5a5e3334ac41882660",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/flag-layouts/arkansas-flag-layout-context.svg",
+          "master_sha256": "7bd06545e17a81e49a8cf7e6e1ea181a7d5e6e8c0c1f534e2a5482b3ce5749cf"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.azerbaijan-flag-layout-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/flag-layouts/azerbaijan-flag-layout-context.svg",
+          "sha256": "47199a6485f6559435d052fd0fbee9a34d16de9e4ab40485d40f0cc21f7c9b4f",
+          "master_path_from_SVGs": "tactile/masters/education/geography/flag-layouts/azerbaijan-flag-layout-context.svg",
+          "master_sha256": "f9750602f95486246ee0f2fcea8765af1ec93a1e52a43fa5af554ff2d476755b"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/flag-layouts/azerbaijan-flag-layout-context.svg",
+          "sha256": "04971fff22bb328786e2c5b8fcea4e66ec80da3d2cbd7663be7607fadc912dda",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/flag-layouts/azerbaijan-flag-layout-context.svg",
+          "master_sha256": "1c6d21c1273915fed4c3dbecc21addd28bc150e9cc7f364b45f7bbce0c0c6fb7"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.bosnia-herzegovina-flag-layout-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/flag-layouts/bosnia-herzegovina-flag-layout-context.svg",
+          "sha256": "c00f21153b067e90bedfbeeda49726195879cd7efbd42ffa6b223713f7d07f84",
+          "master_path_from_SVGs": "tactile/masters/education/geography/flag-layouts/bosnia-herzegovina-flag-layout-context.svg",
+          "master_sha256": "9b5cf3aba25d7263d8703f0c309226f6df9117af934dbe693bfa0dbdcf706917"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/flag-layouts/bosnia-herzegovina-flag-layout-context.svg",
+          "sha256": "3d8aa9ddbe57ae2e13e5c857ed081cf232d2ca211fffb69a5c23d529e5323e49",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/flag-layouts/bosnia-herzegovina-flag-layout-context.svg",
+          "master_sha256": "21b7e0bb945a864706c72a30cff26b6d379d48a9f013f7cdecde5e0b33c9b193"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.central-african-republic-flag-layout-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/flag-layouts/central-african-republic-flag-layout-context.svg",
+          "sha256": "13ea55d3ec381615f3e931dcc59aed6fcc6694aa7562f0880d37b524a631acbb",
+          "master_path_from_SVGs": "tactile/masters/education/geography/flag-layouts/central-african-republic-flag-layout-context.svg",
+          "master_sha256": "77dedb7996609cf75f34de65ed0353f9ecfb07862466bfac2765287cb09ee3ce"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/flag-layouts/central-african-republic-flag-layout-context.svg",
+          "sha256": "8b2ee6f2fb280d98a42fa62d2df32fce89c0564bc036cd98370f150d961b09de",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/flag-layouts/central-african-republic-flag-layout-context.svg",
+          "master_sha256": "b26242766852f9bf674262344a672905a00f5779e802114290a61bef4187fed5"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.united-states-flag-layout-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/flag-layouts/united-states-flag-layout-context.svg",
+          "sha256": "9702cb04f4746ac4bd13cc6fdb9269b06e979a2fbd7b2f5385623c58bafd4555",
+          "master_path_from_SVGs": "tactile/masters/education/geography/flag-layouts/united-states-flag-layout-context.svg",
+          "master_sha256": "734ac98460a7484235ee654d77d3a78770715805e809192aa48eeb2151561031"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/flag-layouts/united-states-flag-layout-context.svg",
+          "sha256": "9702cb04f4746ac4bd13cc6fdb9269b06e979a2fbd7b2f5385623c58bafd4555",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/flag-layouts/united-states-flag-layout-context.svg",
+          "master_sha256": "734ac98460a7484235ee654d77d3a78770715805e809192aa48eeb2151561031"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.clock-hour-minute-subdivision",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/mathematics/circular-scale-structures/clock-hour-minute-subdivision.svg",
+          "sha256": "1df9599466df66ddfec1d4be477d72187e6114be968a2e6fcf2d16753d2da48f",
+          "master_path_from_SVGs": "tactile/masters/education/mathematics/circular-scale-structures/clock-hour-minute-subdivision.svg",
+          "master_sha256": "c75728c72fd4a0f63c74bb6fa2ebee299f7a0e918507f2c3932eaebf7ad5130c"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/mathematics/circular-scale-structures/clock-hour-minute-subdivision.svg",
+          "sha256": "42a5ae2546e15a1f97dd0f5b8348df3623449143fdafeb382eb2d69557f64d18",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/mathematics/circular-scale-structures/clock-hour-minute-subdivision.svg",
+          "master_sha256": "09543cd153136373deb53c44af5f89ec44b048761f3ac6fcba9739b3799b7537"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.electromagnetic-spectrum-band-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/physics/spectrum/electromagnetic-spectrum-band-model.svg",
+          "sha256": "44a705f5997674902692cadd8d65ae6e991bcadae179245fc23385b4bb2a2161",
+          "master_path_from_SVGs": "tactile/masters/education/physics/spectrum/electromagnetic-spectrum-band-model.svg",
+          "master_sha256": "be09be6fdc530a94224032590d10361c59d61097b4548851f6f47ba08ca7862c"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/physics/spectrum/electromagnetic-spectrum-band-model.svg",
+          "sha256": "44a705f5997674902692cadd8d65ae6e991bcadae179245fc23385b4bb2a2161",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/physics/spectrum/electromagnetic-spectrum-band-model.svg",
+          "master_sha256": "be09be6fdc530a94224032590d10361c59d61097b4548851f6f47ba08ca7862c"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.external-spur-gear-pair-ratio-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/physics/mechanics/external-spur-gear-pair-ratio-model.svg",
+          "sha256": "9fc35d0f181c38c59a6848947ec8b7b489421be538432e38c750697a9541874b",
+          "master_path_from_SVGs": "tactile/masters/education/physics/mechanics/external-spur-gear-pair-ratio-model.svg",
+          "master_sha256": "a08b466e722d137daee7b0ba019347ca169de799ba48dd169568c27f206116dd"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/physics/mechanics/external-spur-gear-pair-ratio-model.svg",
+          "sha256": "9fc35d0f181c38c59a6848947ec8b7b489421be538432e38c750697a9541874b",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/physics/mechanics/external-spur-gear-pair-ratio-model.svg",
+          "master_sha256": "a08b466e722d137daee7b0ba019347ca169de799ba48dd169568c27f206116dd"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.fibonacci-square-quarter-arc-construction",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geometry/constructions/fibonacci-square-quarter-arc-construction.svg",
+          "sha256": "c6a28fa34417f6a81ce41319cfa508278edb6045d4e6095d3cdfa6c9194c1c91",
+          "master_path_from_SVGs": "tactile/masters/education/geometry/constructions/fibonacci-square-quarter-arc-construction.svg",
+          "master_sha256": "f2d21491f6fc1c52a061fb23bff073cf6e0e6ed2f92bc99dc0f1b3f8a08b1253"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geometry/constructions/fibonacci-square-quarter-arc-construction.svg",
+          "sha256": "c6a28fa34417f6a81ce41319cfa508278edb6045d4e6095d3cdfa6c9194c1c91",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geometry/constructions/fibonacci-square-quarter-arc-construction.svg",
+          "master_sha256": "f2d21491f6fc1c52a061fb23bff073cf6e0e6ed2f92bc99dc0f1b3f8a08b1253"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.five-lagrange-point-plan",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/physics/orbits/five-lagrange-point-plan.svg",
+          "sha256": "d3b69dc98ee46d6e3a1a0e7561f0d14df84e21626102da61b36028151d8f5704",
+          "master_path_from_SVGs": "tactile/masters/education/physics/orbits/five-lagrange-point-plan.svg",
+          "master_sha256": "0b0a64faf25769c642f9a613456693e43bf8402269be38cc8864d5747660e402"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/physics/orbits/five-lagrange-point-plan.svg",
+          "sha256": "d3b69dc98ee46d6e3a1a0e7561f0d14df84e21626102da61b36028151d8f5704",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/physics/orbits/five-lagrange-point-plan.svg",
+          "master_sha256": "0b0a64faf25769c642f9a613456693e43bf8402269be38cc8864d5747660e402"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.music-thirty-second-duration-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/music/duration-contexts/music-thirty-second-duration-context.svg",
+          "sha256": "607ce47fc9366109d12766812bcc189c940535fab2ddba553a9433f5085a1e35",
+          "master_path_from_SVGs": "tactile/masters/education/music/duration-contexts/music-thirty-second-duration-context.svg",
+          "master_sha256": "e52c36bb430fc3a1c073a6d92cb77d7fbea7e9a3d5bdbafd627d5a1aef3ca924"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/music/duration-contexts/music-thirty-second-duration-context.svg",
+          "sha256": "607ce47fc9366109d12766812bcc189c940535fab2ddba553a9433f5085a1e35",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/music/duration-contexts/music-thirty-second-duration-context.svg",
+          "master_sha256": "e52c36bb430fc3a1c073a6d92cb77d7fbea7e9a3d5bdbafd627d5a1aef3ca924"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.planet-diameter-comparison-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/astronomy/comparisons/planet-diameter-comparison-model.svg",
+          "sha256": "da59090fb6291ff17d29b2a3332ef380f149619a63a7ce8330bc0d8ff1a80d55",
+          "master_path_from_SVGs": "tactile/masters/education/astronomy/comparisons/planet-diameter-comparison-model.svg",
+          "master_sha256": "0dc586e260a57bcd6b6614abffe4f556caa5a40e0dca8623bbebe6c4a3d3be24"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/comparisons/planet-diameter-comparison-model.svg",
+          "sha256": "da59090fb6291ff17d29b2a3332ef380f149619a63a7ce8330bc0d8ff1a80d55",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/astronomy/comparisons/planet-diameter-comparison-model.svg",
+          "master_sha256": "0dc586e260a57bcd6b6614abffe4f556caa5a40e0dca8623bbebe6c4a3d3be24"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.saturn-moon-comparison-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/astronomy/comparisons/saturn-moon-comparison-model.svg",
+          "sha256": "e98a53e255dcd6d194d5af5ee6436608666f245891f6f5706b686f4ad3bad67e",
+          "master_path_from_SVGs": "tactile/masters/education/astronomy/comparisons/saturn-moon-comparison-model.svg",
+          "master_sha256": "50e5d944490d830329d20c3510630c8524c0b449a5f6d4d295f729048c406b90"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/comparisons/saturn-moon-comparison-model.svg",
+          "sha256": "00f1cba6bc915e986376b05aac84811e27e5f6bb9a3f3fdbdba31e90991b7837",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/astronomy/comparisons/saturn-moon-comparison-model.svg",
+          "master_sha256": "34d996c4ea49c787ea6d6f7b1120be39749b3f15f714894b98bae42dcfd3f34c"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.saturn-ring-radial-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/astronomy/rings/saturn-ring-radial-model.svg",
+          "sha256": "851052aeeaa6d2b2fd21f63807f537c60f4f3e1b04f080e9073138df46e2a1a0",
+          "master_path_from_SVGs": "tactile/masters/education/astronomy/rings/saturn-ring-radial-model.svg",
+          "master_sha256": "0440475bc2b48f2394e04ca66124ad65d992d7a84aae70130e177c760c2cbf08"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/rings/saturn-ring-radial-model.svg",
+          "sha256": "851052aeeaa6d2b2fd21f63807f537c60f4f3e1b04f080e9073138df46e2a1a0",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/astronomy/rings/saturn-ring-radial-model.svg",
+          "master_sha256": "0440475bc2b48f2394e04ca66124ad65d992d7a84aae70130e177c760c2cbf08"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.sierpinski-triangle-finite-iteration",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/mathematics/fractals/sierpinski-triangle-finite-iteration.svg",
+          "sha256": "456cac191e8937e049e73e4f013930fbc7f9711c529e6bbaece5ad5dce92deb2",
+          "master_path_from_SVGs": "tactile/masters/education/mathematics/fractals/sierpinski-triangle-finite-iteration.svg",
+          "master_sha256": "d563209a8fc81aced0e01d94b3f633a7caa68e86660ffdc65a5a7865d8253e80"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/mathematics/fractals/sierpinski-triangle-finite-iteration.svg",
+          "sha256": "ebeab049e9751f0901ea89076961b2ed61e7f571b14f0cabb3235fa1323e5096",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/mathematics/fractals/sierpinski-triangle-finite-iteration.svg",
+          "master_sha256": "b94dacc66e75fc54d243aa0331b8a88f5c8b7a80fccc3518c04b99dc600c8b83"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.six-cell-global-atmospheric-circulation",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/earth-science/atmosphere/six-cell-global-atmospheric-circulation.svg",
+          "sha256": "b4c25e58a2770640e2b022fb05bf6d59a402558c8ab630364ab1e73ba2a2a991",
+          "master_path_from_SVGs": "tactile/masters/education/earth-science/atmosphere/six-cell-global-atmospheric-circulation.svg",
+          "master_sha256": "078d893a55a6fb4ef2e3f8c798de16761c21e57161ecd14b8c5ba0a7981a008e"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/earth-science/atmosphere/six-cell-global-atmospheric-circulation.svg",
+          "sha256": "9aa89020cb6068b03208fdd453b0829ab4004f70b5bad6217d59f619bb521578",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/earth-science/atmosphere/six-cell-global-atmospheric-circulation.svg",
+          "master_sha256": "38b49e4b08a6b084a5269895f9a26de728ab88463193ccf31f686708bc239988"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.corrosion-hazard-pictogram",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/learned-symbols/hazards/corrosion-hazard-pictogram.svg",
+          "sha256": "07ecf79e65771dd462c82cddd03db4a3e9d34fb57398f5c31657f69e6a900f9b",
+          "master_path_from_SVGs": "tactile/masters/education/learned-symbols/hazards/corrosion-hazard-pictogram.svg",
+          "master_sha256": "97de972fce0f9f4384c4913a6b4657b63b1e270f13fba82ae7a98b6c8fd129c1"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/learned-symbols/hazards/corrosion-hazard-pictogram.svg",
+          "sha256": "4c36de90ac212b0dad1996af341f09835245ebe53a71fbc3cdd6d3c3bbe43062",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/learned-symbols/hazards/corrosion-hazard-pictogram.svg",
+          "master_sha256": "6bce54d145871771b10000652a8ccba3620854705c4177533e6daa0e5dc36bb6"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.spinner-probability-representation-comparison",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/mathematics/probability/spinner-probability-representation-comparison.svg",
+          "sha256": "b876e4272c539c9933f87c05dc7c6c035a1c8c4093fa0d4c2016dae1ab92954b",
+          "master_path_from_SVGs": "tactile/masters/education/mathematics/probability/spinner-probability-representation-comparison.svg",
+          "master_sha256": "fa9ef065da3daf13488bb93f5b0539f948e9de92ee687a6156ff435629e2b49e"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/mathematics/probability/spinner-probability-representation-comparison.svg",
+          "sha256": "121eb6172619e3ae3f4f5df60541155cb63350e512b64769701a734694d5e22a",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/mathematics/probability/spinner-probability-representation-comparison.svg",
+          "master_sha256": "bb89871a047365fd0e9348fbb3025341bccbe1ec9983adf1d24333e9c55825f3"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.stonehenge-phased-plan",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/history/archaeology/stonehenge-phased-plan.svg",
+          "sha256": "3a9c8e7b7a87f68a14770889126c24f7c491b934b582abbd352694462628acff",
+          "master_path_from_SVGs": "tactile/masters/education/history/archaeology/stonehenge-phased-plan.svg",
+          "master_sha256": "d8b31743c0e1b3f3dd6994c33fc7842489e4db0353debfe175f6fd48f1c5e87d"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/history/archaeology/stonehenge-phased-plan.svg",
+          "sha256": "6774f9a950f8f0da5e02198c33b808fc8fab62b084f66a69031ec2946c5933e3",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/history/archaeology/stonehenge-phased-plan.svg",
+          "master_sha256": "6b93fdc2169a0ebd6c7760704c352d1020da0a09d8ffeef6e2b767e43dda53b6"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.volleyball-panel-example",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/sport/equipment/volleyball-panel-example.svg",
+          "sha256": "7bb5310b6c62a3e963502d04a445ceb771a3ddfc8a31cf09c66581691b9d2ac1",
+          "master_path_from_SVGs": "tactile/masters/education/sport/equipment/volleyball-panel-example-viewplus-shaded-v02.svg",
+          "master_sha256": "dd35feaa9ff3a2897c3c989313956c1761ec7ea0ed70e1fb22856f042ab34422"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/sport/equipment/volleyball-panel-example.svg",
+          "sha256": "14329ca93638bcfe04acd581c97b66cb6882e27fd168894ca42e7f28035462ea",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/sport/equipment/volleyball-panel-example-viewplus-shaded-v02.svg",
+          "master_sha256": "b49c329d47eefd5e0bfc4ca1a3ed3bb10061a246c1e7c882086eba6c575724db"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.carnivore-herbivore-dentition-comparison",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
+          "sha256": "14e9d7a5e5cd1dbdbc4a7f33c10e202bb8032363151db8a25277be1222cc4faf",
+          "master_path_from_SVGs": "tactile/masters/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
+          "master_sha256": "c63c109f6fe602b7d1fd008273d516220dac218896c879b28e9e175a6d77ad81"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
+          "sha256": "14e9d7a5e5cd1dbdbc4a7f33c10e202bb8032363151db8a25277be1222cc4faf",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
+          "master_sha256": "c63c109f6fe602b7d1fd008273d516220dac218896c879b28e9e175a6d77ad81"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.four-mammal-forelimb-homology-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
+          "sha256": "77b770d6855560cafdd153ed46b759040a38b59ee85da15d4a569dd713d1393a",
+          "master_path_from_SVGs": "tactile/masters/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
+          "master_sha256": "bb8ae46fefceda119d8acb10c141dfa1ce2c43844dd7ff100be894c7b67933b3"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
+          "sha256": "77b770d6855560cafdd153ed46b759040a38b59ee85da15d4a569dd713d1393a",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
+          "master_sha256": "bb8ae46fefceda119d8acb10c141dfa1ce2c43844dd7ff100be894c7b67933b3"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.proton-proton-I-chain-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
+          "sha256": "3b876fae725c1da4cafb7f6b34eea2dd7b11445f438cb10937313bdd3a4e8832",
+          "master_path_from_SVGs": "tactile/masters/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
+          "master_sha256": "d47197a11b24fc53b36d8c5ba199c04fcbc87d496290e8a7fb884c0e9f381893"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
+          "sha256": "3b876fae725c1da4cafb7f6b34eea2dd7b11445f438cb10937313bdd3a4e8832",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
+          "master_sha256": "d47197a11b24fc53b36d8c5ba199c04fcbc87d496290e8a7fb884c0e9f381893"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.maltose-alpha14-linkage-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/chemistry/carbohydrates/maltose-alpha14-linkage-model.svg",
+          "sha256": "55559641c7a103cb44667784e197977e37bd24606b34b9b928dca55d44aa6943",
+          "master_path_from_SVGs": "tactile/masters/education/chemistry/carbohydrates/maltose-alpha14-linkage-model.svg",
+          "master_sha256": "1256f1c9f0bfc2a18c60acccb9c65df9ffcf16068f7c467819bd97d1f402d77d"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/chemistry/carbohydrates/maltose-alpha14-linkage-model.svg",
+          "sha256": "55559641c7a103cb44667784e197977e37bd24606b34b9b928dca55d44aa6943",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/chemistry/carbohydrates/maltose-alpha14-linkage-model.svg",
+          "master_sha256": "1256f1c9f0bfc2a18c60acccb9c65df9ffcf16068f7c467819bd97d1f402d77d"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.starch-amylose-amylopectin-linkage-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/chemistry/models/starch-amylose-amylopectin-linkage-model.svg",
+          "sha256": "09a3e8abb9352fdf3df14a10a53420f7025ba169da24d288b1a8729598c8d647",
+          "master_path_from_SVGs": "tactile/masters/education/chemistry/models/starch-amylose-amylopectin-linkage-model.svg",
+          "master_sha256": "3dd282a2064ac1d0840d30964bf9344c006b8cbae52b0b65dcc0af633e247502"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/chemistry/models/starch-amylose-amylopectin-linkage-model.svg",
+          "sha256": "bba2bfecbc50bfcc723201bcfa04becad6fe3bd8440df9475e69b167ea8d55e7",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/chemistry/models/starch-amylose-amylopectin-linkage-model.svg",
+          "master_sha256": "5ccb55109be3eca59c10f08ac55442b91aa8ba801f6174f5561e4a52ee594cbe"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.utah-thematic-map-programme-model",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
+          "sha256": "086d5b90619e895d1332800eb6832fc60d81237b4274ebf623df8a3c06929a6e",
+          "master_path_from_SVGs": "tactile/masters/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
+          "master_sha256": "ee1f2d7cf26bd68c232b965e0900fb2a366cb86bb8cdd8c30f908d11f822be99"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
+          "sha256": "086d5b90619e895d1332800eb6832fc60d81237b4274ebf623df8a3c06929a6e",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
+          "master_sha256": "ee1f2d7cf26bd68c232b965e0900fb2a366cb86bb8cdd8c30f908d11f822be99"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.vitruvian-two-pose-proportion-context",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
+          "sha256": "8944144fbe320fe816a828da7e3a9ffb923220609b01b161f9db4219a9385579",
+          "master_path_from_SVGs": "tactile/masters/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
+          "master_sha256": "f8645e64869002e8cb4a83982f32450227c5fdf5e2dada9246531ab90aa3b446"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
+          "sha256": "8944144fbe320fe816a828da7e3a9ffb923220609b01b161f9db4219a9385579",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
+          "master_sha256": "f8645e64869002e8cb4a83982f32450227c5fdf5e2dada9246531ab90aa3b446"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.montana-lewis-clark-route-map",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/historical-routes/montana-lewis-clark-route-map.svg",
+          "sha256": "0b4f0fc06c59500d591aeccbc9557f7a9fd9c123d177c88ad2d732432e906c54",
+          "master_path_from_SVGs": "tactile/masters/education/geography/historical-routes/montana-lewis-clark-route-map.svg",
+          "master_sha256": "c4e1f8bc01e0b97af8e1f3c15dde8c6cf3b1d389486eedcf44b87cfdcdab346c"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/historical-routes/montana-lewis-clark-route-map.svg",
+          "sha256": "0b4f0fc06c59500d591aeccbc9557f7a9fd9c123d177c88ad2d732432e906c54",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/historical-routes/montana-lewis-clark-route-map.svg",
+          "master_sha256": "c4e1f8bc01e0b97af8e1f3c15dde8c6cf3b1d389486eedcf44b87cfdcdab346c"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.vasco-da-gama-route-map",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/history/exploration/vasco-da-gama-route-map.svg",
+          "sha256": "41709a254f21ab08c1d244984c1e3283ad93eb43b8aa0f7b036f4496fb12ea79",
+          "master_path_from_SVGs": "tactile/masters/education/history/exploration/vasco-da-gama-route-map.svg",
+          "master_sha256": "c958461c2885077993d5a1094a09efa2f504ef6e30ed5ab6b93a0049c6af3247"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/history/exploration/vasco-da-gama-route-map.svg",
+          "sha256": "41709a254f21ab08c1d244984c1e3283ad93eb43b8aa0f7b036f4496fb12ea79",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/history/exploration/vasco-da-gama-route-map.svg",
+          "master_sha256": "c958461c2885077993d5a1094a09efa2f504ef6e30ed5ab6b93a0049c6af3247"
+        }
+      ]
+    },
+    {
+      "parent_concept_id": "edu.marco-polo-route-map",
+      "bindings": [
+        {
+          "collection": "original",
+          "source_path_from_SVGs": "tactile/exports/swell-paper-v1/education/geography/historical-routes/marco-polo-route-map.svg",
+          "sha256": "42547a6e2f08135672b5a96fd70eff86722ebab30eb80c06c9c068e230799c11",
+          "master_path_from_SVGs": "tactile/masters/education/geography/historical-routes/marco-polo-route-map.svg",
+          "master_sha256": "0f522782451bac30564fde7f1061b1b43ba9692bf47de3fd37d0e684939d3232"
+        },
+        {
+          "collection": "page-fit",
+          "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/geography/historical-routes/marco-polo-route-map.svg",
+          "sha256": "42547a6e2f08135672b5a96fd70eff86722ebab30eb80c06c9c068e230799c11",
+          "master_path_from_SVGs": "tactile-pagefit/masters/education/geography/historical-routes/marco-polo-route-map.svg",
+          "master_sha256": "0f522782451bac30564fde7f1061b1b43ba9692bf47de3fd37d0e684939d3232"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Required teaching key — batch391
+
+These text-free teaching schematics require this key in every medium. Their geometric codes and cultural identities are introduced conventions, not intrinsic recognition tests.
+
+1. Spinner outcome representation comparison
+The LEFT model has NINE equal-angle outcome compartments. Clockwise from the upper boundary, their taught outcome sequence is circle, triangle, square, repeated three times. The RIGHT model has FOUR equal-angle compartments with circle, triangle, square and pentagon once each. A circle means outcome1, triangle outcome2, square outcome3, and pentagon outcome4. These meanings are taught here; numbers and letters are absent from the SVG.
+
+Each whole outline glyph marks its compartment outcome. The common central hub is not another outcome; radial boundaries run from the hub to the rim. A small static pointer inside each hub shows one direction, without operating a spinner or proving randomness. Under an explicitly assumed uniform angular direction, each left-model outcome has probability1/3 and each right-model outcome1/4. These are exact model probabilities, not measured frequencies or physical fairness results. The two separately addressable models retain original308 and307 source identities respectively and count as ONE comparison teaching meaning.
+
+2. Right palm and wheel in a selected Jain ahimsa context
+An upright RIGHT PALM faces the viewer, wrist down, with its thumb on PAGE-LEFT. Four upper digits are index, middle, ring and little fingers. The contextual1061 thumbnail has a side digit on the opposite page side; current handedness is an explicit introduced fixed-model choice, not certified from that thumbnail.
+
+The palm contains a wheel with exactlyTWENTY-FOUR spokes between an empty small hub outline and the outer rim. The hub separates crowded spoke ends without removing a spoke; it is not a filled semantic point. The count is fixed by this teaching model and checked from current geometry, not inferred from tiny source spokes. Printed hand contours have editable skin/palm/digit boundary associations. The wheel is a taught sign within the palm, not a claim about a physical tattoo, filled skin material or intrinsic colour.
+
+The Harvard Pluralism Project explains the selected stylized hand/ahimsa association in Jain teaching. This independent text-free palm/wheel is introduced as a selected nonviolence-associated sign. It omits lettering and other complete-emblem elements, does not copy a particular organisation logo and does not claim universal recognition or a complete community emblem.
+
+3. Khanda composition in a selected Sikh cultural lesson
+The CENTRAL vertical pointed outline is one double-edged khanda sword. The circular outline around it is one chakar. The two outward-curved side forms are one PAGE-LEFT kirpan and one PAGE-RIGHT kirpan. There are exactlyTHREE symbolic weapon forms plus ONE ring. Each sword has its own outlined lower hilt, guard and closed pommel carrier; those carriers are parts of their swords, not extra weapons or semantic dots.
+
+This is a transparent-OUTLINE teaching composition. The full ring crosses the central blade outline at four explicitly checked projected intersections. They are drawn superpositions, not mechanical joins, physical blade holes or source-fill occlusions. The two lower kirpan handles are separated in this introduced medium alternative, while the contextual1063 filled source gathers lower silhouettes. Hidden parts are not invented. The Sikh Coalition identifies the central double-edged sword, chakar and two curved kirpans; this model teaches those named relationships without logo tracing or physical weapon-construction claims.
+
+Media and nominal dimensions
+Swell-paper and ViewPlus follow the native outlines; ordinary1.2mm Index dots sample their lines, vertices, contacts, circle cardinals and quadratic extrema. The dots are carriers, not lettering/Braille or extra objects. Black/grey profile roles are not intrinsic identity/colour codes. Hand semantic references are editable NONPRINTED boundary associations, not extra filled contours.
+
+Declared canvases are1000x500mm for spinner comparison,600x600mm for the palm/wheel and700x700mm for Khanda. One native unit is one nominalmm; proof images use3pixels/mm. These are introduced layout choices, not proved minima or device/page-fit promises. No silent shrink: rescaling requires renewed nominal checks. Hardware height calibration, physical touch proofreading, fit and learner recognition remain pending.

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.ascending-size" data-production-method="microcapsule-swell-paper" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <circle cx="16" cy="50" r="6" data-part="area-texture" data-output-role="swell-footprint" fill="#000000" stroke="none" id="ascending-size-item-01-footprint" />
+    <circle cx="42" cy="50" r="10" data-part="area-texture" data-output-role="swell-footprint" fill="#000000" stroke="none" id="ascending-size-item-02-footprint" />
+    <circle cx="76" cy="50" r="14" data-part="area-texture" data-output-role="swell-footprint" fill="#000000" stroke="none" id="ascending-size-item-03-footprint" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

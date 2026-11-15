@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="edu.open-shape" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="open-shape-provenance">{
+  "editable_source": "This master only; per-medium files are generated exports.",
+  "profiles": [
+    "swell-paper-v1",
+    "index-embossed-v1",
+    "viewplus-variable-height-v1"
+  ],
+  "baseline_sources": [
+    {
+      "concept_id": "edu.open-shape",
+      "profile": "swell-paper-v1",
+      "source_path": "tactile/svg/swell-paper-v1/education/geometry/boundaries/open-shape.svg",
+      "source_sha256": "c9260c912997d6098fe688d9cac731efcb2d72118f25702b65b65cca47b5be30",
+      "review_path": "planning/reviews/symbols/tactile/swell-paper-v1/open-shape-current.json",
+      "review_sha256": "38822d6783caa4a53cbd1c30248d4b42d51032cc1a38f0402a69f308095fda1a",
+      "manifest_path": "planning/tactile-media/manifests/swell-003.json",
+      "manifest_sha256": "2aff30417f9bd9d10c532d0786c9c2f9c6afc08dee5ebaa2bf27a44b3a7cd229"
+    },
+    {
+      "concept_id": "edu.open-shape",
+      "profile": "index-embossed-v1",
+      "source_path": "tactile/svg/index-embossed-v1/education/geometry/boundaries/open-shape.svg",
+      "source_sha256": "1f4ae7e1a78e87f8fe70d42eff22f0c95f45699ca2b5ff5dc1f96869c7e486eb",
+      "review_path": "planning/reviews/symbols/tactile/index-embossed-v1/open-shape-current.json",
+      "review_sha256": "0bf8b2b61a17a8494ee8cf5cd5e168517aa7b75158a4073c3baae1e28a7e00e8",
+      "manifest_path": "planning/tactile-media/manifests/index-003.json",
+      "manifest_sha256": "b791cd4dde4044d3b7fbc7c4f150e41a8eb70ce20a71365229652d30510622f9"
+    }
+  ],
+  "physical_evaluation": "pending",
+  "exception_policy": "Reuse identical geometry. Keep reviewed Index dot placements as explicit alternate geometry. ViewPlus inset boundaries preserve reviewed outer extents. No missing profiles are invented.",
+  "revision": 2,
+  "supersedes_master": {
+    "path": "tactile/masters/education/geometry/boundaries/open-shape.svg",
+    "sha256": "ced07b29faef601997138600bb69331994cfd99da10e854dda1f69a8e8f5e01a"
+  },
+  "profile_addition": "ViewPlus principal-line style uses shared continuous geometry; no change to previous profile layers."
+}</metadata>
+  <defs>
+    <rect id="open-shape-geometry-01" data-part="background" width="100" height="100" />
+    <path id="open-shape-geometry-02" data-part="raised-line" d="M61 20H80V80H20V20H39" />
+  </defs>
+  <g id="open-shape-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.open-shape&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use data-part="background" fill="#ffffff" id="swell-background" data-export-id="background" href="#open-shape-geometry-01" data-shared-geometry="open-shape-geometry-01" />
+    <use data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" id="swell-open-shape-thermal-trace" data-export-id="open-shape-thermal-trace" href="#open-shape-geometry-02" data-shared-geometry="open-shape-geometry-02" />
+  </g>
+  <g id="open-shape-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.open-shape&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none">
+    <use data-part="background" fill="white" id="index-background" data-export-id="background" href="#open-shape-geometry-01" data-shared-geometry="open-shape-geometry-01" />
+    <g id="index-open-shape-graphic-trace" data-part="raised-line" data-output-role="graphic-dot-trace" data-export-id="open-shape-graphic-trace" data-geometry-exception="reviewed-index-dot-layout" data-exception-reason="Preserve reviewed explicit dot positions, spacing and repairs. This layout is authored once inside this concept master, not maintained in a separate source.">
+      <circle id="index-open-shape-graphic-dot-0000" data-part="raised-line" data-output-role="graphic-dot" cx="61" cy="20" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0000" />
+      <circle id="index-open-shape-graphic-dot-0001" data-part="raised-line" data-output-role="graphic-dot" cx="62.9" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0001" />
+      <circle id="index-open-shape-graphic-dot-0002" data-part="raised-line" data-output-role="graphic-dot" cx="64.8" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0002" />
+      <circle id="index-open-shape-graphic-dot-0003" data-part="raised-line" data-output-role="graphic-dot" cx="66.7" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0003" />
+      <circle id="index-open-shape-graphic-dot-0004" data-part="raised-line" data-output-role="graphic-dot" cx="68.6" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0004" />
+      <circle id="index-open-shape-graphic-dot-0005" data-part="raised-line" data-output-role="graphic-dot" cx="70.5" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0005" />
+      <circle id="index-open-shape-graphic-dot-0006" data-part="raised-line" data-output-role="graphic-dot" cx="72.4" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0006" />
+      <circle id="index-open-shape-graphic-dot-0007" data-part="raised-line" data-output-role="graphic-dot" cx="74.3" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0007" />
+      <circle id="index-open-shape-graphic-dot-0008" data-part="raised-line" data-output-role="graphic-dot" cx="76.2" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0008" />
+      <circle id="index-open-shape-graphic-dot-0009" data-part="raised-line" data-output-role="graphic-dot" cx="78.1" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0009" />
+      <circle id="index-open-shape-graphic-dot-0010" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0010" />
+      <circle id="index-open-shape-graphic-dot-0011" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="21.93548" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0011" />
+      <circle id="index-open-shape-graphic-dot-0012" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="23.87097" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0012" />
+      <circle id="index-open-shape-graphic-dot-0013" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="25.80645" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0013" />
+      <circle id="index-open-shape-graphic-dot-0014" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="27.74194" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0014" />
+      <circle id="index-open-shape-graphic-dot-0015" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="29.67742" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0015" />
+      <circle id="index-open-shape-graphic-dot-0016" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="31.6129" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0016" />
+      <circle id="index-open-shape-graphic-dot-0017" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="33.54839" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0017" />
+      <circle id="index-open-shape-graphic-dot-0018" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="35.48387" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0018" />
+      <circle id="index-open-shape-graphic-dot-0019" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="37.41935" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0019" />
+      <circle id="index-open-shape-graphic-dot-0020" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="39.35484" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0020" />
+      <circle id="index-open-shape-graphic-dot-0021" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="41.29032" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0021" />
+      <circle id="index-open-shape-graphic-dot-0022" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="43.22581" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0022" />
+      <circle id="index-open-shape-graphic-dot-0023" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="45.16129" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0023" />
+      <circle id="index-open-shape-graphic-dot-0024" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="47.09677" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0024" />
+      <circle id="index-open-shape-graphic-dot-0025" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="49.03226" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0025" />
+      <circle id="index-open-shape-graphic-dot-0026" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="50.96774" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0026" />
+      <circle id="index-open-shape-graphic-dot-0027" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="52.90323" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0027" />
+      <circle id="index-open-shape-graphic-dot-0028" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="54.83871" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0028" />
+      <circle id="index-open-shape-graphic-dot-0029" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="56.77419" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0029" />
+      <circle id="index-open-shape-graphic-dot-0030" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="58.70968" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0030" />
+      <circle id="index-open-shape-graphic-dot-0031" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="60.64516" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0031" />
+      <circle id="index-open-shape-graphic-dot-0032" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="62.58065" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0032" />
+      <circle id="index-open-shape-graphic-dot-0033" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="64.51613" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0033" />
+      <circle id="index-open-shape-graphic-dot-0034" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="66.45161" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0034" />
+      <circle id="index-open-shape-graphic-dot-0035" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="68.3871" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0035" />
+      <circle id="index-open-shape-graphic-dot-0036" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="70.32258" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0036" />
+      <circle id="index-open-shape-graphic-dot-0037" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="72.25806" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0037" />
+      <circle id="index-open-shape-graphic-dot-0038" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="74.19355" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0038" />
+      <circle id="index-open-shape-graphic-dot-0039" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="76.12903" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0039" />
+      <circle id="index-open-shape-graphic-dot-0040" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="78.06452" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0040" />
+      <circle id="index-open-shape-graphic-dot-0041" data-part="raised-line" data-output-role="graphic-dot" cx="80.0" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0041" />
+      <circle id="index-open-shape-graphic-dot-0042" data-part="raised-line" data-output-role="graphic-dot" cx="78.06452" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0042" />
+      <circle id="index-open-shape-graphic-dot-0043" data-part="raised-line" data-output-role="graphic-dot" cx="76.12903" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0043" />
+      <circle id="index-open-shape-graphic-dot-0044" data-part="raised-line" data-output-role="graphic-dot" cx="74.19355" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0044" />
+      <circle id="index-open-shape-graphic-dot-0045" data-part="raised-line" data-output-role="graphic-dot" cx="72.25806" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0045" />
+      <circle id="index-open-shape-graphic-dot-0046" data-part="raised-line" data-output-role="graphic-dot" cx="70.32258" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0046" />
+      <circle id="index-open-shape-graphic-dot-0047" data-part="raised-line" data-output-role="graphic-dot" cx="68.3871" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0047" />
+      <circle id="index-open-shape-graphic-dot-0048" data-part="raised-line" data-output-role="graphic-dot" cx="66.45161" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0048" />
+      <circle id="index-open-shape-graphic-dot-0049" data-part="raised-line" data-output-role="graphic-dot" cx="64.51613" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0049" />
+      <circle id="index-open-shape-graphic-dot-0050" data-part="raised-line" data-output-role="graphic-dot" cx="62.58065" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0050" />
+      <circle id="index-open-shape-graphic-dot-0051" data-part="raised-line" data-output-role="graphic-dot" cx="60.64516" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0051" />
+      <circle id="index-open-shape-graphic-dot-0052" data-part="raised-line" data-output-role="graphic-dot" cx="58.70968" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0052" />
+      <circle id="index-open-shape-graphic-dot-0053" data-part="raised-line" data-output-role="graphic-dot" cx="56.77419" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0053" />
+      <circle id="index-open-shape-graphic-dot-0054" data-part="raised-line" data-output-role="graphic-dot" cx="54.83871" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0054" />
+      <circle id="index-open-shape-graphic-dot-0055" data-part="raised-line" data-output-role="graphic-dot" cx="52.90323" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0055" />
+      <circle id="index-open-shape-graphic-dot-0056" data-part="raised-line" data-output-role="graphic-dot" cx="50.96774" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0056" />
+      <circle id="index-open-shape-graphic-dot-0057" data-part="raised-line" data-output-role="graphic-dot" cx="49.03226" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0057" />
+      <circle id="index-open-shape-graphic-dot-0058" data-part="raised-line" data-output-role="graphic-dot" cx="47.09677" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0058" />
+      <circle id="index-open-shape-graphic-dot-0059" data-part="raised-line" data-output-role="graphic-dot" cx="45.16129" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0059" />
+      <circle id="index-open-shape-graphic-dot-0060" data-part="raised-line" data-output-role="graphic-dot" cx="43.22581" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0060" />
+      <circle id="index-open-shape-graphic-dot-0061" data-part="raised-line" data-output-role="graphic-dot" cx="41.29032" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0061" />
+      <circle id="index-open-shape-graphic-dot-0062" data-part="raised-line" data-output-role="graphic-dot" cx="39.35484" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0062" />
+      <circle id="index-open-shape-graphic-dot-0063" data-part="raised-line" data-output-role="graphic-dot" cx="37.41935" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0063" />
+      <circle id="index-open-shape-graphic-dot-0064" data-part="raised-line" data-output-role="graphic-dot" cx="35.48387" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0064" />
+      <circle id="index-open-shape-graphic-dot-0065" data-part="raised-line" data-output-role="graphic-dot" cx="33.54839" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0065" />
+      <circle id="index-open-shape-graphic-dot-0066" data-part="raised-line" data-output-role="graphic-dot" cx="31.6129" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0066" />
+      <circle id="index-open-shape-graphic-dot-0067" data-part="raised-line" data-output-role="graphic-dot" cx="29.67742" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0067" />
+      <circle id="index-open-shape-graphic-dot-0068" data-part="raised-line" data-output-role="graphic-dot" cx="27.74194" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0068" />
+      <circle id="index-open-shape-graphic-dot-0069" data-part="raised-line" data-output-role="graphic-dot" cx="25.80645" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0069" />
+      <circle id="index-open-shape-graphic-dot-0070" data-part="raised-line" data-output-role="graphic-dot" cx="23.87097" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0070" />
+      <circle id="index-open-shape-graphic-dot-0071" data-part="raised-line" data-output-role="graphic-dot" cx="21.93548" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0071" />
+      <circle id="index-open-shape-graphic-dot-0072" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="80.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0072" />
+      <circle id="index-open-shape-graphic-dot-0073" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="78.06452" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0073" />
+      <circle id="index-open-shape-graphic-dot-0074" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="76.12903" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0074" />
+      <circle id="index-open-shape-graphic-dot-0075" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="74.19355" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0075" />
+      <circle id="index-open-shape-graphic-dot-0076" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="72.25806" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0076" />
+      <circle id="index-open-shape-graphic-dot-0077" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="70.32258" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0077" />
+      <circle id="index-open-shape-graphic-dot-0078" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="68.3871" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0078" />
+      <circle id="index-open-shape-graphic-dot-0079" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="66.45161" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0079" />
+      <circle id="index-open-shape-graphic-dot-0080" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="64.51613" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0080" />
+      <circle id="index-open-shape-graphic-dot-0081" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="62.58065" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0081" />
+      <circle id="index-open-shape-graphic-dot-0082" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="60.64516" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0082" />
+      <circle id="index-open-shape-graphic-dot-0083" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="58.70968" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0083" />
+      <circle id="index-open-shape-graphic-dot-0084" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="56.77419" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0084" />
+      <circle id="index-open-shape-graphic-dot-0085" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="54.83871" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0085" />
+      <circle id="index-open-shape-graphic-dot-0086" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="52.90323" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0086" />
+      <circle id="index-open-shape-graphic-dot-0087" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="50.96774" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0087" />
+      <circle id="index-open-shape-graphic-dot-0088" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="49.03226" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0088" />
+      <circle id="index-open-shape-graphic-dot-0089" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="47.09677" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0089" />
+      <circle id="index-open-shape-graphic-dot-0090" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="45.16129" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0090" />
+      <circle id="index-open-shape-graphic-dot-0091" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="43.22581" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0091" />
+      <circle id="index-open-shape-graphic-dot-0092" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="41.29032" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0092" />
+      <circle id="index-open-shape-graphic-dot-0093" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="39.35484" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0093" />
+      <circle id="index-open-shape-graphic-dot-0094" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="37.41935" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0094" />
+      <circle id="index-open-shape-graphic-dot-0095" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="35.48387" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0095" />
+      <circle id="index-open-shape-graphic-dot-0096" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="33.54839" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0096" />
+      <circle id="index-open-shape-graphic-dot-0097" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="31.6129" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0097" />
+      <circle id="index-open-shape-graphic-dot-0098" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="29.67742" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0098" />
+      <circle id="index-open-shape-graphic-dot-0099" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="27.74194" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0099" />
+      <circle id="index-open-shape-graphic-dot-0100" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="25.80645" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0100" />
+      <circle id="index-open-shape-graphic-dot-0101" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="23.87097" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0101" />
+      <circle id="index-open-shape-graphic-dot-0102" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="21.93548" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0102" />
+      <circle id="index-open-shape-graphic-dot-0103" data-part="raised-line" data-output-role="graphic-dot" cx="20.0" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0103" />
+      <circle id="index-open-shape-graphic-dot-0104" data-part="raised-line" data-output-role="graphic-dot" cx="21.9" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0104" />
+      <circle id="index-open-shape-graphic-dot-0105" data-part="raised-line" data-output-role="graphic-dot" cx="23.8" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0105" />
+      <circle id="index-open-shape-graphic-dot-0106" data-part="raised-line" data-output-role="graphic-dot" cx="25.7" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0106" />
+      <circle id="index-open-shape-graphic-dot-0107" data-part="raised-line" data-output-role="graphic-dot" cx="27.6" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0107" />
+      <circle id="index-open-shape-graphic-dot-0108" data-part="raised-line" data-output-role="graphic-dot" cx="29.5" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0108" />
+      <circle id="index-open-shape-graphic-dot-0109" data-part="raised-line" data-output-role="graphic-dot" cx="31.4" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0109" />
+      <circle id="index-open-shape-graphic-dot-0110" data-part="raised-line" data-output-role="graphic-dot" cx="33.3" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0110" />
+      <circle id="index-open-shape-graphic-dot-0111" data-part="raised-line" data-output-role="graphic-dot" cx="35.2" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0111" />
+      <circle id="index-open-shape-graphic-dot-0112" data-part="raised-line" data-output-role="graphic-dot" cx="37.1" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0112" />
+      <circle id="index-open-shape-graphic-dot-0113" data-part="raised-line" data-output-role="graphic-dot" cx="39.0" cy="20.0" r=".6" fill="black" data-export-id="open-shape-graphic-dot-0113" />
+    </g>
+  </g>
+  <g id="open-shape-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.open-shape&quot;, &quot;data-device-mapping&quot;: &quot;provisional-relative-levels-not-calibrated&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none">
+    <use id="viewplus-background" data-export-id="background" data-part="background" data-height-role="background" fill="#ffffff" href="#open-shape-geometry-01" data-shared-geometry="open-shape-geometry-01" />
+    <use id="viewplus-open-shape-principal-trace" data-export-id="open-shape-principal-trace" data-part="raised-line" data-height-role="principal-line" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" href="#open-shape-geometry-02" data-shared-geometry="open-shape-geometry-02" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

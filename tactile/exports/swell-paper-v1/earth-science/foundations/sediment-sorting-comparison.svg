@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.sediment-sorting-comparison" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <circle cx="10" cy="25" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-1-1" />
+    <circle cx="24" cy="25" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-1-2" />
+    <circle cx="38" cy="25" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-1-3" />
+    <circle cx="62" cy="25" r="2.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-1-1" />
+    <circle cx="76" cy="25" r="4" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-1-2" />
+    <circle cx="90" cy="25" r="5.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-1-3" />
+    <circle cx="10" cy="50" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-2-1" />
+    <circle cx="24" cy="50" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-2-2" />
+    <circle cx="38" cy="50" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-2-3" />
+    <circle cx="62" cy="50" r="4" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-2-1" />
+    <circle cx="76" cy="50" r="5.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-2-2" />
+    <circle cx="90" cy="50" r="2.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-2-3" />
+    <circle cx="10" cy="75" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-3-1" />
+    <circle cx="24" cy="75" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-3-2" />
+    <circle cx="38" cy="75" r="3.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="similar-size-grain-3-3" />
+    <circle cx="62" cy="75" r="5.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-3-1" />
+    <circle cx="76" cy="75" r="2.5" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-3-2" />
+    <circle cx="90" cy="75" r="4" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.2" data-tactile-role="raised-line" id="mixed-size-grain-3-3" />
+    <circle cx="50" cy="10" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-1" />
+    <circle cx="50" cy="18" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-2" />
+    <circle cx="50" cy="26" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-3" />
+    <circle cx="50" cy="34" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-4" />
+    <circle cx="50" cy="42" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-5" />
+    <circle cx="50" cy="50" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-6" />
+    <circle cx="50" cy="58" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-7" />
+    <circle cx="50" cy="66" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-8" />
+    <circle cx="50" cy="74" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-9" />
+    <circle cx="50" cy="82" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-10" />
+    <circle cx="50" cy="90" r="0.8" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" id="sample-divider-11" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

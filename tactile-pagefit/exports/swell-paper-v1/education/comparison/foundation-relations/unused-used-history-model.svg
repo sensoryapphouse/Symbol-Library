@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.unused-used-history-model" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M25 32 L55 32 L55 56 L25 56 L25 32" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="unused-identical-object" />
+    <path d="M105 32 L135 32 L135 56 L105 56 L105 32" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="used-identical-object" />
+    <path d="M27 90 L53 90 L53 114 L27 114 L27 90" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="unused-history-cell" />
+    <path d="M107 90 L133 90 L133 114 L107 114 L107 90" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="used-history-cell" />
+    <path d="M123.8 102A3.8 3.8 0 1 1 116.2 102A3.8 3.8 0 1 1 123.8 102Z" data-part="point-symbol" fill="#000000" stroke="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="one-introduced-completed-use-event" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

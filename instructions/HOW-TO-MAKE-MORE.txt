@@ -1,0 +1,189 @@
+MAKING AND REGENERATING SYMBOLS
+
+Run commands from the collection root (the folder containing visual, tactile,
+tools and instructions). Python 3.9 or later is sufficient; no extra Python
+packages or paid services are needed. Keep the collection together.
+
+1. REGENERATE THE DELIVERED COLLECTION
+
+python3 -B tools/regenerate.py visual /path/to/new-visual-output
+python3 -B tools/regenerate.py tactile /path/to/new-tactile-output
+
+The destination must not exist. The tool uses each catalogue to choose the right
+master for each profile, verifies its hash, regenerates and checks identical
+output bytes. It never needs the deleted batch folders, queues or evidence logs.
+The visual set has 1001 artifact concepts representing 1000 named meanings;
+some profiles use separately authored geometry, giving 1003 visual master files.
+The tactile set has 898 masters and 2694 exports.
+
+2. MAKE A NEW VISUAL SYMBOL
+
+Choose a distinct meaning and a stable concept ID (aac.* or edu.*). Copy a suitable
+master from visual/masters into a new category/name path, change its ID and draw
+new native geometry. Keep meaningful groups and data-part tags. Preserve skin,
+hair, clothing-top, clothing-bottom and footwear regions when present. Geometry
+must remain editable. Do not include visible words, Braille, logos, raster images,
+shadows or decorative detail. Keep appropriate white outer borders in all styles.
+
+Visual masters use data-hc-*, data-paper-* and data-screen-* paint attributes.
+Keep data-available-palettes accurate. Do not force shared geometry where a
+separate profile master is necessary. Example export:
+
+python3 -B tools/render_visual_master.py visual/masters/food/fruit/banana.svg visual/profiles/high-contrast-v1.json /path/to/new-banana.svg
+
+Repeat with cvi-paper-v1.json and cvi-screen-v1.json and the appropriate master.
+Inspect each whole profile individually at1024; smaller checks need the specific
+reason described in visual-review-policy.json. Verify meaning, contrast, body
+junctions and contacts. This does not establish individual CVI suitability.
+
+3. MAKE A NEW TACTILE PAPER SYMBOL
+
+Choose a clear teaching purpose and definition, and draw from a suitable source.
+The source is reference information, not automatic proof of tactile suitability.
+Copy a structurally suitable tagged master under tactile/masters to a new name.
+Keep data-master-schema="tactile-shared-v1". Shared primitive geometry belongs
+in defs and is referenced by local use elements. Each profile has exactly one
+data-output-profile layer and a JSON data-export-root declaration. Preserve
+unique IDs, semantic roles, data-export-id values and local references.
+
+Author all three media explicitly: swell-paper-v1, index-embossed-v1 and
+viewplus-variable-height-v1. The exporter selects authored layers; it does not
+invent missing geometry, calculate dot placement, or translate pictures into
+usable tactile graphics. Use compatible shared geometry, but retain justified
+medium-specific alternatives such as Index dots inside the same master.
+Example:
+
+python3 -B tools/tactile_master.py tactile/masters/education/geometry/shapes/circle.svg --profile swell-paper-v1 --output /path/to/new-circle.svg
+
+Repeat for the other two profile IDs. Read tactile/profiles for nominal medium
+rules and tactile/KNOWN-LIMITATIONS.html for known design constraints. Check
+exact physical dimensions, lines and dots, dot cadence/spacing, meaningful
+contacts, unrelated clearances, material boundaries and height roles. Inspect
+whole individual profile renderings. Never infer touch readability from code or
+a contact sheet. Scaling also scales dots, lines and gaps; large canvases are not
+validated minimum sizes or proven device/page fits. Physical test prints, tactile
+proofreading and learner evaluation are required before claiming suitability.
+Supply accessible teaching keys/titles/labels separately from the symbol artwork.
+
+4. MAKE A PAGE-FIT PAPER VERSION
+
+Start with tactile-pagefit/masters and check the meaning's page_fit entry in
+tactile-pagefit/catalogue.json. Use the existing master at its authored
+dimensions if it fits within 170 mm wide by 200 mm high. For a remake, set the
+physical SVG dimensions and viewBox for the new layout in each profile's
+data-export-root. Reposition or simplify meaningful parts while retaining
+the teaching objective, physical stroke widths, clear gaps and intended
+contacts. Lay out fresh Index dots at the new size and recheck their diameter,
+spacing and continuity. Preserve the swell footprints and the ViewPlus area
+and line roles. Record what was simplified in the catalogue and teaching key.
+If the essentials cannot fit, record the reason and retain the original-size
+version as a page-fit exception. Keep page labels and Braille keys external.
+
+From the collection root, export and inspect all three paper profiles.
+
+python3 -B tactile-pagefit/tools/tactile_master.py tactile-pagefit/masters/education/geometry/shapes/circle.svg --profile swell-paper-v1 --output /path/to/new-pagefit-circle.svg
+
+See tactile-pagefit/PAGEFIT-README.md, tactile-pagefit/PAGEFIT-SIMPLIFICATIONS.html
+and tactile-pagefit/profiles for design examples and fit criteria.
+
+5. MAKE A MONARCH OR DOT PAD VERSION
+
+Use an example from tactile-pagefit/display-masters. Draw the teaching
+geometry directly on the native binary grid. Monarch is 96 by 40 pins
+(monarch-display-v1). Dot Pad is 60 by 40 graphics pins (dotpad-display-v1),
+with its separate Braille line outside the graphics grid.
+
+Use one profile layer per authored grid. Group pins by semantic part and
+draw each raised pin as one black 1 by 1 rect at integer x,y coordinates.
+The origin is the top left. In the layer's data-export-root JSON, set width,
+height and viewBox to match the grid and set data-pins to 40 binary rows,
+top to bottom, separated by single spaces. Columns run left to right.
+Use 1 for a raised pin and 0 for a lowered pin. Check that every 1 has
+exactly one matching rectangle and all pins are within the grid. Leave
+lowered positions empty. Keep visible labels and keys outside the graphic.
+
+Use one-pin lines, at least one empty pin between unrelated parts and no
+more than three distinguishable area patterns. Check closures, openings,
+intentional junctions, counts and direction marks on each whole export.
+If the same 60-column layout serves both devices, it can be centred on
+Monarch by adding 18 to each x coordinate and padding the binary rows.
+Use the wider grid where a meaning needs more space. Record the fit and
+reason per device in the catalogue. If a single frame cannot preserve
+the teaching objective clearly, record it as unsuitable for that device
+and consider a multipart adaptation.
+
+python3 -B tactile-pagefit/tools/tactile_master.py tactile-pagefit/display-masters/education/geometry/shapes/circle.svg --profile monarch-display-v1 --output /path/to/new-monarch-circle.svg
+
+Use dotpad-display-v1 and a separate output path for the Dot Pad layer.
+To reproduce the catalogued page-fit paper and native display exports:
+
+python3 -B tactile-pagefit/tools/regenerate-pagefit.py /path/to/new-pagefit-output
+
+The destination must be new and outside tactile-pagefit. Add --profile and
+an exact profile ID to reproduce one profile.
+
+6. MAKE A MULTIPART DISPLAY ADAPTATION
+
+Use tactile-display-adaptations/README.md and a matching example in
+recipes/ and masters/ under that folder. Start with the teaching objective
+and the essential counts, connections, direction and spatial relationships.
+Choose an ordered sequence, such as an overview and enlarged details,
+registered layers with a shared orientation, or keyed count strips.
+For example, the Dot Pad atmospheric circulation adaptation uses two
+three-loop hemisphere frames and keys the shared equator.
+
+Keep the original meaning ID as data-parent-concept-id. Give each frame
+its own editable master and a stable data-concept-id of the form
+<parent-id>.display-adaptation.NN. Include only the authored device layers
+and follow the pin-grid rules above. Supply an external teaching key for
+each frame with its order, orientation and any change in scale or
+representation. Keep role-labelled pin coordinates, intended contacts and
+checks in the recipe. Update the associated scope, source bindings and
+catalogue records when adding a meaning. The SVG master supplies the
+export geometry. The JSON recipe documents the design.
+
+python3 -B tactile-display-adaptations/tools/tactile_master.py tactile-display-adaptations/masters/education/earth-science/atmosphere/six-cell-global-atmospheric-circulation/01.svg --profile dotpad-display-v1 --output /path/to/new-circulation-frame.svg
+
+Inspect the entire sequence and each whole export on its intended grid.
+Verify the retained collection with the command below. This verifier
+expects the existing set of 42 meanings. Extending that set also requires
+updating the fixed scope check in the verifier.
+
+python3 -B tactile-display-adaptations/tools/regenerate.py --verify
+
+The exporters select authored layers. Physical print or device checks,
+tactile proofreading and learner evaluation are needed to establish
+physical usability for the intended teaching context.
+
+7. RECORD A NEW VERSION
+
+Use a new filename for changed geometry until accepted. Follow the catalogue
+structure of the relevant collection. The visual, original tactile and page-fit
+catalogues store one export row per profile with concept_id, profile, source_path,
+sha256, master_path and master_sha256, using paths relative to the collection
+root. The multipart catalogue stores master paths and hashes per frame, export
+paths and hashes under each frame, and recipe paths and hashes per meaning,
+relative to tactile-display-adaptations. Derive SHA256 from actual saved bytes
+(for example, shasum -a 256 FILE.svg). Keep keys and known limitations up to date. Any changed
+geometry or presentation needs fresh applicable review; do not reuse old review
+claims. Once a new version is accepted, remove superseded working files rather
+than rebuilding a large batch-history archive.
+
+Do not edit delivered exports as independent sources: edit the master and export.
+The single-file exporters overwrite their specified output, so choose a new path.
+The bulk regeneration tool deliberately rejects edited files with stale hashes.
+
+8. VIEWPLUS AREA SHADING
+
+Read VIEWPLUS-SHADING.txt before changing fill/height presentation. Edit only the
+ViewPlus layer for a ViewPlus-only revision, and regenerate the Index and swell
+outputs to prove they remain byte-identical. The assessment JSON records the
+current selection of shaded regions and reasons for retaining other diagrams.
+
+9. COPYRIGHT AND LICENCE
+
+Every SVG master and export must include the non-visible copyright-notice
+metadata element: Copyright Sensory App House Ltd, CC BY-NC 4.0.
+Use data-license="CC-BY-NC-4.0" and data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/".
+The exporters use tools/svg_notice.py to retain this notice automatically.
+It must not become visible text or Braille in the artwork.

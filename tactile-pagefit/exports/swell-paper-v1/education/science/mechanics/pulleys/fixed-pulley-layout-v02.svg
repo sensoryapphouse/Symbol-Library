@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.fixed-pulley-layout" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <path d="M63 34A13 13 0 1 0 37 34A13 13 0 1 0 63 34Z" data-mechanics-role="wheel" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-tactile-role="raised-line" id="wheel" />
+    <path d="M32 73V34A18 18 0 0 1 68 34V72" data-mechanics-role="rope" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-tactile-role="raised-line" id="rope" />
+    <path d="M24 65L32 73L40 65" data-mechanics-role="effort" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-tactile-role="raised-line" id="effort" />
+    <path d="M50 47V62M44 62H56" data-mechanics-role="support" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-tactile-role="raised-line" id="support" />
+    <path d="M61 72H75V86H61Z" data-mechanics-role="load" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-tactile-role="raised-line" id="load" />
+    <circle cx="50" cy="34" r="1.2" data-part="point-symbol" fill="#000000" id="hub" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

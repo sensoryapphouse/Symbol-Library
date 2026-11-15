@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.triangle-orthocenter-concurrence" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="260mm" viewBox="0 0 320 260" width="320mm"><rect width="320" height="260" fill="#ffffff" data-part="background" data-height-role="background" id="background" />
+    <path d="M40 220L280 220L120 60Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="outer-acute-triangle" />
+    <path d="M40 220L160 100" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="altitude-from-first-base-vertex" />
+    <path d="M280 220L88 124" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="altitude-from-second-base-vertex" />
+    <path d="M120 60L120 220" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" data-height-role="principal-line" id="altitude-from-apex" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

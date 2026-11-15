@@ -1,0 +1,716 @@
+{
+  "reviewed_at": "2026-11-14T00:27:35.374831+00:00",
+  "scope": "All 42 meanings unsuitable for at least one native display; 37 Monarch and 42 Dot Pad assessments. Based on retained item-specific fit reasons and observations. No new pixel inspection is claimed by this document.",
+  "decision": "Keep current paper/originals and existing suitable native exports. Create separate, explicitly keyed multipart adaptations if pursued; do not silently replace the source meaning with a reduced or differently scaled image.",
+  "counts": {
+    "multipart teaching candidate": 34,
+    "companion only; retain quantitative original": 8
+  },
+  "physical_evaluation": "pending",
+  "records": [
+    {
+      "concept_id": "edu.alaska-flag-layout-context",
+      "label": "Alaska flag layout context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The retained eight-star arrangement crowds on a 40-row grid. In the whole fit studies, enlarging the five-point outlines enough to preserve their form merges several neighbouring Big Dipper stars; shrinking to source-relative sizes loses the star forms. No layout preserving both the relative arrangement and distinct five-point symbols is supplied. Use the paper version. This concerns the assessed retained layout, not every possible separately taught redesign.",
+        "dotpad-display-v1": "The retained eight-star arrangement crowds on a 40-row grid. In the whole fit studies, enlarging the five-point outlines enough to preserve their form merges several neighbouring Big Dipper stars; shrinking to source-relative sizes loses the star forms. No layout preserving both the relative arrangement and distinct five-point symbols is supplied. Use the paper version. This concerns the assessed retained layout, not every possible separately taught redesign."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use a field/position overview and enlarged Big Dipper and Polaris details with matching orientation. A position-only overview must explicitly refer to the detailed star forms.",
+      "acceptance_requirement": "Keep all eight star identities and their spatial relationships; explain any scale change rather than silently spreading stars.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.arizona-flag-layout-context",
+      "label": "Arizona flag layout context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The native construction retains twelve ray boundaries but their crowded stepped intersections near the star split the intended fifteen colour regions into twenty-nine enclosed pin regions, including tiny false pockets. The thirteen upper fields cannot be read cleanly in this assessed layout. No distorted native export is supplied; use the paper version. This concerns the assessed retained layout, not every possible separately taught redesign.",
+        "dotpad-display-v1": "The native construction retains twelve ray boundaries but their crowded stepped intersections near the star split the intended fifteen colour regions into twenty-nine enclosed pin regions, including tiny false pockets. The thirteen upper fields cannot be read cleanly in this assessed layout. No distorted native export is supplied; use the paper version. This concerns the assessed retained layout, not every possible separately taught redesign."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Separate the thirteen-ray upper field from an enlarged central star detail, with a simple overall orientation view.",
+      "acceptance_requirement": "Retain thirteen upper fields, their order and the star/field relationship; avoid extra closed pockets.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.arkansas-flag-layout-context",
+      "label": "Arkansas flag layout context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "Twenty-five separate border stars and four interior stars cannot remain distinct in the tested native layout. The whole enlarged-star fit study merges the border stars with each other and the diamond edges. Deleting stars or replacing them with an unlabeled band would omit essential content. Use the original-size paper version or a separately designed, explicitly taught multi-panel alternative. This assessment does not claim that every possible redesign is impossible.",
+        "dotpad-display-v1": "Twenty-five separate border stars and four interior stars cannot remain distinct in the tested native layout. The whole enlarged-star fit study merges the border stars with each other and the diamond edges. Deleting stars or replacing them with an unlabeled band would omit essential content. Use the original-size paper version or a separately designed, explicitly taught multi-panel alternative. This assessment does not claim that every possible redesign is impossible."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use an overall diamond layout, numbered-in-the-external-key border segments, and a separate interior-star view.",
+      "acceptance_requirement": "Account for all 25 border and four interior stars. Preserve segment continuation and do not use a plain band as a substitute.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.arsenic-neutral-electron-shell-model",
+      "label": "Arsenic neutral electron shell model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 5]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display.",
+        "dotpad-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 5]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use four sequential shell-occupancy panels with counts 2, 8, 18, 5. Show the 18 electrons in two countable rows of nine if a separate shell circle remains crowded. Announce shell number and occupancy in the external accessible key. This teaches occupancy rather than a simultaneous concentric model.",
+      "acceptance_requirement": "Count all 33 electrons across the four panels; distinguish electron markers from guides. Never present the row arrangement as physical electron positions or the original concentric geometry.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.azerbaijan-flag-layout-context",
+      "label": "Azerbaijan flag layout context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The eight-point star does not retain eight distinguishable points at the size allowed by the middle of three equal bands. The inspected Monarch attempt becomes a rounded octagonal loop; the Dot Pad study becomes a near-square glyph. Enlarging beyond the available band clearance or replacing the eight-point star would alter the retained layout. Use the paper version. This concerns the assessed retained layout, not every possible separately taught redesign.",
+        "dotpad-display-v1": "The eight-point star does not retain eight distinguishable points at the size allowed by the middle of three equal bands. The inspected Monarch attempt becomes a rounded octagonal loop; the Dot Pad study becomes a near-square glyph. Enlarging beyond the available band clearance or replacing the eight-point star would alter the retained layout. Use the paper version. This concerns the assessed retained layout, not every possible separately taught redesign."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Show the three-band overview and a separate enlarged crescent/eight-point-star detail tied to the middle band.",
+      "acceptance_requirement": "Keep band order, emblem orientation and eight distinct star points; label the inset scale externally.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.bosnia-herzegovina-flag-layout-context",
+      "label": "Bosnia herzegovina flag layout context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The seven whole and two clipped stars have too little diagonal pitch in the retained single-panel layout. Whole fit studies with legible-sized stars show neighbouring stars and the triangle boundary merging; reducing them loses their five-point form. No count is removed or replaced with dots. Use the paper version. This concerns the assessed retained layout, not every possible separately taught redesign.",
+        "dotpad-display-v1": "The seven whole and two clipped stars have too little diagonal pitch in the retained single-panel layout. Whole fit studies with legible-sized stars show neighbouring stars and the triangle boundary merging; reducing them loses their five-point form. No count is removed or replaced with dots. Use the paper version. This concerns the assessed retained layout, not every possible separately taught redesign."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use a triangle/field overview and a sequence of enlarged sections along the star diagonal.",
+      "acceptance_requirement": "Account for seven whole and two clipped stars, keeping clipping and continuation explicit.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.bromine-neutral-electron-shell-model",
+      "label": "Bromine neutral electron shell model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 7]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display.",
+        "dotpad-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 7]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use four sequential shell-occupancy panels with counts 2, 8, 18, 7. Show the 18 electrons in two countable rows of nine if a separate shell circle remains crowded. Announce shell number and occupancy in the external accessible key. This teaches occupancy rather than a simultaneous concentric model.",
+      "acceptance_requirement": "Count all 35 electrons across the four panels; distinguish electron markers from guides. Never present the row arrangement as physical electron positions or the original concentric geometry.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.carnivore-herbivore-dentition-comparison",
+      "label": "Carnivore herbivore dentition comparison",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "Both whole native trials turn selected tooth groups into solid horizontal bands, merge or erase pointed tips and close the distinction between neighbouring teeth. The intended tooth-shape comparison is lost. This decision concerns the assessed complete composition, not all possible separately authored teaching views.",
+        "dotpad-display-v1": "Both whole native trials turn selected tooth groups into solid horizontal bands, merge or erase pointed tips and close the distinction between neighbouring teeth. The intended tooth-shape comparison is lost. This decision concerns the assessed complete composition, not all possible separately authored teaching views."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Separate the two jaw examples, then provide matched enlarged tooth-group details for pointed/cutting and grinding surfaces. Keep a common orientation and an explicit overview-to-detail key.",
+      "acceptance_requirement": "Preserve which tooth belongs to which jaw and the intended shape comparison. Do not replace distinct teeth with continuous bands or imply an exact measured specimen.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.central-african-republic-flag-layout-context",
+      "label": "Central african republic flag layout context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The intact four-equal-band layout leaves only nine pin intervals in the upper band on the 36-row frame. A separated star can occupy at most five vertical intervals after two-pin centreline clearances. In the inspected fit study, the reduced star loses its five-point silhouette. Enlarging it into neighbouring fields or changing the equal band structure is not delivered. Use the paper version; a separately taught enlarged detail would be a different layout. This is an assessment of the retained single-panel design, not a claim that every possible alternative is impossible.",
+        "dotpad-display-v1": "The intact four-equal-band layout leaves only nine pin intervals in the upper band on the 36-row frame. A separated star can occupy at most five vertical intervals after two-pin centreline clearances. In the inspected fit study, the reduced star loses its five-point silhouette. Enlarging it into neighbouring fields or changing the equal band structure is not delivered. Use the paper version; a separately taught enlarged detail would be a different layout. This is an assessment of the retained single-panel design, not a claim that every possible alternative is impossible."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use the four-band/vertical-bar overview and a separate enlarged upper-band star detail.",
+      "acceptance_requirement": "Keep equal bands, correct bar crossing and star position; the detail does not change the overview band widths.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.clock-hour-minute-subdivision",
+      "label": "Clock hour minute subdivision",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The tested 19-pin-radius circular dial cannot keep all 60 minute ticks separate while distinguishing the 12 longer hour ticks: 36 adjacent tick pairs lack a blank pin between them. Dropping ticks or replacing the circular dial with a different encoding would lose the retained subdivision lesson. Keep the paper version and real-clock teaching activity. No native export is delivered; this assesses the retained circular convention, not every possible alternative clock lesson.",
+        "dotpad-display-v1": "The tested 19-pin-radius circular dial cannot keep all 60 minute ticks separate while distinguishing the 12 longer hour ticks: 36 adjacent tick pairs lack a blank pin between them. Dropping ticks or replacing the circular dial with a different encoding would lose the retained subdivision lesson. Keep the paper version and real-clock teaching activity. No native export is delivered; this assesses the retained circular convention, not every possible alternative clock lesson."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use a twelve-hour overview plus an enlarged one-hour sector showing its five minute intervals; navigate repeated sectors to account for the full sixty-minute circuit.",
+      "acceptance_requirement": "Distinguish intervals from boundary ticks and preserve the 12-to-60 relationship. This is a sequential lesson, not a replacement full sixty-tick dial.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.copper-neutral-electron-shell-model",
+      "label": "Copper neutral electron shell model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 1]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display.",
+        "dotpad-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 1]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use four sequential shell-occupancy panels with counts 2, 8, 18, 1. Show the 18 electrons in two countable rows of nine if a separate shell circle remains crowded. Announce shell number and occupancy in the external accessible key. This teaches occupancy rather than a simultaneous concentric model.",
+      "acceptance_requirement": "Count all 29 electrons across the four panels; distinguish electron markers from guides. Never present the row arrangement as physical electron positions or the original concentric geometry.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.corrosion-hazard-pictogram",
+      "label": "Corrosion hazard pictogram",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "No native export approved. The assessed complete-feature layout retains both tubes, all four drops, two targets and the five-digit hand, but fails the required blank-pin separation at the frame/tube, between tubes and between the material target and hand. Further shortening/merging these features would undermine this selected corrosion teaching diagram. Use the regenerated paper version; this assessment does not establish that every conceivable redesign is impossible.",
+        "dotpad-display-v1": "No native export approved. The assessed complete-feature layout retains both tubes, all four drops, two targets and the five-digit hand, but fails the required blank-pin separation at the frame/tube, between tubes and between the material target and hand. Further shortening/merging these features would undermine this selected corrosion teaching diagram. Use the regenerated paper version; this assessment does not establish that every conceivable redesign is impossible."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Separate the metal-target and skin-target teaching scenes, with an overall composition reference and external explanation.",
+      "acceptance_requirement": "Retain the two mechanisms, tube/drop/target connections and hand identity. Label this a teaching adaptation, not a compliant replacement safety pictogram.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.electromagnetic-spectrum-band-model",
+      "label": "Electromagnetic spectrum band model",
+      "profiles": [
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "dotpad-display-v1": "On the sixty-column grid, the common-log-coordinate study puts the visible boundaries only one pin apart, leaving no visible-light interior. Even an almost full-width strip gives this interval less than one pin before quantization. Widening only visible light would break the common quantitative mapping. No export is delivered."
+      },
+      "recommendation": "companion only; retain quantitative original",
+      "proposed_representation": "Keep the common-log overview as a reference and provide a separately scaled visible-band detail. The existing Monarch export remains available.",
+      "acceptance_requirement": "Do not widen visible light within a diagram still labelled common-log scale; disclose the inset scale and retained endpoints.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.external-spur-gear-pair-ratio-model",
+      "label": "External spur gear pair ratio model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The assessed source-contour native-grid study loses the 18/36 tooth distinctions: sub-pin tooth-tip facets merge into extra pockets, axis rings collapse to one/two pins, and arrowheads collapse. The result has 23 enclosed pin regions instead of the four intended contour/axis regions. No native export is delivered. This rejects the tested representation; it is not a proof against every independently redesigned ratio lesson.",
+        "dotpad-display-v1": "The assessed source-contour native-grid study loses the 18/36 tooth distinctions: sub-pin tooth-tip facets merge into extra pockets, axis rings collapse to one/two pins, and arrowheads collapse. The result has 23 enclosed pin regions instead of the four intended contour/axis regions. No native export is delivered. This rejects the tested representation; it is not a proof against every independently redesigned ratio lesson."
+      },
+      "recommendation": "companion only; retain quantitative original",
+      "proposed_representation": "Offer separate tooth-count and meshing-sector lessons with an external 18:36 ratio key; retain the paper diagram for the complete paired geometry.",
+      "acceptance_requirement": "Account for 18 and 36 teeth and compatible pitch where meshing is claimed. Fewer drawn teeth cannot stand for the full ratio without explicit abstraction.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.fibonacci-square-quarter-arc-construction",
+      "label": "Fibonacci square quarter arc construction",
+      "profiles": [
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "dotpad-display-v1": "At the largest native unit fitting the retained 13 by 8 tiling on 60 by 40 pins, one of the two smallest outside-arc regions disappears: eleven enclosed regions remain instead of twelve. The small quarter-arc constructions cannot be distinguished faithfully in this tested proportional layout. No export is delivered. This is not a proof against every separately redesigned teaching representation."
+      },
+      "recommendation": "companion only; retain quantitative original",
+      "proposed_representation": "Use a complete 13-by-8 tiling overview and an enlarged detail of the smallest squares and quarter-arcs. The existing Monarch export remains available.",
+      "acceptance_requirement": "Keep the square sequence and arc endpoints; label the detail scale and do not claim the overview alone preserves the smallest arc regions.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.five-lagrange-point-plan",
+      "label": "Five lagrange point plan",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "Keeping the source equilateral construction, fixed mu=0.001 and distinguishable primary/diamond glyphs limits the L1-secondary spacing to at most 1.52 pins under the 40-row bound. Even a three-pin-wide diamond next to a one-pin primary marker needs three centre intervals to leave an empty pin. The point identities or fixed geometry would merge/distort. No native export is supplied; a separate multi-panel explanation would require a new layout.",
+        "dotpad-display-v1": "Keeping the source equilateral construction, fixed mu=0.001 and distinguishable primary/diamond glyphs limits the L1-secondary spacing to at most 1.52 pins under the 40-row bound. Even a three-pin-wide diamond next to a one-pin primary marker needs three centre intervals to leave an empty pin. The point identities or fixed geometry would merge/distort. No native export is supplied; a separate multi-panel explanation would require a new layout."
+      },
+      "recommendation": "companion only; retain quantitative original",
+      "proposed_representation": "Use an overall five-point relationship view and a separately enlarged neighbourhood of the secondary, with common-coordinate anchors and the external mu=0.001 key.",
+      "acceptance_requirement": "Do not move L1 away from the secondary while claiming unchanged quantitative geometry. Distinguish zoom coordinates from overview scale.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.four-mammal-forelimb-homology-model",
+      "label": "Four mammal forelimb homology model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The independent minimum closed-glyph count layout cannot retain the complete four-member comparison on this grid. The longest whale chain needs 43 pin rows including one empty row between its eleven sequential glyph levels, exceeding 40 rows; the Dot Pad trial also overlaps adjacent member/ray columns and runs past its width. The layout already discards anatomical contour and is only a space/count study. No native export is delivered; a multipart comparison needs a separate design and teaching key.",
+        "dotpad-display-v1": "The independent minimum closed-glyph count layout cannot retain the complete four-member comparison on this grid. The longest whale chain needs 43 pin rows including one empty row between its eleven sequential glyph levels, exceeding 40 rows; the Dot Pad trial also overlaps adjacent member/ray columns and runs past its width. The layout already discards anatomical contour and is only a space/count study. No native export is delivered; a multipart comparison needs a separate design and teaching key."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use one forelimb per display frame with a shared orientation and homologous-part key. Test consistent 90-degree rotation so the longest chain uses display width. Provide a separate comparison overview.",
+      "acceptance_requirement": "Preserve every intended bone/ray count and homology. Keep a common scale if claimed; state changed scale otherwise. A count-only schematic is not an anatomical contour drawing.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.gallium-neutral-electron-shell-model",
+      "label": "Gallium neutral electron shell model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 3]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display.",
+        "dotpad-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 3]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use four sequential shell-occupancy panels with counts 2, 8, 18, 3. Show the 18 electrons in two countable rows of nine if a separate shell circle remains crowded. Announce shell number and occupancy in the external accessible key. This teaches occupancy rather than a simultaneous concentric model.",
+      "acceptance_requirement": "Count all 31 electrons across the four panels; distinguish electron markers from guides. Never present the row arrangement as physical electron positions or the original concentric geometry.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.germanium-neutral-electron-shell-model",
+      "label": "Germanium neutral electron shell model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 4]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display.",
+        "dotpad-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 4]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use four sequential shell-occupancy panels with counts 2, 8, 18, 4. Show the 18 electrons in two countable rows of nine if a separate shell circle remains crowded. Announce shell number and occupancy in the external accessible key. This teaches occupancy rather than a simultaneous concentric model.",
+      "acceptance_requirement": "Count all 32 electrons across the four panels; distinguish electron markers from guides. Never present the row arrangement as physical electron positions or the original concentric geometry.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.half-hundredths-equivalence",
+      "label": "Half hundredths equivalence",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "A hundred-cell square needs at least four pin intervals per cell to retain an interior selection pin with a blank pin to each boundary: its 41-pin outside dimension already exceeds forty rows. The thirty-pin-square study merges the selected markers into cell borders, losing the independently countable selection cues. No export is delivered.",
+        "dotpad-display-v1": "A hundred-cell square needs at least four pin intervals per cell to retain an interior selection pin with a blank pin to each boundary: its 41-pin outside dimension already exceeds forty rows. The thirty-pin-square study merges the selected markers into cell borders, losing the independently countable selection cues. No export is delivered."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Split the hundred grid into two five-row by ten-column panels at the same cell size. At four pin intervals per cell, each grid occupies 41 by 21 pins. Keep the original 50 selected cells and identify rows 1\u20135 and 6\u201310 externally.",
+      "acceptance_requirement": "Across both panels retain 100 equal cells and exactly 50 individually marked cells. Keep the denominator 100, shared alignment and an explicit continuation cue; test marker-to-border blank pins.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.hundred-grid-twenty-selected",
+      "label": "Hundred grid twenty selected",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The ten-by-ten equal-cell hundred grid requires individually separated markers in twenty cells. With one-pin boundaries, a one-pin marker and one empty pin on each side, each marked cell needs four pin intervals. Preserving equal square cells requires 41 pins vertically, exceeding the 40-row display even without margins. A 31-row grid would join markers to boundaries; filling the top two rows would erase the individual selected-cell boundaries. The page version retains the full hundred grid; no misleading display export is supplied.",
+        "dotpad-display-v1": "The ten-by-ten equal-cell hundred grid requires individually separated markers in twenty cells. With one-pin boundaries, a one-pin marker and one empty pin on each side, each marked cell needs four pin intervals. Preserving equal square cells requires 41 pins vertically, exceeding the 40-row display even without margins. A 31-row grid would join markers to boundaries; filling the top two rows would erase the individual selected-cell boundaries. The page version retains the full hundred grid; no misleading display export is supplied."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Split the hundred grid into two five-row by ten-column panels at the same cell size. At four pin intervals per cell, each grid occupies 41 by 21 pins. Keep the original 20 selected cells and identify rows 1\u20135 and 6\u201310 externally.",
+      "acceptance_requirement": "Across both panels retain 100 equal cells and exactly 20 individually marked cells. Keep the denominator 100, shared alignment and an explicit continuation cue; test marker-to-border blank pins.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.krypton-neutral-electron-shell-model",
+      "label": "Krypton neutral electron shell model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 8]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display.",
+        "dotpad-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 8]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use four sequential shell-occupancy panels with counts 2, 8, 18, 8. Show the 18 electrons in two countable rows of nine if a separate shell circle remains crowded. Announce shell number and occupancy in the external accessible key. This teaches occupancy rather than a simultaneous concentric model.",
+      "acceptance_requirement": "Count all 36 electrons across the four panels; distinguish electron markers from guides. Never present the row arrangement as physical electron positions or the original concentric geometry.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.maltose-alpha14-linkage-model",
+      "label": "Maltose alpha14 linkage model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "Both native trials turn nested oxygen codes into solid blocks and make hollow wedges and dashed stereobonds indistinguishable from ordinary connections. The molecule graph alone would omit the selected stereochemistry lesson. This decision concerns the assessed complete composition, not all possible separately authored teaching views.",
+        "dotpad-display-v1": "Both native trials turn nested oxygen codes into solid blocks and make hollow wedges and dashed stereobonds indistinguishable from ordinary connections. The molecule graph alone would omit the selected stereochemistry lesson. This decision concerns the assessed complete composition, not all possible separately authored teaching views."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use a connectivity overview plus enlarged alpha-donor C1\u2013O\u2013C4 linkage and reducing-end stereochemistry panels. Provide explicit oxygen and solid/hollow/dashed bond keys outside the artwork.",
+      "acceptance_requirement": "Retain atom connections, linkage positions and the source stereochemical distinctions across the full sequence; connectivity alone is insufficient.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.marco-polo-route-map",
+      "label": "Marco Polo outward/return journeys",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "No faithful complete native layout established in the assessed geographical-position study. The complete native studies turn the Mediterranean region into a solid patch, reduce coastal bends to heavy blocks and merge the southern route with its coastal context. Both show two panels but their retained route distinctions are not usable. No native export is delivered; a multipart map would be a separately authored resource.",
+        "dotpad-display-v1": "No faithful complete native layout established in the assessed geographical-position study. The complete native studies turn the Mediterranean region into a solid patch, reduce coastal bends to heavy blocks and merge the southern route with its coastal context. Both show two panels but their retained route distinctions are not usable. No native export is delivered; a multipart map would be a separately authored resource."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Separate the outward overland and returning sea itineraries, with further regional panels around crowded coastal sections. Use consistent landmark anchors and orientation.",
+      "acceptance_requirement": "Preserve route order, direction and coastal context. State each regional scale; do not imply that disjoint panels share one map scale.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.montana-lewis-clark-route-map",
+      "label": "Lewis and Clark in Montana",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "No faithful complete native layout established in the assessed geographical-position study. The native studies visibly merge the central route branches into heavy patches and leave barely differentiated small circuits. Both retain three panels but fail to separate 19 originally unrelated pairs; preserving the panel count does not preserve the route comparison. No native export is delivered; a multipart map would be a separately authored resource.",
+        "dotpad-display-v1": "No faithful complete native layout established in the assessed geographical-position study. The native studies visibly merge the central route branches into heavy patches and leave barely differentiated small circuits. Both retain three panels but fail to separate 19 originally unrelated pairs; preserving the panel count does not preserve the route comparison. No native export is delivered; a multipart map would be a separately authored resource."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use an overview plus separate 1805 and 1806 route/branch panels, and enlarge crowded junctions as linked details.",
+      "acceptance_requirement": "Retain dates, branch connections and direction; do not merge distinct itineraries merely to keep three original panels.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.music-thirty-second-duration-context",
+      "label": "Music thirty second duration context",
+      "profiles": [
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "dotpad-display-v1": "The exact 1:32 closed-bar comparison needs at least two pin intervals across the event to retain one blank interior column, and therefore a 64-interval reference. The 60-column Dot Pad offers only 59 intervals horizontally. Rotating the same thin two-bar construction would destroy the exact straight integer-grid length encoding and does not supply a faithful native bar comparison. No Dot Pad export is provided."
+      },
+      "recommendation": "companion only; retain quantitative original",
+      "proposed_representation": "Offer a counted 32-unit temporal or sequential lesson with one unit highlighted, retaining the exact paper/Monarch length comparison.",
+      "acceptance_requirement": "Keep the exact 1:32 relationship but label the new sequence as a different encoding, not a faithful pair of proportional closed bars on sixty columns.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.planet-diameter-comparison-model",
+      "label": "Planet diameter comparison model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "At a largest-body radius of 18 pins, Mercury and Mars both round to radius 1, Venus and Earth both to radius 2, and Uranus and Neptune both to radius 6. This removes meaningful relative-size distinctions from the eight-planet comparison. The paper comparison and numerical external key retain these distinctions. No native export is delivered; this is an assessment of the retained common-scale circle convention, not a proof against every possible alternative encoding.",
+        "dotpad-display-v1": "At a largest-body radius of 18 pins, Mercury and Mars both round to radius 1, Venus and Earth both to radius 2, and Uranus and Neptune both to radius 6. This removes meaningful relative-size distinctions from the eight-planet comparison. The paper comparison and numerical external key retain these distinctions. No native export is delivered; this is an assessment of the retained common-scale circle convention, not a proof against every possible alternative encoding."
+      },
+      "recommendation": "companion only; retain quantitative original",
+      "proposed_representation": "Use separately scaled planet subgroups and an accessible numerical ratio key; retain the paper common-scale comparison.",
+      "acceptance_requirement": "Do not imply a common visual scale across subgroups or present quantized equal-sized glyphs as equal planetary diameters.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.proton-proton-I-chain-context",
+      "label": "Proton proton I chain context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "Both native trials merge particle outlines with their frames; on the smaller grid several nucleus groups become solid blocks. The source proton/neutron counts and emitted-particle distinctions cannot be read reliably from these whole-chart trials. This decision concerns the assessed complete composition, not all possible separately authored teaching views.",
+        "dotpad-display-v1": "Both native trials merge particle outlines with their frames; on the smaller grid several nucleus groups become solid blocks. The source proton/neutron counts and emitted-particle distinctions cannot be read reliably from these whole-chart trials. This decision concerns the assessed complete composition, not all possible separately authored teaching views."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use successive reaction panels with a persistent external stage key, showing both precursor branches before their combination and a final net-reaction summary.",
+      "acceptance_requirement": "Retain proton/neutron counts, emitted-particle identities and the multiplicity of the two precursor paths. Do not collapse two reactions into one unexplained branch.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.saturn-moon-comparison-model",
+      "label": "Saturn moon comparison model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "A Titan radius of 18 pins leaves Hyperion about 0.94 and Mimas about 1.39 pins in radius; the tested ring glyphs collapse to the same smallest size. Other close size pairs also quantize together. Independently enlarging small moons would break the common size scale. The paper comparison and numerical external key retain these distinctions. No native export is delivered; this is an assessment of the retained common-scale circle convention, not a proof against every possible alternative encoding.",
+        "dotpad-display-v1": "A Titan radius of 18 pins leaves Hyperion about 0.94 and Mimas about 1.39 pins in radius; the tested ring glyphs collapse to the same smallest size. Other close size pairs also quantize together. Independently enlarging small moons would break the common size scale. The paper comparison and numerical external key retain these distinctions. No native export is delivered; this is an assessment of the retained common-scale circle convention, not a proof against every possible alternative encoding."
+      },
+      "recommendation": "companion only; retain quantitative original",
+      "proposed_representation": "Use enlarged small-moon and large-moon groups with a numerical diameter key and explicit independent scales.",
+      "acceptance_requirement": "Retain each selected moon identity and source ratio; do not imply that identical minimum-sized display glyphs mean equal diameters.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.saturn-ring-radial-model",
+      "label": "Saturn ring radial model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The tested 38-pin-radius proportional quarter-sector collapses the Cassini division: its two boundaries share pins and its thin interior fragments. The division is only 1.343 pins wide before pin thickness. A larger proportional full sector cannot fit forty rows with the required blank-pin separation. No export is delivered; an explicitly nonmetric ring-order lesson would be a different representation.",
+        "dotpad-display-v1": "The tested 38-pin-radius proportional quarter-sector collapses the Cassini division: its two boundaries share pins and its thin interior fragments. The division is only 1.343 pins wide before pin thickness. A larger proportional full sector cannot fit forty rows with the required blank-pin separation. No export is delivered; an explicitly nonmetric ring-order lesson would be a different representation."
+      },
+      "recommendation": "companion only; retain quantitative original",
+      "proposed_representation": "Use a ring-order overview and a separately enlarged Cassini-division detail, retaining the paper proportional model.",
+      "acceptance_requirement": "Do not widen only the gap inside a diagram claimed to use one proportional radial scale; distinguish qualitative order from quantitative radius.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.selenium-neutral-electron-shell-model",
+      "label": "Selenium neutral electron shell model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 6]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display.",
+        "dotpad-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 6]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use four sequential shell-occupancy panels with counts 2, 8, 18, 6. Show the 18 electrons in two countable rows of nine if a separate shell circle remains crowded. Announce shell number and occupancy in the external accessible key. This teaches occupancy rather than a simultaneous concentric model.",
+      "acceptance_requirement": "Count all 34 electrons across the four panels; distinguish electron markers from guides. Never present the row arrangement as physical electron positions or the original concentric geometry.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.sierpinski-triangle-finite-iteration",
+      "label": "Sierpinski triangle finite iteration",
+      "profiles": [
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "dotpad-display-v1": "The tested equal-size three-stage Dot Pad layout preserves region counts but reduces several final triangle interiors to single-pin holes. Whole-image inspection shows the small retained and removed triangular orientations no longer remain clear. A larger final stage or separate sequential pages would change the equal-scale comparison; no misleading native export is delivered."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Show the three iteration stages sequentially at the same size where possible, with an explicitly enlarged final-stage inset if still needed.",
+      "acceptance_requirement": "Keep retained/removed triangle orientation and iteration counts. Do not describe differently enlarged stages as an equal-scale simultaneous comparison.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.six-cell-global-atmospheric-circulation",
+      "label": "Six cell global atmospheric circulation",
+      "profiles": [
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "dotpad-display-v1": "No satisfactory 60 by 40 layout was established while retaining six separate loops, twelve loop-direction heads, two directed axes and seven stations. The first trial met topology/spacing checks but whole-image inspection showed its one-pin half-width heads as indistinct plus-like nubs. Enlarging the rising heads to two-pin half-width in the independent second trial leaves inadequate gaps to neighbouring loops. Do not substitute indistinct direction marks or remove cells. The wider Monarch layout is delivered with clearly distinguishable heads; a separately designed multipart DotPad explanation is needed. This is a failure of the assessed single-grid layouts, not proof that every possible design is impossible."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use one hemisphere per frame with three loops and a shared equator reference, plus a simple global relationship overview.",
+      "acceptance_requirement": "Retain six cells in total, rising/sinking direction, latitude stations and readable heads. Do not duplicate an equatorial cell or remove directions.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.spinner-probability-representation-comparison",
+      "label": "Spinner probability representation comparison",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The complete Monarch trial retains broad sectors but loses the hub pointer and reduces some circle/square outcome codes to ambiguous pin shapes. The Dot Pad trial also merges several outcomes into radial boundaries. The nine-sector repeated-category comparison needs distinct category codes and equal sectors; no native export is delivered from these trials. Separate spinner/detail views need independent design.",
+        "dotpad-display-v1": "The complete Monarch trial retains broad sectors but loses the hub pointer and reduces some circle/square outcome codes to ambiguous pin shapes. The Dot Pad trial also merges several outcomes into radial boundaries. The nine-sector repeated-category comparison needs distinct category codes and equal sectors; no native export is delivered from these trials. Separate spinner/detail views need independent design."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Display the nine-sector and four-sector spinners separately, with enlarged sector/outcome-code details if needed. Keep the probability comparison in the external lesson key.",
+      "acceptance_requirement": "Preserve nine equal sectors with three repeated categories versus four equal sectors with distinct categories. Keep pointer/hub roles; do not substitute eight sectors for nine.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.starch-amylose-amylopectin-linkage-model",
+      "label": "Starch amylose amylopectin linkage model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The complete native trials keep broad chain topology but collapse all small C6 diamonds and ring/link oxygen codes into stems or corners. The alpha1-to-4 versus alpha1-to-6 distinction requires those explicit sites, so no full-comparison native export is delivered from these trials. Separate chain and enlarged linkage panels are appropriate candidates.",
+        "dotpad-display-v1": "The complete native trials keep broad chain topology but collapse all small C6 diamonds and ring/link oxygen codes into stems or corners. The alpha1-to-4 versus alpha1-to-6 distinction requires those explicit sites, so no full-comparison native export is delivered from these trials. Separate chain and enlarged linkage panels are appropriate candidates."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Separate the unbranched and branched-chain overviews, then enlarge the alpha1\u20134 and alpha1\u20136 linkage details. Identify C6 and ring/link oxygens in an external key.",
+      "acceptance_requirement": "Preserve the branch attachment and the explicit C1/C4/C6 distinctions. A broad branched graph without those sites does not complete this lesson.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.stonehenge-phased-plan",
+      "label": "Stonehenge phased plan",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The independently planned minimum closed-footprint study retains thirty outer and ten inner markers plus the separate explanatory elevation, but twenty-three footprint pairs touch or lack the required empty pin gap. This failure occurs even with three-by-three pin outline glyphs, which already discard footprint proportions and orientation. The forty-row circular-plan height is the constraint for both displays; extra Monarch width does not separate the ring footprints. No faithful single-grid version has been established. Use a separately designed multipart explanation rather than dropping stones, merging pairs or replacing closed footprints with undifferentiated dots.",
+        "dotpad-display-v1": "The independently planned minimum closed-footprint study retains thirty outer and ten inner markers plus the separate explanatory elevation, but twenty-three footprint pairs touch or lack the required empty pin gap. This failure occurs even with three-by-three pin outline glyphs, which already discard footprint proportions and orientation. The forty-row circular-plan height is the constraint for both displays; extra Monarch width does not separate the ring footprints. No faithful single-grid version has been established. Use a separately designed multipart explanation rather than dropping stones, merging pairs or replacing closed footprints with undifferentiated dots."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Separate phases and elevation from plan; provide linked, oriented ring-sector details rather than crowd all footprints into one circle.",
+      "acceptance_requirement": "Account for all thirty outer and ten inner footprints in the selected model. Keep continuation, phase membership, orientation and plan/elevation distinction explicit.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.united-states-flag-layout-context",
+      "label": "United states flag layout context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "Fifty distinct five-point stars in the retained canton cannot be represented by the tested native layout. The whole enlarged-star fit study collapses the canton into an overlapping mass; shrinking the stars loses their five-point identity. Thirteen stripes alone would omit essential content. Use the original-size paper version or a separately designed, explicitly taught multi-panel alternative. This assessment does not claim that every possible redesign is impossible.",
+        "dotpad-display-v1": "Fifty distinct five-point stars in the retained canton cannot be represented by the tested native layout. The whole enlarged-star fit study collapses the canton into an overlapping mass; shrinking the stars loses their five-point identity. Thirteen stripes alone would omit essential content. Use the original-size paper version or a separately designed, explicitly taught multi-panel alternative. This assessment does not claim that every possible redesign is impossible."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use a thirteen-stripe/canton overview and separate enlarged canton row groups with a consistent origin and navigation order.",
+      "acceptance_requirement": "Account for all fifty stars in their alternating rows and all thirteen stripes; mark the overview as incomplete without its detail sequence.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.utah-thematic-map-programme-model",
+      "label": "Utah selected-city locations",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "No faithful complete native layout established in the assessed geographical-position study. The complete native studies join the southern city to the state boundary, merge inset-selection dashes into continuous borders and obscure the north-arrow heads at the inset edge. Adjacent city pins have no blank separator. The inset connector can no longer reliably be distinguished from a continuous geographical line. No native export is delivered; a multipart map would be a separately authored resource.",
+        "dotpad-display-v1": "No faithful complete native layout established in the assessed geographical-position study. The complete native studies join the southern city to the state boundary, merge inset-selection dashes into continuous borders and obscure the north-arrow heads at the inset edge. Adjacent city pins have no blank separator. The inset connector can no longer reliably be distinguished from a continuous geographical line. No native export is delivered; a multipart map would be a separately authored resource."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Separate the state overview and inset; make the inset selection an external navigation cue rather than a crowded in-graphic connector.",
+      "acceptance_requirement": "Keep all selected places, inset correspondence, north orientation and geographical relationships. State changed scale and distinguish city marks from borders.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.vasco-da-gama-route-map",
+      "label": "Vasco da Gama first India voyage",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The Monarch trial merges narrow route/coast spaces and loses port-ring interiors; the Dot Pad trial collapses the eastern coast, island and route into a broad band. Opposite itinerary directions are no longer reliably represented. This decision concerns the assessed complete composition, not all possible separately authored teaching views.",
+        "dotpad-display-v1": "The Monarch trial merges narrow route/coast spaces and loses port-ring interiors; the Dot Pad trial collapses the eastern coast, island and route into a broad band. Opposite itinerary directions are no longer reliably represented. This decision concerns the assessed complete composition, not all possible separately authored teaching views."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Provide separate outward and homeward route panels, with regional port/coast details where required. Use shared landmark anchors.",
+      "acceptance_requirement": "Keep the opposite itinerary directions, all source ports and coast/island context. Do not merge a route with its coastline.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.vitruvian-two-pose-proportion-context",
+      "label": "Vitruvian two pose proportion context",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The native trials reduce hands and feet to frame junctions; the smaller grid also merges torso/neck details and changes the apparent body-width relation. The retained two frames alone do not preserve the complete proportion comparison. This decision concerns the assessed complete composition, not all possible separately authored teaching views.",
+        "dotpad-display-v1": "The native trials reduce hands and feet to frame junctions; the smaller grid also merges torso/neck details and changes the apparent body-width relation. The retained two frames alone do not preserve the complete proportion comparison. This decision concerns the assessed complete composition, not all possible separately authored teaching views."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Show each pose in its own matched-scale reference-frame panel. Add separate enlarged hand/foot contact details only where necessary.",
+      "acceptance_requirement": "Keep the original body/reference proportions in the main panels. Do not stretch limbs or enlarge body widths to gain clearance; mark detail scale separately.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.volleyball-panel-example",
+      "label": "Volleyball panel example",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The tested nine-region native layout compresses central panel interiors into tiny pockets and merges two independently staggered source seam stations. Its nested-triangle appearance does not faithfully preserve the panel-pattern lesson despite passing topology and unrelated-pin separation checks. No native export delivered. This assessment concerns the tested design, not every possible alternative representation.",
+        "dotpad-display-v1": "The tested nine-region native layout compresses central panel interiors into tiny pockets and merges two independently staggered source seam stations. Its nested-triangle appearance does not faithfully preserve the panel-pattern lesson despite passing topology and unrelated-pin separation checks. No native export delivered. This assessment concerns the tested design, not every possible alternative representation."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use an overall ball-orientation view and linked enlarged seam patches. Match continuation edges between patches.",
+      "acceptance_requirement": "Retain the nine-region source panel adjacency and staggered seam stations. Reject a generic nested-triangle substitute even if its region count matches.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    },
+    {
+      "concept_id": "edu.zinc-neutral-electron-shell-model",
+      "label": "Zinc neutral electron shell model",
+      "profiles": [
+        "monarch-display-v1",
+        "dotpad-display-v1"
+      ],
+      "existing_failure": {
+        "monarch-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 2]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display.",
+        "dotpad-display-v1": "The source requires four occupied shells with exact counts [2, 8, 18, 2]. Eighteen isolated electrons in the third shell cannot retain distinguishable multi-pin guide fragments and the required empty-pin separation in the tested concentric layouts within 40 rows. Radii up to 15 pins for that shell leave insufficient circumference for eighteen repeated electron/gap/guide/gap units; enlarging it crowds the fourth shell. Omitting electrons or disguising them as guide pins would change the count model. The complete paper version is retained; a separate interactive or sequential-shell teaching design would be needed for this display."
+      },
+      "recommendation": "multipart teaching candidate",
+      "proposed_representation": "Use four sequential shell-occupancy panels with counts 2, 8, 18, 2. Show the 18 electrons in two countable rows of nine if a separate shell circle remains crowded. Announce shell number and occupancy in the external accessible key. This teaches occupancy rather than a simultaneous concentric model.",
+      "acceptance_requirement": "Count all 30 electrons across the four panels; distinguish electron markers from guides. Never present the row arrangement as physical electron positions or the original concentric geometry.",
+      "status": "reviewed proposal; not authored or validated",
+      "source_catalogue": "catalogue.json"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 100 100" data-concept-id="edu.straight-line" data-collection="tactile" data-master-schema="tactile-shared-v1" data-default-profile="swell-paper-v1">
+  <metadata id="straight-line-provenance">{
+  "editable_source": "This master only; per-medium files are generated exports.",
+  "profiles": [
+    "swell-paper-v1",
+    "index-embossed-v1",
+    "viewplus-variable-height-v1"
+  ],
+  "baseline_sources": [
+    {
+      "concept_id": "edu.straight-line",
+      "profile": "swell-paper-v1",
+      "source_path": "tactile/svg/swell-paper-v1/education/geometry/lines/straight-line.svg",
+      "source_sha256": "6d998df14d72185a299da7ffd2da2419402b02cddbe1c5c82a498981cfa59583",
+      "review_path": "planning/reviews/symbols/tactile/swell-paper-v1/straight-line-current.json",
+      "review_sha256": "d880173a1fb690f1227e139d1693a432190091fe3705cb081bb8e2d6cb4b28e9",
+      "manifest_path": "planning/tactile-media/manifests/swell-002.json",
+      "manifest_sha256": "aaec6530be85f98e9ad9b7482cd9ced176671f7212f3f67577f3bfdc2bc08583"
+    },
+    {
+      "concept_id": "edu.straight-line",
+      "profile": "index-embossed-v1",
+      "source_path": "tactile/svg/index-embossed-v1/education/geometry/lines/straight-line.svg",
+      "source_sha256": "5de559ab5fdec721c5609315b8646fab1d712e5b7fa7076cf2cf4c54961d6cd8",
+      "review_path": "planning/reviews/symbols/tactile/index-embossed-v1/straight-line-current.json",
+      "review_sha256": "ddab11dd593d5c8cbc3ee79a6fad1b3e9412e74f390600adfac4202d5d91b73d",
+      "manifest_path": "planning/tactile-media/manifests/index-002.json",
+      "manifest_sha256": "de086400359cd5746306ba5597293f6c4823462d470af34f70a3d66c0acd99fc"
+    },
+    {
+      "concept_id": "edu.straight-line",
+      "profile": "viewplus-variable-height-v1",
+      "source_path": "tactile/svg/viewplus-variable-height-v1/education/geometry/lines/straight-line.svg",
+      "source_sha256": "4bc6d788a84aab23188f3bc5ffb0ab4b92ab9e7362bef538003aac0fd5012863",
+      "review_path": "planning/reviews/symbols/tactile/viewplus-variable-height-v1/straight-line-current.json",
+      "review_sha256": "5c2062433f9791601171f9860cc632b4beccea159e3d0667d17ad7061118eb77",
+      "manifest_path": "planning/tactile-media/manifests/viewplus-002.json",
+      "manifest_sha256": "102ddcd578ed672aa94e1dc44b48fa090ae5e9f1b5b328c4d0ac3ca778c634af"
+    }
+  ],
+  "physical_evaluation": "pending",
+  "exception_policy": "Reuse identical geometry. Keep reviewed Index dot placements as explicit alternate geometry. ViewPlus inset boundaries preserve reviewed outer extents. No missing profiles are invented."
+}</metadata>
+  <defs>
+    <rect id="straight-line-geometry-01" data-part="background" width="100" height="100" />
+    <path id="straight-line-geometry-02" data-part="raised-line" d="M20 50H80" />
+  </defs>
+  <g id="straight-line-profile-swell" data-output-profile="swell-paper-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.straight-line&quot;, &quot;data-production-method&quot;: &quot;microcapsule-swell-paper&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;swell-paper-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="inline">
+    <use data-part="background" fill="#ffffff" id="swell-background" data-export-id="background" href="#straight-line-geometry-01" data-shared-geometry="straight-line-geometry-01" />
+    <use data-part="raised-line" data-output-role="swell-footprint" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" id="swell-straight-segment-footprint" data-export-id="straight-segment-footprint" href="#straight-line-geometry-02" data-shared-geometry="straight-line-geometry-02" />
+  </g>
+  <g id="straight-line-profile-index" data-output-profile="index-embossed-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.straight-line&quot;, &quot;data-production-method&quot;: &quot;index-graphics-dot-layout-study&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;index-embossed-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none">
+    <use data-part="background" fill="white" id="index-background" data-export-id="background" href="#straight-line-geometry-01" data-shared-geometry="straight-line-geometry-01" />
+    <g id="index-straight-line-graphic-layout" data-part="raised-line" data-output-role="graphic-dot-row" data-export-id="straight-line-graphic-layout" data-geometry-exception="reviewed-index-dot-layout" data-exception-reason="Preserve reviewed explicit dot positions, spacing and repairs. This layout is authored once inside this concept master, not maintained in a separate source.">
+      <circle id="index-straight-line-graphic-dot-0000" data-part="raised-line" data-output-role="graphic-dot" cx="20.6" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0000" />
+      <circle id="index-straight-line-graphic-dot-0001" data-part="raised-line" data-output-role="graphic-dot" cx="22.56" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0001" />
+      <circle id="index-straight-line-graphic-dot-0002" data-part="raised-line" data-output-role="graphic-dot" cx="24.52" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0002" />
+      <circle id="index-straight-line-graphic-dot-0003" data-part="raised-line" data-output-role="graphic-dot" cx="26.48" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0003" />
+      <circle id="index-straight-line-graphic-dot-0004" data-part="raised-line" data-output-role="graphic-dot" cx="28.44" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0004" />
+      <circle id="index-straight-line-graphic-dot-0005" data-part="raised-line" data-output-role="graphic-dot" cx="30.4" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0005" />
+      <circle id="index-straight-line-graphic-dot-0006" data-part="raised-line" data-output-role="graphic-dot" cx="32.36" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0006" />
+      <circle id="index-straight-line-graphic-dot-0007" data-part="raised-line" data-output-role="graphic-dot" cx="34.32" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0007" />
+      <circle id="index-straight-line-graphic-dot-0008" data-part="raised-line" data-output-role="graphic-dot" cx="36.28" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0008" />
+      <circle id="index-straight-line-graphic-dot-0009" data-part="raised-line" data-output-role="graphic-dot" cx="38.24" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0009" />
+      <circle id="index-straight-line-graphic-dot-0010" data-part="raised-line" data-output-role="graphic-dot" cx="40.2" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0010" />
+      <circle id="index-straight-line-graphic-dot-0011" data-part="raised-line" data-output-role="graphic-dot" cx="42.16" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0011" />
+      <circle id="index-straight-line-graphic-dot-0012" data-part="raised-line" data-output-role="graphic-dot" cx="44.12" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0012" />
+      <circle id="index-straight-line-graphic-dot-0013" data-part="raised-line" data-output-role="graphic-dot" cx="46.08" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0013" />
+      <circle id="index-straight-line-graphic-dot-0014" data-part="raised-line" data-output-role="graphic-dot" cx="48.04" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0014" />
+      <circle id="index-straight-line-graphic-dot-0015" data-part="raised-line" data-output-role="graphic-dot" cx="50.0" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0015" />
+      <circle id="index-straight-line-graphic-dot-0016" data-part="raised-line" data-output-role="graphic-dot" cx="51.96" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0016" />
+      <circle id="index-straight-line-graphic-dot-0017" data-part="raised-line" data-output-role="graphic-dot" cx="53.92" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0017" />
+      <circle id="index-straight-line-graphic-dot-0018" data-part="raised-line" data-output-role="graphic-dot" cx="55.88" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0018" />
+      <circle id="index-straight-line-graphic-dot-0019" data-part="raised-line" data-output-role="graphic-dot" cx="57.84" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0019" />
+      <circle id="index-straight-line-graphic-dot-0020" data-part="raised-line" data-output-role="graphic-dot" cx="59.8" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0020" />
+      <circle id="index-straight-line-graphic-dot-0021" data-part="raised-line" data-output-role="graphic-dot" cx="61.76" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0021" />
+      <circle id="index-straight-line-graphic-dot-0022" data-part="raised-line" data-output-role="graphic-dot" cx="63.72" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0022" />
+      <circle id="index-straight-line-graphic-dot-0023" data-part="raised-line" data-output-role="graphic-dot" cx="65.68" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0023" />
+      <circle id="index-straight-line-graphic-dot-0024" data-part="raised-line" data-output-role="graphic-dot" cx="67.64" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0024" />
+      <circle id="index-straight-line-graphic-dot-0025" data-part="raised-line" data-output-role="graphic-dot" cx="69.6" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0025" />
+      <circle id="index-straight-line-graphic-dot-0026" data-part="raised-line" data-output-role="graphic-dot" cx="71.56" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0026" />
+      <circle id="index-straight-line-graphic-dot-0027" data-part="raised-line" data-output-role="graphic-dot" cx="73.52" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0027" />
+      <circle id="index-straight-line-graphic-dot-0028" data-part="raised-line" data-output-role="graphic-dot" cx="75.48" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0028" />
+      <circle id="index-straight-line-graphic-dot-0029" data-part="raised-line" data-output-role="graphic-dot" cx="77.44" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0029" />
+      <circle id="index-straight-line-graphic-dot-0030" data-part="raised-line" data-output-role="graphic-dot" cx="79.4" cy="50" r=".6" fill="black" data-export-id="straight-line-graphic-dot-0030" />
+    </g>
+  </g>
+  <g id="straight-line-profile-viewplus" data-output-profile="viewplus-variable-height-v1" data-export-root="{&quot;data-collection&quot;: &quot;tactile&quot;, &quot;data-concept-id&quot;: &quot;edu.straight-line&quot;, &quot;data-device-mapping&quot;: &quot;provisional-relative-levels-not-calibrated&quot;, &quot;data-production-method&quot;: &quot;viewplus-height-role-source&quot;, &quot;data-production-status&quot;: &quot;uncalibrated-draft&quot;, &quot;data-profile&quot;: &quot;viewplus-variable-height-v1&quot;, &quot;height&quot;: &quot;100mm&quot;, &quot;viewBox&quot;: &quot;0 0 100 100&quot;, &quot;width&quot;: &quot;100mm&quot;}" display="none">
+    <use data-part="background" data-height-role="background" fill="#ffffff" id="viewplus-background" data-export-id="background" href="#straight-line-geometry-01" data-shared-geometry="straight-line-geometry-01" />
+    <use data-part="raised-line" data-height-role="principal-line" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" id="viewplus-straight-primary-trace" data-export-id="straight-primary-trace" href="#straight-line-geometry-02" data-shared-geometry="straight-line-geometry-02" />
+  </g>
+<metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

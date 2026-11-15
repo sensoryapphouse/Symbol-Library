@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.sweden-flag-layout-context" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="140mm" viewBox="0 0 200 140" width="200mm"><rect width="200" height="140" fill="#ffffff" data-part="background" id="background" />
+    <path d="M20 20H180V120H20Z" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="flag-frame" />
+    <path d="M70 20L70 60L20 60" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="upper-hoist-field-boundary" />
+    <path d="M90 20L90 60L180 60" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="upper-fly-field-boundary" />
+    <path d="M20 80L70 80L70 120" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="lower-hoist-field-boundary" />
+    <path d="M180 80L90 80L90 120" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" data-part="raised-line" id="lower-fly-field-boundary" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

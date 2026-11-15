@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.trial-occurrence-all-none-comparison" data-production-status="uncalibrated-draft" data-profile="swell-paper-v1" height="160mm" viewBox="0 0 160 160" width="160mm"><rect width="160" height="160" data-part="background" fill="#ffffff" id="background" />
+    <path d="M47 42 L65 42 L65 64 L47 64 L47 42" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="every-trial-cell-1" />
+    <path d="M71 42 L89 42 L89 64 L71 64 L71 42" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="every-trial-cell-2" />
+    <path d="M95 42 L113 42 L113 64 L95 64 L95 42" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="every-trial-cell-3" />
+    <path d="M47 96 L65 96 L65 118 L47 118 L47 96" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="no-occurrence-cell-1" />
+    <path d="M71 96 L89 96 L89 118 L71 118 L71 96" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="no-occurrence-cell-2" />
+    <path d="M95 96 L113 96 L113 118 L95 118 L95 96" data-part="raised-line" fill="none" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="no-occurrence-cell-3" />
+    <path d="M59.8 53A3.8 3.8 0 1 1 52.2 53A3.8 3.8 0 1 1 59.8 53Z" data-part="point-symbol" fill="#000000" stroke="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="every-trial-response-1" />
+    <path d="M83.8 53A3.8 3.8 0 1 1 76.2 53A3.8 3.8 0 1 1 83.8 53Z" data-part="point-symbol" fill="#000000" stroke="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="every-trial-response-2" />
+    <path d="M107.8 53A3.8 3.8 0 1 1 100.2 53A3.8 3.8 0 1 1 107.8 53Z" data-part="point-symbol" fill="#000000" stroke="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" id="every-trial-response-3" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

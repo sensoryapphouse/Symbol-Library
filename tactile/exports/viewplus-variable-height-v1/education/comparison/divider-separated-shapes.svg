@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.divider-separated-shapes" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <rect x="14" y="40" width="20" height="20" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="separated-square" />
+    <circle cx="76" cy="50" r="10" data-part="area-texture" fill="#000000" stroke="none" data-tactile-role="area-texture" data-height-role="principal-area" id="separated-circle" />
+    <circle cx="50" cy="20" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-1" />
+    <circle cx="50" cy="26" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-2" />
+    <circle cx="50" cy="32" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-3" />
+    <circle cx="50" cy="38" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-4" />
+    <circle cx="50" cy="44" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-5" />
+    <circle cx="50" cy="50" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-6" />
+    <circle cx="50" cy="56" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-7" />
+    <circle cx="50" cy="62" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-8" />
+    <circle cx="50" cy="68" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-9" />
+    <circle cx="50" cy="74" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-10" />
+    <circle cx="50" cy="80" r="1.2" data-part="point-symbol" fill="#000000" stroke="none" data-tactile-role="raised-line" data-height-role="principal-line" id="divider-mark-11" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

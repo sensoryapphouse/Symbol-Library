@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" data-collection="tactile" data-concept-id="edu.length-comparison" data-production-status="uncalibrated-draft" data-profile="viewplus-variable-height-v1" height="100mm" viewBox="0 0 100 100" width="100mm"><rect width="100" height="100" data-part="background" fill="#ffffff" id="background" />
+    <path d="M18 25H42" data-length-mm="24" data-part="raised-line" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" data-tactile-role="raised-line" data-height-role="principal-line" id="length-1" />
+    <path d="M18 50H62" data-length-mm="44" data-part="raised-line" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" data-tactile-role="raised-line" data-height-role="principal-line" id="length-2" />
+    <path d="M18 75H82" data-length-mm="64" data-part="raised-line" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" data-tactile-role="raised-line" data-height-role="principal-line" id="length-3" />
+  <metadata id="copyright-notice" data-license="CC-BY-NC-4.0" data-license-uri="https://creativecommons.org/licenses/by-nc/4.0/">Copyright Sensory App House Ltd, CC BY-NC 4.0.</metadata></svg>

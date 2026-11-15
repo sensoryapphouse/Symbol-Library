@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-11-14T01:35:13.869965+00:00",
+  "meanings": 42,
+  "frames": 281,
+  "exports": 546,
+  "protected_files": 9939,
+  "original_and_pagefit_bytes_and_membership": "unchanged",
+  "protected_baseline_sha256": "14e72aeaef976c867187e66c1fac2df5de4b2a77284fe0b16a16fb390d9da0c8",
+  "export_reproduction": "546 byte-identical from 281 masters",
+  "grid_and_hash_checks": "passed tools/regenerate.py --verify",
+  "index_static_checks": "unique IDs, all static links exist, JavaScript syntax passed",
+  "index_interactive_check": "not performed: browser tool refused file URL; no workaround attempted",
+  "physical_evaluation": "pending",
+  "unchanged_pagefit_package_sha256": "6c557666290859dda0609b17358e9efeb56cfa213e94a7fc6621bea5a37a4cdd"
+}
