@@ -1,0 +1,178 @@
+{
+  "created": "2026-11-20T07:35:37.083938+00:00",
+  "repository": "sensoryapphouse/Symbol-Library",
+  "tag": "library-2026-11-20",
+  "images": 289820,
+  "image_bytes": 16898669574,
+  "original_people_untouched": true,
+  "archives": [
+    {
+      "name": "3d-cartoon-01.zip",
+      "style": "3D cartoon",
+      "files": 51225,
+      "source_bytes": 876451068
+    },
+    {
+      "name": "alien-01.zip",
+      "style": "Alien",
+      "files": 4115,
+      "source_bytes": 68001508
+    },
+    {
+      "name": "anime-01.zip",
+      "style": "Anime",
+      "files": 4348,
+      "source_bytes": 408089946
+    },
+    {
+      "name": "basic-1-01.zip",
+      "style": "Basic 1",
+      "files": 4053,
+      "source_bytes": 359144194
+    },
+    {
+      "name": "basic-2-01.zip",
+      "style": "Basic 2",
+      "files": 15709,
+      "source_bytes": 1667788666
+    },
+    {
+      "name": "basic-2-02.zip",
+      "style": "Basic 2",
+      "files": 22023,
+      "source_bytes": 1654844390
+    },
+    {
+      "name": "basic-2-03.zip",
+      "style": "Basic 2",
+      "files": 1725,
+      "source_bytes": 158980236
+    },
+    {
+      "name": "basic-3-01.zip",
+      "style": "Basic 3",
+      "files": 16184,
+      "source_bytes": 1666751686
+    },
+    {
+      "name": "basic-3-02.zip",
+      "style": "Basic 3",
+      "files": 18695,
+      "source_bytes": 1661690142
+    },
+    {
+      "name": "basic-3-03.zip",
+      "style": "Basic 3",
+      "files": 16350,
+      "source_bytes": 1184039108
+    },
+    {
+      "name": "basic-svg-01.zip",
+      "style": "Basic SVG",
+      "files": 1026,
+      "source_bytes": 17484934
+    },
+    {
+      "name": "clay-01.zip",
+      "style": "Clay",
+      "files": 39457,
+      "source_bytes": 564059074
+    },
+    {
+      "name": "doll-01.zip",
+      "style": "Doll",
+      "files": 4109,
+      "source_bytes": 81311386
+    },
+    {
+      "name": "kawaii-01.zip",
+      "style": "Kawaii",
+      "files": 4734,
+      "source_bytes": 96707724
+    },
+    {
+      "name": "monkey-01.zip",
+      "style": "Monkey",
+      "files": 4109,
+      "source_bytes": 89327272
+    },
+    {
+      "name": "monster-01.zip",
+      "style": "Monster",
+      "files": 4052,
+      "source_bytes": 64182340
+    },
+    {
+      "name": "robot-01.zip",
+      "style": "Robot",
+      "files": 4110,
+      "source_bytes": 109079918
+    },
+    {
+      "name": "soccer-01.zip",
+      "style": "Soccer",
+      "files": 4041,
+      "source_bytes": 79587622
+    },
+    {
+      "name": "sommi-01.zip",
+      "style": "Sommi",
+      "files": 5782,
+      "source_bytes": 126346748
+    },
+    {
+      "name": "sommi-clothed-01.zip",
+      "style": "Sommi clothed",
+      "files": 4854,
+      "source_bytes": 112809822
+    },
+    {
+      "name": "sommi-objects-01.zip",
+      "style": "Sommi objects",
+      "files": 12402,
+      "source_bytes": 1674489448
+    },
+    {
+      "name": "sommi-objects-02.zip",
+      "style": "Sommi objects",
+      "files": 11374,
+      "source_bytes": 1676567618
+    },
+    {
+      "name": "sommi-objects-03.zip",
+      "style": "Sommi objects",
+      "files": 18402,
+      "source_bytes": 1662305372
+    },
+    {
+      "name": "sommi-objects-04.zip",
+      "style": "Sommi objects",
+      "files": 4737,
+      "source_bytes": 591952098
+    },
+    {
+      "name": "teddy-bear-01.zip",
+      "style": "Teddy bear",
+      "files": 4108,
+      "source_bytes": 87771940
+    },
+    {
+      "name": "wizard-01.zip",
+      "style": "Wizard",
+      "files": 4044,
+      "source_bytes": 82014018
+    },
+    {
+      "name": "wood-01.zip",
+      "style": "Wood",
+      "files": 4052,
+      "source_bytes": 76891296
+    },
+    {
+      "name": "manifest-01.zip",
+      "style": "_manifest",
+      "files": 26,
+      "source_bytes": 221610967
+    }
+  ]
+}

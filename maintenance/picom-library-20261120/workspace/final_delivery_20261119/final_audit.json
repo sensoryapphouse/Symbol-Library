@@ -1,0 +1,12 @@
+{
+  "at": "2026-11-20T14:08:25.999487+11:00",
+  "counts": {
+    "complete": 289796,
+    "excluded": 24
+  },
+  "final_manifest_records": 289820,
+  "completed_records_have_output_and_pixel_hashes": true,
+  "worker_stopped": true,
+  "temporary_directory_removed": true,
+  "completion": "2026-11-20T14:07:38.572515+11:00"
+}

@@ -1,0 +1,86 @@
+{
+  "protocol_version": 1,
+  "rule_version": "people-white-core-v1",
+  "execution_enabled": false,
+  "authorized_scope": "Exact 170044 original CSV Non-People paths. Historical 168748 pending paths and 66077 review obligations plus two previously delivered paths requiring fresh current-version review. Effective 168750 pending paths and 66079 source reviews.",
+  "authorization": "User authorized blob-and-thin-remnant source screen, unchanged skipped originals, current cleanup and independent checking of every changed output.",
+  "engine": {
+    "sha256": "b965cc46a3c75603209c41d8cab4f1acf2679f94b5c5a34efd237ee41ce338fe",
+    "path": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/scripts/cleaner.py",
+    "mode": "reviewed_strict_white_core_only"
+  },
+  "threshold": {
+    "rgb_min": 240,
+    "max_channel_range": 20,
+    "min_alpha": 128,
+    "connectivity": 8
+  },
+  "source_eligibility_total_strict_white_pixels_at_512": 256,
+  "minimum_core_pixels_per_region_at_512": 256,
+  "source_review": "Qualified source review using the unchanged components_ge64_at_512 catalogue and existing selected-mask workflow; every available component remains selectable regardless of source-screen qualifying groups. Fresh review of all five historical retained originals.",
+  "source_comparison": "Different actual poses or subjects may share names. Single-style concepts remain in scope.",
+  "cleanup": "Only reviewed strict-white core alpha becomes zero. Every RGB value and every other RGBA value stays exact.",
+  "output_review": "Independent of source reviewer; every changed full image, every region and normal-size usefulness; identity/hash-bound record immediately after viewing.",
+  "acceptance": "Only mechanically verified outputs with clear visual safety and clear worthwhile improvement. Otherwise retain original.",
+  "prior_work": "Apply the seven approved historical resolutions before the exact three current-source revisions. Require fresh source review for all three revisions and independent review of every changed candidate. Historical trial outputs and stale cleaned deliveries are excluded from completion.",
+  "excluded_work": [
+    "thin borders",
+    "edge matting",
+    "tiny uncertain flecks",
+    "general pilots",
+    "Q80 encoding",
+    "automatic semantic removal"
+  ],
+  "execution": {
+    "image_worker_processes": 1,
+    "numeric_threads": 1,
+    "gpu": false,
+    "local_llm": false,
+    "format": "exact lossless WebP",
+    "native_dimensions": true,
+    "per_image_checkpoint": true,
+    "lock": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/image_worker.lock"
+  },
+  "storage": {
+    "source_files_read_only": true,
+    "unchanged_images": "reference source, no copy",
+    "accepted_images": "one canonical lossless WebP",
+    "temporary_previews": "bounded to active batches; remove after verified QA",
+    "preserve": [
+      "accepted outputs",
+      "compact masks",
+      "source decisions",
+      "hash-bound visual reviews",
+      "manifests",
+      "code",
+      "shared examples"
+    ]
+  },
+  "reference_evidence": [
+    "../mode_reference",
+    "../batch003/mechanical_audit.json",
+    "../batch003/completion.json"
+  ],
+  "reviewer_requirement": "Qualified source and independent output reviewers; uncertain regions remain unchanged; no user approval required per batch.",
+  "cohort": "production_non_people",
+  "parent_protocol_sha256": "865b63fe6ccba75e703261eeaded64799515d135023ece8c50542510d4cda106",
+  "scope_snapshot": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/scope_contract.json",
+  "source_eligibility_normalization": "total strict pixels / ((width*height)/(512*512))",
+  "grouping_scope": "Exact original Non-People Library topic and subfolder plus normalized filename stem, independently classified by original CSV collection provenance.",
+  "scope_snapshot_sha256": "1e944f59573d1f4999e01667366b4b21f166a9e0833c68ec1eb148d1fb525dbb",
+  "source_screen": {
+    "area": 256,
+    "inradius": 3,
+    "nearby_dilation": 2,
+    "connectivity": 8,
+    "native_dimensions": [
+      512,
+      512
+    ],
+    "original_white_pixels_only": true,
+    "whole_source_selection_only": true,
+    "all_components_available_during_review": "Every component available in the existing >=64 catalogue, regardless of screen-passing blob group; no sub64 expansion."
+  },
+  "activation_overlay_may_enable_execution": true,
+  "execution_control": "Default disabled. Effective execution requires both current People completion proofs/catalogs, the exact current pending-source byte proof, and root code and activation approvals."
+}

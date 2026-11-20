@@ -1,0 +1,37 @@
+{
+  "archived_revision2_exactly_preserved": true,
+  "archived_revision2_files": 18,
+  "bundle_sha256": "27367ee1a38ce2153c2be0d626dafc0da911c5f985c46e06864ccf0020d335e5",
+  "core_engine_contracts_gates_policy_unchanged": true,
+  "entrypoint_sha256": "8f73011672a6c5b41a7dfda09264056fe569ee0506d1b7d5ee235a07420ba32f",
+  "exit_code": 0,
+  "library_writes": 0,
+  "limitations": [
+    "Actual tool references, exec grouping and reviewer assessments must be faithfully supplied; the validator cannot authenticate invented external tool observations.",
+    "Synthetic capacity/storage validation is not a population pilot or visual-safety claim.",
+    "No real population was scanned, decoded, transformed, previewed or activated."
+  ],
+  "new_regressions": [
+    "one eligible/one excluded paired native context, no invented excluded decision",
+    "different poses explicitly assessed; wrong context or missing context view rejected",
+    "clipped crop -> repeated whole -> full crop accepted; repeated whole cannot fill missing crop",
+    "five physical file attempts rejected per actual outer exec, across inner and phase groups; failed attempts count against cap with zero role coverage",
+    "default16/max32 paired capacity,64-target durable ordering, root-approved smaller batches",
+    "compressed-only canonical cache and actual alias decode equality",
+    "mistaken PNG review-log/checkpoint paths rejected preserving image bytes"
+  ],
+  "original_files_modified": 0,
+  "passed": true,
+  "population_activated": false,
+  "population_execution_approval_supplied": false,
+  "population_images_decoded": 0,
+  "population_images_scanned": 0,
+  "population_images_transformed": 0,
+  "population_previews_generated": 0,
+  "resource_gate": "Original production/image_worker.lock; actual lock-contention fixture; threads1 before NumPy/Pillow/SciPy; synthetic fixtures only",
+  "schema": "wizard-soccer-staged-validation-v3",
+  "test_log_sha256": "02d4825f6525e2b629b42a8ff1257b71693cecbb320456e15f60f8be4256758b",
+  "test_suite_sha256": "5e5f36272b74ef0756ccb953f0524fe90afd462ac2b4e8c6a4d368ef891e4521",
+  "tests": 43,
+  "utc": "2026-11-05T23:11:53.212764+00:00"
+}

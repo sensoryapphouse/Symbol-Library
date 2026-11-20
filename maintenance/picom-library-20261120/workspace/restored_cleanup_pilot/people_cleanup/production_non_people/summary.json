@@ -1,0 +1,15 @@
+{
+  "queue_subject_total": 66079,
+  "pending_originals": 168750,
+  "historical_queue_subject_total": 66077,
+  "extra_current_prior_reviews": 2,
+  "historical_pending_originals": 168748,
+  "historical_prior_paths": 1296,
+  "screened_originals": 19778,
+  "below_total_originals": 82893,
+  "historical_fresh_review_resolutions": 5,
+  "historical_original_resolutions": 2,
+  "groups": 26194,
+  "batches": 486,
+  "runtime_activated": false
+}

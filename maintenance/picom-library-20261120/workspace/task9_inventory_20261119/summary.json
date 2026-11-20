@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-19",
+  "scope": "19 People styles only. Sommi companion objects and non-People symbols excluded.",
+  "styles": 19,
+  "fluent_files": 252,
+  "fluent_concepts": 167,
+  "existing_files_in_scope": 1414,
+  "existing_people_svg_files": 1165,
+  "existing_visual_samples": 75,
+  "all_template_contact_sheets_inspected": true,
+  "all_19_style_candidates_inspected": true,
+  "new_substitutions_created": 0,
+  "original_images_modified": 0,
+  "destination_rule": "Per-style root Pronouns, Contractions and Comparatives, separate from numbered folders; skip all existing files. No duplicate output tree. No implementation authorised yet beyond this inventory.",
+  "gender_note": "M/F/N labels follow existing asset names and visual variants, not an inference about a real person. The proposal preserves existing distinctions; final variant policy awaits user review.",
+  "later_scope_clarification": "Sommi and Sommi clothed complete; excluded from new work. See ../task9_reuse_audit_20261119/index.html"
+}

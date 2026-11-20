@@ -1,0 +1,19 @@
+{
+  "at": "2026-11-20T14:07:38.572515+11:00",
+  "complete": true,
+  "tasks": [
+    10,
+    11,
+    12,
+    5
+  ],
+  "licensing": {
+    "complete": 289796,
+    "excluded": 24
+  },
+  "rights": "\u00a9 Sensory App House Ltd, CC BY-NC 4.0",
+  "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "exceptions_record": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/licence_exclusions.json",
+  "People_untouched": true,
+  "temporary_files_remaining": []
+}

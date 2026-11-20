@@ -1,0 +1,323 @@
+{
+  "at": "2026-11-19T20:01:38.876992+11:00",
+  "publish_and_resume": true,
+  "no_clobber": true,
+  "exact_alpha": true,
+  "metadata_no_recode": true,
+  "decoded_pixels_unchanged": true,
+  "metadata_idempotent": true,
+  "foreign_rights_excluded": true,
+  "exiftool_readback": [
+    {
+      "SourceFile": "/private/tmp/picom_final_delivery_20261119/verification/metadata-check.webp",
+      "Rights": "\u00a9 Sensory App House Ltd, CC BY-NC 4.0",
+      "WebStatement": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  ],
+  "samples": [
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/3D cartoon/Pronouns/my.svg",
+      "source_sha256": "e3704bcc3fd039b578342e480165797cb584b6f1143603e78b62eaf19d061b08",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.350208067184483,
+        "weighted_rmse": 5.990586709286062
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Basic 1/Pronouns/my.svg",
+      "source_sha256": "7eeaca16795ec0befdb64a5f78b6758ecdfb4a42d94e9685c36d298042eb4b2b",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.2096340175274403,
+        "weighted_rmse": 6.04216860399034
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Basic 2/Pronouns/my.svg",
+      "source_sha256": "2014ce16f547569e30c84b412f6a8556cd8bd8e6cad345cd580fc677907087f3",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.6460366574023313,
+        "weighted_rmse": 6.377929387743722
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Clay/Pronouns/my.svg",
+      "source_sha256": "b1bce9b7b1b1267463e4e311209b5bab3671f9e1675866e09a1089935b604c8f",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.180067587335609,
+        "weighted_rmse": 5.548681971990151
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Doll/Pronouns/my.svg",
+      "source_sha256": "ab1e4cfd575c11742a930cbf2849e36d5f3243ebe4c398cf55e69e0fe22360ec",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.344746639065301,
+        "weighted_rmse": 5.215375634445379
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Basic 3/Pronouns/my.svg",
+      "source_sha256": "dac4fb0d89ce4b09e8bb354b3c84d09d719e94f78936ee70cfb13dce9b0ca1a4",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.2132691936933777,
+        "weighted_rmse": 6.441908427803354
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Alien/Pronouns/my.svg",
+      "source_sha256": "b27035a5f2718b9a4f59edcddb9f5ebe417ea513c7dbc2dd7f9cbf364ae3cd15",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.6358129804330077,
+        "weighted_rmse": 6.312662093396385
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Kawaii/Pronouns/my.svg",
+      "source_sha256": "183467fcb01bdcb92a845695b7fa8d6bedf09391308d874069916a30400ea932",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 2.4914282584485052,
+        "weighted_rmse": 5.120630491531968
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Monkey/Pronouns/my.svg",
+      "source_sha256": "ff6c4f5bd0ddbc47ced64310b822bfd6d19e206d61418be28b9220c0e2a79914",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.2345329221146404,
+        "weighted_rmse": 5.306195577689537
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Monster/Pronouns/my.svg",
+      "source_sha256": "e176974aee5d0f53b2a754027a43944ce2ce05900b7570557166ea1063b2dd70",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 2.6011133259280674,
+        "weighted_rmse": 5.102175654137727
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Robot/Pronouns/my.svg",
+      "source_sha256": "97c08bb4e9b40a6dc88efd252dda35a63d73dd90f2b44a5342254e1cba540d9a",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 4.4859872114588555,
+        "weighted_rmse": 6.801384396720723
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Anime/Pronouns/my.svg",
+      "source_sha256": "13f08ba4586952451781b9164bb4d3fef20e6a37e164abd6ad0e60cb33a80d5b",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.0493833358445293,
+        "weighted_rmse": 5.96690656530367
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Soccer/Pronouns/my.svg",
+      "source_sha256": "97c4613c1b462a6998178343fa94ea514e44e492e68eab604242e53f2f4b786b",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.5183954237855914,
+        "weighted_rmse": 5.893353790589397
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Sommi/Plurals and tenses/Life Skills & Daily Routines/Bedtime Routine/tucked in.svg",
+      "source_sha256": "b964237a1bb3a6549ba054d533b1269807b00067d3585b54d1a9484605f4322e",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 0.8719158487977392,
+        "weighted_rmse": 1.7380969363338112
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Sommi clothed/Plurals and tenses/Jobs & Workplace/Work actions/will lay bricks.svg",
+      "source_sha256": "efccdad690d6ff7b3a3d36fb0dbe1a4ae26a2fc0757f63236307f0af49a4e403",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 2.476158443624531,
+        "weighted_rmse": 3.586216548485885
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Sommi objects/Plurals and tenses/Home & Household/Smart Home and IoT/smart-chimes.svg",
+      "source_sha256": "676b9e8a3f7a602bc06644d7885959d1270d658256ec0546ffe74553222722f2",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 1.9059058457401923,
+        "weighted_rmse": 3.370775772733158
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Teddy bear/Pronouns/my.svg",
+      "source_sha256": "543cf31031fbb0ee3b13b3d9351db249dd75779ad24edc8641fb04e5e9a79630",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.4504760861118102,
+        "weighted_rmse": 5.341466046534319
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Wizard/Pronouns/my.svg",
+      "source_sha256": "dafd5183d07dc28d87e3b7dbd193ab1c8f48292508e63787639ff3806f7ade07",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.5427461927488912,
+        "weighted_rmse": 5.900145891766448
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Wood/Pronouns/my.svg",
+      "source_sha256": "879441177c7dead50991b7f3f9a7bb8c9480276145ba77a95d7d45a413ccd927",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.3819875356340785,
+        "weighted_rmse": 5.545219451834026
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/3D cartoon/Plurals and tenses/Life Skills & Daily Routines/Personal Care/will clean up.svg",
+      "source_sha256": "750505ff53d46148eab1a2d1c1db3bc5faab0c203e707a9ca71ea6168081b70f",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 1.5624070829200931,
+        "weighted_rmse": 2.652624155677219
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Alien/Plurals and tenses/Life Skills & Daily Routines/Chores/will clean bathroom.svg",
+      "source_sha256": "16cce5f70404d07de647d7c6df88313d86e7dfde4115fb933021c8eacd9f55f2",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 2.399836600916681,
+        "weighted_rmse": 3.9309210844927196
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Sommi/Plurals and tenses/Life Skills & Daily Routines/Chores/will polish shoe.svg",
+      "source_sha256": "9f7b0b0a708f23599065a93a52e440b9dbd792f8899e47c0c9308d5dbe9b2f62",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 0.7586324829082687,
+        "weighted_rmse": 1.6092886982659427
+      }
+    },
+    {
+      "source": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/Basic 3/Plurals and tenses/Life Skills & Daily Routines/Personal Care/will clean up.svg",
+      "source_sha256": "ad07a98b86c9926cac4dd213a8a87e5239ec19e260d39a6041e44f179b3873e6",
+      "metrics": {
+        "quality": 80,
+        "method": 6,
+        "alpha_exact": true,
+        "width": 512,
+        "height": 512,
+        "weighted_mae": 3.317966759088053,
+        "weighted_rmse": 5.8757671027436436
+      }
+    }
+  ],
+  "review_pages": [
+    "/private/tmp/picom_final_delivery_20261119/delivery_review_1.jpg",
+    "/private/tmp/picom_final_delivery_20261119/delivery_review_2.jpg",
+    "/private/tmp/picom_final_delivery_20261119/delivery_review_3.jpg"
+  ]
+}

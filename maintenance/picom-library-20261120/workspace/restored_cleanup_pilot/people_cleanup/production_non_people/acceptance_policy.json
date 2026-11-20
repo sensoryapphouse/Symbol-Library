@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "authorization": "I agree - worse on uncertain safety should be lost. Let's keep even odest improvements.",
+  "required_safety": "clear",
+  "accepted_worthwhile": [
+    "clear",
+    "modest"
+  ],
+  "held_safety": [
+    "uncertain",
+    "unsafe"
+  ],
+  "held_worthwhile": [
+    "negligible",
+    "uncertain"
+  ],
+  "scope": "Delivery acceptance only; frozen source selection, cleanup mechanics, masks, thresholds and independent review requirements remain unchanged.",
+  "interpretation": "Modest means an actual slight visible improvement supported by the recorded independent review. Uncertain or negligible benefit and uncertain or unsafe outputs retain the original."
+}

@@ -1,0 +1,257 @@
+{
+  "protocol_version": 1,
+  "rule_version": "people-white-core-v1",
+  "runner_sha256": "86d0afd896f284cd50591e6f45639eccb8e0e64330d0d6c7c6cae212d7d7a717",
+  "inventory_sha256": "25b911d98f7debff858bdc7fa7b73e943d5b55c4b91a9ec246d1e7495acd12bd",
+  "source_proposals_sha256": "ab8745d3dba0cb0f9d13b6c5d7bdfa81db26eabb4498d675ede38e785579709e",
+  "source_decisions_sha256": "8b2a3a0d9d819a959c6fddc5da2a10d01412c81844aaccdb03873f5c88a4d4e4",
+  "reference_check_sha256": "8b2f4291fc9cda6c551819ecbfeea746060916ab63b6934c58bf2cf19e8df566",
+  "batch_id": "people-first-48",
+  "status": "approved_bounded_first48_originals_retained",
+  "execution_enabled": true,
+  "scope": {
+    "inventory_file": "inventory.json",
+    "source_decisions_file": "source_decisions.json",
+    "ledger_file": "ledger.json",
+    "output_directory": "outputs",
+    "expected_images": 48,
+    "expected_style_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "images_per_style": 3,
+    "inventory_is_allowlist": true,
+    "goal": "Reduce only clearly filled opaque neutral-white background blobs inside individually reviewed people ROIs, without unintended transparency.",
+    "excluded_work": [
+      "thin white borders",
+      "antialiasing halos",
+      "edge-only cleanup",
+      "tiny uncertain flecks",
+      "transparent-gap polishing",
+      "whole-canvas background removal"
+    ],
+    "scan_library_at_runtime": false,
+    "source_files_are_read_only": true,
+    "never_overwrite_source_or_existing_outputs": true
+  },
+  "engine": {
+    "module": "../scripts/cleaner.py",
+    "sha256": "b965cc46a3c75603209c41d8cab4f1acf2679f94b5c5a34efd237ee41ce338fe",
+    "must_match_before_run": true,
+    "decisions_require_source_review": true,
+    "production_mode": "reviewed_white_core_only",
+    "production_application": "Use the frozen cleaner's reviewed component/core mask only. Apply alpha=0 to source pixels in the reviewed ROI that satisfy the existing unchanged white-core threshold (RGB min>=240, channel range<=20, alpha>=128), excluding explicit protection. Copy all other source RGBA bytes exactly.",
+    "edge_band_matting_applied": false,
+    "transparent_gap_matting_applied": false,
+    "white_fringe_or_border_cleanup_applied": false,
+    "post_matting_island_cleanup_applied": false,
+    "all_non_core_pixels_preserved_exactly": true,
+    "automatic_roi_selection": false,
+    "advisory_results_may_change_cleanup": false
+  },
+  "execution": {
+    "worker_processes": 1,
+    "worker_threads": 1,
+    "gpu": false,
+    "python_worker_only": true,
+    "thread_environment": {
+      "OPENBLAS_NUM_THREADS": "1",
+      "OMP_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1",
+      "VECLIB_MAXIMUM_THREADS": "1",
+      "NUMEXPR_NUM_THREADS": "1"
+    },
+    "output_format": "WebP",
+    "changed_output_encoding": "lossless",
+    "unchanged_output_encoding": "byte_copy_of_source",
+    "output_filename": "after.webp",
+    "create_q80_outputs": false,
+    "native_rgba_dimensions_preserved": true,
+    "per_image_atomic_checkpoint": true
+  },
+  "reference_check": {
+    "required_before_any_execution": true,
+    "file": "reference_check.json",
+    "check_originals_only": true,
+    "minimum_pairs": 3,
+    "must_cover_every_concept_family_in_allowlist": true,
+    "pair_requirement": "same-concept images from two different styles, with source hashes bound to the frozen inventory",
+    "allowed_findings": [
+      "same_pose_gap_checked",
+      "different_pose_no_transfer"
+    ],
+    "uncertain_finding": "hold_batch_for_review",
+    "references_are_semantic_context_only_not_mask_authority": true
+  },
+  "source_review": {
+    "required_before_processing": true,
+    "decision_values": [
+      "cleanup",
+      "unchanged",
+      "uncertain"
+    ],
+    "uncertain_regions": "leave_unmodified_and_hold",
+    "cleanup_regions": "must_be_explicitly_bounded_and_reviewed",
+    "required_source_binding": [
+      "source_sha256",
+      "dimensions"
+    ],
+    "required_review_fields": [
+      "source_reviewed",
+      "reviewer",
+      "source_sha256",
+      "dimensions",
+      "decision",
+      "regions",
+      "retain_notes",
+      "uncertainty_notes"
+    ]
+  },
+  "source_proposals": {
+    "file": "luna_proposals.json",
+    "required_for_all_48": true,
+    "model_family": "Luna low-cost proposal only",
+    "proposal_only": true,
+    "semantic_authority": false,
+    "must_bind_id_and_source_sha256": true,
+    "must_be_independently_reviewed_before_cleanup_decision": true
+  },
+  "state_machine": {
+    "initial_state": "pending_source_review",
+    "allowed_transitions": {
+      "pending_source_review": [
+        "selected",
+        "unchanged",
+        "held"
+      ],
+      "selected": [
+        "edited",
+        "unchanged",
+        "held"
+      ],
+      "edited": [
+        "output_reviewed",
+        "held"
+      ],
+      "unchanged": [
+        "output_reviewed",
+        "held"
+      ],
+      "output_reviewed": [
+        "accepted",
+        "held"
+      ],
+      "accepted": [],
+      "held": []
+    },
+    "changed_image_output_review": "independent_visual_review_required",
+    "unchanged_image_output_review": "may_use_exact_source_identity_proof_without_repeat_visual_damage_check",
+    "acceptance": "explicit_recorded_designated_agent_reviewer_decision_required; user batch approval is not required",
+    "acceptance_authority": "root_agent_or_designated_reviewer",
+    "every_transition_is_atomically_logged": true
+  },
+  "unchanged_identity_proof": {
+    "requirements": [
+      "source_sha256_rechecked",
+      "source_and_output_decoded_rgba_exactly_equal",
+      "native_dimensions_equal",
+      "output_bytes_equal_source_bytes"
+    ],
+    "when_all_pass": "mark_output_reviewed_with_review_method_unchanged_identity_proof"
+  },
+  "changed_output_review": {
+    "required": true,
+    "must_bind_exact_output_sha256": true,
+    "must_be_independent_of_source_decision_author": true,
+    "reviewer_mode_required": "independent_strong_review",
+    "semantic_judgement_is_not_automatically_proven": true,
+    "damage_or_uncertainty_result": "held",
+    "visual_review_record_fields": [
+      "id",
+      "reviewed_output_sha256",
+      "reviewer",
+      "reviewer_mode",
+      "verdict",
+      "findings"
+    ]
+  },
+  "known_regressions": [
+    {
+      "id": "v14_04",
+      "coordinates": [
+        [
+          500,
+          688
+        ],
+        [
+          502,
+          690
+        ]
+      ],
+      "rule": "Never accept a changed output without a fresh independent comparison. If foreground was removed, hold and restore from an exact matched original or revert this cleanup in a separate repair record."
+    },
+    {
+      "id": "v13_05",
+      "coordinates": [
+        [
+          510,
+          757
+        ]
+      ],
+      "rule": "Known gray-thigh edge-band regression. The coordinate must remain byte-for-byte equal to source RGBA; edge-only cleanup is excluded."
+    },
+    {
+      "id": "v13_10",
+      "coordinates": [
+        [
+          730,
+          727
+        ]
+      ],
+      "rule": "Known gray-thigh edge-band regression. The coordinate must remain byte-for-byte equal to source RGBA; edge-only cleanup is excluded."
+    }
+  ],
+  "preexisting_foreground_loss": {
+    "repair_workflow_separate_from_cleanup": true,
+    "only_use_exact_matched_originals": true,
+    "record_original_path_and_sha256": true,
+    "never_infer_or_reconstruct_missing_artwork": true,
+    "separate_review_and_output_hashes_required": true
+  },
+  "durable_ledger": {
+    "records_inventory_hash": true,
+    "records_source_hash_and_native_dimensions_per_image": true,
+    "records_decision_hash_and_source_review": true,
+    "records_cleaner_hash_per_run": true,
+    "records_output_hash_and_byte_count_per_image": true,
+    "records_mask_hashes_and_change_counts": true,
+    "records_review_hash_reviewer_and_verdict": true,
+    "append_only_event_history": true,
+    "atomic_write_strategy": "write_temp_fsync_replace"
+  },
+  "operator_notes": [
+    "This protocol is intentionally disabled until the root agent reviews and publishes it and the 48-image inventory is frozen.",
+    "Do not execute images while execution_enabled is false or while inventory/source decisions are incomplete.",
+    "The batch stops after the exact 48 allowlisted images; it never loops over the library.",
+    "The production wrapper intentionally removes only reviewed, threshold-valid white cores; thin white lines, antialiasing, borders, edge halos, and tiny uncertain flecks are retained."
+  ],
+  "screening_followup": {
+    "census_file": "blob_screen/census_summary.json",
+    "next_batch_rule": "Use blob prefilter before any visual source screening. Noncandidate sources remain unchanged; no bulk edits authorized by detector.",
+    "current_batch": "48 already visually screened before prefilter census; all unchanged."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "task9_complete": true,
+  "newly_published": 634,
+  "reused_byte_identical": 624,
+  "corrected_they_them_outputs": 10,
+  "correction_concepts": 5,
+  "previous_completed_comparatives_verified": 96,
+  "previous_12_style_outputs_verified": 1656,
+  "five_style_final_counts": {
+    "3D animated cartoon": {
+      "Pronouns": 70,
+      "Contractions": 28,
+      "Comparatives": 48
+    },
+    "Flat outlined": {
+      "Pronouns": 70,
+      "Contractions": 28,
+      "Comparatives": 48
+    },
+    "Kawaii": {
+      "Pronouns": 70,
+      "Contractions": 28,
+      "Comparatives": 48
+    },
+    "Mulberry": {
+      "Pronouns": 70,
+      "Contractions": 28,
+      "Comparatives": 48
+    },
+    "Simple anime": {
+      "Pronouns": 70,
+      "Contractions": 28,
+      "Comparatives": 48
+    }
+  },
+  "total_tracked_outputs_17_styles": 2386,
+  "sommi_and_sommi_clothed": "Previously complete per user; unchanged and excluded from new work",
+  "original_hashes_verified": 1166,
+  "existing_library_hashes_verified": 262,
+  "source_or_existing_files_changed": 0,
+  "new_bytes": 10447670,
+  "temporary_bytes_deleted": 323611,
+  "temporary_images_remaining": 0,
+  "generic_and_nonperson_originals": "65 generic and 375 nonperson drawings retained unchanged in their existing source locations; outside this People substitution publication",
+  "q80_conversion": "Deferred to Task 12; none performed",
+  "next_task": "Task 10 pipeline/eligibility/output-path clarification only; do not execute"
+}

@@ -1,0 +1,119 @@
+{
+  "preview_count": 8,
+  "original_files_hash_verified_unchanged": 12,
+  "published": false,
+  "reviews": [
+    {
+      "id": "3d_cleaner_m",
+      "visually_checked": true,
+      "result": "pass for preview",
+      "annotation_primitives_preserved": 18,
+      "parent_transforms_and_opacity_unchanged": true,
+      "rendered_alpha_bbox": [
+        45,
+        46,
+        466,
+        489
+      ],
+      "output_sha256": "0642041c35119abe5d1702b94f90d4adeb4e87968fd73c28a8be29409fef87bd"
+    },
+    {
+      "id": "3d_cleanest_f",
+      "visually_checked": true,
+      "result": "pass for preview",
+      "annotation_primitives_preserved": 19,
+      "parent_transforms_and_opacity_unchanged": true,
+      "rendered_alpha_bbox": [
+        46,
+        16,
+        488,
+        489
+      ],
+      "output_sha256": "1459218422187d8c8f0a325201dfc4a5ca95d0920041969cda5b41ac95be8c4f"
+    },
+    {
+      "id": "3d_taller_m",
+      "visually_checked": true,
+      "result": "pass for preview",
+      "annotation_primitives_preserved": 7,
+      "parent_transforms_and_opacity_unchanged": true,
+      "rendered_alpha_bbox": [
+        83,
+        26,
+        466,
+        487
+      ],
+      "output_sha256": "d97167cac49dcb8dc4de8c3791506b2c5857c70846c0b1f03554624f8a90530b"
+    },
+    {
+      "id": "3d_wetter_f",
+      "visually_checked": true,
+      "result": "pass for preview",
+      "annotation_primitives_preserved": 27,
+      "parent_transforms_and_opacity_unchanged": true,
+      "rendered_alpha_bbox": [
+        31,
+        46,
+        481,
+        459
+      ],
+      "output_sha256": "83fba25511853bb208a8cb9eedaf2dca7a14c8aeed94314109e93295af5f1945"
+    },
+    {
+      "id": "kawaii_cleaner_m",
+      "visually_checked": true,
+      "result": "pass for preview",
+      "annotation_primitives_preserved": 18,
+      "parent_transforms_and_opacity_unchanged": true,
+      "rendered_alpha_bbox": [
+        40,
+        46,
+        466,
+        489
+      ],
+      "output_sha256": "a85c96be43b9c46b8e4988d5df5832a52dcc1850dab2a3ec473318a81bdcb689"
+    },
+    {
+      "id": "kawaii_cleanest_f",
+      "visually_checked": true,
+      "result": "pass for preview",
+      "annotation_primitives_preserved": 19,
+      "parent_transforms_and_opacity_unchanged": true,
+      "rendered_alpha_bbox": [
+        30,
+        16,
+        488,
+        489
+      ],
+      "output_sha256": "4a79383e5fe29e0760428f7a0029018b8654456345afdd8c9cbbd858a12bea7d"
+    },
+    {
+      "id": "kawaii_taller_m",
+      "visually_checked": true,
+      "result": "pass for preview",
+      "annotation_primitives_preserved": 7,
+      "parent_transforms_and_opacity_unchanged": true,
+      "rendered_alpha_bbox": [
+        77,
+        26,
+        466,
+        488
+      ],
+      "output_sha256": "5b5ba6ae775ef52753c58d3f06103420dc60778ffcf2cf6df4aeda338e9854a8"
+    },
+    {
+      "id": "kawaii_wetter_f",
+      "visually_checked": true,
+      "result": "pass for preview",
+      "annotation_primitives_preserved": 27,
+      "parent_transforms_and_opacity_unchanged": true,
+      "rendered_alpha_bbox": [
+        31,
+        46,
+        481,
+        459
+      ],
+      "output_sha256": "bac654c7c4ef9032212be100c7bee531fcd2d97acbbfec76a9f4c65404e2b27b"
+    }
+  ]
+}

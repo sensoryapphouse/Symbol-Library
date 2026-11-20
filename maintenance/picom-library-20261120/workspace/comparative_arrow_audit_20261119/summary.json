@@ -1,0 +1,242 @@
+{
+  "status": "audit complete; proposed rules awaiting user approval; no source image edits",
+  "targets": 730,
+  "target_styles": 19,
+  "references": 85,
+  "missing": 205,
+  "upward": 15,
+  "small": 25,
+  "proposed_repairs": 245,
+  "retained": 485,
+  "styles": [
+    {
+      "style": "3D animated cartoon",
+      "total": 52,
+      "missing": 5,
+      "upward": 1,
+      "small": 4,
+      "angled": 2,
+      "single": 0,
+      "proposed": 10
+    },
+    {
+      "style": "Basic",
+      "total": 26,
+      "missing": 19,
+      "upward": 1,
+      "small": 0,
+      "angled": 0,
+      "single": 0,
+      "proposed": 20
+    },
+    {
+      "style": "Classic flat TV cartoon",
+      "total": 26,
+      "missing": 5,
+      "upward": 1,
+      "small": 0,
+      "angled": 2,
+      "single": 0,
+      "proposed": 6
+    },
+    {
+      "style": "Clay plasticine",
+      "total": 26,
+      "missing": 8,
+      "upward": 0,
+      "small": 0,
+      "angled": 1,
+      "single": 0,
+      "proposed": 8
+    },
+    {
+      "style": "Doll",
+      "total": 26,
+      "missing": 20,
+      "upward": 1,
+      "small": 0,
+      "angled": 1,
+      "single": 0,
+      "proposed": 21
+    },
+    {
+      "style": "Flat outlined",
+      "total": 52,
+      "missing": 5,
+      "upward": 1,
+      "small": 3,
+      "angled": 2,
+      "single": 0,
+      "proposed": 9
+    },
+    {
+      "style": "Friendly aliens",
+      "total": 26,
+      "missing": 9,
+      "upward": 1,
+      "small": 0,
+      "angled": 2,
+      "single": 0,
+      "proposed": 10
+    },
+    {
+      "style": "Kawaii",
+      "total": 52,
+      "missing": 5,
+      "upward": 1,
+      "small": 2,
+      "angled": 2,
+      "single": 0,
+      "proposed": 8
+    },
+    {
+      "style": "Monkey",
+      "total": 26,
+      "missing": 9,
+      "upward": 1,
+      "small": 0,
+      "angled": 2,
+      "single": 0,
+      "proposed": 10
+    },
+    {
+      "style": "Monster",
+      "total": 26,
+      "missing": 19,
+      "upward": 1,
+      "small": 0,
+      "angled": 0,
+      "single": 0,
+      "proposed": 20
+    },
+    {
+      "style": "Mulberry",
+      "total": 52,
+      "missing": 5,
+      "upward": 1,
+      "small": 3,
+      "angled": 2,
+      "single": 0,
+      "proposed": 9
+    },
+    {
+      "style": "Robot",
+      "total": 26,
+      "missing": 19,
+      "upward": 1,
+      "small": 0,
+      "angled": 1,
+      "single": 0,
+      "proposed": 20
+    },
+    {
+      "style": "Simple anime",
+      "total": 52,
+      "missing": 5,
+      "upward": 1,
+      "small": 4,
+      "angled": 2,
+      "single": 0,
+      "proposed": 10
+    },
+    {
+      "style": "Soccer player",
+      "total": 26,
+      "missing": 19,
+      "upward": 1,
+      "small": 0,
+      "angled": 1,
+      "single": 0,
+      "proposed": 20
+    },
+    {
+      "style": "Sommi",
+      "total": 79,
+      "missing": 0,
+      "upward": 0,
+      "small": 4,
+      "angled": 0,
+      "single": 46,
+      "proposed": 4
+    },
+    {
+      "style": "Sommi clothed",
+      "total": 79,
+      "missing": 0,
+      "upward": 0,
+      "small": 4,
+      "angled": 0,
+      "single": 49,
+      "proposed": 4
+    },
+    {
+      "style": "Teddy bear",
+      "total": 26,
+      "missing": 20,
+      "upward": 0,
+      "small": 0,
+      "angled": 0,
+      "single": 0,
+      "proposed": 20
+    },
+    {
+      "style": "Wizard",
+      "total": 26,
+      "missing": 19,
+      "upward": 1,
+      "small": 1,
+      "angled": 1,
+      "single": 0,
+      "proposed": 21
+    },
+    {
+      "style": "Wood",
+      "total": 26,
+      "missing": 14,
+      "upward": 1,
+      "small": 0,
+      "angled": 1,
+      "single": 0,
+      "proposed": 15
+    }
+  ],
+  "shared_concepts": {
+    "older": {
+      "total": 17,
+      "statuses": {
+        "missing": 17
+      }
+    },
+    "younger": {
+      "total": 17,
+      "statuses": {
+        "missing": 17
+      }
+    },
+    "youngest": {
+      "total": 17,
+      "statuses": {
+        "missing": 14,
+        "down_present": 3
+      }
+    },
+    "shorter (1)": {
+      "total": 17,
+      "statuses": {
+        "missing": 11,
+        "down_present": 6
+      }
+    },
+    "taller": {
+      "total": 17,
+      "statuses": {
+        "upward": 15,
+        "missing": 2
+      }
+    }
+  },
+  "source_images_modified": 0,
+  "temporary_review_images_deleted": 51,
+  "temporary_bytes_reclaimed": 12698896,
+  "report_validation": "All filters and concept grids checked; all 815 links exist; Chromium rendering and displayed source images verified without script errors."
+}

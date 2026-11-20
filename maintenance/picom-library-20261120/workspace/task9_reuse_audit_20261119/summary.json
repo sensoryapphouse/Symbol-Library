@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-19",
+  "scope": "Existing People substitutions only. Sommi and Sommi clothed remain completed and excluded from new work. Non-People styles unchanged.",
+  "files_catalogued": 1248,
+  "visual_cells_inspected": 873,
+  "five_style_svg_files": 1165,
+  "decisions": {
+    "completed_excluded": 83,
+    "reuse": 480,
+    "non_people": 375,
+    "repair_by_reuse": 5,
+    "generic_decision": 65,
+    "comparative_decision": 240
+  },
+  "all_480_annotation_checks_pass": true,
+  "possessive_files_with_object_geometry_preserved": 90,
+  "new_substitutions_made": 0,
+  "source_files_modified": 0,
+  "styles_without_root_substitution_outputs": [
+    "Basic",
+    "Classic flat TV cartoon",
+    "Clay plasticine",
+    "Doll",
+    "Friendly aliens",
+    "Monkey",
+    "Monster",
+    "Robot",
+    "Soccer player",
+    "Teddy bear",
+    "Wizard",
+    "Wood"
+  ],
+  "scope_note": "The read-only inspection included the 83 existing Sommi files before the user reconfirmed their completed status. They are not added to the remaining-work queue.",
+  "limits": "Reuse recommendation is based on complete contact-sheet visual review and SVG structure/annotation checks. It is not a claim of pixel-perfect art, an AAC comprehension study, or approval to publish/overwrite."
+}

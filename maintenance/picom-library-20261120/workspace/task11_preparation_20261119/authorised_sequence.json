@@ -1,0 +1,42 @@
+{
+  "updated_at": "2026-11-20T14:08:25.999487+11:00",
+  "user_authorisation": "After renaming, proceed with Task 12 and the final copyright/licence pass, one after another; no rush. Mulberry must be renamed Basic SVG.",
+  "sequence": [
+    {
+      "task": 10,
+      "name": "Finish plurals and tenses",
+      "gate": "Complete current run, final checks, held-case disposition and auxiliary/modal reconciliation"
+    },
+    {
+      "task": 11,
+      "name": "Apply confirmed style names",
+      "plan": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task11_preparation_20261119/rename_plan.json",
+      "gate": "Task 10 verified complete and no active writer; preserve both outlined sets separately"
+    },
+    {
+      "task": 12,
+      "name": "Final SVG-composition to WebP Q80 delivery pass",
+      "gate": "Renaming complete; skip already converted files; Basic SVG remains SVG; preserve People originals"
+    },
+    {
+      "task": 5,
+      "name": "Final copyright/licence metadata and verification",
+      "gate": "Apply last after encoding; agreed licence to applicable generated assets only, respecting existing third-party exclusions"
+    }
+  ],
+  "constraints": [
+    "Four low-priority Task 12 encoders with one publisher; Task 5 remains serial",
+    "People originals and folders remain untouched",
+    "No duplicate export or backup image trees",
+    "Remove temporary review/staging files after accepted work",
+    "No merging/deleting either outlined collection",
+    "No further routine approval needed for the authorised sequence"
+  ],
+  "status": "COMPLETE: Tasks 10, 11, 12 and final copyright/licence pass finished and verified. No image workers remain active.",
+  "active_runner": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/runner.json",
+  "handoff_verification": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/handoff_verification.json",
+  "evidence": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/progress.json",
+  "parallel_transition": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/parallel_transition.json",
+  "pause_record": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/pause.json",
+  "completion_record": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/completion.json"
+}

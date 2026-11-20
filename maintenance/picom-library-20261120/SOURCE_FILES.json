@@ -1,0 +1,1064 @@
+[
+  {
+    "path": "workspace/task9_full_figures_20261119/build.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figures_20261119/build.py",
+    "bytes": 5728,
+    "sha256": "1f553710af18ca357453de8902b44102168c21cb585655724062b419fa9fe986"
+  },
+  {
+    "path": "workspace/task9_full_figures_20261119/finalize.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figures_20261119/finalize.py",
+    "bytes": 3009,
+    "sha256": "d25ba6e65ff689fd15b94f6e184c9ddade2d8a925378711927d2e7cceb3277a4"
+  },
+  {
+    "path": "workspace/task9_full_figures_20261119/other_styles.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figures_20261119/other_styles.py",
+    "bytes": 1844,
+    "sha256": "5df144fd2127c9155cf8b6f681732f635a7f35e1b771819bf56cc6c8db30a460"
+  },
+  {
+    "path": "workspace/task9_full_figures_20261119/prepare.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figures_20261119/prepare.py",
+    "bytes": 1214,
+    "sha256": "b3e4c3d7d8f0ff68fb83bd1690e3de2ddf6a4ba5a17ff15604bc795122efb409"
+  },
+  {
+    "path": "workspace/task9_full_figures_20261119/publish.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figures_20261119/publish.py",
+    "bytes": 5177,
+    "sha256": "eff6095e3ef9b1584ac51ba7b46b0133df6a33a8869373f42afea9426642b4ef"
+  },
+  {
+    "path": "workspace/task9_full_figures_20261119/report.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figures_20261119/report.py",
+    "bytes": 9025,
+    "sha256": "5a57440d50b39a0c393667fcdb7744c17b4ae20e65ff85ff9fc06f2915117fde"
+  },
+  {
+    "path": "workspace/task9_full_figures_20261119/review_sheets.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figures_20261119/review_sheets.py",
+    "bytes": 1245,
+    "sha256": "6ba7689d07e5630a4fb4b3b1716f38d8e73abb2a36571424c8f835336962e3fc"
+  },
+  {
+    "path": "workspace/task9_full_figures_20261119/rig.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figures_20261119/rig.py",
+    "bytes": 6431,
+    "sha256": "95a9ef1375927ce54dfe1c69c11583b6d69a7b96b37068347f7a16cf7fd5d8e7"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/anchors.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/anchors.py",
+    "bytes": 5742,
+    "sha256": "10352c06a6d428cd869f0f4d3064f31a6a1e963b6bec01d1d62873ab1e05c467"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/build_action.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/build_action.py",
+    "bytes": 3154,
+    "sha256": "4aa66412e64f47518745aa2947b1749342ad024dffc67184d758d5f357a964dd"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/build_age.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/build_age.py",
+    "bytes": 3924,
+    "sha256": "8342742d77de7b366eadbdead19705de62d3a15f9bb89ee54235f37a55517bb8"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/build_comparative.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/build_comparative.py",
+    "bytes": 3561,
+    "sha256": "f41ab1813b0437e25537ecddeeef9d2c7de75aa11344b1e47721d8169fb0c972"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/build_holding.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/build_holding.py",
+    "bytes": 4922,
+    "sha256": "60d99ba629b2ed2baa135e11e4e1afe997c1b107935a9222640d652a8638eaf6"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/build_standing.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/build_standing.py",
+    "bytes": 2636,
+    "sha256": "44a9f3e4f87c4fba2e92d8835febf34098f34bbb2b6de3ca836b43f20b828920"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/finalize.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/finalize.py",
+    "bytes": 4030,
+    "sha256": "6dc9b8d5e11179c452b40ee8956dc30721a64020d6d06e41f176be638557e9ed"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/holding.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/holding.py",
+    "bytes": 4016,
+    "sha256": "c40f917530ac8b765a8b48a31f74a601b2e317b5274fca14c9e70af231b4c723"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/make_review.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/make_review.py",
+    "bytes": 6150,
+    "sha256": "41594c7603b0335f178cfaa727c1e605d2002dcd4587632624249b7276cf06d9"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/poses.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/poses.py",
+    "bytes": 4158,
+    "sha256": "efb8149a40fb87fcb564d069489d2e27af0eb8ab2a082a5198430748f5599eb1"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/prepare.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/prepare.py",
+    "bytes": 3948,
+    "sha256": "0ee038db225ef2a82b4fb671c526bea5115f4ff0a2b26f6afe900a30e210063f"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/publish.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/publish.py",
+    "bytes": 2330,
+    "sha256": "a33ab2ad7e90e740919e7813d4772981cd7e0b1b46731cdd86af5141a054fa4b"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/raster_rig.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/raster_rig.py",
+    "bytes": 5953,
+    "sha256": "8460fd2d3ca172fa49991f54a2a4d13f251a8873bfdc4f336d172807b0a8e0c5"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/render_action.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/render_action.py",
+    "bytes": 1523,
+    "sha256": "81523b64c6cbaa404929b786ea8b7301be45c48e8bf9fab29e4d3de4a10c620f"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/render_age.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/render_age.py",
+    "bytes": 1515,
+    "sha256": "33a1d90044ebd8b26d27ab9a29abe46cd7e9024fdcbe1a37398c2fa439221d5b"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/render_comparative.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/render_comparative.py",
+    "bytes": 1539,
+    "sha256": "590183935349e29b5f722d1d883130a8bcccff3260da0a23a96e2f63c079ddd5"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/render_holding.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/render_holding.py",
+    "bytes": 1527,
+    "sha256": "63772877de9bb37cce0e174cc9cdc1949475de91d77a2286b18c087b5671af8d"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/render_standing.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/render_standing.py",
+    "bytes": 1530,
+    "sha256": "daf8b296d2a524911d8fe63b9dd197ba5fc07d4b5f88f8ef0befdc87e081afcc"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/review_accept.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/review_accept.py",
+    "bytes": 787,
+    "sha256": "f01c27ad7a3e5dfb178f77358d465d7f183a4e4f19cdf30afa2b74ba16031595"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/review_assets.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/review_assets.py",
+    "bytes": 1801,
+    "sha256": "7b03b498bc3b28a4cbde7b8d9fa646042320942ce475a21e28985d6a01620807"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/review_native_poses.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/review_native_poses.py",
+    "bytes": 1160,
+    "sha256": "e6dcc8a9581e9b6b74ad698bbad28d1812893bcae5e460b3f831bece63f95a45"
+  },
+  {
+    "path": "workspace/task9_remaining_people_20261119/verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_remaining_people_20261119/verification.json",
+    "bytes": 1868,
+    "sha256": "69c10adbfbbe469c1f1a7bd5dc6630823fb63c46edd1a0ef9c060bc792795d01"
+  },
+  {
+    "path": "workspace/comparative_arrow_audit_20261119/audit.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_audit_20261119/audit.py",
+    "bytes": 2906,
+    "sha256": "1f42c702bae7dea65a0f7470465d9215557eab9cd8b81c31cda3d9cbc4fa4135"
+  },
+  {
+    "path": "workspace/comparative_arrow_audit_20261119/build_report.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_audit_20261119/build_report.py",
+    "bytes": 21300,
+    "sha256": "ab2f12a580975056a9a66ccd5b9443294e4c97b158943817494ed0d38baa3770"
+  },
+  {
+    "path": "workspace/comparative_arrow_audit_20261119/finalize_audit.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_audit_20261119/finalize_audit.py",
+    "bytes": 3561,
+    "sha256": "8812eafae1cf10c23f75e62fb9ca2bd6764d54b52a7434604c91df2b1ceff3bf"
+  },
+  {
+    "path": "workspace/comparative_arrow_audit_20261119/followups.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_audit_20261119/followups.py",
+    "bytes": 2730,
+    "sha256": "dfca146aff1901554f497933402796c249a2996d91394116cbb6033b06fde6ca"
+  },
+  {
+    "path": "workspace/comparative_arrow_audit_20261119/measure.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_audit_20261119/measure.py",
+    "bytes": 2003,
+    "sha256": "8b8c848de66154de9c6a022218c443def552f173651c69d555c23906185d0f60"
+  },
+  {
+    "path": "workspace/comparative_arrow_audit_20261119/summary.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_audit_20261119/summary.json",
+    "bytes": 4480,
+    "sha256": "d07ff5f25a344cf27665779ddd0017d189fa690470873d5837b5ba12949541ca"
+  },
+  {
+    "path": "workspace/comparative_arrow_audit_20261119/verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_audit_20261119/verification.json",
+    "bytes": 219314,
+    "sha256": "6c98293d757f22239cdf98d153361553b020bb9afc1748063be0df3347763a39"
+  },
+  {
+    "path": "workspace/task9_inventory_20261119/build_review.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_inventory_20261119/build_review.py",
+    "bytes": 24519,
+    "sha256": "d37cca8270b121cba444e5b616a6f7d1919c37c49af7d92bdd49d3c2e4b1726f"
+  },
+  {
+    "path": "workspace/task9_inventory_20261119/summary.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_inventory_20261119/summary.json",
+    "bytes": 1015,
+    "sha256": "af5ac803e9e5f7ab73eb605ca8a995a8fe64b50f45020dc318390769801777f0"
+  },
+  {
+    "path": "workspace/task9_inventory_20261119/verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_inventory_20261119/verification.json",
+    "bytes": 309,
+    "sha256": "7e26b3914144d55bef81339f3467c5e385bc719f5beb5931237b5b0fa78d3901"
+  },
+  {
+    "path": "workspace/task9_full_figure_preview_20261119/build.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figure_preview_20261119/build.py",
+    "bytes": 7070,
+    "sha256": "1cc6eb4c840279f4ef75c05f71f4746e44de65c0f4870652d8a7c8b2697fdee3"
+  },
+  {
+    "path": "workspace/task9_full_figure_preview_20261119/finish_review.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figure_preview_20261119/finish_review.py",
+    "bytes": 5610,
+    "sha256": "1839b655fa22c99e0d901a7bff99c43ff6be31cf6f8db99104d3e36ab63e2cd8"
+  },
+  {
+    "path": "workspace/task9_full_figure_preview_20261119/verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_full_figure_preview_20261119/verification.json",
+    "bytes": 3229,
+    "sha256": "40a4ed12dc17d1d912414c4afdca95ab4d01984654cac4e89f803ae4afc6bdc2"
+  },
+  {
+    "path": "workspace/task11_preparation_20261119/authorised_sequence.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task11_preparation_20261119/authorised_sequence.json",
+    "bytes": 2539,
+    "sha256": "5a90e0219879fe7d1275181903954a0b80f771224d953ed4638007bd1959093e"
+  },
+  {
+    "path": "workspace/task11_preparation_20261119/execution.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task11_preparation_20261119/execution.json",
+    "bytes": 2178,
+    "sha256": "ae7b5045c88cc415c7750df065141a4aa9c4ced3bf8ce230bbda10ce968cc2ff"
+  },
+  {
+    "path": "workspace/task11_preparation_20261119/rename_after_task10.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task11_preparation_20261119/rename_after_task10.py",
+    "bytes": 6743,
+    "sha256": "cbecf3e13deaed8f21aecbb7c8960918b2bd7926855339cd1ebe19efe4607bc1"
+  },
+  {
+    "path": "workspace/task11_preparation_20261119/server.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task11_preparation_20261119/server.py",
+    "bytes": 5430,
+    "sha256": "f6fe636a81f721ed2dd301d1d7e5e1641c2db65149544d12ed3dd3c6e980dd76"
+  },
+  {
+    "path": "workspace/task9_reuse_audit_20261119/audit.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_reuse_audit_20261119/audit.py",
+    "bytes": 4478,
+    "sha256": "2d5866cd01abf1cc58e6c2a226e7d53971144899f41df5c821968ad5f3e337e2"
+  },
+  {
+    "path": "workspace/task9_reuse_audit_20261119/check_annotations.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_reuse_audit_20261119/check_annotations.py",
+    "bytes": 2156,
+    "sha256": "fa93907c6fa60a825e612750016c6fc94120f0bf272d8cd98947082a4f9edef3"
+  },
+  {
+    "path": "workspace/task9_reuse_audit_20261119/compare_figures.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_reuse_audit_20261119/compare_figures.py",
+    "bytes": 7871,
+    "sha256": "c803bf22f38380d1ec7cdad999f1af0341651712bd2182da7671f70f0853325a"
+  },
+  {
+    "path": "workspace/task9_reuse_audit_20261119/report.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_reuse_audit_20261119/report.py",
+    "bytes": 22474,
+    "sha256": "f2a3b32cf7147279b099e8bd6c4fb52ffda2ce36d8ec4171467b8432d231941b"
+  },
+  {
+    "path": "workspace/task9_reuse_audit_20261119/summary.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_reuse_audit_20261119/summary.json",
+    "bytes": 1272,
+    "sha256": "0c6bc52e02030dc3d7d06082b0aa196b43b5e02ddb120624e08d605b22c24ee8"
+  },
+  {
+    "path": "workspace/task9_reuse_audit_20261119/verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_reuse_audit_20261119/verification.json",
+    "bytes": 578,
+    "sha256": "760e5078152ade7119baf52ee1d784f4c765f9c003ede3efaae49f205a551427"
+  },
+  {
+    "path": "workspace/comparative_arrow_repairs_20261119/completion.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_repairs_20261119/completion.json",
+    "bytes": 1295,
+    "sha256": "004390c831d1705f15f138b951c737348f3c78ebe68c5b36eff7bd65f07cc2b9"
+  },
+  {
+    "path": "workspace/comparative_arrow_repairs_20261119/finish.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_repairs_20261119/finish.py",
+    "bytes": 9312,
+    "sha256": "edf3c03affd4c11931cb75f68a3a881508832473b5e4969d3aca2f55ca7ba32e"
+  },
+  {
+    "path": "workspace/comparative_arrow_repairs_20261119/publish.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_repairs_20261119/publish.py",
+    "bytes": 2460,
+    "sha256": "e3188ec4dcf838700571dec5cc8a227280df32f0df6694c352fcabc786cc72a1"
+  },
+  {
+    "path": "workspace/comparative_arrow_repairs_20261119/repair.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/comparative_arrow_repairs_20261119/repair.py",
+    "bytes": 9547,
+    "sha256": "37abd98be10fd8c2f2a168f36b200af1d5ebb6ff2d05bb67bc389501370a3f7e"
+  },
+  {
+    "path": "workspace/task10_production_20261119/completion.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/completion.json",
+    "bytes": 676,
+    "sha256": "87ba68a8104020cb6e7a53eeaec345212aabc1cd7a7ab119c9300e87b61286f0"
+  },
+  {
+    "path": "workspace/task10_production_20261119/compose.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/compose.py",
+    "bytes": 7235,
+    "sha256": "4f418f1a8807fc2107e863ef3999e05f30f474d920942f2d9be5d3bc3784e71b"
+  },
+  {
+    "path": "workspace/task10_production_20261119/final_verify.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/final_verify.py",
+    "bytes": 2530,
+    "sha256": "590af401c42eecde2087b1768219fa855ce4f053d98a004e647924780ee5ae6e"
+  },
+  {
+    "path": "workspace/task10_production_20261119/finish_rollout.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/finish_rollout.py",
+    "bytes": 577,
+    "sha256": "65fc02ac08fb0f3d73865177d2e0e029e64842b611372d391cab6cda125aa0db"
+  },
+  {
+    "path": "workspace/task10_production_20261119/inventory.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/inventory.py",
+    "bytes": 7205,
+    "sha256": "a673fa0fa3ed7ea89465707435c41d894fb4e485279f22426bc4b7cb302e5892"
+  },
+  {
+    "path": "workspace/task10_production_20261119/reconcile_auxiliaries.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/reconcile_auxiliaries.py",
+    "bytes": 3955,
+    "sha256": "0701529f90d23378a612911147aed20ea21bb236bcf0bcbc2d1d2f0aec254e9a"
+  },
+  {
+    "path": "workspace/task10_production_20261119/resolve_clock_holds.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/resolve_clock_holds.py",
+    "bytes": 2335,
+    "sha256": "9d1f67c38889cb67bf0772f3e29c45a4bba99e613e988168b9cfc3cb4acd5655"
+  },
+  {
+    "path": "workspace/task10_production_20261119/review_first.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/review_first.py",
+    "bytes": 1614,
+    "sha256": "4f3ad9f195a6f57cec9044d8988eb17b9cf8a993728f482cf2201f7b10e71635"
+  },
+  {
+    "path": "workspace/task10_production_20261119/run.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task10_production_20261119/run.py",
+    "bytes": 5027,
+    "sha256": "12210541532a5d49399e05f307fc88ed39c8938dd6265f929a6815322b9cb1de"
+  },
+  {
+    "path": "workspace/task9_completion_20261119/prepare.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_completion_20261119/prepare.py",
+    "bytes": 5169,
+    "sha256": "f84447240bf3451f5c9ce95ed159308944865a49b346558e028d870f5e09de58"
+  },
+  {
+    "path": "workspace/task9_completion_20261119/publish.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_completion_20261119/publish.py",
+    "bytes": 3500,
+    "sha256": "f52bb6587c0acef7879dee874a2de9bc82e12ac0ad8a8c95ee43f4366ce062d3"
+  },
+  {
+    "path": "workspace/task9_completion_20261119/verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/task9_completion_20261119/verification.json",
+    "bytes": 1480,
+    "sha256": "bcfb4bb6991b15502ee652cf614747a9232e7ca5f40fe92e43b68187f2c1a890"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/completion.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/completion.json",
+    "bytes": 507,
+    "sha256": "95dc4c13d65c7b46393cea42b9b20b30befa132f8e1cdbc855b0e42a06cfc1dd"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/final_audit.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/final_audit.json",
+    "bytes": 319,
+    "sha256": "26501d721cd0adb230208a5657e84ddf79ac14aa70278bb2046036ebb7ad46e1"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/handoff_verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/handoff_verification.json",
+    "bytes": 240,
+    "sha256": "fb8f37a35d24f877ed3de3a0606ca0d6ca951785865db2cae13e52bc79e12a53"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/licence_exclusions.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/licence_exclusions.json",
+    "bytes": 6120,
+    "sha256": "9502609e09d1d9866f1f24c052d273d6031dc8a98ec2db8232e579c79d7292e8"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/parallel_verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/parallel_verification.json",
+    "bytes": 282,
+    "sha256": "970a74124420c8deb28ebf0cd509e4a89d0c2d25455802f7e21e7aa8563dcb5f"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/pipeline.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/pipeline.py",
+    "bytes": 20511,
+    "sha256": "dbf1698668397f3192095da1bf34c5bc85afbd7b9ca37a178bf35acb3f59dca0"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/switch_to_parallel.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/switch_to_parallel.py",
+    "bytes": 3192,
+    "sha256": "e959aab7db124bf665e88d707a7a127d6f9ad30dc9781a1ee20616718fc31416"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/task12_completion.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/task12_completion.json",
+    "bytes": 263,
+    "sha256": "e1d70fc7936603a9d0cc31dc86452929ae9302359b8dc6c70391a9b89cecfcb8"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/verification.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/verification.json",
+    "bytes": 11505,
+    "sha256": "a442d10e8cbca00c6de42a9aa1d08fa069c330e2b18b017d1ba289e285abd938"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/verify_handoff.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/verify_handoff.py",
+    "bytes": 2074,
+    "sha256": "a26e438829b6cb8f46bf5d5e39962c1d764ceb3522ba515f1edcb36513dbf342"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/verify_parallel.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/verify_parallel.py",
+    "bytes": 3040,
+    "sha256": "49449953096ef5196fd5d5c3e553bf8468ec1da8acb3f88929186bec12b03c75"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/verify_pipeline.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/verify_pipeline.py",
+    "bytes": 4713,
+    "sha256": "5115bbf8b28b03732f49260107f901c56f5f37230c72d709aabf22a1bca21e9c"
+  },
+  {
+    "path": "workspace/final_delivery_20261119/visual_acceptance.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/final_delivery_20261119/visual_acceptance.json",
+    "bytes": 452,
+    "sha256": "f165469d5d4c9263726c4a2abecf2bbcbe3f085a3696259b53745efaf417f2c0"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/all_people_progress.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/all_people_progress.py",
+    "bytes": 13739,
+    "sha256": "587a1dfbce485b473a6c270957ac01dbac7130087784fbf17e547e2e4abec4ee"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/blob_screen.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/blob_screen.py",
+    "bytes": 15202,
+    "sha256": "5aab861b91097756a9edb293296aa8296fb1a8d20daa6065d218576471833e6d"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/build_final_people_delivery.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/build_final_people_delivery.py",
+    "bytes": 12479,
+    "sha256": "07bde22c028b80aa19396ec8e197f34d9774a046de7ffb21a910a4b194e0acf2"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/low_load_runner.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/low_load_runner.py",
+    "bytes": 37865,
+    "sha256": "86d0afd896f284cd50591e6f45639eccb8e0e64330d0d6c7c6cae212d7d7a717"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/measure_current_repaired_sources_20261105.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/measure_current_repaired_sources_20261105.py",
+    "bytes": 4592,
+    "sha256": "cdf44b5092a3d04dcd4752a714cf939fea2b58d1fe3c6db6dd7bd559a087e43e"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/measure_roi_regions.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/measure_roi_regions.py",
+    "bytes": 12038,
+    "sha256": "9ddce75e5be1f24126a0fcd29d2fb82e9567779b30fabee08a21cb436d0e92cc"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/measure_roi_regions_source_revision_20261105.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/measure_roi_regions_source_revision_20261105.py",
+    "bytes": 3309,
+    "sha256": "ccf249527b1c5c5320d4eee76239c3e9fdc6d49eb9b2e1b293363d330fba2d37"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/prepare_batch002.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/prepare_batch002.py",
+    "bytes": 16657,
+    "sha256": "0e5753b8c12497da65f1f529a49f52e9fa453b362e13dac1da4341396f466f95"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/prepare_batch003.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/prepare_batch003.py",
+    "bytes": 19623,
+    "sha256": "7f540d93b8c40dd25b88fc31c76d963de6645f18069f7093ba6a2d64dc42e837"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/prepare_current_repair_source_views_20261105.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/prepare_current_repair_source_views_20261105.py",
+    "bytes": 5055,
+    "sha256": "fb6879d16842fb815e60ffecac417a77b18de564f4c1383932f6286420fbb4fd"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/protocol.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/protocol.json",
+    "bytes": 8949,
+    "sha256": "13fea2266c0d0875dfb9e94f37861c85f5a5f61b0c5460ab0642a398a9e14b83"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/test_build_final_people_delivery.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/test_build_final_people_delivery.py",
+    "bytes": 4138,
+    "sha256": "85b0ba41de10033b7f4156c79d35d58ff61c6dd774b7cef5bdb409e9215d74d1"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/test_measure_roi_regions.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/test_measure_roi_regions.py",
+    "bytes": 1897,
+    "sha256": "0218eca7038039b0c712167e56f01ceef0bbe5c8d977f0b968c41795fc0cb955"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/test_verify_all_people_completion.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/test_verify_all_people_completion.py",
+    "bytes": 10289,
+    "sha256": "d91078457597e4fa37dbf952fa296913a43d3cf92da7af9a7c0c96466b88ea3f"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/verify_all_people_completion.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/verify_all_people_completion.py",
+    "bytes": 34841,
+    "sha256": "5d5ec4fa64f5a7ff282e0a210725d37bf4970adbfbf7b7424b248a795ea4685c"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/acceptance_policy.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/acceptance_policy.json",
+    "bytes": 693,
+    "sha256": "dfc97e202a54cefa3abec994c5bdd01f79cbdd11f17668be27d421bc9cb69345"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/bootstrap_inventory.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/bootstrap_inventory.py",
+    "bytes": 31536,
+    "sha256": "fc41d02b7dfedcee3fb9bc81d6689137d42eaa892aab3722339974b54ab0892e"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/build_progress_index.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/build_progress_index.py",
+    "bytes": 5238,
+    "sha256": "4f7129f6c663256f02289aa072e6e5068e4eb782e77647e5b2e5b7ed715e5a89"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/build_review.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/build_review.py",
+    "bytes": 6366,
+    "sha256": "398a51927c658271bacda2c999b32cd36afd7c437067c6a6fe72b031ebb998bb"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/commit_progress.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/commit_progress.py",
+    "bytes": 12589,
+    "sha256": "7b99e08406856a9bbe21a8d41d3ea22ee92aed050ff584de2ddf3312567c1157"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/common.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/common.py",
+    "bytes": 1298,
+    "sha256": "ef67d43648d075bfa332e49df5deebc7821ee4899e39b411fa06bf26b19a398b"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/compact_batch.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/compact_batch.py",
+    "bytes": 4063,
+    "sha256": "ec4ced1ef9abddb6142013e5b78f7f1c0e70f2c75f3dd511cea00006340d7517"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/compile_decisions.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/compile_decisions.py",
+    "bytes": 8740,
+    "sha256": "2e280df83fb8d0994ce39eaa91bdb440288beac1b4b21d0de95c48e013418974"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/finish_batch.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/finish_batch.py",
+    "bytes": 936,
+    "sha256": "6902bf938d2005098c371bf062ab3cffeced1a4c6e09502899d2c511a40cc6c2"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/prepare_batch.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/prepare_batch.py",
+    "bytes": 4189,
+    "sha256": "2eb8970dfb82c6500379483adf81f54a58258f704bee607a2382cd26e1c22c36"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/prepare_historical_review.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/prepare_historical_review.py",
+    "bytes": 7189,
+    "sha256": "6d0707b2926c9b25a4f723571378a1660a5ae3b901ed4316d4c493923201eb70"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/prepare_source_previews.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/prepare_source_previews.py",
+    "bytes": 16261,
+    "sha256": "33d5383a3a7d4ffce992aaa8ed83502f0fd68a2629774d4890cfc5a268c6b28a"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/protocol.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/protocol.json",
+    "bytes": 2866,
+    "sha256": "865b63fe6ccba75e703261eeaded64799515d135023ece8c50542510d4cda106"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/qa.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/qa.py",
+    "bytes": 11221,
+    "sha256": "c096c7d33aa7594dbec6fb36fbe5db7b91181e246b09c18c64a6e2990e59c679"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/run_selected.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/run_selected.py",
+    "bytes": 19778,
+    "sha256": "7227c247c51ec69ad928ca99b678e364d6f6fcc770b6289ce30873808ae1348c"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/seal.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/seal.py",
+    "bytes": 10989,
+    "sha256": "a957c8805ad7474946dcc175d065b3cad10a889bb97fc6b0f978982d501caeaa"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/stage_batch.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/stage_batch.py",
+    "bytes": 3032,
+    "sha256": "437ad990d9944539af71137436a17bee843a26f67d7bf791e2effe7e8d22b4e9"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/summary.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/summary.json",
+    "bytes": 4719,
+    "sha256": "c15fada2241f5031040e261ebf4f7fd578bbcd947e5180c2da23e30c8f22a594"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production/test_acceptance_policy.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production/test_acceptance_policy.py",
+    "bytes": 7224,
+    "sha256": "ab0c961670b303039051ee5569f1995890202717f7b506838065d1c729375526"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/acceptance_policy.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/acceptance_policy.json",
+    "bytes": 693,
+    "sha256": "dfc97e202a54cefa3abec994c5bdd01f79cbdd11f17668be27d421bc9cb69345"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/activation.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/activation.py",
+    "bytes": 3986,
+    "sha256": "301fe39b0dc00d122c489ccef0695dc297821fa7a68d1473dd35334f08a1cdff"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/activation_gate.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/activation_gate.py",
+    "bytes": 106,
+    "sha256": "6dd98f9dc417513889c5da47b38f4b46d82c2d807fd88ca3d8e157d444f354ae"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/active_attestation.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/active_attestation.py",
+    "bytes": 10820,
+    "sha256": "2da377c77f59a46ff204b2afd77f4ed134513fb1851bf13ebbb8beeb22f0a4f8"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/bootstrap_inventory.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/bootstrap_inventory.py",
+    "bytes": 10848,
+    "sha256": "ca619413e099d9ecc6d2be13d2cb7977384eaa5d0591c7e5480da3d01981bee1"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/build_progress_index.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/build_progress_index.py",
+    "bytes": 1221,
+    "sha256": "1d07ce0669bac5ed5ee74b8fb61172a53018b9204077e218caab8ea5847dce9f"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/build_review.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/build_review.py",
+    "bytes": 6262,
+    "sha256": "52aee32829fe71e5755d02dfc9f49bbba130843d4e5276851c4e740da0616cfc"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/byte_proofs.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/byte_proofs.py",
+    "bytes": 23052,
+    "sha256": "0421ee59886f83a997e5b4a24d173750093fa8e279af97a88c271023ecb8e835"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/commit_progress.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/commit_progress.py",
+    "bytes": 14069,
+    "sha256": "e53b08475d3a934ac10a7d89b7387ac497830282a9c4be0c8cc20ef68d94b14f"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/common.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/common.py",
+    "bytes": 3449,
+    "sha256": "80fc108b8e8318f9dcc38f3ab7b16bb8a0421fd10cff28d7d543849b53790971"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/compact_batch.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/compact_batch.py",
+    "bytes": 173,
+    "sha256": "a7895b4cbc0fede1a6f86a151e684bb712ed5cd5e39cf5bfa0ca4b67e01fd676"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/compile_decisions.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/compile_decisions.py",
+    "bytes": 9036,
+    "sha256": "c82427cdfd797c0f670c45868a7f9b3c8bdaba33ee7c2c50ec680ed5709597c9"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/contracts.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/contracts.py",
+    "bytes": 5356,
+    "sha256": "7d87674b29b04557259ddaa1726220eca1fefc65ed373134f8a5daeb42f5572c"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/final_delivery.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/final_delivery.py",
+    "bytes": 7962,
+    "sha256": "2e41fb32bf0fb7d892cff2e04d232d1d901bf76d4a5a6072801330f21131ba77"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/finish_batch.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/finish_batch.py",
+    "bytes": 1477,
+    "sha256": "a5c1bfba7cb8c4fb755ff40119d1b900b824f78b8273b01cefddb1906ceaaf5f"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/freeze_core.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/freeze_core.py",
+    "bytes": 14721,
+    "sha256": "65a28987cb0edd4a817820058d5d5baa3b983ba5a3761e9de44f1fb57443602b"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/legacy_lineage.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/legacy_lineage.py",
+    "bytes": 8547,
+    "sha256": "5a6fad39dfeb33a1e71a0a420c32721c5ced72a5529e3d337139461e541af9fd"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/non_people_publication.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/non_people_publication.py",
+    "bytes": 20349,
+    "sha256": "4467b86ddbb6dcaba33a437f2a24cb8cf205c6b6983566eb5aa3af37aef8947c"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/prepare_batch.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/prepare_batch.py",
+    "bytes": 4743,
+    "sha256": "ddcfb2939cd4453b9bcd474cc06fc32ea36e7f1db165f151dc66f21cbd61526b"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/prepare_source_previews.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/prepare_source_previews.py",
+    "bytes": 16479,
+    "sha256": "70721ee20a346722c31c7572e6b500303bf4d8e96d4384fd93e066cb18fb52db"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/prerequisites.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/prerequisites.py",
+    "bytes": 34871,
+    "sha256": "8736bad7707e87e2ba6b73e818df66e6f7b2ba1fdf08954725889c58df4044fd"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/protocol.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/protocol.json",
+    "bytes": 4783,
+    "sha256": "122126ddf2cb45e91d24bdf31b3a29edcbaddccbf9522f5206e83895ac3a1857"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/publication_transaction.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/publication_transaction.py",
+    "bytes": 8193,
+    "sha256": "4c7a6aa11f476acf9b4025e4748e377e23932e482bc6e72d1103166932f96399"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/publish_prior.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/publish_prior.py",
+    "bytes": 904,
+    "sha256": "e8f5bb499cf2969f34970e4813340e2aa383116a094500ca0e906fddb3c410b9"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/qa.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/qa.py",
+    "bytes": 11356,
+    "sha256": "efc81f04988399cd85a44363e8bc883e73e6f5566cca4fc18a89dba7cf5dd87b"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/run_selected.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/run_selected.py",
+    "bytes": 20121,
+    "sha256": "23877671a3fb9ac315e0d4fc5070cd7d6615b4188022f5226d6aa80ed2d61ff4"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/scope_contract.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/scope_contract.json",
+    "bytes": 7803,
+    "sha256": "267acb6408b8e842343132cdbd73cb5060d0b6e383711439fd546039f8b9708c"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/scope_metadata.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/scope_metadata.py",
+    "bytes": 6178,
+    "sha256": "09e1d07dc627d676724d8882ad5a6fe6ca9561384f0214668f44e6ff56882b8b"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/seal.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/seal.py",
+    "bytes": 11845,
+    "sha256": "bb49a1f05f044ee24c616114e44070252ead886a02eb5f0121573261f6f01b98"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/source_versions.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/source_versions.py",
+    "bytes": 8747,
+    "sha256": "cf11d0cbc75e00e0c6a2a9129b906e48bea4228084bab03acf487d64dbfebf07"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/stage_batch.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/stage_batch.py",
+    "bytes": 3104,
+    "sha256": "f8b62a26cadfef0353c0d62bc805c6c0616c5a6843863f6cc98c354ca36d4bf9"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/summary.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/summary.json",
+    "bytes": 437,
+    "sha256": "85a6d1478dc31c988b80ea7930e3c051156a81ff8b84cd0ab1dd81a5f814050b"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/test_active_attestation.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/test_active_attestation.py",
+    "bytes": 11910,
+    "sha256": "18c4d0ee83faee61ccea2f9395b06986df43c2b589e3c66df48c973247e30fe9"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/test_final_phase.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/test_final_phase.py",
+    "bytes": 12030,
+    "sha256": "0320615dbf79eb76b062ad28f3565e1dbe9a8294e8f331a884b3c6c2a9ea0a05"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/test_publication.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/test_publication.py",
+    "bytes": 27012,
+    "sha256": "286c69e50fe51e827f9821493ff5a804478708f66a781fd672f3e9aec8f267c5"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/test_runtime_core.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/test_runtime_core.py",
+    "bytes": 9059,
+    "sha256": "64b3f2afed07804df20f53bbc17c3f8ee070543d1707c42c86a7ea6a8bd13066"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/test_version_integration.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/test_version_integration.py",
+    "bytes": 52889,
+    "sha256": "41f29bde013f6f6eed7ab12e5711b774f233f7b84303cea293ad6a6d21b1c15a"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/test_wizard_q80_prerequisite.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/test_wizard_q80_prerequisite.py",
+    "bytes": 11214,
+    "sha256": "7fb3088a5494bde0e5d491bc197f625b997a7d93230079d573e82cdd9d39c7ca"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/verification.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/verification.py",
+    "bytes": 14538,
+    "sha256": "7342907c4606695b358519d1c61f31f96ab2fb65bab6da91cb170582f46883be"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_non_people/wizard_q80_prerequisite.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_non_people/wizard_q80_prerequisite.py",
+    "bytes": 9315,
+    "sha256": "aabecc2776bf9214d4a50b38ebfedff7ea1718bf6c8ef1d597922c461864e63a"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_remaining_people/prepare_source_previews.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_remaining_people/prepare_source_previews.py",
+    "bytes": 16333,
+    "sha256": "c8b23850ec66728e0778414e8ea5915aa65e451cb5c8cee05b3f03b2081ac37e"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/RUNBOOK.md",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/RUNBOOK.md",
+    "bytes": 18285,
+    "sha256": "01145ac2f3fc0e6712d52ba77d871a02c32e1e6482d372c3ed736a3f2fc3807b"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/batches.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/batches.py",
+    "bytes": 46322,
+    "sha256": "2dd8dc189b694662417b15b83cb9c44218dee344393b77c9300699570424fdfd"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/contracts.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/contracts.py",
+    "bytes": 5486,
+    "sha256": "562a3bc9f18ac4da199294f2a46cae893ba3a148f5a1da72dcb8202006271290"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/engine.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/engine.py",
+    "bytes": 9446,
+    "sha256": "ee2ade69277ba7e8e90c358803183a7b4b69ec8b913057e1d39eeb5620193825"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/gates.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/gates.py",
+    "bytes": 12328,
+    "sha256": "ebd6008d829a4e43418988af4572a236a6d8e4c9c5c15b098f60dc37acdc0322"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/review_evidence.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/review_evidence.py",
+    "bytes": 14458,
+    "sha256": "7599addcd7c8b93e7c6ba720d4cdfc4738a87021d3e4a6c000c5458430e0e722"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/test_batches.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/test_batches.py",
+    "bytes": 40739,
+    "sha256": "38b7da372729cb3d46733e207631dd5c51a1844b0c35bbbb877a56e0b1bbaa7d"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/test_staged.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/test_staged.py",
+    "bytes": 169,
+    "sha256": "8f73011672a6c5b41a7dfda09264056fe569ee0506d1b7d5ee235a07420ba32f"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/validation_report.json",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/validation_report.json",
+    "bytes": 2164,
+    "sha256": "65440f48fd4e1616efd7b5247784bc8592cc95e3776ae306b0b4953f2f220b0f"
+  },
+  {
+    "path": "workspace/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/workflow.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/people_cleanup/production_wizard_soccer/workflow.py",
+    "bytes": 4767,
+    "sha256": "0b9c83015dec670f5f1db07e401d283a597eed67d197404725c29e232dbd858c"
+  },
+  {
+    "path": "picom_review/LIBRARY_TASKS.md",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/LIBRARY_TASKS.md",
+    "bytes": 94894,
+    "sha256": "dc44bc1a89cc0a11a171e9c4643e74392c468627a5d8588227899cbee0c56b3e"
+  },
+  {
+    "path": "picom_review/CONSOLIDATION_PLAN.md",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/CONSOLIDATION_PLAN.md",
+    "bytes": 12754,
+    "sha256": "c2bbdd8d308a95b88a3e58f02399ba7080e35a63220416c80e223c33962f56bf"
+  },
+  {
+    "path": "picom_review/smart_shrink_plurals.py",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/smart_shrink_plurals.py",
+    "bytes": 5718,
+    "sha256": "38cfc2d209e1498e2df0269bb233b0fcd2fd9a5119fa4987993b620ca3c4dd3e"
+  },
+  {
+    "path": "picom_review/make_plurals_flex.py",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/make_plurals_flex.py",
+    "bytes": 2608,
+    "sha256": "adf12d954ff48c7062d0784879bfa9c36f319ace87beb5dd200ac4afde7c46cc"
+  },
+  {
+    "path": "picom_review/build_tenses.py",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/build_tenses.py",
+    "bytes": 9668,
+    "sha256": "58233cc7e0a0af33f7c389cd60793a4814646fa495fca4971949601a3e4ca34c"
+  },
+  {
+    "path": "picom_review/tense_annotate.py",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/tense_annotate.py",
+    "bytes": 6927,
+    "sha256": "4e4f9d475b3d4300712325a89803d0a735c483e303fa65764f0a7b2da0f7874f"
+  },
+  {
+    "path": "picom_review/det_auxiliaries.py",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/det_auxiliaries.py",
+    "bytes": 7783,
+    "sha256": "010fe535dcb9ef14a8749ea3bc9c7776e381f22919be737ca73a7b1934c6a263"
+  },
+  {
+    "path": "picom_review/det_engine.py",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/det_engine.py",
+    "bytes": 30289,
+    "sha256": "5f21ca24f9756b18e88cd7e09a1f6d87189a31808c20d95cf5c0b4acb3cdc930"
+  },
+  {
+    "path": "picom_review/stamp_copyright.py",
+    "source": "/Users/paulblenkhorn/Desktop/picom_review/stamp_copyright.py",
+    "bytes": 4826,
+    "sha256": "a07c1090a990616f5c5af1a2907309b689c3ec5fae98f00efc2ab94629e027f9"
+  },
+  {
+    "path": "publisher/publish.py",
+    "source": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/github_delivery_20261120/publish.py",
+    "bytes": 18234,
+    "sha256": "ad99f0fe81ac0b963622203bbf8271a65baeaa838273153e818cc9adb519a27b"
+  }
+]

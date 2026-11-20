@@ -1,0 +1,20 @@
+{
+  "source_files_checked": 1248,
+  "source_files_changed": [],
+  "visual_sheets_reviewed": 52,
+  "visual_outputs_reviewed": 873,
+  "five_style_people_outputs_reviewed": 790,
+  "annotation_checks": 480,
+  "annotation_failures": 0,
+  "book_files_checked": 90,
+  "duplicates_svg_ids": 0,
+  "image_mutations": 0,
+  "browser_render_checked": true,
+  "html_script_errors": [],
+  "viewer_default_count": 480,
+  "viewer_omission_count": 5,
+  "viewer_style_reuse_count": 96,
+  "broken_visible_images": 0,
+  "temporary_review_files_deleted": 53,
+  "temporary_bytes_reclaimed": 14207666
+}

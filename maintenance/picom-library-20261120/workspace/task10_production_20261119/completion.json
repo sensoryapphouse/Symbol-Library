@@ -1,0 +1,19 @@
+{
+  "verified_at": "2026-11-19T19:58:22.740026+11:00",
+  "task10_complete": true,
+  "checks_complete": true,
+  "held_cases_disposed": true,
+  "auxiliary_modal_reconciled": true,
+  "queue_counts": {
+    "excluded": 87,
+    "published": 53826
+  },
+  "published_queue_outputs": 53826,
+  "distinct_queue_sources_verified": 43002,
+  "auxiliary_reuse_and_fills": 304,
+  "semantic_exclusions": 87,
+  "source_or_output_errors": [],
+  "visual_review": "342 validation samples and all 306 clock repairs; 17 schematic auxiliary masters. Remaining bulk outputs independently render/geometry/hash checked, not all visually checked.",
+  "temporary_images_removed": true,
+  "next_task": 11
+}

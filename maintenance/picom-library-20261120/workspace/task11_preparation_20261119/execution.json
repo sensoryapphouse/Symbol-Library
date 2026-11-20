@@ -1,0 +1,103 @@
+{
+  "state": "complete",
+  "started_at": "2026-11-19T19:58:37.587119+11:00",
+  "directories": {
+    "3D animated cartoon": {
+      "inode": 461501001,
+      "device": 16777234
+    },
+    "Basic": {
+      "inode": 464291689,
+      "device": 16777234
+    },
+    "Classic flat TV cartoon": {
+      "inode": 460047126,
+      "device": 16777234
+    },
+    "Clay plasticine": {
+      "inode": 460123908,
+      "device": 16777234
+    },
+    "Doll": {
+      "inode": 459817459,
+      "device": 16777234
+    },
+    "Flat outlined": {
+      "inode": 461496882,
+      "device": 16777234
+    },
+    "Friendly aliens": {
+      "inode": 460266719,
+      "device": 16777234
+    },
+    "Kawaii": {
+      "inode": 461499255,
+      "device": 16777234
+    },
+    "Monkey": {
+      "inode": 459884372,
+      "device": 16777234
+    },
+    "Monster": {
+      "inode": 464284520,
+      "device": 16777234
+    },
+    "Mulberry": {
+      "inode": 494439219,
+      "device": 16777234
+    },
+    "Robot": {
+      "inode": 459861377,
+      "device": 16777234
+    },
+    "Simple anime": {
+      "inode": 461496968,
+      "device": 16777234
+    },
+    "Soccer player": {
+      "inode": 471039919,
+      "device": 16777234
+    },
+    "Sommi": {
+      "inode": 461578605,
+      "device": 16777234
+    },
+    "Sommi clothed": {
+      "inode": 461584533,
+      "device": 16777234
+    },
+    "Sommi companion objects": {
+      "inode": 461955996,
+      "device": 16777234
+    },
+    "Teddy bear": {
+      "inode": 459782296,
+      "device": 16777234
+    },
+    "Wizard": {
+      "inode": 471039916,
+      "device": 16777234
+    },
+    "Wood": {
+      "inode": 464288109,
+      "device": 16777234
+    }
+  },
+  "renamed": [
+    "3D animated cartoon",
+    "Basic",
+    "Classic flat TV cartoon",
+    "Clay plasticine",
+    "Flat outlined",
+    "Friendly aliens",
+    "Mulberry",
+    "Simple anime",
+    "Soccer player",
+    "Sommi companion objects"
+  ],
+  "completed_at": "2026-11-19T19:58:39.284252+11:00",
+  "people_originals_untouched": true,
+  "image_copies_created": 0,
+  "registry": "/Users/paulblenkhorn/Downloads/picom-ai-sommi-action-symbols/Library/_manifest/current-style-names.json",
+  "next_task": 12
+}

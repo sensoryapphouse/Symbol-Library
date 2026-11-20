@@ -1,0 +1,65 @@
+{
+  "protocol_version": 1,
+  "rule_version": "people-white-core-v1",
+  "execution_enabled": true,
+  "authorized_scope": "All remaining Library People & Relationships sources; production, no further general pilots.",
+  "authorization": "User requested remaining People, batches, one Python worker, originals safe and every changed image checked.",
+  "engine": {
+    "sha256": "b965cc46a3c75603209c41d8cab4f1acf2679f94b5c5a34efd237ee41ce338fe",
+    "path": "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PiCom Symbols/restored_cleanup_pilot/scripts/cleaner.py",
+    "mode": "reviewed_strict_white_core_only"
+  },
+  "threshold": {
+    "rgb_min": 240,
+    "max_channel_range": 20,
+    "min_alpha": 128,
+    "connectivity": 8
+  },
+  "source_eligibility_total_strict_white_pixels_at_512": 256,
+  "minimum_core_pixels_per_region_at_512": 256,
+  "source_review": "Qualified visual review of each eligible source; same-concept peers support interpretation; never transfer masks automatically.",
+  "source_comparison": "Different actual poses or subjects may share names. Single-style concepts remain in scope.",
+  "cleanup": "Only reviewed strict-white core alpha becomes zero. Every RGB value and every other RGBA value stays exact.",
+  "output_review": "Independent of source reviewer; every changed full image, every region and normal-size usefulness; identity/hash-bound record immediately after viewing.",
+  "acceptance": "Only mechanically verified outputs with clear visual safety and clear worthwhile improvement. Otherwise retain original.",
+  "prior_work": "Previously accepted safe deliverables remain valid under their recorded earlier policy; do not redo completed reviews without a specific reason.",
+  "excluded_work": [
+    "thin borders",
+    "edge matting",
+    "tiny uncertain flecks",
+    "general pilots",
+    "Q80 encoding",
+    "automatic semantic removal"
+  ],
+  "execution": {
+    "image_worker_processes": 1,
+    "numeric_threads": 1,
+    "gpu": false,
+    "local_llm": false,
+    "format": "exact lossless WebP",
+    "native_dimensions": true,
+    "per_image_checkpoint": true,
+    "lock": "image_worker.lock"
+  },
+  "storage": {
+    "source_files_read_only": true,
+    "unchanged_images": "reference source, no copy",
+    "accepted_images": "one canonical lossless WebP",
+    "temporary_previews": "bounded to active batches; remove after verified QA",
+    "preserve": [
+      "accepted outputs",
+      "compact masks",
+      "source decisions",
+      "hash-bound visual reviews",
+      "manifests",
+      "code",
+      "shared examples"
+    ]
+  },
+  "reference_evidence": [
+    "../mode_reference",
+    "../batch003/mechanical_audit.json",
+    "../batch003/completion.json"
+  ],
+  "reviewer_requirement": "Qualified source and independent output reviewers; uncertain regions remain unchanged; no user approval required per batch."
+}
