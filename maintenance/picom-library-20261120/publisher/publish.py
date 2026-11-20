@@ -197,11 +197,33 @@ def prepare_repo(plan):
         commit = git('rev-parse', 'HEAD').strip()
         git('push', 'origin', 'HEAD:main')
         save(HERE / 'source_commit.json', dict(commit=commit, files=len(manifest), at=now()))
+    # Keep the archived uploader itself consistent if startup recovery improved it.
+    dest = CHECKOUT / RECORD_DIR
+    publisher = dest / 'publisher/publish.py'
+    if publisher.exists() and sha(publisher) != sha(Path(__file__)):
+        shutil.copyfile(Path(__file__), publisher)
+        records = json.loads((dest / 'SOURCE_FILES.json').read_text())
+        for row in records:
+            if row['path'] == 'publisher/publish.py':
+                row.update(bytes=publisher.stat().st_size, sha256=sha(publisher))
+        save(dest / 'SOURCE_FILES.json', records)
+        git('add', '--sparse', '--', RECORD_DIR)
+        git('commit', '-m', 'Make release publisher recovery and draft lookup explicit')
+        git('push', 'origin', 'HEAD:main')
+        save(HERE / 'source_commit.json', dict(commit=git('rev-parse', 'HEAD').strip(), files=len(records), at=now()))
     return json.loads((HERE / 'source_commit.json').read_text())['commit']
 
 
 def release():
-    return api(f'repos/{REPO}/releases/tags/{TAG}')
+    # Drafts need their release ID: the tag endpoint can return 404 until published.
+    record = HERE / 'release.json'
+    if record.exists():
+        return api(f'repos/{REPO}/releases/{json.loads(record.read_text())["id"]}')
+    match = next((r for r in api(f'repos/{REPO}/releases?per_page=100') if r['tag_name'] == TAG), None)
+    if match is None:
+        raise RuntimeError(f'Release not found: {TAG}')
+    save(record, dict(id=match['id'], tag=TAG))
+    return match
 
 
 def ensure_release(commit):
@@ -340,6 +362,7 @@ def main():
                   all_remote_checksums_verified=True, People_untouched=True, Library_untouched=True)
     TEMP.rmdir()
     shutil.rmtree(CHECKOUT)
+    (HERE / 'inventory.json').unlink()
     result['temporary_checkout_and_archives_deleted'] = True
     save(HERE / 'completion.json', result)
     event('complete', **result)
