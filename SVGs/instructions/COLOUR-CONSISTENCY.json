@@ -1,0 +1,2633 @@
+{
+  "version": "2026-11-22-approved-colour-consistency",
+  "high_contrast": "Retain existing white background, black outlines, skin and clothing colours; no visible changes in this rollout.",
+  "cvi_paper": {
+    "skin": "#ffffff",
+    "hair": "#111111",
+    "ordinary_top": "#ffffff",
+    "expression_only_face": "#f4cc00"
+  },
+  "cvi_screen": {
+    "skin": "#22465b",
+    "hair": "#111111",
+    "ordinary_top": "#50224f",
+    "ordinary_bottom_and_footwear": "#172f42"
+  },
+  "exceptions": [
+    "Retain selected person/body-region and action-bearing highlights.",
+    "Retain yellow expression-only Paper faces and semantic yellow objects.",
+    "Retain white eyes with pupils, teeth and meaningful mouth interiors.",
+    "Retain profession uniforms, medical white coats and contrasting participant colours.",
+    "Retain grey hair indicating age and highlighted hair when hair is the concept.",
+    "Retain symptom colours and colour-bearing objects.",
+    "Use dark marks on pale/yellow skin and white marks on dark blue skin.",
+    "A neutral shirt must not hide a movement or detail mark."
+  ],
+  "authoring": "Edit semantic profile attributes in masters, regenerate exports, update catalogue hashes; inspect every visible change individually at 1024 and relevant small size. Do not blanket-recolour objects or animal anatomy.",
+  "coverage": {
+    "scanned_exports": 3003,
+    "scanned_masters": 1003,
+    "changed_images": 196,
+    "individually_reviewed": 196,
+    "cvi_paper": 60,
+    "cvi_screen": 136,
+    "high_contrast": 0
+  },
+  "preserved_exceptions": [
+    {
+      "concept": "aac.jump-action",
+      "master": "visual/masters/actions/movement/jump-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.afraid",
+      "master": "visual/masters/feelings/unpleasant/afraid-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.angry",
+      "master": "visual/masters/feelings/unpleasant/angry-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.apron-garment",
+      "master": "visual/masters/clothing/protective/aprons/apron-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "apron-front",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "apron-front",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.arm-body",
+      "master": "visual/masters/body/limbs/arm-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.baby",
+      "master": "visual/masters/people/life-stages/baby-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.bad",
+      "master": "visual/masters/descriptors/evaluation/bad.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "thumb-hand-forearm",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "thumb-hand-forearm",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.bend-body",
+      "master": "visual/masters/actions/posture/bend-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-bent-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-bent-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.bored",
+      "master": "visual/masters/feelings/engagement/bored-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.brush-teeth",
+      "master": "visual/masters/actions/personal-care/brush-teeth-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.calm",
+      "master": "visual/masters/feelings/regulated/calm-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.catch-object",
+      "master": "visual/masters/actions/object-movement/catch-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.choose",
+      "master": "visual/masters/actions/preferences/choose.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.clap-hands",
+      "master": "visual/masters/actions/gestures/clap-hands.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-clapping-left-sleeve",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-clapping-right-sleeve",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-clapping-left-sleeve",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-clapping-right-sleeve",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.close",
+      "master": "visual/masters/actions/object-use/close.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.coat",
+      "master": "visual/masters/clothing/outerwear/coat.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "coat-body",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "coat-body",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.cold",
+      "master": "visual/masters/descriptors/temperature/cold.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.comb-hair",
+      "master": "visual/masters/actions/personal-care/comb-hair.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.consent",
+      "master": "visual/masters/self-advocacy/boundaries/consent.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p1-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p1-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.cough-action",
+      "master": "visual/masters/actions/body-responses/cough-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.count",
+      "master": "visual/masters/education/mathematics/count.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.crawl-action",
+      "master": "visual/masters/actions/movement/crawl-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.dance-action",
+      "master": "visual/masters/actions/movement/dance-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.do",
+      "master": "visual/masters/actions/general/do.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.do-not-touch",
+      "master": "visual/masters/self-advocacy/boundaries/do-not-touch-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.do-not-understand",
+      "master": "visual/masters/communication/repair/do-not-understand.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.dress-garment",
+      "master": "visual/masters/clothing/garments/dress-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "dress-bodice",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "dress-bodice",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.drop-object",
+      "master": "visual/masters/actions/object-movement/drop-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.dry-hands",
+      "master": "visual/masters/actions/personal-care/dry-hands.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.ear-body",
+      "master": "visual/masters/body/parts/ear-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.excited",
+      "master": "visual/masters/feelings/energised/excited.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.i",
+      "master": "visual/masters/people/pronouns/i.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p1-pointing-arm-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "p1-pointing-arm-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.want",
+      "master": "visual/masters/actions/preferences/want.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.mine",
+      "master": "visual/masters/self-advocacy/ownership/mine.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "self-p1-pointing-arm-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "self-p1-pointing-arm-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.what",
+      "master": "visual/masters/communication/questions/what.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.you",
+      "master": "visual/masters/people/pronouns/you.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p2-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p2-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.finished",
+      "master": "visual/masters/actions/control/finished.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.help",
+      "master": "visual/masters/self-advocacy/assistance/help.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.get",
+      "master": "visual/masters/actions/possession/get.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.good",
+      "master": "visual/masters/descriptors/evaluation/good.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "thumb-hand-forearm",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "thumb-hand-forearm",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.like",
+      "master": "visual/masters/actions/preferences/like.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.put",
+      "master": "visual/masters/actions/placement/put.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.stop",
+      "master": "visual/masters/actions/control/stop.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "hand-and-forearm",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "hand-and-forearm",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.turn",
+      "master": "visual/masters/actions/object-use/turn.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.when",
+      "master": "visual/masters/communication/questions/when-v04.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.where",
+      "master": "visual/masters/communication/questions/where.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.who",
+      "master": "visual/masters/communication/questions/who.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-02-shoulders",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-03-shoulders",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-02-shoulders",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-03-shoulders",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.why",
+      "master": "visual/masters/communication/questions/why.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.foot-body",
+      "master": "visual/masters/body/parts/foot-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.hand-body",
+      "master": "visual/masters/body/parts/hand-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.give",
+      "master": "visual/masters/actions/transfer/give.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.please",
+      "master": "visual/masters/communication/courtesy/please.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.how",
+      "master": "visual/masters/communication/questions/how.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.we",
+      "master": "visual/masters/people/pronouns/we.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "rear-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "second-rear-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p1-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "rear-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "second-rear-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p1-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.take",
+      "master": "visual/masters/actions/transfer/take.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.wash",
+      "master": "visual/masters/actions/personal-care/wash-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "lower-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "upper-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "lower-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "upper-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.legs-body",
+      "master": "visual/masters/body/limbs/legs-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-left-leg-and-foot",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-right-leg-and-foot",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-left-leg-and-foot",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-right-leg-and-foot",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.thank-you",
+      "master": "visual/masters/communication/courtesy/thank-you.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p1-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p1-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.hello",
+      "master": "visual/masters/communication/greetings/hello.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p1-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p1-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.understand",
+      "master": "visual/masters/communication/understanding/understand.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.no-refusal",
+      "master": "visual/masters/self-advocacy/refusal/no-refusal-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "raised-arm-palm",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "raised-arm-palm",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.hair-head",
+      "master": "visual/masters/body-and-health/body-parts/hair-head.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-head-hair",
+          "profile": "paper",
+          "reason": "Hair is the named subject; preserve highlight."
+        },
+        {
+          "id": "person-01-head-hair",
+          "profile": "screen",
+          "reason": "Hair is the named subject; preserve highlight."
+        }
+      ]
+    },
+    {
+      "concept": "aac.have-possession",
+      "master": "visual/masters/language-and-actions/have-possession.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.his-possession",
+      "master": "visual/masters/language-and-actions/his-possession-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.maybe-possibility",
+      "master": "visual/masters/language-and-actions/maybe-possibility-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.our-possession",
+      "master": "visual/masters/language-and-actions/our-possession.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.party-celebration",
+      "master": "visual/masters/language-and-actions/party-celebration.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.show-me",
+      "master": "visual/masters/communication/repair/show-me.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.stay-location",
+      "master": "visual/masters/language-and-actions/stay-location.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.tell-inform",
+      "master": "visual/masters/language-and-actions/tell-inform.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.they-plural-reference",
+      "master": "visual/masters/language-and-actions/they-plural-reference.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.think-tentative-belief",
+      "master": "visual/masters/language-and-actions/think-tentative-belief-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.tickle-touch",
+      "master": "visual/masters/language-and-actions/tickle-touch.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.try-attempt",
+      "master": "visual/masters/language-and-actions/try-attempt-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.use-tool",
+      "master": "visual/masters/language-and-actions/use-tool.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.cow-animal",
+      "reason": "Animal anatomy; human palette does not apply."
+    },
+    {
+      "concept": "aac.buttocks-body",
+      "master": "visual/masters/body-and-health/buttocks-body-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.hurt",
+      "master": "visual/masters/wellbeing/discomfort/hurt.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "arm-hand-at-temple",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "arm-hand-at-temple",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.funny-humorous",
+      "master": "visual/masters/language-and-actions/funny-humorous.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.kick-object",
+      "master": "visual/masters/actions/object-movement/kick-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.laughter-response",
+      "master": "visual/masters/language-and-actions/laughter-response.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.joint-action-invitation",
+      "master": "visual/masters/language-and-actions/joint-action-invitation-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.remember-recall",
+      "master": "visual/masters/language-and-actions/remember-recall-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.sorry",
+      "master": "visual/masters/communication/repair/sorry.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p1-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p1-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.throw-object",
+      "master": "visual/masters/actions/object-movement/throw-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.boy-young-person",
+      "master": "visual/masters/people-feelings-and-self-advocacy/boy-young-person.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.brother-role",
+      "master": "visual/masters/people-feelings-and-self-advocacy/brother-role.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.friend",
+      "master": "visual/masters/people/relationships/friend.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-02-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-02-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.man-adult-person",
+      "master": "visual/masters/people-feelings-and-self-advocacy/man-adult-person.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.hungry",
+      "master": "visual/masters/wellbeing/hunger-and-thirst/hungry.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.sick",
+      "master": "visual/masters/wellbeing/health/sick.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p1-pointing-arm-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "p1-pointing-arm-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.thirsty",
+      "master": "visual/masters/wellbeing/hunger-and-thirst/thirsty.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.shirt-garment",
+      "master": "visual/masters/clothing-and-personal-items/shirt-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "shirt-garment-silhouette",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt-front-placket",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt-left-collar",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt-right-collar",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.t-shirt",
+      "master": "visual/masters/clothing/tops/t-shirt.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "shirt-body",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt-body",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.read",
+      "master": "visual/masters/actions/literacy/read.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.sleep",
+      "master": "visual/masters/actions/rest/sleep.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.finger-body-part",
+      "master": "visual/masters/body-and-health/finger-body-part.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.hear-sound",
+      "master": "visual/masters/language-and-actions/hear-sound.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-ear",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-ear",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.hold-object",
+      "master": "visual/masters/language-and-actions/hold-object-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-palm-forearm",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-curled-finger-1",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-curled-finger-2",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-curled-finger-3",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-curled-finger-4",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-opposing-thumb",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-palm-forearm",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-curled-finger-1",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-curled-finger-2",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-curled-finger-3",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-curled-finger-4",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-opposing-thumb",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.ankle-body",
+      "master": "visual/masters/body-and-health/ankle-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "lower-leg-foot-skin",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "lower-leg-foot-skin",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.bandage-dressing",
+      "master": "visual/masters/body-and-health/bandage-dressing.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "forearm-hand-skin",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "forearm-hand-skin",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.blister-skin",
+      "master": "visual/masters/body-and-health/blister-skin.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "enlarged-skin-section",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "enlarged-skin-section",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.burn-injury",
+      "master": "visual/masters/body-and-health/burn-injury-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "forearm-hand-skin",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "forearm-hand-skin",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.cut-injury",
+      "master": "visual/masters/body-and-health/cut-injury.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "forearm-hand-skin",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "forearm-hand-skin",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.elbow-body",
+      "master": "visual/masters/body-and-health/elbow-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "forearm-hand-skin",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "forearm-hand-skin",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.fingernail-body",
+      "master": "visual/masters/body-and-health/fingernail-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "cropped-finger-skin",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "cropped-finger-skin",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.hearing-aid",
+      "master": "visual/masters/body-and-health/hearing-aid.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "ear-envelope-skin",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "ear-envelope-skin",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.heart-body",
+      "master": "visual/masters/body-and-health/heart-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "cropped-bare-torso",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "cropped-bare-torso",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.itchy",
+      "master": "visual/masters/wellbeing/sensations/itchy.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "receiving-cuff",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "scratching-cuff",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "receiving-cuff",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "scratching-cuff",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.knee-body",
+      "master": "visual/masters/body/joints/knee-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.lip-body",
+      "master": "visual/masters/body-and-health/lip-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-lips",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-lips",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.mouth-body",
+      "master": "visual/masters/body/face-parts/mouth-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.nose-body",
+      "master": "visual/masters/body/face-parts/nose-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.palm-body",
+      "master": "visual/masters/body-and-health/palm-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-palm-facing-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-palm-facing-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.safe",
+      "master": "visual/masters/wellbeing/safety/safe.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.thumb-body",
+      "master": "visual/masters/body-and-health/thumb-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.toe-body",
+      "master": "visual/masters/body-and-health/toe-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-foot",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-foot",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.tongue-body",
+      "master": "visual/masters/body-and-health/tongue-body-v03.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-lips",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-protruding-tongue",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-lips",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-protruding-tongue",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.wrist-body",
+      "master": "visual/masters/body-and-health/wrist-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-hand",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-hand",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.cardigan-garment",
+      "master": "visual/masters/clothing-and-personal-items/cardigan-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "cardigan-long-sleeve-silhouette",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "cardigan-cuff-seams",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "cardigan-long-sleeve-silhouette",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "cardigan-cuff-seams",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.earring-jewellery",
+      "master": "visual/masters/clothing-and-personal-items/earring-jewellery.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-ear",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "person-01-ear",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.jacket-garment",
+      "master": "visual/masters/clothing-and-personal-items/jacket-garment-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "jacket-long-sleeve-shell",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "jacket-long-sleeve-shell",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.sweater-garment",
+      "master": "visual/masters/clothing-and-personal-items/sweater-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "sweater-pullover-shell",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "sweater-pullover-shell",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.nightdress-garment",
+      "master": "visual/masters/clothing-and-personal-items/nightdress-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "nightdress-loose-short-sleeve-shell",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "nightdress-loose-short-sleeve-shell",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.pajamas-garment",
+      "master": "visual/masters/clothing-and-personal-items/pajamas-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "pajamas-pullover-top-shell",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "pajamas-pullover-top-shell",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.raincoat-garment",
+      "master": "visual/masters/clothing-and-personal-items/raincoat-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "raincoat-outer-hood",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "raincoat-long-sleeved-body",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "raincoat-outer-hood",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "raincoat-long-sleeved-body",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.scarf-garment",
+      "master": "visual/masters/clothing-and-personal-items/scarf-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "scarf-left-hanging-end",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "scarf-right-hanging-end",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "scarf-folded-open-loop",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "scarf-left-hanging-end",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "scarf-right-hanging-end",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "scarf-folded-open-loop",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.swimsuit-garment",
+      "master": "visual/masters/clothing-and-personal-items/swimsuit-garment-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "swimsuit-upper-region",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "swimsuit-upper-region",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.vest-garment",
+      "master": "visual/masters/clothing-and-personal-items/vest-garment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "vest-sleeveless-body",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "vest-sleeveless-body",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.appointment-event",
+      "master": "visual/masters/education-work-and-technology/appointment-event.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.lesson-learning-event",
+      "master": "visual/masters/education-work-and-technology/lesson-learning-event.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "lesson-participant-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "lesson-participant-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.measure",
+      "master": "visual/masters/education/mathematics/measure.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.meeting-event",
+      "master": "visual/masters/education-work-and-technology/meeting-event.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.raise-hand",
+      "master": "visual/masters/school/participation/raise-hand.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.sell-transaction",
+      "master": "visual/masters/education-work-and-technology/sell-transaction.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "sell-person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "sell-person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.video-call",
+      "master": "visual/masters/education-work-and-technology/video-call.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "participant-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "participant-02-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "participant-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "participant-02-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.chew-food",
+      "master": "visual/masters/food-actions-and-equipment/chew-food.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.lick-food",
+      "master": "visual/masters/food-actions-and-equipment/lick-food.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.sip-drink",
+      "master": "visual/masters/food-actions-and-equipment/sip-drink-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.swallow-food",
+      "master": "visual/masters/food-actions-and-equipment/swallow-food.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.laundry-basket",
+      "master": "visual/masters/home-and-household/laundry-basket.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.wardrobe-furniture",
+      "master": "visual/masters/home-and-household/wardrobe-furniture.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.agree-shared-opinion",
+      "master": "visual/masters/communication-and-language/agree-shared-opinion-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.answer-response",
+      "master": "visual/masters/communication-and-language/answer-response-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.bathe-body",
+      "master": "visual/masters/actions-daily/bathe-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.bullying-harassment",
+      "master": "visual/masters/communication-and-language/bullying-harassment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.choice-options",
+      "master": "visual/masters/communication-and-language/choice-options.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.complain-problem",
+      "master": "visual/masters/communication-and-language/complain-problem.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.conversation-exchange",
+      "master": "visual/masters/communication-and-language/conversation-exchange.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.describe-characteristics",
+      "master": "visual/masters/communication-and-language/describe-characteristics.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.disagree-opinion",
+      "master": "visual/masters/communication-and-language/disagree-opinion.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.emergency-event",
+      "master": "visual/masters/communication-and-language/emergency-event.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "emergency-helper-clothing",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "emergency-helper-clothing",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.explain-reasoning",
+      "master": "visual/masters/communication-and-language/explain-reasoning.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.goodbye",
+      "master": "visual/masters/communication/greetings/goodbye.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p1-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p1-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.idea-proposal",
+      "master": "visual/masters/communication-and-language/idea-proposal.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.interrupt-turn",
+      "master": "visual/masters/communication-and-language/interrupt-turn.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "interrupt-person-02-upper-clothing",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "interrupt-person-02-upper-clothing",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.invite-participation",
+      "master": "visual/masters/communication-and-language/invite-participation.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.lift-object",
+      "master": "visual/masters/actions/object-movement/lift-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.message-communication",
+      "master": "visual/masters/communication-and-language/message-communication.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.my-turn",
+      "master": "visual/masters/communication/turn-taking/my-turn.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p1-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p1-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.ownership-relation",
+      "master": "visual/masters/communication-and-language/ownership-relation.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "ownership-record-owner-clothing",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "ownership-tag-owner-clothing",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "ownership-record-owner-clothing",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "ownership-tag-owner-clothing",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.plan-intended-steps",
+      "master": "visual/masters/communication-and-language/plan-intended-steps.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.point-to-object",
+      "master": "visual/masters/actions/gestures/point-to-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.pour-liquid",
+      "master": "visual/masters/actions/food-preparation/pour-liquid.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.press-control",
+      "master": "visual/masters/actions-daily/press-control.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.promise-commitment",
+      "master": "visual/masters/communication-and-language/promise-commitment.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "promise-pledger-person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "promise-pledger-person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.pull-object",
+      "master": "visual/masters/actions/object-movement/pull-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.push-object",
+      "master": "visual/masters/actions/object-movement/push-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.put-on-clothing",
+      "master": "visual/masters/actions-daily/put-on-clothing.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "put-on-before-same-outer-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "put-on-after-same-outer-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "put-on-before-same-outer-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "put-on-after-same-outer-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.reach-object",
+      "master": "visual/masters/actions/object-use/reach-object.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.report-event",
+      "master": "visual/masters/communication-and-language/report-event.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.right-to-choose",
+      "master": "visual/masters/communication-and-language/right-to-choose.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.secret-confidential-information",
+      "master": "visual/masters/communication-and-language/secret-confidential-information.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.sneeze-action",
+      "master": "visual/masters/actions/body-responses/sneeze-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.spread-food",
+      "master": "visual/masters/actions/food-preparation/spread-food.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.start",
+      "master": "visual/masters/actions/control/start.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.stir-food",
+      "master": "visual/masters/actions/food-preparation/stir-food.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.stretch-body",
+      "master": "visual/masters/actions-daily/stretch-body.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.swim-action",
+      "master": "visual/masters/actions-daily/swim-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.switch-device-off",
+      "master": "visual/masters/actions-daily/switch-device-off-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.switch-device-on",
+      "master": "visual/masters/actions-daily/switch-device-on-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.shower-body-action",
+      "master": "visual/masters/actions-daily/shower-body-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.take-off-clothing",
+      "master": "visual/masters/actions-daily/take-off-clothing.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "take-off-before-same-outer-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "take-off-after-same-outer-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "take-off-before-same-outer-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "take-off-after-same-outer-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.touch",
+      "master": "visual/masters/actions/sensory/touch.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.translate-language",
+      "master": "visual/masters/communication-and-language/translate-language-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.wake",
+      "master": "visual/masters/actions/rest/wake.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.wave-hand",
+      "master": "visual/masters/actions/gestures/wave-hand.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-wave-sleeve",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-wave-sleeve",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.wear-clothing",
+      "master": "visual/masters/actions-daily/wear-clothing.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "wear-shirt-already-on-body",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "wear-shirt-already-on-body",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.whose-possessor-question",
+      "master": "visual/masters/communication-and-language/whose-possessor-question-v02.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.wipe-surface",
+      "master": "visual/masters/actions-daily/wipe-surface.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.write",
+      "master": "visual/masters/actions/literacy/write.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.yawn-action",
+      "master": "visual/masters/actions/body-responses/yawn-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.your-turn",
+      "master": "visual/masters/communication/turn-taking/your-turn.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "p2-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "p2-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.sing-action",
+      "master": "visual/masters/play-arts-and-nature/sing-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.doubt-uncertainty",
+      "master": "visual/masters/feelings-thought-and-relationships/doubt-uncertainty.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.dream-sleep",
+      "master": "visual/masters/feelings-thought-and-relationships/dream-sleep.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.expect-event",
+      "master": "visual/masters/feelings-thought-and-relationships/expect-event.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-01-expect-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-expect-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.forget-recall",
+      "master": "visual/masters/feelings-thought-and-relationships/forget-recall.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.hate-intense-dislike",
+      "master": "visual/masters/feelings-thought-and-relationships/hate-intense-dislike.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "hate-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "hate-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.hope-expectation",
+      "master": "visual/masters/feelings-thought-and-relationships/hope-expectation.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "hope-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "hope-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.imagine-possibility",
+      "master": "visual/masters/feelings-thought-and-relationships/imagine-possibility.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "imagine-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "imagine-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.kiss-action",
+      "master": "visual/masters/feelings-thought-and-relationships/kiss-action.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "person-02-recipient-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-kisser-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-02-recipient-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "person-01-kisser-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.knock",
+      "master": "visual/masters/self-advocacy/privacy/knock.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "cuff",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "cuff",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.learn-knowledge",
+      "master": "visual/masters/feelings-thought-and-relationships/learn-knowledge.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "learn-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "learn-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.lose-competition",
+      "master": "visual/masters/feelings-thought-and-relationships/lose-competition.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.notice-event",
+      "master": "visual/masters/feelings-thought-and-relationships/notice-event.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.parent",
+      "master": "visual/masters/people/family-relationships/parent.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "parent-face",
+          "profile": "paper",
+          "reason": "Selected body region, action-bearing limb or target person."
+        },
+        {
+          "id": "parent-face",
+          "profile": "screen",
+          "reason": "Selected body region, action-bearing limb or target person."
+        }
+      ]
+    },
+    {
+      "concept": "aac.pretend-play",
+      "master": "visual/masters/feelings-thought-and-relationships/pretend-play.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "pretend-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "pretend-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.privacy",
+      "master": "visual/masters/self-advocacy/privacy/privacy.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.recognize-familiarity",
+      "master": "visual/masters/feelings-thought-and-relationships/recognize-familiarity.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.regret-feeling",
+      "master": "visual/masters/feelings-thought-and-relationships/regret-feeling.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.shy-feeling",
+      "master": "visual/masters/feelings-thought-and-relationships/shy-feeling.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "shy-selected-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "shy-selected-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.sibling",
+      "master": "visual/masters/people/family-relationships/sibling.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.student",
+      "master": "visual/masters/people/education/student.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": []
+    },
+    {
+      "concept": "aac.teach-skill",
+      "master": "visual/masters/feelings-thought-and-relationships/teach-skill.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "helper-learn-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "learner-learn-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "helper-learn-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "learner-learn-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.teacher",
+      "master": "visual/masters/people/education/teacher.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "teacher-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "teacher-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    },
+    {
+      "concept": "aac.trust-reliance",
+      "master": "visual/masters/feelings-thought-and-relationships/trust-reliance.svg",
+      "reason": "Already follows rules or meaningful exception retained.",
+      "exceptions": [
+        {
+          "id": "trust-left-shirt",
+          "profile": "paper",
+          "reason": "Existing person/action focus or participant distinction."
+        },
+        {
+          "id": "trust-left-shirt",
+          "profile": "screen",
+          "reason": "Existing person/action focus or participant distinction."
+        }
+      ]
+    }
+  ]
+}
