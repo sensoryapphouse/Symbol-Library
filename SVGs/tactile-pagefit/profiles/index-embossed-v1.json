@@ -42,5 +42,6 @@
       "clear gaps of 3, 5, 8 and 10 mm"
     ]
   },
-  "limitations": "Single-height is our conservative portability baseline, not a claim about every Index device. Do not produce generic BRF full-cell pictures or an unverified PRN file."
+  "limitations": "Single-height is our conservative portability baseline, not a claim about every Index device. Do not produce generic BRF full-cell pictures or an unverified PRN file.",
+  "actual_svg_encoding": "Individual punches use data-output-role=graphic-dot; semantic-filled-region and existing semantic-point-glyph denote whole meaningful areas, not one punch; unraised-opening denotes clear space. See instructions/INDEX-OUTPUT-ROLES.txt. Tags do not themselves operate a printer."
 }

@@ -1,0 +1,36 @@
+INDEX OUTPUT ROLES — 24 NOVEMBER 2026
+
+These tags document authored geometry for future model-specific conversion.
+They do not make an SVG a printer job or establish physical suitability.
+
+data-output-role="graphic-dot": one intended individual dot at the circle
+centre. The SVG radius is its drawn footprint, not a calibrated hardware size.
+Retain its source-part IDs and any protected anchor information.
+
+data-output-role="semantic-filled-region": the full painted region carries
+meaning and must retain its extent. Existing "semantic-point-glyph" has the
+same requirement; it is not a single physical punch. Examples include the
+7.6 mm electron markers and solid-state regions. Printer conversion must
+represent their area rather than collapsing them to their centre.
+
+data-output-role="unraised-opening": preserve the opening and painter order.
+Never fill this space merely because surrounding dots or areas are raised.
+
+Preserve explicit millimetre width/height and viewBox offsets. Do not assume a
+zero origin, change meaningful coordinates to fit a coarse grid, or shrink
+documented oversized exceptions to paper automatically. Unknown geometry must
+be reported, not silently omitted. Keep device-specific output separate from
+the authored SVG and preview the actual output dots before physical testing.
+
+The Utah revision consolidates 12 near-coincident pairs on the state boundary
+and one overlapping pair at the inset connector/selection-box junction.
+Surviving coordinates remain unchanged. data-merged-dot-ids records each
+consolidated source ID; data-source-parts retains both parts at the junction.
+Native shared vectors, city markers, dimensions, Swell and ViewPlus exports
+are unchanged. This is an Index sampling repair, not a new geographical design.
+
+Apply future edits to the Index layer of the editable master, regenerate the
+export, update catalogue/checksums, and check other profiles for unchanged
+output. Original-reference files in tactile/ remain preserved. Model, driver,
+firmware, paper and physical/tactile checks are still required before declaring
+an output suitable for a particular embosser.

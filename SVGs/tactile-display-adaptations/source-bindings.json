@@ -16,7 +16,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
           "sha256": "c8aef8441462369cd09acb48c7ecdb809cf94cc5c42101c565ab3bf002665925",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
-          "master_sha256": "f975ebd0b190ffb40aaa7607bb127ab16720cc6ea9dd92b2253af8f9cecd9980"
+          "master_sha256": "598b753372e57bc9425eb40ecae1411785cb20a2b53a356da2504ca9cc12a9b4"
         }
       ]
     },
@@ -35,7 +35,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
           "sha256": "4d2297bb89fbc67834751e0d6a791baf5a67dfaebde236da055d89c179cd061d",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
-          "master_sha256": "701d62b621b181b03f48e4fd9f396afb722987530253b2497a74585d079887cc"
+          "master_sha256": "fd051d06a4848b08bdf3bc58d65717d826da20401175b230cd2a6bd4b76311fb"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
           "sha256": "ce9f5376da0eba016140602fdae05554fe6c00ff4fd6346d39c813f8a869950d",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
-          "master_sha256": "b135985e4aedec2737c89dca996e9eb5d7cc3ebfe8ab311a7e35b9dd77ee1a01"
+          "master_sha256": "b36a8c9ba2cda19d45ee226131a2669d74da39305d02e0ff4f651c251408bcf5"
         }
       ]
     },
@@ -73,7 +73,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
           "sha256": "bd8d63b99606d6c3f78fd246fd0ff3ab8c763dd6807c3d04c14dacffc2b8e89e",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
-          "master_sha256": "8166826e7fa6bb99ca6b77c3cba8fe6fd75263f902f87ca5fd3edc4f8d0de36f"
+          "master_sha256": "a58f1baedf4e66d3b37ae4ac8f6ea16614d1fc60388bc354be3df6b8cdb94fbe"
         }
       ]
     },
@@ -92,7 +92,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
           "sha256": "0f62efc389daec4f0f589e70acb750c10781576005b35764627589d41f017897",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
-          "master_sha256": "bc0f4331c49a375b97d0a8731c73772d7478913611922dc1967fb646ec152318"
+          "master_sha256": "b14ff332b6c80a8791f621249339ec6d7fad2edc6f668cada86908739d6f0d26"
         }
       ]
     },
@@ -149,7 +149,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
           "sha256": "6face340800f558b16826a73ecaf9c8f8e7eef7e1621d14ccde5498978842140",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
-          "master_sha256": "fe848eb10c1d2d6ead20a09de75b76885d3229b48b6b38e534ce6fbdb8dfabae"
+          "master_sha256": "f2cd5edc27c2b0c241e16379ef7ea7a2fda2db08216b5db71adac71cc4aee304"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
           "sha256": "fd00f1760c323da575e2e98e89ec44fd499d34493d1dec86d2bf0025b090c1b6",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
-          "master_sha256": "03a035337d781ae8f8954f89146e4ea93b23dee6025bd1858d0acd8ec08bb194"
+          "master_sha256": "50389512720ef045c4022ececa94f85ef75a9641f77696e4433151ed0c7a0a1c"
         }
       ]
     },
@@ -187,7 +187,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
           "sha256": "38adaded7cae6d2c71d0e6f648ff6d1df4b8cd30d7495c4c022dd2964cca9618",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
-          "master_sha256": "a513329389c1b1c874470e05fe0433a9737429a4869c0faf1ffe206527b351f1"
+          "master_sha256": "79f624a0efcc7532a41a6de369f9667b01f1aab50c657f0c755c910ee1d92f29"
         }
       ]
     },
@@ -434,7 +434,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/music/duration-contexts/music-thirty-second-duration-context.svg",
           "sha256": "607ce47fc9366109d12766812bcc189c940535fab2ddba553a9433f5085a1e35",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/music/duration-contexts/music-thirty-second-duration-context.svg",
-          "master_sha256": "e52c36bb430fc3a1c073a6d92cb77d7fbea7e9a3d5bdbafd627d5a1aef3ca924"
+          "master_sha256": "7165e336d7f54aeb1695fd4ce3bbe04392be02767066dd3000c9240c7394300b"
         }
       ]
     },
@@ -624,7 +624,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
           "sha256": "14e9d7a5e5cd1dbdbc4a7f33c10e202bb8032363151db8a25277be1222cc4faf",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
-          "master_sha256": "c63c109f6fe602b7d1fd008273d516220dac218896c879b28e9e175a6d77ad81"
+          "master_sha256": "0f4b77897addf72b2caecd3813c253f82a11c43d662a82716856f3cc1a1623fc"
         }
       ]
     },
@@ -643,7 +643,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
           "sha256": "77b770d6855560cafdd153ed46b759040a38b59ee85da15d4a569dd713d1393a",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
-          "master_sha256": "bb8ae46fefceda119d8acb10c141dfa1ce2c43844dd7ff100be894c7b67933b3"
+          "master_sha256": "a402f13dd823aaae619ec9a689714bde22390586a206160dadf51b439ef33634"
         }
       ]
     },
@@ -662,7 +662,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
           "sha256": "3b876fae725c1da4cafb7f6b34eea2dd7b11445f438cb10937313bdd3a4e8832",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
-          "master_sha256": "d47197a11b24fc53b36d8c5ba199c04fcbc87d496290e8a7fb884c0e9f381893"
+          "master_sha256": "3490a89d4f46d189a8257941d6ca21052fa2519b6710a1d885f06263ecfa6b37"
         }
       ]
     },
@@ -719,7 +719,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
           "sha256": "086d5b90619e895d1332800eb6832fc60d81237b4274ebf623df8a3c06929a6e",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
-          "master_sha256": "ee1f2d7cf26bd68c232b965e0900fb2a366cb86bb8cdd8c30f908d11f822be99"
+          "master_sha256": "37679f45a5db2961fc6aaf94199444eff56f41d2ac9e760e3366140c44143507"
         }
       ]
     },
@@ -738,7 +738,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
           "sha256": "8944144fbe320fe816a828da7e3a9ffb923220609b01b161f9db4219a9385579",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
-          "master_sha256": "f8645e64869002e8cb4a83982f32450227c5fdf5e2dada9246531ab90aa3b446"
+          "master_sha256": "cc95a72c800f48413f06adf8d28fa0acc3f3efbe600c57f3c560934d3efeef7f"
         }
       ]
     },
@@ -776,7 +776,7 @@
           "source_path_from_SVGs": "tactile-pagefit/exports/swell-paper-v1/education/history/exploration/vasco-da-gama-route-map.svg",
           "sha256": "41709a254f21ab08c1d244984c1e3283ad93eb43b8aa0f7b036f4496fb12ea79",
           "master_path_from_SVGs": "tactile-pagefit/masters/education/history/exploration/vasco-da-gama-route-map.svg",
-          "master_sha256": "c958461c2885077993d5a1094a09efa2f504ef6e30ed5ab6b93a0049c6af3247"
+          "master_sha256": "16f1db86321af7541fe8c8a23ad972c58e605ac64c4c26debdeeb52e65c3b327"
         }
       ]
     },

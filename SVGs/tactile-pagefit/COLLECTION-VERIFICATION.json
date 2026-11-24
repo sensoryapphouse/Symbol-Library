@@ -20,14 +20,14 @@
   "editable_master_files": 1759,
   "original_source_files_hash_verified": 3673,
   "source_baseline_sha256": "8f68df22418ab7de40dca51528e94ed4a660dae7bb3a524885118e1b5554b019",
-  "catalogue_sha256": "f484a5464e21ca52d6b28e610636ef067b60977355e6bde2f174c6431d63dd02",
+  "catalogue_sha256": "32af1238f151837f4c61c4a5896a677f2447a8cfc1516c8c4c400b7fc9e09a20",
   "native_grids_verified_against_rectangles": 1717,
   "html_files_checked": 6,
   "local_html_targets_checked": 12059,
   "gallery_cards": 898,
   "all_artwork_catalogued": true,
   "copyright_notice_verified_all_masters_exports": true,
-  "unchanged_and_exception_paper_master_export_bytes_match_originals": true,
+  "unchanged_and_exception_paper_master_export_bytes_match_originals": false,
   "display_adaptation_review": {
     "unique_meanings": 42,
     "multipart_candidates": 34,
@@ -37,5 +37,29 @@
   "browser_test": "Not performed: browser security policy blocked local file URL. Local file/fragment links and dialog code checked; no workaround attempted.",
   "physical_tactile_device_learner_evaluation": "pending",
   "teaching_key_hash_bindings_checked": 159,
-  "standalone_relocation_check": "PASS: renamed self-contained collection fixture reproduced a native export exactly with included standard-library tools."
+  "standalone_relocation_check": "PASS: renamed self-contained collection fixture reproduced a native export exactly with included standard-library tools.",
+  "index_output_revision_20261124": {
+    "status": "passed applicable file/data and visual checks; physical evaluation pending",
+    "index_exports_updated": 58,
+    "metadata_only_exports": 57,
+    "visible_geometry_changes": 1,
+    "utah_dots_consolidated": 13,
+    "all_pagefit_exports_reproduced": 4411,
+    "all_other_delivery_images_unchanged": true,
+    "original_reference_collection_unchanged": true,
+    "exception_note": "Original-size exceptions keep their dimensions and meaning. Some now differ from reference bytes because of Index tags and the reviewed Utah sampling repair. Original tactile/ files remain untouched.",
+    "render_checks": {
+      "checked": 59,
+      "changed_files": 58,
+      "visually_identical": 58,
+      "visible_changes": 1,
+      "all_rendered_at_long_edge_1024": true,
+      "single_worker": true
+    },
+    "visual_review": {
+      "whole_utah_before_and_after_at_1024": "passed: state outline, nine city marks, inset selection, connector and both north markers retained",
+      "all_13_affected_areas": "individually inspected before and after; overlapping punches replaced by single dots without new detached features",
+      "review_type": "assistant screen review, not physical/tactile validation"
+    }
+  }
 }

@@ -7983,6 +7983,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. The inner two and middle eight electrons are retained, with three outer points at the top and lower diagonals. The three guides do not touch one another. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 13
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -8703,6 +8714,17 @@
           },
           "screen_observation": "All eight larger star squares and seven thinner guide paths remain in the branched diagonal pattern. The two close terminal pairs remain separate marker blocks joined by short guides; there is no added loop. Received and inspected the whole dotpad-display-v1 native-grid image."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 8
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -10555,6 +10577,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. Two inner points and eight points on each of the next two guides are visible. All three concentric guides and the central reference remain separated, with isolated cardinal and diagonal outer electrons. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 18
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -11205,6 +11238,17 @@
           "physical_evaluation": "pending",
           "assessment_basis": "Whole original diagram inspected and explicit native-grid layout tested. No display export, hardware perception or learner success is claimed."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 33
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -12122,6 +12166,17 @@
           },
           "screen_observation": "Whole Dot Pad image inspected. One closed stepped circle surrounds a separate small solid central marker. Both remain centred and no ray or extra feature is present. Empty spaces and intentional contacts remain visible; physical tactile evaluation is still pending."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 1
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -15938,6 +15993,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. Both guides have isolated electrons at top and bottom. The two pairs and the separate central reference loop remain visible. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 4
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -16517,6 +16583,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. Two inner electrons and three outer electrons are visible. The outer top and two lower diagonal points are isolated from their surrounding guide arcs. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 5
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -17963,6 +18040,17 @@
           "physical_evaluation": "pending",
           "assessment_basis": "Whole original diagram inspected and explicit native-grid layout tested. No display export, hardware perception or learner success is claimed."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 35
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -19098,6 +19186,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 8 and 2 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 3 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 20
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -19969,6 +20068,17 @@
           },
           "screen_observation": "All eight star markers remain, with the open upper triangular interior, rightward branch and two lower arms. The long diagonal remains continuous and no extra enclosed region appears. Received and inspected the whole dotpad-display-v1 native-grid image."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 8
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -20138,6 +20248,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. Two inner electrons and four outer cardinal-position electrons remain isolated. All guide arcs and the central loop are distinguishable. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 6
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -20538,6 +20659,17 @@
           "screen_observation": "Both whole native trials turn selected tooth groups into solid horizontal bands, merge or erase pointed tips and close the distinction between neighbouring teeth. The intended tooth-shape comparison is lost.",
           "physical_evaluation": "pending"
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 1359
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -20773,6 +20905,17 @@
           },
           "screen_observation": "Five star squares and four guides form the complete uneven zigzag. Both end markers remain fully inside the grid and the short middle guide remains distinct from its two markers. Received and inspected the whole dotpad-display-v1 native-grid image."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 5
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -21940,6 +22083,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. The three guides retain two, eight and seven electron pins. The outer seven-way spacing remains distinct from the middle eight-way arrangement and all guide arcs remain longer than one pin. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 17
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -22175,6 +22329,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 13 and 1 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 2 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 24
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -24980,6 +25145,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 15 and 2 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 2 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 27
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -27056,6 +27232,17 @@
           "physical_evaluation": "pending",
           "assessment_basis": "Whole original diagram inspected and explicit native-grid layout tested. No display export, hardware perception or learner success is claimed."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 29
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -28166,6 +28353,17 @@
           },
           "screen_observation": "The seven stars and six guide segments retain the four-armed centre and two intermediate arm stars. There is no false loop or merged unrelated arm. Received and inspected the whole dotpad-display-v1 native-grid image."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 7
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -28932,6 +29130,17 @@
           },
           "screen_observation": "Whole individual image received. The upper meter lies in the current path before the load; the lower meter bridges the two wire nets across the load. Both sources retain unequal plates and both meters retain detached oblique needle strokes. The circuit panels remain separated. Lower branch T junctions replace the separate solid point disks and move along the same wire nets; the connectivity remains explicit. Meter needles remain separated from their circles, and load rectangles stay closed. The external teaching key is required. Screen/nominal checks do not establish physical tactile or learner approval."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 2
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -30780,6 +30989,17 @@
           },
           "screen_observation": "The long bent thirteen-star chain and closed four-star head remain. The single head interior stays open and the two nearly vertical left stars remain separated. Dot Pad uses smaller two-by-two stars; this crowded head is a specific physical-testing priority. Received and inspected the whole dotpad-display-v1 native-grid image."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 13
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -34405,6 +34625,17 @@
           },
           "screen_observation": "The complete native view retains the four stages and four directional arrows. Mature frond has four explicit representative leaflets with separate inner sorus points; the heart, single spore and young fan remain separate. Six external phase dots keep the two/one/one/two key. Small isolated points and the four-leaf simplification require the stated external key and tactile testing."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 14
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -35827,6 +36058,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. Two inner electrons and seven outer points are present. The asymmetric seven-way outer spacing remains countable visually, with empty gaps on each side of each point. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 9
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -36369,6 +36611,17 @@
           "screen_observation": "Whole native count-layout study received, including the region outside the shaded device grid. The final whale phalanx extends below the 40-row grid. In the Dot Pad study adjacent columns collide and distal bat glyphs extend beyond the right edge. The trial is not an anatomical symbol and is rejected, rather than cropped or counted as usable.",
           "physical_evaluation": "pending"
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 1703
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -36755,6 +37008,17 @@
           },
           "screen_observation": "The three equal baselines show halves, quarters and eighths, with three, five and nine ticks respectively. End, half, quarter and eighth tick lengths remain distinct and every tick joins its baseline. No physical inch calibration is claimed. Inspected as the whole 60 by 40 Dot Pad native profile. Actual hardware, tactile readability and learner recognition remain untested."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 51
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -36818,6 +37082,17 @@
           },
           "screen_observation": "Three equal outer squares contain successively smaller inner squares. All six outlines remain closed; even the narrowest band has a blank pin between boundaries. The external key identifies the paired-outline band as material. Inspected as the whole 60 by 40 Dot Pad native profile. Actual hardware, tactile readability and learner recognition remain untested."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "unraised-opening": 3
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -37749,6 +38024,17 @@
           "physical_evaluation": "pending",
           "assessment_basis": "Whole original diagram inspected and explicit native-grid layout tested. No display export, hardware perception or learner success is claimed."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 31
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -38014,6 +38300,17 @@
           "physical_evaluation": "pending",
           "assessment_basis": "Whole original diagram inspected and explicit native-grid layout tested. No display export, hardware perception or learner success is claimed."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 32
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -42612,6 +42909,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. One isolated electron sits at the top break of the single guide, and the small nuclear reference loop is closed and separate. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 1
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -44784,6 +45092,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 14 and 2 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 2 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 26
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -46456,6 +46775,17 @@
           "physical_evaluation": "pending",
           "assessment_basis": "Whole original diagram inspected and explicit native-grid layout tested. No display export, hardware perception or learner success is claimed."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 36
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -47907,6 +48237,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. The inner guide has top and bottom electrons, while the outer guide has only its top electron. Both guides remain separate from the nuclear loop. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 3
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -48920,6 +49261,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. The three guides show two inner, eight middle and two outer electrons. The outer top/bottom pair is visibly separate from the completed middle-shell point set. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 12
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -49698,6 +50050,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 13 and 2 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 2 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 25
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -53342,6 +53705,18 @@
           },
           "screen_observation": "The two-by-two grid and all four external gamete markers are present. Offspring cells show filled/filled, open/filled, filled/open and open/open in the correct positions. Filled tokens have no white centre; open tokens retain a clear white centre, and every token is detached from grid lines. Inspected as the whole 60 by 40 Dot Pad native profile. Actual hardware, tactile readability and learner recognition remain untested."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 129,
+          "semantic-filled-region": 6
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -54551,6 +54926,17 @@
           },
           "screen_observation": "The full upper reference and lower 1/32 event share the same left origin. Both rectangles stay closed and separate, with an open interior and no added notation or selection marks. Whole native Monarch rendering received; the exact integer length ratio and two closed regions remain. The event interior is only one pin column wide, so usability remains a specific physical testing limitation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 100
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -55467,6 +55853,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. The inner top/bottom pair and eight outer electrons are visible. The outer cardinal and diagonal points are isolated, with no missing ring segment mistaken for a particle. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 10
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -56913,6 +57310,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 16 and 2 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 2 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 28
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -57284,6 +57692,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. Two inner electrons and five outer points are visible. The outer top point, upper side pair and lower diagonal pair remain separate from guide arcs. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 7
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -58907,6 +59326,17 @@
           },
           "screen_observation": "The whole cross-section shows two separated crust bands attached to the central new-crust strip, a broad conduit with upward arrow, and two outward arrows. Four waves remain above and four mantle material chevrons below; arrowheads are clear of unrelated boundaries. The whole 60 by 40 native layout retains the central strip, five closed regions and three arrows without collisions; source line weights and fill distinction become a keyed outline convention. Physical and learner evaluation remains pending."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 1
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -60353,6 +60783,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. Two inner and six outer electrons remain visible. The outer top/bottom pair and four diagonal points do not merge with their guide arcs. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 8
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -61906,6 +62347,18 @@
           },
           "screen_observation": "All seven individual markers and all three generation relationships are present. The top female, middle male child and lower female child are solid; the other four markers remain open. The middle partner link and its two-child branch do not connect to the other middle-generation child. Inspected as the whole 60 by 40 Dot Pad native profile. Actual hardware, tactile readability and learner recognition remain untested."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 97,
+          "semantic-filled-region": 3
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -62199,6 +62652,17 @@
           },
           "screen_observation": "The eleven star squares retain the left quadrilateral and all three right branches. The enclosed quadrilateral remains open and the close upper branch stars remain individually visible. Received and inspected the whole dotpad-display-v1 native-grid image."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 11
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -64385,6 +64849,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. The three occupied guides retain two, eight and five point counts. The outer top point and two symmetric side pairs remain separated from guide arcs. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 15
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -66106,6 +66581,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 8 and 1 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 3 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 19
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -66798,6 +67284,17 @@
           "screen_observation": "Both native trials merge particle outlines with their frames; on the smaller grid several nucleus groups become solid blocks. The source proton/neutron counts and emitted-particle distinctions cannot be read reliably from these whole-chart trials.",
           "physical_evaluation": "pending"
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 727
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -71834,6 +72331,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 9 and 2 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 3 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 21
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -72723,6 +73231,18 @@
           },
           "screen_observation": "Whole Dot Pad image inspected. Three equal solid markers identify the endpoints and midpoint on one straight carrier. The two halves have equal visible lengths and the line remains narrower than the markers. Empty spaces and intentional contacts remain visible; physical tactile evaluation is still pending."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 22,
+          "semantic-filled-region": 3
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -72825,6 +73345,17 @@
           "physical_evaluation": "pending",
           "assessment_basis": "Whole original diagram inspected and explicit native-grid layout tested. No display export, hardware perception or learner success is claimed."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 34
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -74004,6 +74535,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. Two inner, eight middle and four outer cardinal-position points are visible. The central reference remains a loop, distinct from all single electron pins. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 14
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -76190,6 +76732,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. The three guides show two inner points, eight middle points and one outer point at the top. Empty gaps distinguish the points from the longer arcs. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 11
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -79686,6 +80239,17 @@
           },
           "screen_observation": "Whole Dot Pad grid inspected. The three guides retain two, eight and six electrons. The outer top/bottom and four diagonal points are visible, with no accidental contact between shells. The empty one-pin gaps are visible at this rendering; tactile discrimination still requires hardware evaluation."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 16
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -83721,6 +84285,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 10 and 2 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 3 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 22
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -88430,6 +89005,17 @@
           },
           "screen_observation": "Seven star squares retain the narrow three-step handle and four-star bowl. The bowl interior remains open; the two closest bowl stars stay distinct and the end stars are unclipped. Received and inspected the whole dotpad-display-v1 native-grid image."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 7
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -88942,6 +89528,18 @@
           "screen_observation": "The complete native studies join the southern city to the state boundary, merge inset-selection dashes into continuous borders and obscure the north-arrow heads at the inset edge. Adjacent city pins have no blank separator. The inset connector can no longer reliably be distinguished from a continuous geographical line.",
           "physical_evaluation": "pending"
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 497,
+          "semantic-filled-region": 9
+        },
+        "redundant_overlapping_dots_consolidated": 13,
+        "render_unchanged": false,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Utah state boundary and connector/selection-box junction checked at whole-image and enlarged views; surviving coordinates, native vector geometry and nine city marks retained."
       }
     },
     {
@@ -89214,6 +89812,17 @@
           },
           "screen_observation": "The whole four-shell rendering was inspected. The nuclear loop is closed; the four occupied-shell bands are separate, with 2, 8, 11 and 2 isolated electron pins respectively. The outer top and bottom are fully inside the grid, including any extreme-row pins. Guide segments remain longer than the electron points (shortest 3 pins); dense third-shell segments require the external counting key and physical tactile evaluation. No detached guide is represented as an additional electron."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 23
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -89426,6 +90035,17 @@
           "screen_observation": "The Monarch trial merges narrow route/coast spaces and loses port-ring interiors; the Dot Pad trial collapses the eastern coast, island and route into a broad band. Opposite itinerary directions are no longer reliably represented.",
           "physical_evaluation": "pending"
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 516
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -90519,6 +91139,17 @@
           "screen_observation": "The native trials reduce hands and feet to frame junctions; the smaller grid also merges torso/neck details and changes the apparent body-width relation. The retained two frames alone do not preserve the complete proportion comparison.",
           "physical_evaluation": "pending"
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "graphic-dot": 593
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -93017,6 +93648,17 @@
           "physical_evaluation": "pending",
           "assessment_basis": "Whole original diagram inspected and explicit native-grid layout tested. No display export, hardware perception or learner success is claimed."
         }
+      },
+      "index_output_revision": {
+        "date": "2026-11-24",
+        "output_role_tags_added": {
+          "semantic-filled-region": 30
+        },
+        "redundant_overlapping_dots_consolidated": 0,
+        "render_unchanged": true,
+        "other_profiles_byte_identical": true,
+        "physical_evaluation": "pending",
+        "notes": "Individual-dot and filled/open-region output roles made explicit. Metadata only; geometry and 1024-pixel render are identical."
       }
     },
     {
@@ -93834,15 +94476,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/conventional-reference-signs/astronomical-sun-symbol-context.svg",
       "sha256": "bde4acedd20b987cd462048873018f78d2f73e590db092e346047f0d23e1d8ec",
       "master_path": "tactile-pagefit/masters/education/astronomy/conventional-reference-signs/astronomical-sun-symbol-context.svg",
-      "master_sha256": "cae835d8217df911df1855ff8694b787a295b0265bad3a602a26c4be817b783a"
+      "master_sha256": "ef4d2c2c7fcb18fc338e605cb1d986432da5e88e69a63fbeeac3a9da37d25657"
     },
     {
       "concept_id": "edu.astronomical-sun-symbol-context",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/astronomy/conventional-reference-signs/astronomical-sun-symbol-context.svg",
-      "sha256": "349e9190a359c0e9f5dcea07bc61a275ad044618607509baad48ba05b9fca068",
+      "sha256": "d9f1595e4cc05978b520b8b6e9c1456311b4a64cdf0608110151b06817184688",
       "master_path": "tactile-pagefit/masters/education/astronomy/conventional-reference-signs/astronomical-sun-symbol-context.svg",
-      "master_sha256": "cae835d8217df911df1855ff8694b787a295b0265bad3a602a26c4be817b783a"
+      "master_sha256": "ef4d2c2c7fcb18fc338e605cb1d986432da5e88e69a63fbeeac3a9da37d25657"
     },
     {
       "concept_id": "edu.astronomical-sun-symbol-context",
@@ -93850,7 +94492,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/astronomy/conventional-reference-signs/astronomical-sun-symbol-context.svg",
       "sha256": "1fbdba7dfa6c6b61ade9078f0e55ea6cd5b8b95e3764fd43188a44bd98d7d4a2",
       "master_path": "tactile-pagefit/masters/education/astronomy/conventional-reference-signs/astronomical-sun-symbol-context.svg",
-      "master_sha256": "cae835d8217df911df1855ff8694b787a295b0265bad3a602a26c4be817b783a"
+      "master_sha256": "ef4d2c2c7fcb18fc338e605cb1d986432da5e88e69a63fbeeac3a9da37d25657"
     },
     {
       "concept_id": "edu.astronomical-jupiter-symbol-context",
@@ -94002,15 +94644,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/biology/genetics/monohybrid-punnett-nontext-context-441-draft-v01.svg",
       "sha256": "01e82556a61897da6e5da115ed657ed93a192590f0dea4f58dfaff58d38ebaf3",
       "master_path": "tactile-pagefit/masters/education/biology/genetics/monohybrid-punnett-nontext-context-441-draft-v01.svg",
-      "master_sha256": "8456db44a74eb2f5b066091b4232568efa2b786218daf8cd9c1d054e0510748a"
+      "master_sha256": "3fc8c9f57a4cee55179b0bd73b121321df651223d431ffffa14ac522b262197e"
     },
     {
       "concept_id": "edu.monohybrid-punnett-nontext-context",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/biology/genetics/monohybrid-punnett-nontext-context-441-draft-v01.svg",
-      "sha256": "c439c49dea069169665fda1224cd82ba925093d353ed318b83f463dddfd238bd",
+      "sha256": "a35ae6d6375d2dd975d77ec70959590c54689757eed67f9e3c0f576398e21f3a",
       "master_path": "tactile-pagefit/masters/education/biology/genetics/monohybrid-punnett-nontext-context-441-draft-v01.svg",
-      "master_sha256": "8456db44a74eb2f5b066091b4232568efa2b786218daf8cd9c1d054e0510748a"
+      "master_sha256": "3fc8c9f57a4cee55179b0bd73b121321df651223d431ffffa14ac522b262197e"
     },
     {
       "concept_id": "edu.monohybrid-punnett-nontext-context",
@@ -94018,7 +94660,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/biology/genetics/monohybrid-punnett-nontext-context-441-draft-v01.svg",
       "sha256": "359711357e388c22e4a461b76bd4f7f183b155c9c0ca8be6cd8548b39ae19eb4",
       "master_path": "tactile-pagefit/masters/education/biology/genetics/monohybrid-punnett-nontext-context-441-draft-v01.svg",
-      "master_sha256": "8456db44a74eb2f5b066091b4232568efa2b786218daf8cd9c1d054e0510748a"
+      "master_sha256": "3fc8c9f57a4cee55179b0bd73b121321df651223d431ffffa14ac522b262197e"
     },
     {
       "concept_id": "edu.pedigree-phenotype-relationship-context",
@@ -94026,15 +94668,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/biology/genetics/pedigree-phenotype-relationship-context-441-draft-v01.svg",
       "sha256": "8d2966140c1d2c4bb314c1bc08a64db477033dc54c0df3797b2e8d9314368bb6",
       "master_path": "tactile-pagefit/masters/education/biology/genetics/pedigree-phenotype-relationship-context-441-draft-v01.svg",
-      "master_sha256": "25fb1a7c4aeec1c2a16c30b8e40096a6b76f4bf6c6b7fdbb0ddddfa268068052"
+      "master_sha256": "a0eb72e2bc43b3dc364d5f3299b7db5722315e08cf96dad062230db510ad54db"
     },
     {
       "concept_id": "edu.pedigree-phenotype-relationship-context",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/biology/genetics/pedigree-phenotype-relationship-context-441-draft-v01.svg",
-      "sha256": "cb14bd0fb4fecf25f87dc914e549b479c848efea16553aa878850400616dc0b0",
+      "sha256": "9ffa56eb12b13d9f3ff7668d109bdd8b3c4b266eff6828d21ba64b19079ab575",
       "master_path": "tactile-pagefit/masters/education/biology/genetics/pedigree-phenotype-relationship-context-441-draft-v01.svg",
-      "master_sha256": "25fb1a7c4aeec1c2a16c30b8e40096a6b76f4bf6c6b7fdbb0ddddfa268068052"
+      "master_sha256": "a0eb72e2bc43b3dc364d5f3299b7db5722315e08cf96dad062230db510ad54db"
     },
     {
       "concept_id": "edu.pedigree-phenotype-relationship-context",
@@ -94042,7 +94684,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/biology/genetics/pedigree-phenotype-relationship-context-441-draft-v01.svg",
       "sha256": "d7f98d1c73a61e9be512901fc3dccc30f2f717bf63703c76d0d09b83e9516263",
       "master_path": "tactile-pagefit/masters/education/biology/genetics/pedigree-phenotype-relationship-context-441-draft-v01.svg",
-      "master_sha256": "25fb1a7c4aeec1c2a16c30b8e40096a6b76f4bf6c6b7fdbb0ddddfa268068052"
+      "master_sha256": "a0eb72e2bc43b3dc364d5f3299b7db5722315e08cf96dad062230db510ad54db"
     },
     {
       "concept_id": "edu.entire-lobed-leaf-margin-comparison",
@@ -94386,15 +95028,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/comparison/frame-border-width-comparison.svg",
       "sha256": "1112c558782ad3e3d85b934143e762bbcb468ca9b81812c2a2e15352eb7b961e",
       "master_path": "tactile-pagefit/masters/education/comparison/frame-border-width-comparison.svg",
-      "master_sha256": "f9ddd2bd11af19e80d8928f37feec7b1dd3b8cf1f5cc838576acb3a8c9d40e17"
+      "master_sha256": "51012fcbe797bd8760f1c9ac7ecdd28c6c14fcafb6b5bb688a99ac8b2b83981f"
     },
     {
       "concept_id": "edu.frame-border-width-comparison",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/comparison/frame-border-width-comparison.svg",
-      "sha256": "c17c074695138c48d82f7e728bbb1c63a55092befd67a1106dc7a3c98f491628",
+      "sha256": "5ae4106f66e446d7f13e3e0078804417affc670839ed83e3453e16e5765f6593",
       "master_path": "tactile-pagefit/masters/education/comparison/frame-border-width-comparison.svg",
-      "master_sha256": "f9ddd2bd11af19e80d8928f37feec7b1dd3b8cf1f5cc838576acb3a8c9d40e17"
+      "master_sha256": "51012fcbe797bd8760f1c9ac7ecdd28c6c14fcafb6b5bb688a99ac8b2b83981f"
     },
     {
       "concept_id": "edu.frame-border-width-comparison",
@@ -94402,7 +95044,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/comparison/frame-border-width-comparison.svg",
       "sha256": "c4ed5a8b8569eb85eec10fbd29244bc4cf8b06793b9dbbc20688583b18cd3aca",
       "master_path": "tactile-pagefit/masters/education/comparison/frame-border-width-comparison.svg",
-      "master_sha256": "f9ddd2bd11af19e80d8928f37feec7b1dd3b8cf1f5cc838576acb3a8c9d40e17"
+      "master_sha256": "51012fcbe797bd8760f1c9ac7ecdd28c6c14fcafb6b5bb688a99ac8b2b83981f"
     },
     {
       "concept_id": "edu.half-whole-comparison",
@@ -96690,15 +97332,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/mathematics/measurement/fractional-inch-ruler-scale-423-draft-v01.svg",
       "sha256": "6cf7ed7905e9955793fe9b1a6ac95af190aa2c06f3628a60e6b85ddf8fa6328b",
       "master_path": "tactile-pagefit/masters/education/mathematics/measurement/fractional-inch-ruler-scale-423-draft-v01.svg",
-      "master_sha256": "2587d23622a61dbf43ed2e0729d3a7467a50334febfd18a97a65ed5b88048a83"
+      "master_sha256": "253726b0037dee65dee665812c7a5713393acbc189a9ae1c4381edbf793ebf35"
     },
     {
       "concept_id": "edu.fractional-inch-ruler-scale",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/mathematics/measurement/fractional-inch-ruler-scale-423-draft-v01.svg",
-      "sha256": "767a0bf1a1f008c5e6a5a4fc8965bdcdae5387b9e025b7ea1f19edb07ea915d1",
+      "sha256": "f094f7c3e194ff1cb7d5b700afb3661e2e7c4bc89769d03b06704b2c4933e474",
       "master_path": "tactile-pagefit/masters/education/mathematics/measurement/fractional-inch-ruler-scale-423-draft-v01.svg",
-      "master_sha256": "2587d23622a61dbf43ed2e0729d3a7467a50334febfd18a97a65ed5b88048a83"
+      "master_sha256": "253726b0037dee65dee665812c7a5713393acbc189a9ae1c4381edbf793ebf35"
     },
     {
       "concept_id": "edu.fractional-inch-ruler-scale",
@@ -96706,7 +97348,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/mathematics/measurement/fractional-inch-ruler-scale-423-draft-v01.svg",
       "sha256": "c7d37869aee54ca8f84b2183dacd73326a4455d587239dcb8ddc26b00757f58c",
       "master_path": "tactile-pagefit/masters/education/mathematics/measurement/fractional-inch-ruler-scale-423-draft-v01.svg",
-      "master_sha256": "2587d23622a61dbf43ed2e0729d3a7467a50334febfd18a97a65ed5b88048a83"
+      "master_sha256": "253726b0037dee65dee665812c7a5713393acbc189a9ae1c4381edbf793ebf35"
     },
     {
       "concept_id": "edu.ascending-size",
@@ -97770,15 +98412,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/hydrogen-neutral-electron-shell-model.svg",
       "sha256": "182547939898e09e083462d99fe1a948a47093838633e22e8e5e63fa9e7eda33",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/hydrogen-neutral-electron-shell-model.svg",
-      "master_sha256": "e3db085d420296395a9f44d1e4a95b43746fa83dda8f0b051703e146c730815f"
+      "master_sha256": "fb77e7f738a9da66edbf2b190a6cd9ec7ba18b3b3c77c993c46dbdd2954659fc"
     },
     {
       "concept_id": "edu.hydrogen-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/hydrogen-neutral-electron-shell-model.svg",
-      "sha256": "0ba69213da643c91ad3c53aaf5203914af7755a29d2e4b01d0e9f5abb8d39682",
+      "sha256": "fb4289fc97459a846d39f9fc7626baba897c16ae9cf243334978ea46abae4949",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/hydrogen-neutral-electron-shell-model.svg",
-      "master_sha256": "e3db085d420296395a9f44d1e4a95b43746fa83dda8f0b051703e146c730815f"
+      "master_sha256": "fb77e7f738a9da66edbf2b190a6cd9ec7ba18b3b3c77c993c46dbdd2954659fc"
     },
     {
       "concept_id": "edu.hydrogen-neutral-electron-shell-model",
@@ -97786,7 +98428,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/hydrogen-neutral-electron-shell-model.svg",
       "sha256": "16076b08bdb96c2f5af4b0d70342786b6b53a656e5bebebee4a5e9d88d4e5417",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/hydrogen-neutral-electron-shell-model.svg",
-      "master_sha256": "e3db085d420296395a9f44d1e4a95b43746fa83dda8f0b051703e146c730815f"
+      "master_sha256": "fb77e7f738a9da66edbf2b190a6cd9ec7ba18b3b3c77c993c46dbdd2954659fc"
     },
     {
       "concept_id": "edu.single-cell-lamp-closed-circuit",
@@ -100674,15 +101316,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/lithium-neutral-electron-shell-model.svg",
       "sha256": "9453e7aef8030bb1c1850f7fbc91f753a0d4e2ffeb3475dc5cac821f9d010dae",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/lithium-neutral-electron-shell-model.svg",
-      "master_sha256": "7c81cd5f9c01e35919205106ef200dc8a20740a11a31db0287de3a3436715f63"
+      "master_sha256": "27f6da2c62ecaeb53dac896c4a11d04c31c6bfcf25a198112c1808231f53cd33"
     },
     {
       "concept_id": "edu.lithium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/lithium-neutral-electron-shell-model.svg",
-      "sha256": "faa5249cf1260db59d16d1f8baae34d4b0599bc015c4f8930b9cf2a3ba052538",
+      "sha256": "963eb870091451980092f5f244c17b82d64531d7b9210f2e7bfce9dd370c040c",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/lithium-neutral-electron-shell-model.svg",
-      "master_sha256": "7c81cd5f9c01e35919205106ef200dc8a20740a11a31db0287de3a3436715f63"
+      "master_sha256": "27f6da2c62ecaeb53dac896c4a11d04c31c6bfcf25a198112c1808231f53cd33"
     },
     {
       "concept_id": "edu.lithium-neutral-electron-shell-model",
@@ -100690,7 +101332,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/lithium-neutral-electron-shell-model.svg",
       "sha256": "d4ecdba95dd56d15b4b67203ea44c339d15e78293d40106e8bff7b473d82ce3d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/lithium-neutral-electron-shell-model.svg",
-      "master_sha256": "7c81cd5f9c01e35919205106ef200dc8a20740a11a31db0287de3a3436715f63"
+      "master_sha256": "27f6da2c62ecaeb53dac896c4a11d04c31c6bfcf25a198112c1808231f53cd33"
     },
     {
       "concept_id": "edu.neon-neutral-electron-shell-model",
@@ -100698,15 +101340,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/neon-neutral-electron-shell-model.svg",
       "sha256": "2e99fae205e43b2fa7c4bb315c86bace2ed3a7491673b2c53f4ead5091b3150c",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/neon-neutral-electron-shell-model.svg",
-      "master_sha256": "006591afd93ff331ee383cc46c84f382bc64d3556b27d0a66bd1421c1ac96466"
+      "master_sha256": "9d7f6065c5383ba7a53fff3e7631a33b3e01a0d89bf048c6f89844270b3ac2b0"
     },
     {
       "concept_id": "edu.neon-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/neon-neutral-electron-shell-model.svg",
-      "sha256": "902fc058a312f5f666940663fdf9bb5db727f681550168e15ed8598c4c042e72",
+      "sha256": "6ab14d095916caecbeef111ec79b128d5462822e495945f1f68d6f0346426ef8",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/neon-neutral-electron-shell-model.svg",
-      "master_sha256": "006591afd93ff331ee383cc46c84f382bc64d3556b27d0a66bd1421c1ac96466"
+      "master_sha256": "9d7f6065c5383ba7a53fff3e7631a33b3e01a0d89bf048c6f89844270b3ac2b0"
     },
     {
       "concept_id": "edu.neon-neutral-electron-shell-model",
@@ -100714,7 +101356,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/neon-neutral-electron-shell-model.svg",
       "sha256": "f583293039f990dda2ff148145e1341a03791118e36d8949d27cd18d0c4a8f4e",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/neon-neutral-electron-shell-model.svg",
-      "master_sha256": "006591afd93ff331ee383cc46c84f382bc64d3556b27d0a66bd1421c1ac96466"
+      "master_sha256": "9d7f6065c5383ba7a53fff3e7631a33b3e01a0d89bf048c6f89844270b3ac2b0"
     },
     {
       "concept_id": "edu.aluminum-neutral-electron-shell-model",
@@ -100722,15 +101364,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/aluminum-neutral-electron-shell-model.svg",
       "sha256": "152d67dc9bdbeec5267811c3a3a59b6b659d0d88e63d747eb50fb98faf85294e",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/aluminum-neutral-electron-shell-model.svg",
-      "master_sha256": "c0b04842271c2c72c9f211acc7c361decfb74b1ecae77a6d047681823455d139"
+      "master_sha256": "eb8e9cfda17a993efdfc2608091fc0fcb633f28a8cced0f9d12ea7c85833f56c"
     },
     {
       "concept_id": "edu.aluminum-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/aluminum-neutral-electron-shell-model.svg",
-      "sha256": "3c64ee2e4cb71f845ad6adc7e264b306270777249e08af24ce748eb4563c2304",
+      "sha256": "9cac18aba058d38434295bf2055c9131c5734423935afd3b0d01671dd9fa743a",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/aluminum-neutral-electron-shell-model.svg",
-      "master_sha256": "c0b04842271c2c72c9f211acc7c361decfb74b1ecae77a6d047681823455d139"
+      "master_sha256": "eb8e9cfda17a993efdfc2608091fc0fcb633f28a8cced0f9d12ea7c85833f56c"
     },
     {
       "concept_id": "edu.aluminum-neutral-electron-shell-model",
@@ -100738,7 +101380,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/aluminum-neutral-electron-shell-model.svg",
       "sha256": "b32336e8f883f296a534f7aa7c994e900a00dfe1f838247e3f2c152fe48dabf8",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/aluminum-neutral-electron-shell-model.svg",
-      "master_sha256": "c0b04842271c2c72c9f211acc7c361decfb74b1ecae77a6d047681823455d139"
+      "master_sha256": "eb8e9cfda17a993efdfc2608091fc0fcb633f28a8cced0f9d12ea7c85833f56c"
     },
     {
       "concept_id": "edu.argon-neutral-electron-shell-model",
@@ -100746,15 +101388,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/argon-neutral-electron-shell-model.svg",
       "sha256": "e1e6653c8840a1edc04bc36d6815257d9c0e9c224cbf1c85fe933643be1052e0",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/argon-neutral-electron-shell-model.svg",
-      "master_sha256": "925d42cfb0a15ad41a46e1bfaa24a8ba80911a987c886afab5b6ad046884536b"
+      "master_sha256": "b358dff14441e6b0a1055ba297a177bb787aedf0562adeb5b12470f79d34836e"
     },
     {
       "concept_id": "edu.argon-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/argon-neutral-electron-shell-model.svg",
-      "sha256": "9983141877cb632feaeb6dc0a447c95c3522bee6de654a20a514e342d7aa2503",
+      "sha256": "2b1f0bd92f57f415d3d72123217606d1f93a3c34f31c5f0032b7cad1e410dcf2",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/argon-neutral-electron-shell-model.svg",
-      "master_sha256": "925d42cfb0a15ad41a46e1bfaa24a8ba80911a987c886afab5b6ad046884536b"
+      "master_sha256": "b358dff14441e6b0a1055ba297a177bb787aedf0562adeb5b12470f79d34836e"
     },
     {
       "concept_id": "edu.argon-neutral-electron-shell-model",
@@ -100762,7 +101404,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/argon-neutral-electron-shell-model.svg",
       "sha256": "bce511bb2b3cfadc45e7c3ab93c13776355fa6e43d621ca7a5fec6ec259cb236",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/argon-neutral-electron-shell-model.svg",
-      "master_sha256": "925d42cfb0a15ad41a46e1bfaa24a8ba80911a987c886afab5b6ad046884536b"
+      "master_sha256": "b358dff14441e6b0a1055ba297a177bb787aedf0562adeb5b12470f79d34836e"
     },
     {
       "concept_id": "edu.calcium-neutral-electron-shell-model",
@@ -100770,15 +101412,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/calcium-neutral-electron-shell-model.svg",
       "sha256": "c1bbcba03c87037caeb8d1ceeb737d217964b64b590403f0c81d71f80481e77d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/calcium-neutral-electron-shell-model.svg",
-      "master_sha256": "3eefe18416a827ab41e1f92c07bb265d8f3125cbfabaddb5864c6ab97a13fe28"
+      "master_sha256": "4cf4d28161163b00f2e2091f425a3abf88c91d39b5bd97fe4efe8a51e1aebedb"
     },
     {
       "concept_id": "edu.calcium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/calcium-neutral-electron-shell-model.svg",
-      "sha256": "a0f7ca4d08710271b4d5dc968e176ec68004ced9f92b9ec4668a227ea06bb7a9",
+      "sha256": "b3174de7316ddb2950e137283fe1332bc16d52d1211f751ab4816380a4b8339c",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/calcium-neutral-electron-shell-model.svg",
-      "master_sha256": "3eefe18416a827ab41e1f92c07bb265d8f3125cbfabaddb5864c6ab97a13fe28"
+      "master_sha256": "4cf4d28161163b00f2e2091f425a3abf88c91d39b5bd97fe4efe8a51e1aebedb"
     },
     {
       "concept_id": "edu.calcium-neutral-electron-shell-model",
@@ -100786,7 +101428,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/calcium-neutral-electron-shell-model.svg",
       "sha256": "930f3d24d615a377414724f2864ecb3d2a9c2b373493980b2aa833b92616b14b",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/calcium-neutral-electron-shell-model.svg",
-      "master_sha256": "3eefe18416a827ab41e1f92c07bb265d8f3125cbfabaddb5864c6ab97a13fe28"
+      "master_sha256": "4cf4d28161163b00f2e2091f425a3abf88c91d39b5bd97fe4efe8a51e1aebedb"
     },
     {
       "concept_id": "edu.chromium-neutral-electron-shell-model",
@@ -100794,15 +101436,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/chromium-neutral-electron-shell-model.svg",
       "sha256": "fb48feb959a1c56b23d35b95e66828d5e4576ccca66dd044ccb3141d970c4d4e",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/chromium-neutral-electron-shell-model.svg",
-      "master_sha256": "19b05479aa2cd20354d4ba71c28b62d82837c319ab37b60775c73e5a18047b3b"
+      "master_sha256": "2c685da08b0baab71d61f5a9d99991479e30a82430037514d1377ff17ed403fe"
     },
     {
       "concept_id": "edu.chromium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/chromium-neutral-electron-shell-model.svg",
-      "sha256": "aa9c40fb73e6b77f65b0c7d1b4408125576db678eedc1bc5e4834a4a453b5094",
+      "sha256": "44a825372d1e52d2a02cfe67165895d5944afdb168f2f8753932be2bffeb1bea",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/chromium-neutral-electron-shell-model.svg",
-      "master_sha256": "19b05479aa2cd20354d4ba71c28b62d82837c319ab37b60775c73e5a18047b3b"
+      "master_sha256": "2c685da08b0baab71d61f5a9d99991479e30a82430037514d1377ff17ed403fe"
     },
     {
       "concept_id": "edu.chromium-neutral-electron-shell-model",
@@ -100810,7 +101452,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/chromium-neutral-electron-shell-model.svg",
       "sha256": "3ea5478e08f974f76d12baaf50d209c563934b9f5c50f0fa0f5f60d24dbb4a67",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/chromium-neutral-electron-shell-model.svg",
-      "master_sha256": "19b05479aa2cd20354d4ba71c28b62d82837c319ab37b60775c73e5a18047b3b"
+      "master_sha256": "2c685da08b0baab71d61f5a9d99991479e30a82430037514d1377ff17ed403fe"
     },
     {
       "concept_id": "edu.iron-neutral-electron-shell-model",
@@ -100818,15 +101460,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/iron-neutral-electron-shell-model.svg",
       "sha256": "378a3760ddf77149b888fa231d57c1ae1f03499d203897d1e8afa9902094de93",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/iron-neutral-electron-shell-model.svg",
-      "master_sha256": "e345fc9737a87c50124ceaaaf33b36b9f90456f37f0ff7d9c72f9ed30666bbca"
+      "master_sha256": "d08dafbe7d083d1417ec182c3e669898c2530d425b526b8661f46785e13dec57"
     },
     {
       "concept_id": "edu.iron-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/iron-neutral-electron-shell-model.svg",
-      "sha256": "9978cfd8f29073139392440b78cf7c8d2f7ad4768b2a7e74ebeda062e24b61ad",
+      "sha256": "49cf324d1bac97c34855b5ce9ca05ee748e3595f086ae9f67b9b0ca65ca89b94",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/iron-neutral-electron-shell-model.svg",
-      "master_sha256": "e345fc9737a87c50124ceaaaf33b36b9f90456f37f0ff7d9c72f9ed30666bbca"
+      "master_sha256": "d08dafbe7d083d1417ec182c3e669898c2530d425b526b8661f46785e13dec57"
     },
     {
       "concept_id": "edu.iron-neutral-electron-shell-model",
@@ -100834,7 +101476,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/iron-neutral-electron-shell-model.svg",
       "sha256": "8c1eb9259014e95d500a94345e7a7707c3dbfd0cdc566fa5e3553b0746558f1a",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/iron-neutral-electron-shell-model.svg",
-      "master_sha256": "e345fc9737a87c50124ceaaaf33b36b9f90456f37f0ff7d9c72f9ed30666bbca"
+      "master_sha256": "d08dafbe7d083d1417ec182c3e669898c2530d425b526b8661f46785e13dec57"
     },
     {
       "concept_id": "edu.cobalt-neutral-electron-shell-model",
@@ -100842,15 +101484,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/cobalt-neutral-electron-shell-model.svg",
       "sha256": "ce8b120eae090ec44e09ddbccb7b749fad38522a983644c4185f44471b3c60ca",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/cobalt-neutral-electron-shell-model.svg",
-      "master_sha256": "9ec19c86b718495214d73c5c3da7869c795c9c38806afa4c710b8d28fd32b776"
+      "master_sha256": "f1872828a3931bdde8512fc9e6682dca664e8e5a4c7d87e3dfdf6670ed9e8da5"
     },
     {
       "concept_id": "edu.cobalt-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/cobalt-neutral-electron-shell-model.svg",
-      "sha256": "ef105fe7b64d078cfc74b8a85bc936f647a2265b9f1bb2b6f38357ae7436421e",
+      "sha256": "e75591a2095439dcd4a09d0b0b843d5c33951184a6fa42ca070723fd904fef3f",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/cobalt-neutral-electron-shell-model.svg",
-      "master_sha256": "9ec19c86b718495214d73c5c3da7869c795c9c38806afa4c710b8d28fd32b776"
+      "master_sha256": "f1872828a3931bdde8512fc9e6682dca664e8e5a4c7d87e3dfdf6670ed9e8da5"
     },
     {
       "concept_id": "edu.cobalt-neutral-electron-shell-model",
@@ -100858,7 +101500,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/cobalt-neutral-electron-shell-model.svg",
       "sha256": "7724372ab97fc0111ba68fbdbebe4fdaabab7ca272653665c8c18f3e21a5e0ab",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/cobalt-neutral-electron-shell-model.svg",
-      "master_sha256": "9ec19c86b718495214d73c5c3da7869c795c9c38806afa4c710b8d28fd32b776"
+      "master_sha256": "f1872828a3931bdde8512fc9e6682dca664e8e5a4c7d87e3dfdf6670ed9e8da5"
     },
     {
       "concept_id": "edu.nickel-neutral-electron-shell-model",
@@ -100866,15 +101508,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/nickel-neutral-electron-shell-model.svg",
       "sha256": "ddb8c30db872db8bfe7a6a4582aae660e9d53e79f310f4eb6d58da427556e576",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/nickel-neutral-electron-shell-model.svg",
-      "master_sha256": "92c78ff586ca3257ab0ded5c8876cd0994aa622b7fa5f0e600d4179367ba9cec"
+      "master_sha256": "15d0778592ddbf568a6e19fdff4252030cba1fe63c5a948bba383b30547f26ce"
     },
     {
       "concept_id": "edu.nickel-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/nickel-neutral-electron-shell-model.svg",
-      "sha256": "680f8397f1fecfa08ca7da2fae20a88b15f5ff8b1f52a5a2b67836b0f1762af9",
+      "sha256": "b2c7b9502bfcc46e379d6b0965e43a3aac44d25f5c21bdf14a95ba2424e7dfc4",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/nickel-neutral-electron-shell-model.svg",
-      "master_sha256": "92c78ff586ca3257ab0ded5c8876cd0994aa622b7fa5f0e600d4179367ba9cec"
+      "master_sha256": "15d0778592ddbf568a6e19fdff4252030cba1fe63c5a948bba383b30547f26ce"
     },
     {
       "concept_id": "edu.nickel-neutral-electron-shell-model",
@@ -100882,7 +101524,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/nickel-neutral-electron-shell-model.svg",
       "sha256": "8a30c77c8ed8e530501b22f77558996410be61161cfe73e5d56545ebd715ba78",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/nickel-neutral-electron-shell-model.svg",
-      "master_sha256": "92c78ff586ca3257ab0ded5c8876cd0994aa622b7fa5f0e600d4179367ba9cec"
+      "master_sha256": "15d0778592ddbf568a6e19fdff4252030cba1fe63c5a948bba383b30547f26ce"
     },
     {
       "concept_id": "edu.krypton-neutral-electron-shell-model",
@@ -100890,15 +101532,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
       "sha256": "6face340800f558b16826a73ecaf9c8f8e7eef7e1621d14ccde5498978842140",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
-      "master_sha256": "fe848eb10c1d2d6ead20a09de75b76885d3229b48b6b38e534ce6fbdb8dfabae"
+      "master_sha256": "f2cd5edc27c2b0c241e16379ef7ea7a2fda2db08216b5db71adac71cc4aee304"
     },
     {
       "concept_id": "edu.krypton-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
-      "sha256": "16d6a63844674983ff6de5552a5f6415b3d2b94a8e9dd56a7fb2d7001ce2a877",
+      "sha256": "27b5fb4f775eed5dd86c5ed5b5467df87f7ef5685ecdfb2cc4f95edb11721d69",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
-      "master_sha256": "fe848eb10c1d2d6ead20a09de75b76885d3229b48b6b38e534ce6fbdb8dfabae"
+      "master_sha256": "f2cd5edc27c2b0c241e16379ef7ea7a2fda2db08216b5db71adac71cc4aee304"
     },
     {
       "concept_id": "edu.krypton-neutral-electron-shell-model",
@@ -100906,7 +101548,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
       "sha256": "71f9f7ac5eca1c6e2fc2c54b793ecec86fe695103cf18102e743e95317420e51",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/krypton-neutral-electron-shell-model.svg",
-      "master_sha256": "fe848eb10c1d2d6ead20a09de75b76885d3229b48b6b38e534ce6fbdb8dfabae"
+      "master_sha256": "f2cd5edc27c2b0c241e16379ef7ea7a2fda2db08216b5db71adac71cc4aee304"
     },
     {
       "concept_id": "edu.beryllium-neutral-electron-shell-model",
@@ -100914,15 +101556,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/beryllium-neutral-electron-shell-model.svg",
       "sha256": "70832ddbad963f3944e427a92544ef9809570aae192d3932de82268054f61173",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/beryllium-neutral-electron-shell-model.svg",
-      "master_sha256": "0cb87cf99238dd25b03de06a9ad5dc1dc6c065750b2d54777a44ea449041fd1d"
+      "master_sha256": "c1e05cf4e1404cd0f06560c6982af17c68642e3b43619d0b72ebbfc4274b923a"
     },
     {
       "concept_id": "edu.beryllium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/beryllium-neutral-electron-shell-model.svg",
-      "sha256": "94922b62a90d9bbca15b73d4e15fa919999f3cb74beba7563946081bb504711c",
+      "sha256": "4c2b466f5061d4104fd334324f35543b5806259f22a8615028bed7b64abdd88a",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/beryllium-neutral-electron-shell-model.svg",
-      "master_sha256": "0cb87cf99238dd25b03de06a9ad5dc1dc6c065750b2d54777a44ea449041fd1d"
+      "master_sha256": "c1e05cf4e1404cd0f06560c6982af17c68642e3b43619d0b72ebbfc4274b923a"
     },
     {
       "concept_id": "edu.beryllium-neutral-electron-shell-model",
@@ -100930,7 +101572,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/beryllium-neutral-electron-shell-model.svg",
       "sha256": "a55fd0652bb5203695e2b7ec20320d7f3834f91e2a3af9089c2d43fe898fd95d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/beryllium-neutral-electron-shell-model.svg",
-      "master_sha256": "0cb87cf99238dd25b03de06a9ad5dc1dc6c065750b2d54777a44ea449041fd1d"
+      "master_sha256": "c1e05cf4e1404cd0f06560c6982af17c68642e3b43619d0b72ebbfc4274b923a"
     },
     {
       "concept_id": "edu.boron-neutral-electron-shell-model",
@@ -100938,15 +101580,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/boron-neutral-electron-shell-model.svg",
       "sha256": "cc06246a33d7c15acfcfc01c1a5786f8ca70f11af9ff20afca3bad9b4defe3d6",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/boron-neutral-electron-shell-model.svg",
-      "master_sha256": "7f5e26d1cebebf5b180cf0e80103a7e94d99aeb37dbcf46f3b5580f1bd0c3453"
+      "master_sha256": "f7b0e61683ff996e3b0462e0eab2e7ed50f0a9be61c4a6c6a63015b402b31c6f"
     },
     {
       "concept_id": "edu.boron-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/boron-neutral-electron-shell-model.svg",
-      "sha256": "db1f19ace1300c46e8f16b2c233845efa51dcf9dc934142e82029fbc2f8f68ce",
+      "sha256": "5817da0019e4ceed81e30b3d53353f884c42daf3c562d223eac290ced90bdf1b",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/boron-neutral-electron-shell-model.svg",
-      "master_sha256": "7f5e26d1cebebf5b180cf0e80103a7e94d99aeb37dbcf46f3b5580f1bd0c3453"
+      "master_sha256": "f7b0e61683ff996e3b0462e0eab2e7ed50f0a9be61c4a6c6a63015b402b31c6f"
     },
     {
       "concept_id": "edu.boron-neutral-electron-shell-model",
@@ -100954,7 +101596,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/boron-neutral-electron-shell-model.svg",
       "sha256": "3cdfd6175d720596c990ed16d22757871ddce2570a852dd4e93210be3d0a6ec3",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/boron-neutral-electron-shell-model.svg",
-      "master_sha256": "7f5e26d1cebebf5b180cf0e80103a7e94d99aeb37dbcf46f3b5580f1bd0c3453"
+      "master_sha256": "f7b0e61683ff996e3b0462e0eab2e7ed50f0a9be61c4a6c6a63015b402b31c6f"
     },
     {
       "concept_id": "edu.carbon-neutral-electron-shell-model",
@@ -100962,15 +101604,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/carbon-neutral-electron-shell-model.svg",
       "sha256": "519f563dd017c4d1be733fa729c8ae9b46e133fb1a6481faca28ee25952c7009",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/carbon-neutral-electron-shell-model.svg",
-      "master_sha256": "aeaa0c575e48695e46f24958c0a747b26dbc4a3288a815300b0728944d634d85"
+      "master_sha256": "b9bfdf1ae0b9fb8c96fc2a99c7eefaf70ea9116e9992fa5ac9429feb50e59bce"
     },
     {
       "concept_id": "edu.carbon-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/carbon-neutral-electron-shell-model.svg",
-      "sha256": "2f5573ff364ce2f0aff27ffd35e10029e5734def9332ff7918d72b42c818b049",
+      "sha256": "7518577630ccd5c1724769ec4510c71152fc95a6bb5f2b2c6474c25e09dd374e",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/carbon-neutral-electron-shell-model.svg",
-      "master_sha256": "aeaa0c575e48695e46f24958c0a747b26dbc4a3288a815300b0728944d634d85"
+      "master_sha256": "b9bfdf1ae0b9fb8c96fc2a99c7eefaf70ea9116e9992fa5ac9429feb50e59bce"
     },
     {
       "concept_id": "edu.carbon-neutral-electron-shell-model",
@@ -100978,7 +101620,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/carbon-neutral-electron-shell-model.svg",
       "sha256": "9154c644ab4459394daf5bbd1bc10c6cd4ed970e2d43c9861069d7354adedc3a",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/carbon-neutral-electron-shell-model.svg",
-      "master_sha256": "aeaa0c575e48695e46f24958c0a747b26dbc4a3288a815300b0728944d634d85"
+      "master_sha256": "b9bfdf1ae0b9fb8c96fc2a99c7eefaf70ea9116e9992fa5ac9429feb50e59bce"
     },
     {
       "concept_id": "edu.fluorine-neutral-electron-shell-model",
@@ -100986,15 +101628,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/fluorine-neutral-electron-shell-model.svg",
       "sha256": "0b3ec439edd6c08fc4c8d5655d6242299b15bc67fc707861e496f6efa294ce57",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/fluorine-neutral-electron-shell-model.svg",
-      "master_sha256": "2f09369f537dd8f2998c66298c5edf353b734993e8616afa95a0778d9e92514d"
+      "master_sha256": "79195508a81e8e9538a5366cd456905919946a62a806fca58560848dff806f28"
     },
     {
       "concept_id": "edu.fluorine-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/fluorine-neutral-electron-shell-model.svg",
-      "sha256": "2cb484771ba806c5bd45f7b48440af093aaff28de995d86a9f43be9a58ccf336",
+      "sha256": "5f3cd20fd40ca10ca4ab6efb8bf9e46d06f623b1b16351900692f000b60730ca",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/fluorine-neutral-electron-shell-model.svg",
-      "master_sha256": "2f09369f537dd8f2998c66298c5edf353b734993e8616afa95a0778d9e92514d"
+      "master_sha256": "79195508a81e8e9538a5366cd456905919946a62a806fca58560848dff806f28"
     },
     {
       "concept_id": "edu.fluorine-neutral-electron-shell-model",
@@ -101002,7 +101644,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/fluorine-neutral-electron-shell-model.svg",
       "sha256": "3d46f0501d0465f33079b690355f0e8e7e3f7632018f98801e1a161324b4e2db",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/fluorine-neutral-electron-shell-model.svg",
-      "master_sha256": "2f09369f537dd8f2998c66298c5edf353b734993e8616afa95a0778d9e92514d"
+      "master_sha256": "79195508a81e8e9538a5366cd456905919946a62a806fca58560848dff806f28"
     },
     {
       "concept_id": "edu.nitrogen-neutral-electron-shell-model",
@@ -101010,15 +101652,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/nitrogen-neutral-electron-shell-model.svg",
       "sha256": "a4615ea89caff33da2213ce6663dbc773348ec302a51cdfced385b809e0f82ae",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/nitrogen-neutral-electron-shell-model.svg",
-      "master_sha256": "d9cf53c3c1c51118cf85732574901e871bf971f133265e6b5fb28dfd826b66d6"
+      "master_sha256": "f8a4d6a52f24d1aa15fe15514857c26011a7ef7120598909da6a4e36bf0a5065"
     },
     {
       "concept_id": "edu.nitrogen-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/nitrogen-neutral-electron-shell-model.svg",
-      "sha256": "e732cd072215eec8c1f993425cc3f211681b3472522a53dea1886f942ea158f6",
+      "sha256": "6c67d479c4c6ea9fa1831bd013ae8f7491f6b5213d09a4cce83cc0133cdf33e3",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/nitrogen-neutral-electron-shell-model.svg",
-      "master_sha256": "d9cf53c3c1c51118cf85732574901e871bf971f133265e6b5fb28dfd826b66d6"
+      "master_sha256": "f8a4d6a52f24d1aa15fe15514857c26011a7ef7120598909da6a4e36bf0a5065"
     },
     {
       "concept_id": "edu.nitrogen-neutral-electron-shell-model",
@@ -101026,7 +101668,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/nitrogen-neutral-electron-shell-model.svg",
       "sha256": "1f7ddf6a6628ce739ab9db5fb256da6842547b014755542d465bbe849267547c",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/nitrogen-neutral-electron-shell-model.svg",
-      "master_sha256": "d9cf53c3c1c51118cf85732574901e871bf971f133265e6b5fb28dfd826b66d6"
+      "master_sha256": "f8a4d6a52f24d1aa15fe15514857c26011a7ef7120598909da6a4e36bf0a5065"
     },
     {
       "concept_id": "edu.oxygen-neutral-electron-shell-model",
@@ -101034,15 +101676,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/oxygen-neutral-electron-shell-model.svg",
       "sha256": "ede8f35ef189985713b9c4c1f347ff0e9cc94674a63dfa2768da172407f96d92",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/oxygen-neutral-electron-shell-model.svg",
-      "master_sha256": "d1a43129f2980c686d63948006ad60fde22229cc8fd411404e519f0129a5e532"
+      "master_sha256": "2487aee2fa3cc30ea15ad0931cfcc3261295784e3f7ebf6782d935dd97907876"
     },
     {
       "concept_id": "edu.oxygen-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/oxygen-neutral-electron-shell-model.svg",
-      "sha256": "878897aec2afa751d7ccec2ba9bf231e23bf2c139d0a0c1d60c944ec8ca9d720",
+      "sha256": "9d691a6f3722da15cf1a7c785a2f7786a5338c594c881ee446f126fbd3b2e1c1",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/oxygen-neutral-electron-shell-model.svg",
-      "master_sha256": "d1a43129f2980c686d63948006ad60fde22229cc8fd411404e519f0129a5e532"
+      "master_sha256": "2487aee2fa3cc30ea15ad0931cfcc3261295784e3f7ebf6782d935dd97907876"
     },
     {
       "concept_id": "edu.oxygen-neutral-electron-shell-model",
@@ -101050,7 +101692,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/oxygen-neutral-electron-shell-model.svg",
       "sha256": "a68a7f826b60333facc87b735dbb119d2bb790034556cd24973ac47c985ba8bb",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/oxygen-neutral-electron-shell-model.svg",
-      "master_sha256": "d1a43129f2980c686d63948006ad60fde22229cc8fd411404e519f0129a5e532"
+      "master_sha256": "2487aee2fa3cc30ea15ad0931cfcc3261295784e3f7ebf6782d935dd97907876"
     },
     {
       "concept_id": "edu.magnesium-neutral-electron-shell-model",
@@ -101058,15 +101700,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/magnesium-neutral-electron-shell-model.svg",
       "sha256": "38d646a80acb5ffe7c32f0ba70607937f7d32d8884313e8e4c8dc082adee1ba5",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/magnesium-neutral-electron-shell-model.svg",
-      "master_sha256": "fc47fe7a0c7c657f70f6c979d75b820e52faa9108166d8524a08bdaef8964fb4"
+      "master_sha256": "a657337ac1ac0f1c30433c224daf384bca2e2a829a5a479ce641becc15a9d945"
     },
     {
       "concept_id": "edu.magnesium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/magnesium-neutral-electron-shell-model.svg",
-      "sha256": "ed320bac868df38fb414d2cc1a2b384df3d2676deb7bbf4c9c9236c1802b92ed",
+      "sha256": "4b4a32bb05c634a97985cbe952fd5badce1d6231909abc7e299b1fce1b1ee06a",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/magnesium-neutral-electron-shell-model.svg",
-      "master_sha256": "fc47fe7a0c7c657f70f6c979d75b820e52faa9108166d8524a08bdaef8964fb4"
+      "master_sha256": "a657337ac1ac0f1c30433c224daf384bca2e2a829a5a479ce641becc15a9d945"
     },
     {
       "concept_id": "edu.magnesium-neutral-electron-shell-model",
@@ -101074,7 +101716,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/magnesium-neutral-electron-shell-model.svg",
       "sha256": "3ee8129ab296b790c27bed07a6b9b3d5eaa8e9c20e9977508b8c82705053d033",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/magnesium-neutral-electron-shell-model.svg",
-      "master_sha256": "fc47fe7a0c7c657f70f6c979d75b820e52faa9108166d8524a08bdaef8964fb4"
+      "master_sha256": "a657337ac1ac0f1c30433c224daf384bca2e2a829a5a479ce641becc15a9d945"
     },
     {
       "concept_id": "edu.phosphorus-neutral-electron-shell-model",
@@ -101082,15 +101724,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/phosphorus-neutral-electron-shell-model.svg",
       "sha256": "bd2490e3ec5a98121f4367f001ec2e33311b00f21f27546be2a7e79e36cbc9fc",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/phosphorus-neutral-electron-shell-model.svg",
-      "master_sha256": "0922593d44b56ad964b96b7db6102bbb8482a353b8e6f24a340dec3861e487ea"
+      "master_sha256": "ce3552ea29ca1910a3f67b1ce8050298455ffc8825270d2c144fa5b269c25dac"
     },
     {
       "concept_id": "edu.phosphorus-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/phosphorus-neutral-electron-shell-model.svg",
-      "sha256": "92fe6e524626e67cf13f6767b180c41f8a64e4ce28a6c4107b5d745b86c9b41e",
+      "sha256": "680fbfc0c5ce2d46fd91d8a28c401015aa408b2ff07c45afec410becf63ce069",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/phosphorus-neutral-electron-shell-model.svg",
-      "master_sha256": "0922593d44b56ad964b96b7db6102bbb8482a353b8e6f24a340dec3861e487ea"
+      "master_sha256": "ce3552ea29ca1910a3f67b1ce8050298455ffc8825270d2c144fa5b269c25dac"
     },
     {
       "concept_id": "edu.phosphorus-neutral-electron-shell-model",
@@ -101098,7 +101740,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/phosphorus-neutral-electron-shell-model.svg",
       "sha256": "67a8c923120d51487ec948743a05d23c9c020b26c3eb3e37c5046a21680031c2",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/phosphorus-neutral-electron-shell-model.svg",
-      "master_sha256": "0922593d44b56ad964b96b7db6102bbb8482a353b8e6f24a340dec3861e487ea"
+      "master_sha256": "ce3552ea29ca1910a3f67b1ce8050298455ffc8825270d2c144fa5b269c25dac"
     },
     {
       "concept_id": "edu.silicon-neutral-electron-shell-model",
@@ -101106,15 +101748,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/silicon-neutral-electron-shell-model.svg",
       "sha256": "715500368c07df6726e2e82a7436c370d3cf24c811bf88ffe7aa495dd3b051db",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/silicon-neutral-electron-shell-model.svg",
-      "master_sha256": "7bf5a605c7c4b2a3963743aed92c7efe6d79c06182cd573aef945b776957689b"
+      "master_sha256": "43f2fc422d73719817abbd39dbcf983db11d8e99268fccd29859e19c4eca3546"
     },
     {
       "concept_id": "edu.silicon-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/silicon-neutral-electron-shell-model.svg",
-      "sha256": "40bdbfecd66dafce9448b2b98d439c457405acfcd2d064e90c51557f9de107ca",
+      "sha256": "8390531624c0605b84498c1be682bbd0d8f324a8ccedf4267c9e96b9dd41398c",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/silicon-neutral-electron-shell-model.svg",
-      "master_sha256": "7bf5a605c7c4b2a3963743aed92c7efe6d79c06182cd573aef945b776957689b"
+      "master_sha256": "43f2fc422d73719817abbd39dbcf983db11d8e99268fccd29859e19c4eca3546"
     },
     {
       "concept_id": "edu.silicon-neutral-electron-shell-model",
@@ -101122,7 +101764,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/silicon-neutral-electron-shell-model.svg",
       "sha256": "5442505853745ff5b6cfb6a5ecbbde60f563186872408b4610382d54450f684d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/silicon-neutral-electron-shell-model.svg",
-      "master_sha256": "7bf5a605c7c4b2a3963743aed92c7efe6d79c06182cd573aef945b776957689b"
+      "master_sha256": "43f2fc422d73719817abbd39dbcf983db11d8e99268fccd29859e19c4eca3546"
     },
     {
       "concept_id": "edu.sodium-neutral-electron-shell-model",
@@ -101130,15 +101772,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/sodium-neutral-electron-shell-model.svg",
       "sha256": "dbbc192a640492ba29d094116625886f419da0451673fcbdf914d026f65e6045",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/sodium-neutral-electron-shell-model.svg",
-      "master_sha256": "a1772f58254a822b6b9aaa9a1ce95439514d628ee71d2fca684e19e03d1334ef"
+      "master_sha256": "d4bbfdbb110ba1331e68e89c252927caa24f2fa73e642127985881fb4ce61196"
     },
     {
       "concept_id": "edu.sodium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/sodium-neutral-electron-shell-model.svg",
-      "sha256": "50600ea4895e3fd1cf5d39572839a29dd100f0dd49aa6c753e24ec2f98f3eb75",
+      "sha256": "610996b12c06e27f5cf92c57989f0274dea98959acdfbbe28248f9fb880ad7a4",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/sodium-neutral-electron-shell-model.svg",
-      "master_sha256": "a1772f58254a822b6b9aaa9a1ce95439514d628ee71d2fca684e19e03d1334ef"
+      "master_sha256": "d4bbfdbb110ba1331e68e89c252927caa24f2fa73e642127985881fb4ce61196"
     },
     {
       "concept_id": "edu.sodium-neutral-electron-shell-model",
@@ -101146,7 +101788,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/sodium-neutral-electron-shell-model.svg",
       "sha256": "e80d6ebe3a3babc34f1354240d1dc2362a9692f49232541de177366b70bfa5c1",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/sodium-neutral-electron-shell-model.svg",
-      "master_sha256": "a1772f58254a822b6b9aaa9a1ce95439514d628ee71d2fca684e19e03d1334ef"
+      "master_sha256": "d4bbfdbb110ba1331e68e89c252927caa24f2fa73e642127985881fb4ce61196"
     },
     {
       "concept_id": "edu.sulfur-neutral-electron-shell-model",
@@ -101154,15 +101796,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/sulfur-neutral-electron-shell-model.svg",
       "sha256": "259d4b9d3cdc0b3433f9a7c1440b066d9ec21a74e795fe02c297ab6f2a9f583f",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/sulfur-neutral-electron-shell-model.svg",
-      "master_sha256": "167646164f9c7e8eb945a2f17dde34e006330775f78b477d69564a816f3376d1"
+      "master_sha256": "972f3d260eaebd432b0c1294cf5147235a0a205fc6aa6f8f33e5151e04bde554"
     },
     {
       "concept_id": "edu.sulfur-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/sulfur-neutral-electron-shell-model.svg",
-      "sha256": "a7c66fef0298f0871c3f6a518d7b6362dd88beba3ca4c1c1aacc26e126c86a11",
+      "sha256": "2be4ea56f168037d347efa8776df53e44bb797629fe40726971f2d20f5d39d55",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/sulfur-neutral-electron-shell-model.svg",
-      "master_sha256": "167646164f9c7e8eb945a2f17dde34e006330775f78b477d69564a816f3376d1"
+      "master_sha256": "972f3d260eaebd432b0c1294cf5147235a0a205fc6aa6f8f33e5151e04bde554"
     },
     {
       "concept_id": "edu.sulfur-neutral-electron-shell-model",
@@ -101170,7 +101812,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/sulfur-neutral-electron-shell-model.svg",
       "sha256": "d91f62629c1c004ec41c50653b637f1bcd1e4d88759f0b045b6fe5a5ffd32bf3",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/sulfur-neutral-electron-shell-model.svg",
-      "master_sha256": "167646164f9c7e8eb945a2f17dde34e006330775f78b477d69564a816f3376d1"
+      "master_sha256": "972f3d260eaebd432b0c1294cf5147235a0a205fc6aa6f8f33e5151e04bde554"
     },
     {
       "concept_id": "edu.arsenic-neutral-electron-shell-model",
@@ -101178,15 +101820,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
       "sha256": "c8aef8441462369cd09acb48c7ecdb809cf94cc5c42101c565ab3bf002665925",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
-      "master_sha256": "f975ebd0b190ffb40aaa7607bb127ab16720cc6ea9dd92b2253af8f9cecd9980"
+      "master_sha256": "598b753372e57bc9425eb40ecae1411785cb20a2b53a356da2504ca9cc12a9b4"
     },
     {
       "concept_id": "edu.arsenic-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
-      "sha256": "67fa02891f81a7028954bc2cd2a5b3619b9b4285b633967ff426ebc02474fb5e",
+      "sha256": "9787a51f9e940da3888520fceca274217d3e5cca6145fc601318d80130b0bf09",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
-      "master_sha256": "f975ebd0b190ffb40aaa7607bb127ab16720cc6ea9dd92b2253af8f9cecd9980"
+      "master_sha256": "598b753372e57bc9425eb40ecae1411785cb20a2b53a356da2504ca9cc12a9b4"
     },
     {
       "concept_id": "edu.arsenic-neutral-electron-shell-model",
@@ -101194,7 +101836,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
       "sha256": "e7bfa0358c0400aeda9135b1e05ee676395ef9caacd516cc60f07538eaacdce3",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/arsenic-neutral-electron-shell-model.svg",
-      "master_sha256": "f975ebd0b190ffb40aaa7607bb127ab16720cc6ea9dd92b2253af8f9cecd9980"
+      "master_sha256": "598b753372e57bc9425eb40ecae1411785cb20a2b53a356da2504ca9cc12a9b4"
     },
     {
       "concept_id": "edu.bromine-neutral-electron-shell-model",
@@ -101202,15 +101844,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
       "sha256": "4d2297bb89fbc67834751e0d6a791baf5a67dfaebde236da055d89c179cd061d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
-      "master_sha256": "701d62b621b181b03f48e4fd9f396afb722987530253b2497a74585d079887cc"
+      "master_sha256": "fd051d06a4848b08bdf3bc58d65717d826da20401175b230cd2a6bd4b76311fb"
     },
     {
       "concept_id": "edu.bromine-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
-      "sha256": "452dd9bd61be57eb84905a91dfa20bc2f7e826f848b2c9fecff7248b32f2c271",
+      "sha256": "5a24f2e7939670f53d438660174207ef12c8904e92d4f149e9f6feec1aecc4df",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
-      "master_sha256": "701d62b621b181b03f48e4fd9f396afb722987530253b2497a74585d079887cc"
+      "master_sha256": "fd051d06a4848b08bdf3bc58d65717d826da20401175b230cd2a6bd4b76311fb"
     },
     {
       "concept_id": "edu.bromine-neutral-electron-shell-model",
@@ -101218,7 +101860,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
       "sha256": "7b804a96498e3918e653bb6da0ae4e17b491bd3ead5affaa08730cd1d60cafac",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/bromine-neutral-electron-shell-model.svg",
-      "master_sha256": "701d62b621b181b03f48e4fd9f396afb722987530253b2497a74585d079887cc"
+      "master_sha256": "fd051d06a4848b08bdf3bc58d65717d826da20401175b230cd2a6bd4b76311fb"
     },
     {
       "concept_id": "edu.copper-neutral-electron-shell-model",
@@ -101226,15 +101868,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
       "sha256": "ce9f5376da0eba016140602fdae05554fe6c00ff4fd6346d39c813f8a869950d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
-      "master_sha256": "b135985e4aedec2737c89dca996e9eb5d7cc3ebfe8ab311a7e35b9dd77ee1a01"
+      "master_sha256": "b36a8c9ba2cda19d45ee226131a2669d74da39305d02e0ff4f651c251408bcf5"
     },
     {
       "concept_id": "edu.copper-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
-      "sha256": "109564502fe4b29b98cde481ce3cb1ff4bd3b8c260108918ff52a0691b4fcb19",
+      "sha256": "7611295404bca457d6c7b6a6cbd4c8fe243bade6569b56b135a2ebff36527d7d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
-      "master_sha256": "b135985e4aedec2737c89dca996e9eb5d7cc3ebfe8ab311a7e35b9dd77ee1a01"
+      "master_sha256": "b36a8c9ba2cda19d45ee226131a2669d74da39305d02e0ff4f651c251408bcf5"
     },
     {
       "concept_id": "edu.copper-neutral-electron-shell-model",
@@ -101242,7 +101884,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
       "sha256": "33d887047399cf74ae1cb8a44e75c9d6c065a49cc840ad40ee80b9af4a4f414e",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/copper-neutral-electron-shell-model.svg",
-      "master_sha256": "b135985e4aedec2737c89dca996e9eb5d7cc3ebfe8ab311a7e35b9dd77ee1a01"
+      "master_sha256": "b36a8c9ba2cda19d45ee226131a2669d74da39305d02e0ff4f651c251408bcf5"
     },
     {
       "concept_id": "edu.gallium-neutral-electron-shell-model",
@@ -101250,15 +101892,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
       "sha256": "bd8d63b99606d6c3f78fd246fd0ff3ab8c763dd6807c3d04c14dacffc2b8e89e",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
-      "master_sha256": "8166826e7fa6bb99ca6b77c3cba8fe6fd75263f902f87ca5fd3edc4f8d0de36f"
+      "master_sha256": "a58f1baedf4e66d3b37ae4ac8f6ea16614d1fc60388bc354be3df6b8cdb94fbe"
     },
     {
       "concept_id": "edu.gallium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
-      "sha256": "abaf89e8a00f8cf4ea4c4cd7779b1eb5a002ede1c79e77a3b47bb4d20573ab6b",
+      "sha256": "add4a0c390301ea611a6ff3b249bdc4538904e498202e9a2ab1809e9ac49308d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
-      "master_sha256": "8166826e7fa6bb99ca6b77c3cba8fe6fd75263f902f87ca5fd3edc4f8d0de36f"
+      "master_sha256": "a58f1baedf4e66d3b37ae4ac8f6ea16614d1fc60388bc354be3df6b8cdb94fbe"
     },
     {
       "concept_id": "edu.gallium-neutral-electron-shell-model",
@@ -101266,7 +101908,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
       "sha256": "88cff0a47ca0476509e27e852a14b1bf4c1ef38e2b8bb0423509075c444320f5",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/gallium-neutral-electron-shell-model.svg",
-      "master_sha256": "8166826e7fa6bb99ca6b77c3cba8fe6fd75263f902f87ca5fd3edc4f8d0de36f"
+      "master_sha256": "a58f1baedf4e66d3b37ae4ac8f6ea16614d1fc60388bc354be3df6b8cdb94fbe"
     },
     {
       "concept_id": "edu.germanium-neutral-electron-shell-model",
@@ -101274,15 +101916,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
       "sha256": "0f62efc389daec4f0f589e70acb750c10781576005b35764627589d41f017897",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
-      "master_sha256": "bc0f4331c49a375b97d0a8731c73772d7478913611922dc1967fb646ec152318"
+      "master_sha256": "b14ff332b6c80a8791f621249339ec6d7fad2edc6f668cada86908739d6f0d26"
     },
     {
       "concept_id": "edu.germanium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
-      "sha256": "63f5c41553fccc98b4aaae729cfc6494b322672de3eecaf85f9eb4b3b3a8fe77",
+      "sha256": "4e6761d2f0a2203497cfa1c55e5ee6b45630e25f2d0c86c23f0e0189ba2252d1",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
-      "master_sha256": "bc0f4331c49a375b97d0a8731c73772d7478913611922dc1967fb646ec152318"
+      "master_sha256": "b14ff332b6c80a8791f621249339ec6d7fad2edc6f668cada86908739d6f0d26"
     },
     {
       "concept_id": "edu.germanium-neutral-electron-shell-model",
@@ -101290,7 +101932,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
       "sha256": "37bd2345c3d3a049a926a617fb1aa2fb9617da70206a10359a9b95f79c50ca2c",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/germanium-neutral-electron-shell-model.svg",
-      "master_sha256": "bc0f4331c49a375b97d0a8731c73772d7478913611922dc1967fb646ec152318"
+      "master_sha256": "b14ff332b6c80a8791f621249339ec6d7fad2edc6f668cada86908739d6f0d26"
     },
     {
       "concept_id": "edu.manganese-neutral-electron-shell-model",
@@ -101298,15 +101940,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/manganese-neutral-electron-shell-model.svg",
       "sha256": "490a0a00e3b37c36f307cbc1e30d36bb4a718193f62483a27b87fac71e480dc5",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/manganese-neutral-electron-shell-model.svg",
-      "master_sha256": "e1d41c3f32385f52ef35f8362f4fae1d542ed1bea3a1c58ad3478541140df579"
+      "master_sha256": "9f621a0f4bd60b435bd8f5dd6c030ac9268edc116568167f5aa1fc7fec937390"
     },
     {
       "concept_id": "edu.manganese-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/manganese-neutral-electron-shell-model.svg",
-      "sha256": "9d36935d506c5aa93d7e66a3878127af07dc6728b7e3d1131a3e0557b236a806",
+      "sha256": "856b9035b3a76c2ccf66c418de6e11a903b9b05e62398dd915723154fbac0974",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/manganese-neutral-electron-shell-model.svg",
-      "master_sha256": "e1d41c3f32385f52ef35f8362f4fae1d542ed1bea3a1c58ad3478541140df579"
+      "master_sha256": "9f621a0f4bd60b435bd8f5dd6c030ac9268edc116568167f5aa1fc7fec937390"
     },
     {
       "concept_id": "edu.manganese-neutral-electron-shell-model",
@@ -101314,7 +101956,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/manganese-neutral-electron-shell-model.svg",
       "sha256": "8c6b2b58c1da1e7d0335520430d05c05d1d7e00c79786086c8835ea742c49c6d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/manganese-neutral-electron-shell-model.svg",
-      "master_sha256": "e1d41c3f32385f52ef35f8362f4fae1d542ed1bea3a1c58ad3478541140df579"
+      "master_sha256": "9f621a0f4bd60b435bd8f5dd6c030ac9268edc116568167f5aa1fc7fec937390"
     },
     {
       "concept_id": "edu.potassium-neutral-electron-shell-model",
@@ -101322,15 +101964,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/potassium-neutral-electron-shell-model.svg",
       "sha256": "3d482266120bfacab6951f21f823aa5f1a043a8a7f8c3f94cf44dc3f18047522",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/potassium-neutral-electron-shell-model.svg",
-      "master_sha256": "48fa5e2c8a9c28879196d1625a065aeb677d3e89a6c072dedd32c3e974c5c7e1"
+      "master_sha256": "fd2d0c4608e96c0b5ce4d28c6303d4bb463111fd9fc264d40fc639ed981e51d6"
     },
     {
       "concept_id": "edu.potassium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/potassium-neutral-electron-shell-model.svg",
-      "sha256": "eec74545c12cb3f4a37d6f436aed8b6df0532f924976abe6be7ae9e2fb52d683",
+      "sha256": "394b7ed106fb23538029c1fa6058807ebee143108478f82d4ef2cb20ef331c9a",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/potassium-neutral-electron-shell-model.svg",
-      "master_sha256": "48fa5e2c8a9c28879196d1625a065aeb677d3e89a6c072dedd32c3e974c5c7e1"
+      "master_sha256": "fd2d0c4608e96c0b5ce4d28c6303d4bb463111fd9fc264d40fc639ed981e51d6"
     },
     {
       "concept_id": "edu.potassium-neutral-electron-shell-model",
@@ -101338,7 +101980,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/potassium-neutral-electron-shell-model.svg",
       "sha256": "57fac3dd677a347cccf24a0e10573da20463d9c5ca3d655ae64979d31a60075d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/potassium-neutral-electron-shell-model.svg",
-      "master_sha256": "48fa5e2c8a9c28879196d1625a065aeb677d3e89a6c072dedd32c3e974c5c7e1"
+      "master_sha256": "fd2d0c4608e96c0b5ce4d28c6303d4bb463111fd9fc264d40fc639ed981e51d6"
     },
     {
       "concept_id": "edu.scandium-neutral-electron-shell-model",
@@ -101346,15 +101988,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/scandium-neutral-electron-shell-model.svg",
       "sha256": "8ec8daa7d73b42152f7136e8f2545ddc283a65866006066f265f2e65fea670d1",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/scandium-neutral-electron-shell-model.svg",
-      "master_sha256": "9ce7cd02498d17931737aac44896c55770b1fa2d4b587bd0636df123c7aba58f"
+      "master_sha256": "3dd9851297a965337116c41236ad621cbcfb526d7dc4f263c4e7e92002e68e81"
     },
     {
       "concept_id": "edu.scandium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/scandium-neutral-electron-shell-model.svg",
-      "sha256": "e8bc83803fd71da53df7ba2db40e2fcfbc28c734e4078e29e63b722d95403997",
+      "sha256": "68d9b857b8e92a66c8bdc7750229f7626b06f2bb07bf7425a6d1822c3e942446",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/scandium-neutral-electron-shell-model.svg",
-      "master_sha256": "9ce7cd02498d17931737aac44896c55770b1fa2d4b587bd0636df123c7aba58f"
+      "master_sha256": "3dd9851297a965337116c41236ad621cbcfb526d7dc4f263c4e7e92002e68e81"
     },
     {
       "concept_id": "edu.scandium-neutral-electron-shell-model",
@@ -101362,7 +102004,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/scandium-neutral-electron-shell-model.svg",
       "sha256": "c1d2b856c745a14681f665eab902dff80aa686ecc16cf83aee4e4cd5c803c119",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/scandium-neutral-electron-shell-model.svg",
-      "master_sha256": "9ce7cd02498d17931737aac44896c55770b1fa2d4b587bd0636df123c7aba58f"
+      "master_sha256": "3dd9851297a965337116c41236ad621cbcfb526d7dc4f263c4e7e92002e68e81"
     },
     {
       "concept_id": "edu.selenium-neutral-electron-shell-model",
@@ -101370,15 +102012,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
       "sha256": "fd00f1760c323da575e2e98e89ec44fd499d34493d1dec86d2bf0025b090c1b6",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
-      "master_sha256": "03a035337d781ae8f8954f89146e4ea93b23dee6025bd1858d0acd8ec08bb194"
+      "master_sha256": "50389512720ef045c4022ececa94f85ef75a9641f77696e4433151ed0c7a0a1c"
     },
     {
       "concept_id": "edu.selenium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
-      "sha256": "b6d38b0ba80c13f784bb4315509981fc76cdabda5bd50437f8bfb000906ee169",
+      "sha256": "342e8a42c4ff8b7813466b2591c1c092e31b37b63c012b2e95a7dcfa0e4c7857",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
-      "master_sha256": "03a035337d781ae8f8954f89146e4ea93b23dee6025bd1858d0acd8ec08bb194"
+      "master_sha256": "50389512720ef045c4022ececa94f85ef75a9641f77696e4433151ed0c7a0a1c"
     },
     {
       "concept_id": "edu.selenium-neutral-electron-shell-model",
@@ -101386,7 +102028,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
       "sha256": "1fd642b090a9f646c1ab7c214c03f6917547bd5f60011af8aaf73127be33f637",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/selenium-neutral-electron-shell-model.svg",
-      "master_sha256": "03a035337d781ae8f8954f89146e4ea93b23dee6025bd1858d0acd8ec08bb194"
+      "master_sha256": "50389512720ef045c4022ececa94f85ef75a9641f77696e4433151ed0c7a0a1c"
     },
     {
       "concept_id": "edu.titanium-neutral-electron-shell-model",
@@ -101394,15 +102036,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/titanium-neutral-electron-shell-model.svg",
       "sha256": "bc8efcadc04657ef7e2c75a1093cf3dcaa7d9053ae70394be598888400dc19cb",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/titanium-neutral-electron-shell-model.svg",
-      "master_sha256": "6845d037353740360d23c9d15de4b846d9d663018820ba92a60337ce5d343cf7"
+      "master_sha256": "1b9c858868063a072d4fc4b09003f85152125958f635c721c0be2b08824ee21e"
     },
     {
       "concept_id": "edu.titanium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/titanium-neutral-electron-shell-model.svg",
-      "sha256": "98c3dc07d5c6527814d20f85b0cd7fd4c2e56310664269e97b76dbbbff42b584",
+      "sha256": "8a960dd4b08f101372a76e0910125a79a41f5b0b12791a2f9fd3630ff99a45f5",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/titanium-neutral-electron-shell-model.svg",
-      "master_sha256": "6845d037353740360d23c9d15de4b846d9d663018820ba92a60337ce5d343cf7"
+      "master_sha256": "1b9c858868063a072d4fc4b09003f85152125958f635c721c0be2b08824ee21e"
     },
     {
       "concept_id": "edu.titanium-neutral-electron-shell-model",
@@ -101410,7 +102052,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/titanium-neutral-electron-shell-model.svg",
       "sha256": "58d4dc2b9fb15eb7de5b524732c383b806213d6708a2b9dc40b21e230bb1a258",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/titanium-neutral-electron-shell-model.svg",
-      "master_sha256": "6845d037353740360d23c9d15de4b846d9d663018820ba92a60337ce5d343cf7"
+      "master_sha256": "1b9c858868063a072d4fc4b09003f85152125958f635c721c0be2b08824ee21e"
     },
     {
       "concept_id": "edu.vanadium-neutral-electron-shell-model",
@@ -101418,15 +102060,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/vanadium-neutral-electron-shell-model.svg",
       "sha256": "806cecde343e6df459cbe434452ec89d03850633c21e7863362f8908bde9061c",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/vanadium-neutral-electron-shell-model.svg",
-      "master_sha256": "875792605a382f4c0716861460b56bfa189a037c0d45d0e89a37651de38ba557"
+      "master_sha256": "5a78a67814c609a17449d26d2fce8dab1cf4595756656fa6c6be31c0d689b14c"
     },
     {
       "concept_id": "edu.vanadium-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/vanadium-neutral-electron-shell-model.svg",
-      "sha256": "a782134e5798833ece9af9af365a3b7a4e2be79fb48f5c66376267c2fad60ac4",
+      "sha256": "379ae244b1103920e2bf27641428d8ba27a1cd6ef208850ebde7cfcf2462fd8d",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/vanadium-neutral-electron-shell-model.svg",
-      "master_sha256": "875792605a382f4c0716861460b56bfa189a037c0d45d0e89a37651de38ba557"
+      "master_sha256": "5a78a67814c609a17449d26d2fce8dab1cf4595756656fa6c6be31c0d689b14c"
     },
     {
       "concept_id": "edu.vanadium-neutral-electron-shell-model",
@@ -101434,7 +102076,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/vanadium-neutral-electron-shell-model.svg",
       "sha256": "edd46416b1a76ef54ef8872b63dd1dcb4d81d8669adcaa6b194e8d43e441a1ac",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/vanadium-neutral-electron-shell-model.svg",
-      "master_sha256": "875792605a382f4c0716861460b56bfa189a037c0d45d0e89a37651de38ba557"
+      "master_sha256": "5a78a67814c609a17449d26d2fce8dab1cf4595756656fa6c6be31c0d689b14c"
     },
     {
       "concept_id": "edu.zinc-neutral-electron-shell-model",
@@ -101442,15 +102084,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
       "sha256": "38adaded7cae6d2c71d0e6f648ff6d1df4b8cd30d7495c4c022dd2964cca9618",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
-      "master_sha256": "a513329389c1b1c874470e05fe0433a9737429a4869c0faf1ffe206527b351f1"
+      "master_sha256": "79f624a0efcc7532a41a6de369f9667b01f1aab50c657f0c755c910ee1d92f29"
     },
     {
       "concept_id": "edu.zinc-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
-      "sha256": "385688fda7386e4e16aaa824bb1da26741b78afe9aa5dc267f430e6bc9fd937d",
+      "sha256": "afc55c1d7a1410f0b66f86f0157d7923ad03bf6f5e090116e2ec589b8f5b45e5",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
-      "master_sha256": "a513329389c1b1c874470e05fe0433a9737429a4869c0faf1ffe206527b351f1"
+      "master_sha256": "79f624a0efcc7532a41a6de369f9667b01f1aab50c657f0c755c910ee1d92f29"
     },
     {
       "concept_id": "edu.zinc-neutral-electron-shell-model",
@@ -101458,7 +102100,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
       "sha256": "15db4f266578149bc1054db201ce219b998579662b8b3817cd6572d353fd4474",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/zinc-neutral-electron-shell-model.svg",
-      "master_sha256": "a513329389c1b1c874470e05fe0433a9737429a4869c0faf1ffe206527b351f1"
+      "master_sha256": "79f624a0efcc7532a41a6de369f9667b01f1aab50c657f0c755c910ee1d92f29"
     },
     {
       "concept_id": "edu.chlorine-neutral-electron-shell-model",
@@ -101466,15 +102108,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/chemistry/atomic-shell-models/chlorine-neutral-electron-shell-model.svg",
       "sha256": "3ea8060285852d2d3fb5a3991b813c13d4848d3fa6d137f81563fc54e1f636b5",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/chlorine-neutral-electron-shell-model.svg",
-      "master_sha256": "4ea8da1c6770201d009e01679edbb327060fd4fe88a8442230821a9d3691ed53"
+      "master_sha256": "0290eacaa48b3f0f138be449141c79e87aa0ad9bfdf15282138be2ec1337332e"
     },
     {
       "concept_id": "edu.chlorine-neutral-electron-shell-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/chemistry/atomic-shell-models/chlorine-neutral-electron-shell-model.svg",
-      "sha256": "6af1fa269494ed964f4b741d5cd123ce58cdbc1bc88a1d02fa218a0baa68bf9b",
+      "sha256": "ad9b09165dad6264cf31b1304083d0d6f969a1156ec85201a8d646f869cfffed",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/chlorine-neutral-electron-shell-model.svg",
-      "master_sha256": "4ea8da1c6770201d009e01679edbb327060fd4fe88a8442230821a9d3691ed53"
+      "master_sha256": "0290eacaa48b3f0f138be449141c79e87aa0ad9bfdf15282138be2ec1337332e"
     },
     {
       "concept_id": "edu.chlorine-neutral-electron-shell-model",
@@ -101482,7 +102124,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/chemistry/atomic-shell-models/chlorine-neutral-electron-shell-model.svg",
       "sha256": "022511fb9d07d340a2861dba524720d9425eefe2586d2ba11f1c68c2b2c794cf",
       "master_path": "tactile-pagefit/masters/education/science/chemistry/atomic-shell-models/chlorine-neutral-electron-shell-model.svg",
-      "master_sha256": "4ea8da1c6770201d009e01679edbb327060fd4fe88a8442230821a9d3691ed53"
+      "master_sha256": "0290eacaa48b3f0f138be449141c79e87aa0ad9bfdf15282138be2ec1337332e"
     },
     {
       "concept_id": "edu.triangle-median-example",
@@ -105498,15 +106140,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/mathematics/measurement/segment-midpoint-example-423-draft-v01.svg",
       "sha256": "ecc4d6b1024c0111e378a2282885f5565dab12ee4388cf580e2307047104aa0f",
       "master_path": "tactile-pagefit/masters/education/mathematics/measurement/segment-midpoint-example-423-draft-v01.svg",
-      "master_sha256": "79176d29579de7661259b3402c995961c953d8797ae2df0e33c7a14b35bc99b4"
+      "master_sha256": "8a4c666f648caef65dea8c797193a0ce02b1b29634ec901887d32d8afdc0330b"
     },
     {
       "concept_id": "edu.segment-midpoint-example",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/mathematics/measurement/segment-midpoint-example-423-draft-v01.svg",
-      "sha256": "93f7ec19cfe6a6b88368d7525169383781d3e9ac6cdeb2d5fea3db8107279c8f",
+      "sha256": "ed5fd4706c11c618ab0404d3d9d9b2ea004b415884e47c109bb99cdd1621c07d",
       "master_path": "tactile-pagefit/masters/education/mathematics/measurement/segment-midpoint-example-423-draft-v01.svg",
-      "master_sha256": "79176d29579de7661259b3402c995961c953d8797ae2df0e33c7a14b35bc99b4"
+      "master_sha256": "8a4c666f648caef65dea8c797193a0ce02b1b29634ec901887d32d8afdc0330b"
     },
     {
       "concept_id": "edu.segment-midpoint-example",
@@ -105514,7 +106156,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/mathematics/measurement/segment-midpoint-example-423-draft-v01.svg",
       "sha256": "bc337149d4bc7b0150ee23b9628d24d91abad54f53be2e237221c4683ce73562",
       "master_path": "tactile-pagefit/masters/education/mathematics/measurement/segment-midpoint-example-423-draft-v01.svg",
-      "master_sha256": "79176d29579de7661259b3402c995961c953d8797ae2df0e33c7a14b35bc99b4"
+      "master_sha256": "8a4c666f648caef65dea8c797193a0ce02b1b29634ec901887d32d8afdc0330b"
     },
     {
       "concept_id": "edu.astronomical-mercury-symbol-context",
@@ -109114,15 +109756,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/selected-star-patterns/canis-major-constellation-pattern-model.svg",
       "sha256": "69df079f54b08728bff59e0d859a5c9a9d4f3e97f1a043ae40dabdb4a15a205d",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/canis-major-constellation-pattern-model.svg",
-      "master_sha256": "14cb94c89b2d58bf4bce7109fed5f3f36db4bba6f9b157941900afe557b084a4"
+      "master_sha256": "01b70c6da34385715ebd88de1a5e16d518b01efdd8436d9282bf91a3254fc725"
     },
     {
       "concept_id": "edu.canis-major-constellation-pattern-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/astronomy/selected-star-patterns/canis-major-constellation-pattern-model.svg",
-      "sha256": "7061edb07b34a0540b643bdca7865f1f09c39aa6a6c1973c840b932aa9626459",
+      "sha256": "0dbcb51555b038ee413b9748cba3c45bb3c2288de6d68de4533a51318cfdc918",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/canis-major-constellation-pattern-model.svg",
-      "master_sha256": "14cb94c89b2d58bf4bce7109fed5f3f36db4bba6f9b157941900afe557b084a4"
+      "master_sha256": "01b70c6da34385715ebd88de1a5e16d518b01efdd8436d9282bf91a3254fc725"
     },
     {
       "concept_id": "edu.canis-major-constellation-pattern-model",
@@ -109130,7 +109772,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/astronomy/selected-star-patterns/canis-major-constellation-pattern-model.svg",
       "sha256": "340f811b39551fade614e9babfd1373795c7fc97022fc207b9164ef20c3e8a9f",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/canis-major-constellation-pattern-model.svg",
-      "master_sha256": "14cb94c89b2d58bf4bce7109fed5f3f36db4bba6f9b157941900afe557b084a4"
+      "master_sha256": "01b70c6da34385715ebd88de1a5e16d518b01efdd8436d9282bf91a3254fc725"
     },
     {
       "concept_id": "edu.cassiopeia-constellation-pattern-model",
@@ -109138,15 +109780,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/selected-star-patterns/cassiopeia-constellation-pattern-model.svg",
       "sha256": "ff26b94f45e9cb78ba4eaeced7f7570c22a2f676589fcd15493815f2f53a3514",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/cassiopeia-constellation-pattern-model.svg",
-      "master_sha256": "1342bb2440e227125b4f6f6d3e09233e8d33b4050da129ca8144328eddbf2a34"
+      "master_sha256": "da1b0c8b086caffd2d7ceaddfd2a4fdf4e2da3fb0d358d78d63c42b81e3fd4a5"
     },
     {
       "concept_id": "edu.cassiopeia-constellation-pattern-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/astronomy/selected-star-patterns/cassiopeia-constellation-pattern-model.svg",
-      "sha256": "6a69e9dd487481a8a54ed18560ee8e39e0208784038d45f899e0f0bc88508e79",
+      "sha256": "e9b05f22e314e62691c38ec8d8cf543c78ac13854b22139a8d89e2aa07485723",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/cassiopeia-constellation-pattern-model.svg",
-      "master_sha256": "1342bb2440e227125b4f6f6d3e09233e8d33b4050da129ca8144328eddbf2a34"
+      "master_sha256": "da1b0c8b086caffd2d7ceaddfd2a4fdf4e2da3fb0d358d78d63c42b81e3fd4a5"
     },
     {
       "concept_id": "edu.cassiopeia-constellation-pattern-model",
@@ -109154,7 +109796,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/astronomy/selected-star-patterns/cassiopeia-constellation-pattern-model.svg",
       "sha256": "083aced630812b6a754a0b7354c358de8046bb13ee8ef06ff697acef47c78a58",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/cassiopeia-constellation-pattern-model.svg",
-      "master_sha256": "1342bb2440e227125b4f6f6d3e09233e8d33b4050da129ca8144328eddbf2a34"
+      "master_sha256": "da1b0c8b086caffd2d7ceaddfd2a4fdf4e2da3fb0d358d78d63c42b81e3fd4a5"
     },
     {
       "concept_id": "edu.cygnus-constellation-pattern-model",
@@ -109162,15 +109804,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/selected-star-patterns/cygnus-constellation-pattern-model.svg",
       "sha256": "de568c782e3cfdfd8cbef397cc81abbb06829b1721d3ee80fe58f6d791b31fb8",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/cygnus-constellation-pattern-model.svg",
-      "master_sha256": "341051c1fece7b79d66a77bcdf06a320473ca5bbe1c864de6e8c2ce5a8152540"
+      "master_sha256": "0eb75bb5733ff88a8d8d3c36766e8d317abc3a7e61528546b9282eb5ade94238"
     },
     {
       "concept_id": "edu.cygnus-constellation-pattern-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/astronomy/selected-star-patterns/cygnus-constellation-pattern-model.svg",
-      "sha256": "984d68da6435364a8bc93d2b83534275677324b144d3a3149a5345568ecccd5b",
+      "sha256": "a015683d3e13ae8237735ab3ebef7ad2410b4816648d7233b6a4f4cc924a17f4",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/cygnus-constellation-pattern-model.svg",
-      "master_sha256": "341051c1fece7b79d66a77bcdf06a320473ca5bbe1c864de6e8c2ce5a8152540"
+      "master_sha256": "0eb75bb5733ff88a8d8d3c36766e8d317abc3a7e61528546b9282eb5ade94238"
     },
     {
       "concept_id": "edu.cygnus-constellation-pattern-model",
@@ -109178,7 +109820,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/astronomy/selected-star-patterns/cygnus-constellation-pattern-model.svg",
       "sha256": "62811ab8af3ec40bd749715c17bcd951c942887f561e660bfba30d71832a7082",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/cygnus-constellation-pattern-model.svg",
-      "master_sha256": "341051c1fece7b79d66a77bcdf06a320473ca5bbe1c864de6e8c2ce5a8152540"
+      "master_sha256": "0eb75bb5733ff88a8d8d3c36766e8d317abc3a7e61528546b9282eb5ade94238"
     },
     {
       "concept_id": "edu.pegasus-constellation-pattern-model",
@@ -109186,15 +109828,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/selected-star-patterns/pegasus-constellation-pattern-model.svg",
       "sha256": "9630fff17239933b42471e98847ea092ca41746b3a05201187d0e4ca09a7d7f1",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/pegasus-constellation-pattern-model.svg",
-      "master_sha256": "f5620e722c7382526fa18efa557cef15856aeed508999c153409532ded0fafbc"
+      "master_sha256": "ff980f312f9f3fed3f5f462b63bfd7d86fcbeaaf18d9f2c6dd1703c335da38bd"
     },
     {
       "concept_id": "edu.pegasus-constellation-pattern-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/astronomy/selected-star-patterns/pegasus-constellation-pattern-model.svg",
-      "sha256": "465d079e6306cc412b5144ef3d5148625cc51fbe593512afb35ff6591c7176fb",
+      "sha256": "07b11ac2a5c0f65a88cda46bf4b0b0d5fd28b72f9ffc0921d7b0484f0c55cf54",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/pegasus-constellation-pattern-model.svg",
-      "master_sha256": "f5620e722c7382526fa18efa557cef15856aeed508999c153409532ded0fafbc"
+      "master_sha256": "ff980f312f9f3fed3f5f462b63bfd7d86fcbeaaf18d9f2c6dd1703c335da38bd"
     },
     {
       "concept_id": "edu.pegasus-constellation-pattern-model",
@@ -109202,7 +109844,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/astronomy/selected-star-patterns/pegasus-constellation-pattern-model.svg",
       "sha256": "be8db4183cc76b06d5c28a554248e61051ff04a43a85ef3ddd3d7575ffb066b0",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/pegasus-constellation-pattern-model.svg",
-      "master_sha256": "f5620e722c7382526fa18efa557cef15856aeed508999c153409532ded0fafbc"
+      "master_sha256": "ff980f312f9f3fed3f5f462b63bfd7d86fcbeaaf18d9f2c6dd1703c335da38bd"
     },
     {
       "concept_id": "edu.ursa-minor-constellation-pattern-model",
@@ -109210,15 +109852,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/selected-star-patterns/ursa-minor-constellation-pattern-model.svg",
       "sha256": "e2a0e916e6d01cc9623550a4ed2e298320fe9bbe9f1ad8c74dfbadc48484f478",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/ursa-minor-constellation-pattern-model.svg",
-      "master_sha256": "248a24cb4e074583bc1e43c13a1b27465c90384ab5b8f136b1dffca419f39c86"
+      "master_sha256": "ff8b751fdc75df0199dc8a40c0924c3bfc0d4d6f25d39039961d9aac03e6ba06"
     },
     {
       "concept_id": "edu.ursa-minor-constellation-pattern-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/astronomy/selected-star-patterns/ursa-minor-constellation-pattern-model.svg",
-      "sha256": "15dcc43706073fcfa49f2ca4534ceb450780ab4b4b86acf77aaf31bf7f4ad14d",
+      "sha256": "dc648573f95f17ee32b32f8f3f4cf55c750fbc6646c2b6ceb0a38cdef7e7f31e",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/ursa-minor-constellation-pattern-model.svg",
-      "master_sha256": "248a24cb4e074583bc1e43c13a1b27465c90384ab5b8f136b1dffca419f39c86"
+      "master_sha256": "ff8b751fdc75df0199dc8a40c0924c3bfc0d4d6f25d39039961d9aac03e6ba06"
     },
     {
       "concept_id": "edu.ursa-minor-constellation-pattern-model",
@@ -109226,7 +109868,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/astronomy/selected-star-patterns/ursa-minor-constellation-pattern-model.svg",
       "sha256": "42ba2b5357dda7cdc3738459e5fb8e897679a02f6fb08816b5f147607a9a3b88",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/ursa-minor-constellation-pattern-model.svg",
-      "master_sha256": "248a24cb4e074583bc1e43c13a1b27465c90384ab5b8f136b1dffca419f39c86"
+      "master_sha256": "ff8b751fdc75df0199dc8a40c0924c3bfc0d4d6f25d39039961d9aac03e6ba06"
     },
     {
       "concept_id": "edu.andromeda-constellation-pattern-model",
@@ -109234,15 +109876,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/selected-star-patterns/andromeda-constellation-pattern-model.svg",
       "sha256": "c7b1cd7d656ccb8cc5104d9535e61d1a5ef7facbe8963cbaa2daaff6254e1ca9",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/andromeda-constellation-pattern-model.svg",
-      "master_sha256": "93bdafd6abdd5aef812e4f2026cdd2bb45ddfa1f3ad566de31b3135735afbd8e"
+      "master_sha256": "13627df75dc665cd7c3676ade3fd69b28e296aa57b78104e905e522c2181f486"
     },
     {
       "concept_id": "edu.andromeda-constellation-pattern-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/astronomy/selected-star-patterns/andromeda-constellation-pattern-model.svg",
-      "sha256": "804cb0ddcce96bac148fd66d3e055bfd0722d072b829280619c882629de0ebde",
+      "sha256": "aca14eab90669386cf5b4fc5dc9c9b814ac2ca0b51ea53723a387141991aa2f7",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/andromeda-constellation-pattern-model.svg",
-      "master_sha256": "93bdafd6abdd5aef812e4f2026cdd2bb45ddfa1f3ad566de31b3135735afbd8e"
+      "master_sha256": "13627df75dc665cd7c3676ade3fd69b28e296aa57b78104e905e522c2181f486"
     },
     {
       "concept_id": "edu.andromeda-constellation-pattern-model",
@@ -109250,7 +109892,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/astronomy/selected-star-patterns/andromeda-constellation-pattern-model.svg",
       "sha256": "8bebcfe50929dba0cae997b6fdcf24e7fd4d2b271c94fcdf079dfc08b94325ba",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/andromeda-constellation-pattern-model.svg",
-      "master_sha256": "93bdafd6abdd5aef812e4f2026cdd2bb45ddfa1f3ad566de31b3135735afbd8e"
+      "master_sha256": "13627df75dc665cd7c3676ade3fd69b28e296aa57b78104e905e522c2181f486"
     },
     {
       "concept_id": "edu.draco-constellation-pattern-model",
@@ -109258,15 +109900,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/astronomy/selected-star-patterns/draco-constellation-pattern-model.svg",
       "sha256": "556747867883379259899e6f8ce0190aae01a1dc5921c4edcec56fa501a1780d",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/draco-constellation-pattern-model.svg",
-      "master_sha256": "bd86bbe8c5e09e99b667b03a41af4ce454a25ccfbe2cc74570fd502809749a4e"
+      "master_sha256": "9bdc7f7d41624808d2852f3fe3d7dd011c9cdf9eaf51f7fcd6dd96cd97b56707"
     },
     {
       "concept_id": "edu.draco-constellation-pattern-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/astronomy/selected-star-patterns/draco-constellation-pattern-model.svg",
-      "sha256": "b2fc4b9e8fc556eff952367e674f5857612dace775dfdedf5200d2f07db87afe",
+      "sha256": "69c4c40e50b491fecd70b1d843f8e9e4444a15a827e937bafc4b7f20f554b744",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/draco-constellation-pattern-model.svg",
-      "master_sha256": "bd86bbe8c5e09e99b667b03a41af4ce454a25ccfbe2cc74570fd502809749a4e"
+      "master_sha256": "9bdc7f7d41624808d2852f3fe3d7dd011c9cdf9eaf51f7fcd6dd96cd97b56707"
     },
     {
       "concept_id": "edu.draco-constellation-pattern-model",
@@ -109274,7 +109916,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/astronomy/selected-star-patterns/draco-constellation-pattern-model.svg",
       "sha256": "8a861737cfdc57bfd1d32c5682960f14e8e62d62c321e0bb186f4bc620f8d5e8",
       "master_path": "tactile-pagefit/masters/education/astronomy/selected-star-patterns/draco-constellation-pattern-model.svg",
-      "master_sha256": "bd86bbe8c5e09e99b667b03a41af4ce454a25ccfbe2cc74570fd502809749a4e"
+      "master_sha256": "9bdc7f7d41624808d2852f3fe3d7dd011c9cdf9eaf51f7fcd6dd96cd97b56707"
     },
     {
       "concept_id": "edu.andromeda-constellation-pattern-model",
@@ -110562,15 +111204,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/music/duration-contexts/music-thirty-second-duration-context.svg",
       "sha256": "607ce47fc9366109d12766812bcc189c940535fab2ddba553a9433f5085a1e35",
       "master_path": "tactile-pagefit/masters/education/music/duration-contexts/music-thirty-second-duration-context.svg",
-      "master_sha256": "e52c36bb430fc3a1c073a6d92cb77d7fbea7e9a3d5bdbafd627d5a1aef3ca924"
+      "master_sha256": "7165e336d7f54aeb1695fd4ce3bbe04392be02767066dd3000c9240c7394300b"
     },
     {
       "concept_id": "edu.music-thirty-second-duration-context",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/music/duration-contexts/music-thirty-second-duration-context.svg",
-      "sha256": "68618c649aa6870e9c75830b8255da689af540c5d37c013f8853da276a457764",
+      "sha256": "f91c5828c80558f8260024688ce5f16c6f2f5f4f869d5a95c9ed7b14356a375c",
       "master_path": "tactile-pagefit/masters/education/music/duration-contexts/music-thirty-second-duration-context.svg",
-      "master_sha256": "e52c36bb430fc3a1c073a6d92cb77d7fbea7e9a3d5bdbafd627d5a1aef3ca924"
+      "master_sha256": "7165e336d7f54aeb1695fd4ce3bbe04392be02767066dd3000c9240c7394300b"
     },
     {
       "concept_id": "edu.music-thirty-second-duration-context",
@@ -110578,7 +111220,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/music/duration-contexts/music-thirty-second-duration-context.svg",
       "sha256": "803bef28e373e44585bc77e89aa866bff44251b7053f419065c9c74b9a55d3d0",
       "master_path": "tactile-pagefit/masters/education/music/duration-contexts/music-thirty-second-duration-context.svg",
-      "master_sha256": "e52c36bb430fc3a1c073a6d92cb77d7fbea7e9a3d5bdbafd627d5a1aef3ca924"
+      "master_sha256": "7165e336d7f54aeb1695fd4ce3bbe04392be02767066dd3000c9240c7394300b"
     },
     {
       "concept_id": "edu.music-whole-duration-context",
@@ -124002,15 +124644,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/earth-science/oceanic-divergent-boundary-ridge-444-draft-v01.svg",
       "sha256": "057fb8fee5fbbc04285d1b3016dcb805f031ad1dd6f60259fdc79692698e80d7",
       "master_path": "tactile-pagefit/masters/education/earth-science/oceanic-divergent-boundary-ridge-444-draft-v01.svg",
-      "master_sha256": "87d84ce5793d824cadeb5aab95e9822f878b1c5eea1105d4ce926404bfcac143"
+      "master_sha256": "bd1aba0bd598b41e8762a08a9a5524ee1a261ba4bc6d3736135decd0064d019a"
     },
     {
       "concept_id": "edu.oceanic-divergent-boundary-ridge",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/earth-science/oceanic-divergent-boundary-ridge-444-draft-v01.svg",
-      "sha256": "5ee681af0fe72f5202b7649411e376dd0ae51c21f5b62450551c62fb9541b61b",
+      "sha256": "7b37be9741ae95c547c1402718f07fa0cc2930911d9f14c9e7ce795845926dd6",
       "master_path": "tactile-pagefit/masters/education/earth-science/oceanic-divergent-boundary-ridge-444-draft-v01.svg",
-      "master_sha256": "87d84ce5793d824cadeb5aab95e9822f878b1c5eea1105d4ce926404bfcac143"
+      "master_sha256": "bd1aba0bd598b41e8762a08a9a5524ee1a261ba4bc6d3736135decd0064d019a"
     },
     {
       "concept_id": "edu.oceanic-divergent-boundary-ridge",
@@ -124018,7 +124660,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/earth-science/oceanic-divergent-boundary-ridge-444-draft-v01.svg",
       "sha256": "00ec13d6f21e20cf7af77e19b9906fcbe4463d8983a9c647a8e32bdd5184c88c",
       "master_path": "tactile-pagefit/masters/education/earth-science/oceanic-divergent-boundary-ridge-444-draft-v01.svg",
-      "master_sha256": "87d84ce5793d824cadeb5aab95e9822f878b1c5eea1105d4ce926404bfcac143"
+      "master_sha256": "bd1aba0bd598b41e8762a08a9a5524ee1a261ba4bc6d3736135decd0064d019a"
     },
     {
       "concept_id": "edu.oceanic-divergent-boundary-ridge",
@@ -125026,15 +125668,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
       "sha256": "77b770d6855560cafdd153ed46b759040a38b59ee85da15d4a569dd713d1393a",
       "master_path": "tactile-pagefit/masters/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
-      "master_sha256": "bb8ae46fefceda119d8acb10c141dfa1ce2c43844dd7ff100be894c7b67933b3"
+      "master_sha256": "a402f13dd823aaae619ec9a689714bde22390586a206160dadf51b439ef33634"
     },
     {
       "concept_id": "edu.four-mammal-forelimb-homology-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
-      "sha256": "dcfeb9a153010157211800f7f678073c6cd8c38843c1f2e01c3b353ce7d53817",
+      "sha256": "734495b7451fdc513f6eda36408c25ec7a5d4f0f10bba26260bc9230a117fe57",
       "master_path": "tactile-pagefit/masters/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
-      "master_sha256": "bb8ae46fefceda119d8acb10c141dfa1ce2c43844dd7ff100be894c7b67933b3"
+      "master_sha256": "a402f13dd823aaae619ec9a689714bde22390586a206160dadf51b439ef33634"
     },
     {
       "concept_id": "edu.four-mammal-forelimb-homology-model",
@@ -125042,7 +125684,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
       "sha256": "4ad7b79b46893c9de2c62117a022adac05b7f489409b6f6f4e9b826a6e0878f0",
       "master_path": "tactile-pagefit/masters/education/anatomy/comparative-forelimbs/four-mammal-forelimb-homology-model.svg",
-      "master_sha256": "bb8ae46fefceda119d8acb10c141dfa1ce2c43844dd7ff100be894c7b67933b3"
+      "master_sha256": "a402f13dd823aaae619ec9a689714bde22390586a206160dadf51b439ef33634"
     },
     {
       "concept_id": "edu.igg-antibody-binding-plan",
@@ -127434,15 +128076,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
       "sha256": "086d5b90619e895d1332800eb6832fc60d81237b4274ebf623df8a3c06929a6e",
       "master_path": "tactile-pagefit/masters/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
-      "master_sha256": "ee1f2d7cf26bd68c232b965e0900fb2a366cb86bb8cdd8c30f908d11f822be99"
+      "master_sha256": "37679f45a5db2961fc6aaf94199444eff56f41d2ac9e760e3366140c44143507"
     },
     {
       "concept_id": "edu.utah-thematic-map-programme-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
-      "sha256": "f72486db4d4c05848752b07cf3a5f478747b973f35e6ea008ad0ede1d608354f",
+      "sha256": "a1bfe85490e9ccde54a43d1de28d705f4b947fd0d005ea1657a4939f3e025748",
       "master_path": "tactile-pagefit/masters/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
-      "master_sha256": "ee1f2d7cf26bd68c232b965e0900fb2a366cb86bb8cdd8c30f908d11f822be99"
+      "master_sha256": "37679f45a5db2961fc6aaf94199444eff56f41d2ac9e760e3366140c44143507"
     },
     {
       "concept_id": "edu.utah-thematic-map-programme-model",
@@ -127450,7 +128092,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
       "sha256": "eab4536de4d9fd0e74c1672c3389a3ceb47f938d9b035d2b7037366a2736b9e3",
       "master_path": "tactile-pagefit/masters/education/history/geography/utah-thematic-map-programme-model-451-draft-v02.svg",
-      "master_sha256": "ee1f2d7cf26bd68c232b965e0900fb2a366cb86bb8cdd8c30f908d11f822be99"
+      "master_sha256": "37679f45a5db2961fc6aaf94199444eff56f41d2ac9e760e3366140c44143507"
     },
     {
       "concept_id": "edu.snow-formation-process-context-model",
@@ -128002,15 +128644,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/electricity/dc-circuit-measurement-topology-model.svg",
       "sha256": "46758e776e05878ebc089121c9b70ea387e3e7057d420da267dd0bc9b7663b29",
       "master_path": "tactile-pagefit/masters/education/science/electricity/dc-circuit-measurement-topology-model.svg",
-      "master_sha256": "97aae251de2632f6801a710c7716190a9d3df7e00705061fa8f13b5e67c6781e"
+      "master_sha256": "405927f29c54ddf39fa735b91de662c461c045d630199cc9221a038ea4b50c73"
     },
     {
       "concept_id": "edu.dc-circuit-measurement-topology-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/electricity/dc-circuit-measurement-topology-model.svg",
-      "sha256": "9084bb3c8460d5d9746ae1136516ecba56d2ef467038cbfb2255b20a3bd438a6",
+      "sha256": "e0ff9c22a7ca18e1ba5106e80afb76e3f9e43eb0b1081438d5863c1df3d9398e",
       "master_path": "tactile-pagefit/masters/education/science/electricity/dc-circuit-measurement-topology-model.svg",
-      "master_sha256": "97aae251de2632f6801a710c7716190a9d3df7e00705061fa8f13b5e67c6781e"
+      "master_sha256": "405927f29c54ddf39fa735b91de662c461c045d630199cc9221a038ea4b50c73"
     },
     {
       "concept_id": "edu.dc-circuit-measurement-topology-model",
@@ -128018,7 +128660,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/electricity/dc-circuit-measurement-topology-model.svg",
       "sha256": "e8ffdafc7c16010f719c4863d1f1cb0c04ee4a23090b6cc9c49710f88d9ea360",
       "master_path": "tactile-pagefit/masters/education/science/electricity/dc-circuit-measurement-topology-model.svg",
-      "master_sha256": "97aae251de2632f6801a710c7716190a9d3df7e00705061fa8f13b5e67c6781e"
+      "master_sha256": "405927f29c54ddf39fa735b91de662c461c045d630199cc9221a038ea4b50c73"
     },
     {
       "concept_id": "edu.magnus-spinning-body-flow-model",
@@ -128138,15 +128780,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/science/plant-life-cycles/fern-alternation-of-generations-model-v02.svg",
       "sha256": "4f81ed61c52130a00f7e3cffb1e963ec6789d862a55fb492fd3ec6840bc6580f",
       "master_path": "tactile-pagefit/masters/education/science/plant-life-cycles/fern-alternation-of-generations-model-v02.svg",
-      "master_sha256": "25c87c1004214fd8919bd2080d023b56fe65f793305d250b3ecf5dff66d68921"
+      "master_sha256": "ae670546cd82895d608067e7a873ec56caff2162279b88b5d0e9e9b35acaeb17"
     },
     {
       "concept_id": "edu.fern-alternation-of-generations-model",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/science/plant-life-cycles/fern-alternation-of-generations-model-v02.svg",
-      "sha256": "5839009786d41bdd3b040308a6a08a6920a5a3f7f4d8afc8a89afa571fdd7c29",
+      "sha256": "22fe8a88e169aaea04668de64fa1989070f585d0bfdcf3f087e0681dadfc3bc7",
       "master_path": "tactile-pagefit/masters/education/science/plant-life-cycles/fern-alternation-of-generations-model-v02.svg",
-      "master_sha256": "25c87c1004214fd8919bd2080d023b56fe65f793305d250b3ecf5dff66d68921"
+      "master_sha256": "ae670546cd82895d608067e7a873ec56caff2162279b88b5d0e9e9b35acaeb17"
     },
     {
       "concept_id": "edu.fern-alternation-of-generations-model",
@@ -128154,7 +128796,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/science/plant-life-cycles/fern-alternation-of-generations-model-v02.svg",
       "sha256": "2620a1e5c49dabb067af33af7442576f8d8489177bf35c9265c4b97bec8c4989",
       "master_path": "tactile-pagefit/masters/education/science/plant-life-cycles/fern-alternation-of-generations-model-v02.svg",
-      "master_sha256": "25c87c1004214fd8919bd2080d023b56fe65f793305d250b3ecf5dff66d68921"
+      "master_sha256": "ae670546cd82895d608067e7a873ec56caff2162279b88b5d0e9e9b35acaeb17"
     },
     {
       "concept_id": "edu.fern-alternation-of-generations-model",
@@ -128306,15 +128948,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
       "sha256": "14e9d7a5e5cd1dbdbc4a7f33c10e202bb8032363151db8a25277be1222cc4faf",
       "master_path": "tactile-pagefit/masters/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
-      "master_sha256": "c63c109f6fe602b7d1fd008273d516220dac218896c879b28e9e175a6d77ad81"
+      "master_sha256": "0f4b77897addf72b2caecd3813c253f82a11c43d662a82716856f3cc1a1623fc"
     },
     {
       "concept_id": "edu.carnivore-herbivore-dentition-comparison",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
-      "sha256": "ecc09cd3297e2638c7291926f1087e7b0aff58dca1872c5fa15dec1d75193c67",
+      "sha256": "273373bfc27f0dd69633eeed120e9a0f55376018c4234946bf8b111f02219f6d",
       "master_path": "tactile-pagefit/masters/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
-      "master_sha256": "c63c109f6fe602b7d1fd008273d516220dac218896c879b28e9e175a6d77ad81"
+      "master_sha256": "0f4b77897addf72b2caecd3813c253f82a11c43d662a82716856f3cc1a1623fc"
     },
     {
       "concept_id": "edu.carnivore-herbivore-dentition-comparison",
@@ -128322,7 +128964,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
       "sha256": "650579f9baa2ec5992e4d8015bddbab5500b5fa1f78bc3fbe25441711bb0820a",
       "master_path": "tactile-pagefit/masters/education/anatomy/dentition/carnivore-herbivore-dentition-comparison.svg",
-      "master_sha256": "c63c109f6fe602b7d1fd008273d516220dac218896c879b28e9e175a6d77ad81"
+      "master_sha256": "0f4b77897addf72b2caecd3813c253f82a11c43d662a82716856f3cc1a1623fc"
     },
     {
       "concept_id": "edu.vitruvian-two-pose-proportion-context",
@@ -128330,15 +128972,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
       "sha256": "8944144fbe320fe816a828da7e3a9ffb923220609b01b161f9db4219a9385579",
       "master_path": "tactile-pagefit/masters/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
-      "master_sha256": "f8645e64869002e8cb4a83982f32450227c5fdf5e2dada9246531ab90aa3b446"
+      "master_sha256": "cc95a72c800f48413f06adf8d28fa0acc3f3efbe600c57f3c560934d3efeef7f"
     },
     {
       "concept_id": "edu.vitruvian-two-pose-proportion-context",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
-      "sha256": "cae83db9d986d6f7e6ad6bbc9fd57b67782b3db739aca83778a9afcb4047417f",
+      "sha256": "60ee916776ccf4dd19009dbfb2dad192886e34eb1cd5331da44b2900dd4043de",
       "master_path": "tactile-pagefit/masters/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
-      "master_sha256": "f8645e64869002e8cb4a83982f32450227c5fdf5e2dada9246531ab90aa3b446"
+      "master_sha256": "cc95a72c800f48413f06adf8d28fa0acc3f3efbe600c57f3c560934d3efeef7f"
     },
     {
       "concept_id": "edu.vitruvian-two-pose-proportion-context",
@@ -128346,7 +128988,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
       "sha256": "ac67a09de740e0f8baedb84687d2c4aa17e15a4b01fc398e5b2806ef4fe5cc54",
       "master_path": "tactile-pagefit/masters/education/art/body-and-geometry/vitruvian-two-pose-proportion-context.svg",
-      "master_sha256": "f8645e64869002e8cb4a83982f32450227c5fdf5e2dada9246531ab90aa3b446"
+      "master_sha256": "cc95a72c800f48413f06adf8d28fa0acc3f3efbe600c57f3c560934d3efeef7f"
     },
     {
       "concept_id": "edu.maltose-alpha14-linkage-model",
@@ -128378,15 +129020,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/history/exploration/vasco-da-gama-route-map.svg",
       "sha256": "41709a254f21ab08c1d244984c1e3283ad93eb43b8aa0f7b036f4496fb12ea79",
       "master_path": "tactile-pagefit/masters/education/history/exploration/vasco-da-gama-route-map.svg",
-      "master_sha256": "c958461c2885077993d5a1094a09efa2f504ef6e30ed5ab6b93a0049c6af3247"
+      "master_sha256": "16f1db86321af7541fe8c8a23ad972c58e605ac64c4c26debdeeb52e65c3b327"
     },
     {
       "concept_id": "edu.vasco-da-gama-route-map",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/history/exploration/vasco-da-gama-route-map.svg",
-      "sha256": "7ab26d156c494284cba641844fd709df090a7f7448c775b232672e5caa432500",
+      "sha256": "fbfa95089c54ec289b24616793e13f8ad0d4f134a157c0503555c53ff02bc0e7",
       "master_path": "tactile-pagefit/masters/education/history/exploration/vasco-da-gama-route-map.svg",
-      "master_sha256": "c958461c2885077993d5a1094a09efa2f504ef6e30ed5ab6b93a0049c6af3247"
+      "master_sha256": "16f1db86321af7541fe8c8a23ad972c58e605ac64c4c26debdeeb52e65c3b327"
     },
     {
       "concept_id": "edu.vasco-da-gama-route-map",
@@ -128394,7 +129036,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/history/exploration/vasco-da-gama-route-map.svg",
       "sha256": "5bff2ec7950077d3fb60e6fca70590e4a8679e9882704777824f49f95b1dfa16",
       "master_path": "tactile-pagefit/masters/education/history/exploration/vasco-da-gama-route-map.svg",
-      "master_sha256": "c958461c2885077993d5a1094a09efa2f504ef6e30ed5ab6b93a0049c6af3247"
+      "master_sha256": "16f1db86321af7541fe8c8a23ad972c58e605ac64c4c26debdeeb52e65c3b327"
     },
     {
       "concept_id": "edu.proton-proton-I-chain-context",
@@ -128402,15 +129044,15 @@
       "source_path": "tactile-pagefit/exports/swell-paper-v1/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
       "sha256": "3b876fae725c1da4cafb7f6b34eea2dd7b11445f438cb10937313bdd3a4e8832",
       "master_path": "tactile-pagefit/masters/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
-      "master_sha256": "d47197a11b24fc53b36d8c5ba199c04fcbc87d496290e8a7fb884c0e9f381893"
+      "master_sha256": "3490a89d4f46d189a8257941d6ca21052fa2519b6710a1d885f06263ecfa6b37"
     },
     {
       "concept_id": "edu.proton-proton-I-chain-context",
       "profile": "index-embossed-v1",
       "source_path": "tactile-pagefit/exports/index-embossed-v1/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
-      "sha256": "93d4cc5cfd49e036e8805c6958caf66dcc494a5c00c89e6511e5634dbac164a2",
+      "sha256": "80a17d9f2c24241e56ce67673e0dacbbc36d798101b695a5a8b0babb0c7b66ac",
       "master_path": "tactile-pagefit/masters/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
-      "master_sha256": "d47197a11b24fc53b36d8c5ba199c04fcbc87d496290e8a7fb884c0e9f381893"
+      "master_sha256": "3490a89d4f46d189a8257941d6ca21052fa2519b6710a1d885f06263ecfa6b37"
     },
     {
       "concept_id": "edu.proton-proton-I-chain-context",
@@ -128418,7 +129060,7 @@
       "source_path": "tactile-pagefit/exports/viewplus-variable-height-v1/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
       "sha256": "ecd6d2cc2b188677e6eb76474bff0029e834212d99d4f86ab0fa4d7b7263ccec",
       "master_path": "tactile-pagefit/masters/education/physics/nuclear-reactions/proton-proton-i-chain-context.svg",
-      "master_sha256": "d47197a11b24fc53b36d8c5ba199c04fcbc87d496290e8a7fb884c0e9f381893"
+      "master_sha256": "3490a89d4f46d189a8257941d6ca21052fa2519b6710a1d885f06263ecfa6b37"
     }
   ],
   "page_fit_collection_status": "complete-with-documented-exceptions",
